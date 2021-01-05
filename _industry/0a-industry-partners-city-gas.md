@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: City Gas
   image: /images/partners/large/city_gas_large.jpg
-  url: http://www.citygas.com.sg
+  url: https://www.citygas.com.sg
 ---
 City Gas is Singapore’s premium town gas and natural gas utilities provider, producing and delivering piped gas to residential, commercial and industrial customers island-wide.
 

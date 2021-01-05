@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: Singapore LNG Corporation
   image: /images/partners/large/singapore_lng_corporation_large.jpg
-  url: http://www.slng.com.sg/
+  url: https://www.slng.com.sg/
 ---
 Singapore LNG Corporation (SLNG) was incorporated in June 2009 to develop, build, own and operate Singapore’s very first open-access, multi-user Liquefied Natural Gas (LNG) terminal, a key national infrastructure that supports Singapore’s diversification strategy to enhance energy security and future economic development in the energy sector.
 

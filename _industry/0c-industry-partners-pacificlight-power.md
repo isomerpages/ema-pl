@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: PacificLight Power
   image: /images/partners/large/pacific_light_large.jpg
-  url: http://www.pacificlight.com.sg/
+  url: https://www.pacificlight.com.sg/
 ---
 PacificLight Power is a Singapore-based integrated energy company that strives to be a one-stop energy partner for businesses. The company is an investment by two international corporations – FPM Power (Singapore) Ltd (HK) and PETRONAS International Corporation (Mauritius) Ltd.
 

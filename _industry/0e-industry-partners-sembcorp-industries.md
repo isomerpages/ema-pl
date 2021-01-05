@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: Sembcorp Industries
   image: /images/partners/large/sembcorp_large.jpg
-  url: http://www.sembcorp.com
+  url: https://www.sembcorp.com
 ---
 Sembcorp Industries is a leading energy, water and marine group operating across five continents. With facilities of over 10,000 megawatts of gross power capacity and over nine million cubic metres of water per day in operation and under development, Sembcorp is a trusted provider of essential energy and water solutions to both industries and households.
 

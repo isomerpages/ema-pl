@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: Tuas Power
   image: /images/partners/large/tuas_power_generation_large.jpg
-  url: http://www.tuaspower.com.sg
+  url: https://www.tuaspower.com.sg
 ---
 Tuas Power is a key provider of energy solutions and multi-utilities in Singapore. The company is a member of China Huaneng Group, one of the largest and most forward looking power producers in China and the world.
 

@@ -6,7 +6,7 @@ third_nav_title: Industry Partners
 partner:
   name: YTL PowerSeraya
   image: /images/partners/large/ytl_power_seraya_large.jpg
-  url: http://www.ytlpowerseraya.com
+  url: https://www.ytlpowerseraya.com
 ---
 The YTL PowerSeraya Group, a wholly owned subsidiary of YTL Power International Berhad, is an integrated energy company that provides multi-utility services such as electricity, steam, water, and natural gas.
 
