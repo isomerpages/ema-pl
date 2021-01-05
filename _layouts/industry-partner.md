@@ -14,4 +14,7 @@ layout: page
 | [![Senoko Energy](/images/partners/senoko_new.jpg)](http://www.senokoenergy.com/) | [![Sembcorp Industries](/images/partners/sembcorp.jpg)](http://www.sembcorp.com/) | [![Singapore Power](/images/partners/singapore_power.png)](https://www.spgroup.com.sg/) |
 | [![Singapore LNG Corporation](/images/partners/singapore_lng_corporation.jpg)](http://www.slng.com.sg/) | [![Tuas Power](/images/partners/tuas_power.jpg)](http://www.tuaspower.com.sg/) | [![YTL PowerSeraya](/images/partners/ytl_power_seraya.jpg)](http://www.ytlpowerseraya.com/) |
 
-testvar={{testvar}}
+
+testvar={{testvar}}  
+page.testvar={{page.testvar}}  
+
