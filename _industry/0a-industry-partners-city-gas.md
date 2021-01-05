@@ -1,4 +1,5 @@
 ---
+layout: industry-partner
 permalink: /industry/industry-partners/city-gas
 third_nav_title: Industry Partners
 partner:
