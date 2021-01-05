@@ -3,6 +3,7 @@ title: City Gas
 layout: industry-partner
 permalink: /industry/industry-partners/city-gas
 third_nav_title: Industry Partners
+testvar: hello world
 partner:
   name: City Gas
   image: /images/partners/large/city_gas_large.jpg
