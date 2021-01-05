@@ -1,0 +1,12 @@
+---
+title: page.title
+layout: "page"
+---
+
+<img src="{{ page.partner.image }}" alt="{{ page.partner.name }}" style="width: 450px; height: 312px;" />
+
+{{ content }}
+
+[{{ page.partner.url }}]({{ page.partner.url }})
+
+{% include partner-grid.md %}
