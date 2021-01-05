@@ -14,7 +14,7 @@ With an extensive 2,600-kilometre network of underground piping, City Gas suppli
 
 [http://www.citygas.com.sg/](http://www.citygas.com.sg/) 
 
-{:style="border: none;"}
+{:.no-border}
 |---|---|---|
 | [![City Gas](/images/partners/City_Gas.jpg)](http://www.citygas.com.sg/) | [![Keppel Infrastructure](/images/partners/keppel_infrastructure.jpg)](http://www.kepinfra.com/) | [![PacificLight Power](/images/partners/pacific_light.jpg)](http://www.pacificlight.com.sg/) |
 | [![Senoko Energy](/images/partners/senoko_new.jpg)](http://www.senokoenergy.com/) | [![Sembcorp Industries](/images/partners/sembcorp.jpg)](http://www.sembcorp.com/) | [![Singapore Power](/images/partners/singapore_power.png)](https://www.spgroup.com.sg/) |
