@@ -23,15 +23,4 @@ links:
     collection: programmes
   - title: Resources
     resource_room: true
-  - title: IndParTest
-    url: /industry/industry-partners/city-gas
-    sublinks:
-      - title: Industry Partners2
-        url: /industry/industry-partners/city-gas
-      - title: Power Sector Value Chain2
-        url: /industry-test/test1
-        sublinks:
-        - title: Subitem 1
-          url: /some-page-a/
-        - title: Subitem 2
-          url: /some-page-b/
+  
