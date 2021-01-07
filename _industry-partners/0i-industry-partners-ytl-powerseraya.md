@@ -2,7 +2,6 @@
 title: YTL PowerSeraya
 layout: industry-partner
 permalink: /industry/industry-partners/ytl-powerseraya
-third_nav_title: Industry Partners
 partner:
   name: YTL PowerSeraya
   image: /images/partners/large/ytl_power_seraya_large.jpg

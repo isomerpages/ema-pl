@@ -2,7 +2,6 @@
 title: Senoko Energy
 layout: industry-partner
 permalink: /industry/industry-partners/senoko-energy
-third_nav_title: Industry Partners
 partner:
   name: Senoko Energy
   image: /images/partners/large/senoko_large.jpg

@@ -2,7 +2,6 @@
 title: Singapore Power
 layout: industry-partner
 permalink: /industry/industry-partners/singapore-power
-third_nav_title: Industry Partners
 partner:
   name: Singapore Power
   image: /images/partners/large/singapore_power_large.jpg

@@ -2,7 +2,6 @@
 title: Sembcorp Industries
 layout: industry-partner
 permalink: /industry/industry-partners/sembcorp-industries
-third_nav_title: Industry Partners
 partner:
   name: Sembcorp Industries
   image: /images/partners/large/sembcorp_large.jpg

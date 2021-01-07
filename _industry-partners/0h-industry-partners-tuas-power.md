@@ -2,7 +2,6 @@
 title: Tuas Power
 layout: industry-partner
 permalink: /industry/industry-partners/tuas-power
-third_nav_title: Industry Partners
 partner:
   name: Tuas Power
   image: /images/partners/large/tuas_power_generation_large.jpg

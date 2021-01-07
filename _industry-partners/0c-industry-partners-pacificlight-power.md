@@ -2,7 +2,6 @@
 title: PacificLight Power
 layout: industry-partner
 permalink: /industry/industry-partners/pacificlight-power
-third_nav_title: Industry Partners
 partner:
   name: PacificLight Power
   image: /images/partners/large/pacific_light_large.jpg

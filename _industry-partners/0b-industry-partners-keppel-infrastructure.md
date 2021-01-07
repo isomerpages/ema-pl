@@ -2,7 +2,6 @@
 title: Keppel Infrastructure
 layout: industry-partner
 permalink: /industry/industry-partners/keppel-infrastructure
-third_nav_title: Industry Partners
 partner:
   name: Keppel Infrastructure
   image: /images/partners/large/keppel_infrastructure_large.jpg
