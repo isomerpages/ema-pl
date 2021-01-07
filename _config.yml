@@ -28,6 +28,8 @@ collections:
     output: true
   programmes:
     output: true
+  industry-test:
+    output: true;
 resources_name: resources
 
 description: An Isomer site of the Singapore Government
