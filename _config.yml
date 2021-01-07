@@ -22,7 +22,9 @@ colors:
 collections:
   scholarships:
     output: true
-  industry:
+  industry-partners:
+    output: true
+  power-sector-value-chain:
     output: true
   careers:
     output: true
