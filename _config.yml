@@ -20,16 +20,16 @@ colors:
 
 
 collections:
-  scholarships:
-    output: true
-  industry-partners:
-    output: true
-  power-sector-value-chain:
-    output: true
-  careers:
-    output: true
-  programmes:
-    output: true
+    scholarships:
+      output: true
+    industry-partners:
+      output: true
+    power-sector-value-chain:
+      output: true
+    careers:
+      output: true
+    programmes:
+      output: true
 resources_name: resources
 
 description: An Isomer site of the Singapore Government
