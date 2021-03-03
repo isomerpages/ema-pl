@@ -2,10 +2,6 @@
 title: Keppel Infrastructure
 layout: industry-partner
 permalink: /industry/industry-partners/keppel-infrastructure
-partner:
-  name: Keppel Infrastructure
-  image: /images/partners/large/keppel_infrastructure_large.jpg
-  url: http://www.kepinfra.com/
 ---
 TEST 2021-01-18 17:26
 TEST 2021-01-20 10:55
