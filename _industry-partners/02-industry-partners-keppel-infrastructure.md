@@ -9,6 +9,7 @@ TEST 2021-02-03 10:25
 TEST 2021-02-03 11:15
 TEST 2021-03-02 17:17 21
 
+
 Keppel Infrastructure, tapping the expertise and technology of its engineering business, will grow its integrated power and gas business, as well as its environmental and energy efficiency businesses.
 
 In Gas to Power, we have a track record of developing, owning and operating power plants in Brazil, China, the Philippines and Nicaragua. In Singapore, we operate a 1,300 MV gas fired combined cycle power plant on Jurong Island. 
