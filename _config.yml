@@ -26,6 +26,8 @@ collections:
       output: true
     industry-partners:
       output: true
+    public-service:
+      output: true      
     power-sector-value-chain:
       output: true
     careers:
