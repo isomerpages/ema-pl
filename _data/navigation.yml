@@ -10,18 +10,17 @@ links:
   - title: About
     collection: about
   - title: Careers
-    collection: careers
+    sublinks:
+      - title: Skills Framework for Energy and Power
+        url: /careers/sfwep
+      - title: Industry Partners
+        url: /industry/industry-partners/city-gas
+      - title: Public Service
+        url: /careers/power-engineering-professionals
   - title: Scholarships
     collection: scholarships
   - title: Programmes
     collection: programmes
-  - title: Industry
-    url: /industry/industry-partners/city-gas
-    sublinks:
-      - title: Industry Partners
-        url: /industry/industry-partners/city-gas
-      - title: Power Sector Value Chain
-        url: /industry/power-sector-value-chain/electricity
   - title: Resources
     resource_room: true
   - title: Contact Us
