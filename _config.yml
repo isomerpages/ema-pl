@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+    about:
+      output: true    
     scholarships:
       output: true
     industry-partners:
