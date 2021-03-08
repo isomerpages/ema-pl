@@ -1,14 +1,10 @@
 ---
 title: Keppel Infrastructure
-layout: industry-partner
-permalink: /industry/industry-partners/keppel-infrastructure
+permalink: /careers/industry-partners/keppel-infrastructure
 ---
-TEST 2021-01-18 17:26
-TEST 2021-01-20 10:55
-TEST 2021-02-03 10:25
-TEST 2021-02-03 11:15
-TEST 2021-03-02 17:17 21
+<img src="/images/partners/large/keppel_infrastructure_large.jpg" alt="Keppel Infrastructure" style="width: 450px; height: 312px;" /><br/>
 
+<a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="width: 250px; height: 120px;"></a>
 
 Keppel Infrastructure, tapping the expertise and technology of its engineering business, will grow its integrated power and gas business, as well as its environmental and energy efficiency businesses.
 
