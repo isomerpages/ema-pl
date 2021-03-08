@@ -2,6 +2,7 @@
 title: City Gas
 permalink: /careers/industry-partners/city-gas
 ---
+<img src="/images/partners/large/city_gas_large.jpg" alt="City Gas" style="width: 450px; height: 312px;" /><br/>
 
 [![](/images/partners/City_Gas.jpg)](https://www.citygas.com.sg/)
 
