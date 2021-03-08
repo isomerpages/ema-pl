@@ -1,6 +1,6 @@
 ---
 title: City Gas
-permalink: /industry/industry-partners/city-gas
+permalink: /careers/industry-partners/city-gas
 ---
 <img src="/images/partners/large/city_gas_large.jpg" alt="City Gas" style="width: 450px; height: 312px;" /><br/>
 Test
