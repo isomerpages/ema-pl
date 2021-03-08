@@ -18,7 +18,11 @@ links:
       - title: Public Service
         url: /careers/public-service/power-engineering-competency
   - title: Scholarships
-    collection: scholarships
+    sublinks:
+      - title: Youth
+        url: /scholarships/youth/energy-industry-scholarship
+      - title: Adults
+        url: /scholarships/adults/skillsfuture-study-awards
   - title: Programmes
     collection: programmes
   - title: Resources

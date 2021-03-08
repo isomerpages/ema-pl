@@ -34,6 +34,10 @@ collections:
       output: true
     programmes:
       output: true
+    youth:
+      output: true
+    adults:
+      output: true
 resources_name: resources
 
 description: An Isomer site of the Singapore Government
