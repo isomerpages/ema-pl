@@ -7,14 +7,14 @@
 logo: "/images/Poweringlives logo.jpg"
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: About Powering Lives
+  - title: About
     url: /about-powering-lives/
+  - title: Careers
+    collection: careers
   - title: Scholarships
     collection: scholarships
+  - title: Programmes
+    collection: programmes
   - title: Industry
     url: /industry/industry-partners/city-gas
     sublinks:
@@ -22,10 +22,8 @@ links:
         url: /industry/industry-partners/city-gas
       - title: Power Sector Value Chain
         url: /industry/power-sector-value-chain/electricity
-  - title: Careers
-    collection: careers
-  - title: Programmes
-    collection: programmes
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
   
