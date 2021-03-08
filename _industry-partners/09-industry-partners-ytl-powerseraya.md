@@ -1,12 +1,11 @@
 ---
 title: YTL PowerSeraya
-layout: industry-partner
-permalink: /industry/industry-partners/ytl-powerseraya
-partner:
-  name: YTL PowerSeraya
-  image: /images/partners/large/ytl_power_seraya_large.jpg
-  url: https://www.ytlpowerseraya.com
+permalink: /careers/industry-partners/ytl-powerseraya
 ---
+<img src="/images/partners/large/ytl_power_seraya_large.jpg" alt="YTL PowerSeraya" style="width: 450px; height: 312px;" /><br/>
+
+<a href="https://www.ytlpowerseraya.com"><img alt="YTL PowerSeraya" src="/images/partners/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
+
 The YTL PowerSeraya Group, a wholly owned subsidiary of YTL Power International Berhad, is an integrated energy company that provides multi-utility services such as electricity, steam, water, and natural gas.
 
 With a licensed generating capacity of 3100MW, YTL PowerSeraya is one of Singapore's largest electricity generators. Its retail arm, Seraya Energy, provides a wide range of innovative products and services to meet the diverse needs of its customers while its physical oil trading arm, PetroSeraya, engages in oil trading and provides tank storage and fuel-related services.
