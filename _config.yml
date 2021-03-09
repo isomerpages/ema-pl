@@ -38,13 +38,7 @@ collections:
       output: true
     adults:
       output: true
-    singapore-energy-grand-challenge:
-      output: true
-    energy-innovation:
-      output: true
-    energy-educators-forum:
-      output: true
-    youth-at-siew:
+    events:
       output: true
     resources:
       output: true
