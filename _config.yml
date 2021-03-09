@@ -34,9 +34,7 @@ collections:
       output: true
     programmes:
       output: true
-    youth:
-      output: true
-    adults:
+    scholarships:
       output: true
     events:
       output: true
