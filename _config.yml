@@ -38,6 +38,14 @@ collections:
       output: true
     adults:
       output: true
+    segc:
+      output: true
+    energy-innovation:
+      output: true
+    energy-educators-forum:
+      output: true
+    youth-at-siew:
+      output: true
 resources_name: resources
 
 description: An Isomer site of the Singapore Government
