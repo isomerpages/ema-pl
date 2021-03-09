@@ -1,6 +1,7 @@
 ---
 title: Singapore LNG Corporation
 permalink: /careers/industry-partners/singapore-lng-corporation
+third_nav_title: Industry Partners
 ---
 <img src="/images/partners/large/singapore_lng_corporation_large.jpg" alt="Singapore LNG Corporation (SLNG)" style="width: 450px; height: 312px;" /><br/>
 

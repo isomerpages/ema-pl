@@ -1,6 +1,7 @@
 ---
 title: Tuas Power
 permalink: /careers/industry-partners/tuas-power
+third_nav_title: Industry Partners
 ---
 <img src="/images/partners/large/tuas_power_generation_large.jpg" alt="Tuas Power" style="width: 450px; height: 312px;" /><br/>
 

@@ -10,13 +10,7 @@ links:
   - title: About
     collection: about
   - title: Careers
-    sublinks:
-      - title: Skills Framework for Energy and Power
-        url: /careers/sfwep
-      - title: Industry Partners
-        url: /careers/industry-partners/city-gas
-      - title: Public Service
-        url: /careers/public-service/power-engineering-competency
+    collection: careers
   - title: Scholarships
     collection: scholarships
   - title: Programmes

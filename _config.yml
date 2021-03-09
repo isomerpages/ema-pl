@@ -21,20 +21,12 @@ colors:
 
 collections:
     about:
-      output: true    
-    scholarships:
-      output: true
-    industry-partners:
-      output: true
-    public-service:
-      output: true      
-    power-sector-value-chain:
-      output: true
+      output: true   
     careers:
+      output: true 
+    scholarships:
       output: true
     programmes:
-      output: true
-    scholarships:
       output: true
     events:
       output: true
