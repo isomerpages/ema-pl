@@ -23,6 +23,8 @@ links:
         url: /scholarships/youth/energy-industry-scholarship
       - title: Adults
         url: /scholarships/adults/skillsfuture-study-awards
+  - title: Programmes
+    collection: programmes
   - title: Events
     sublinks:
       - title: Singapore Energy Grand Challenge (SEGC)
@@ -33,10 +35,8 @@ links:
         url: /events/energy-educators-forum/2021
       - title: Youth@SIEW
         url: /events/youth-at-siew/2021
-  - title: Programmes
-    collection: programmes
   - title: Resources
-    resource_room: true
+    collection: resources
   - title: Contact Us
     url: /contact-us/
   
