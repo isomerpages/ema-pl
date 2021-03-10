@@ -55,7 +55,7 @@ Application is open all year round.
 
 
 ### Frequently Asked Questions
-* <a href="https://www.skillsfuture.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
-* <a href="https://www.skillsfuture.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Awards for Power Sector</a>  
+* <a href="https://www.skillsfuture.gov.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
+* <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Awards for Power Sector</a>  
 
 For more information on eligible courses / submit your application, click <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>  
