@@ -32,7 +32,7 @@ We will also look into emerging low-carbon solutions (e.g. carbon capture, utili
 
 On the demand side, we will continue our efforts to improve our energy efficiency in all sectors. We will also empower our households to better manage their electricity consumption by providing them with more information.
 
-Our [Energy Story](/files/Future-SG-Energy-Story-Infographic_20191029.pdf) is a long-term effort. The Energy Market Authority will be working with various stakeholders, from businesses to research communities, youths and unions and the general public to achieve this vision of a cleaner and more efficient energy future.
+Our <a href="/files/Future-SG-Energy-Story-Infographic_20191029.pdf" target="_blank">Energy Story</a> is a long-term effort. The Energy Market Authority will be working with various stakeholders, from businesses to research communities, youths and unions and the general public to achieve this vision of a cleaner and more efficient energy future.
 
 ![Future Singapore Energy Story Infographic](/images/Future-SG-Energy-Story-Infographic_20191029.jpg)
 *Source: Ministry of Trade and Industry, Singapore*
@@ -40,4 +40,4 @@ Our [Energy Story](/files/Future-SG-Energy-Story-Infographic_20191029.pdf) is a 
 Watch this short video on our Energy Story on <a href="https://youtu.be/WVzvLXUwcUs" target="_blank">YouTube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-Find out more at [https://www.beyondthecurrent.gov.sg/energy-story](https://www.beyondthecurrent.gov.sg/energy-story)
+Find out more at <a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">https://www.beyondthecurrent.gov.sg/energy-story</a>
