@@ -40,4 +40,4 @@ Our [Energy Story](/files/Future-SG-Energy-Story-Infographic_20191029.pdf) is a 
 Watch this short video on our Energy Story on <a href="https://youtu.be/WVzvLXUwcUs" target="_blank">YouTube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-Find out more at [https://www.beyondthecurrent.gov.sg/energy-story](Find out more at https://www.beyondthecurrent.gov.sg/energy-story)
+Find out more at [https://www.beyondthecurrent.gov.sg/energy-story](https://www.beyondthecurrent.gov.sg/energy-story)
