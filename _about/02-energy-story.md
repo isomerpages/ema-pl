@@ -21,10 +21,11 @@ Working towards a future where energy is reliable, produced and consumed efficie
 >**3rd Switch: Regional Power Grids**  
 >We will explore ways to tap on regional power grids to access energy that is cost-competitive. This could be realised through bilateral cooperation or regional initiatives.
 
->**4th Switch: Emerging Low-Carbon Alternatives**  
->We will also look into emerging low-carbon solutions (e.g. carbon capture, utilisation and storage technologies, hydrogen) that have the potential to help reduce Singapore's carbon footprint.
+    **4th Switch: Emerging Low-Carbon Alternatives**  
 
-On the demand side, we will continue our efforts to improve our energy efficiency in all sectors. We will also empower our households to better manage their electricity consumption by providing them with more information.
+    We will also look into emerging low-carbon solutions (e.g. carbon capture, utilisation and storage technologies, hydrogen) that have the potential to help reduce Singapore's carbon footprint.
+
+    On the demand side, we will continue our efforts to improve our energy efficiency in all sectors. We will also empower our households to better manage their electricity consumption by providing them with more information.
 
 Our [Energy Story](/files/Future-SG-Energy-Story-Infographic_20191029.pdf) is a long-term effort. The Energy Market Authority will be working with various stakeholders, from businesses to research communities, youths and unions and the general public to achieve this vision of a cleaner and more efficient energy future.
 
