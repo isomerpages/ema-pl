@@ -19,11 +19,11 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 ### Eligibility Criteria 
 
-Singaporean (i) with at least two years of engineering work experience in the Power sector (Electricity and Gas) or related sectors; or (ii) is a Licensed Electrical Worker (LEW)/Licensed Gas Service Worker(LGSW)/ Licensed Cable Detection Worker(LCDW); or (iii) with at least two years of relevant Power Engineering skillsets in other sectors.
-Not be a previous recipient of any SkillsFuture Study Awards, or a current recipient of any scholarship/full bursary/full company sponsorship awarded for the same course.
-Meet entry requirements for relevant engineering courses (e.g. chemical, mechanical, electrical, power engineering) offered by local government institutions (i.e. ITE, polytechnic, university), Singapore Institute of Power & Gas and BCA Academy.
-The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
-Must not have completed more than 50% of supported course at the point of application.
+* Singaporean (i) with at least two years of engineering work experience in the Power sector (Electricity and Gas) or related sectors; or (ii) is a Licensed Electrical Worker (LEW)/Licensed Gas Service Worker(LGSW)/ Licensed Cable Detection Worker(LCDW); or (iii) with at least two years of relevant Power Engineering skillsets in other sectors.
+* Not be a previous recipient of any SkillsFuture Study Awards, or a current recipient of any scholarship/full bursary/full company sponsorship awarded for the same course.
+* Meet entry requirements for relevant engineering courses (e.g. chemical, mechanical, electrical, power engineering) offered by local government institutions (i.e. ITE, polytechnic, university), Singapore Institute of Power & Gas and BCA Academy.
+* The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
+* Must not have completed more than 50% of supported course at the point of application.
  
 
 
@@ -55,7 +55,7 @@ Application is open all year round.
 
 
 ### Frequently Asked Questions
-* <a href="https://www.skillsfuture.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>
-<a href="https://www.skillsfuture.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Awards for Power Sector</a>
+* <a href="https://www.skillsfuture.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
+* <a href="https://www.skillsfuture.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Awards for Power Sector</a>  
 
-For more information on eligible courses / submit your application, click <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>
+For more information on eligible courses / submit your application, click <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>  
