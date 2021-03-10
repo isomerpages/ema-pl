@@ -31,8 +31,6 @@ Our [Energy Story](/files/Future-SG-Energy-Story-Infographic_20191029.pdf) is a 
 ![Future Singapore Energy Story Infographic](/images/Future-SG-Energy-Story-Infographic_20191029.jpg)
 *Source: Ministry of Trade and Industry, Singapore*
 
-&nbsp;
-
-Watch this short video on our Energy Story on [YouTube](https://youtu.be/WVzvLXUwcUs)  
+Watch this short video on our Energy Story on <a href="https://youtu.be/WVzvLXUwcUs" target="_blank">YouTube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture"></iframe>
