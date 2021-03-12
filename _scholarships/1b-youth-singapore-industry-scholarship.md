@@ -3,3 +3,115 @@ title: Singapore-Industry Scholarship
 permalink: /scholarships/youth/singapore-industry-scholarship
 third_nav_title: Youth
 ---
+![Energy Industry Scholarship](/images/SGIS_sub.jpg)
+
+### Introduction on Singapore-Industry Scholarship (SgIS)
+
+Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the Power sector.
+
+**SgIS Scholarships (click below for more information)** 
+* [SgIS Full-Term](#full-term) - For 'A' Level, Diploma Holders and equivalent
+* [SgIS Mid-Term (Local)](#mid-term-local) - For Local Undergraduates
+* [SgIS Mid-Term (Overseas)](#mid-term-overseas) - For Overseas Undergraduates
+ 
+**Sponsoring Organisations in the Power sector**  
+<table class="no-border">
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
+             </td>
+             <td style="text-align: center;">
+                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
+             </td>             
+             <td style="text-align: center;">
+                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="width: 250px; height: 120px;"></a>
+             </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
+            </td>
+            <td style="text-align: center;">
+                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+To submit your application, visit <a href="https://www.singaporeindustryscholarship.sg/application" target="_blank">https://www.singaporeindustryscholarship.sg/application</a>
+
+**Examples of Relevant Disciplines**  
+* Civil Engineering
+* Chemical Engineering
+* Electrical Engineering
+* Mechanical Engineering
+
+<a id="full-term" href=""></a>
+### SgIS Full-Term
+
+**Target Audience**  
+Young Singapore citizens who are about to embark on their full-time local undergraduate studies are eligible for the SgIS Full-Term.
+
+**Eligibility Criteria**  
+* Singapore Citizen
+* Good GCE 'A' Level results (at least 10 academic units), International Baccalaureate, NUS High School Diploma or Polytechnic Diploma
+* Seeking admission or have been accepted for admission to the following institutions
+* Nanyang Technological University (NTU)
+* National University of Singapore (NUS)
+* Singapore Institute of Technology (SIT)
+* Singapore Management University (SMU)
+* Singapore University of Technology and Design (SUTD)
+* Good co-curricular activities record and leadership achievements
+* Passion to contribute to Singapore’s strategic sectors
+ 
+**Value of Award and Bond Period**  
+<span style="text-decoration: underline">Value of Award</span>  
+* Full tuition fees and other approved academic charges
+* Maintenance and other allowances 
+* Hostel allowance
+* Overseas exchange sponsorship (if requirements are met)
+ 
+<span style="text-decoration: underline">Bond Period</span>  
+* 3 years with the sponsoring organisation (for SIT graduates)
+* 4 years with the sponsoring organisation (for NTU / NUS / SMU / SUTD graduates)
+
+<a id="mid-term-local" href=""></a>
+### SgIS Mid-Term (Local)
+
+**Target Audience**  
+Young Singapore citizens who are currently pursuing their full-time undergraduate studies in a local university are eligible for the SgIS Mid-Term Local.
+
+**Eligibility Criteria**  
+* Singapore Citizen
+* Good undergraduate results from the following institutions:
+* Nanyang Technological University (NTU)
+* National University of Singapore (NUS)
+* Singapore Institute of Technology (SIT)
+* Singapore Management University (SMU)
+* Singapore University of Technology and Design (SUTD)
+* Have completed at least 1 academic semester  and have not embarked on final year of study at point of application
+* Good co-curricular activities record and leadership achievements
+* Passion to contribute to Singapore’s strategic sectors 
+
+**Value of Award and Bond Period**  
+* 1 to 2 academic years remaining in university at point of application – S$30,000 grant and a 2-year bond with the sponsoring organisation
+* More than 2 academic years remaining in university at point of application – S$50,000 grant and a 3-year bond with the sponsoring organisation
+
+<a id="mid-term-overseas" href=""></a>
+### SgIS Mid-Term (Overseas)
+
+**Target Audience**  
+Young Singapore citizens who are currently pursuing their full-time undergraduate studies in a university overseas are eligible for the SgIS Mid-Term Overseas. 
+
+**Eligibility Criteria**  
+* Singapore Citizen
+* Good undergraduate results from an overseas university
+* Have completed at least 1 academic semester and have not embarked on final year of study at point of application
+* Good co-curricular activities record and leadership achievements
+* Passion to contribute to Singapore’s strategic sectors
+
+**Value of Award and Bond Period**  
+* 1 to 2 academic years remaining in university at point of application – S$40,000 grant and a 2-year bond with the sponsoring organisation
+* More than 2 academic years remaining in university at point of application – S$60,000 grant and a 3-year bond with the sponsoring organisation
