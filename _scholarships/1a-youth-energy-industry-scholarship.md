@@ -27,32 +27,32 @@ Students who will be / currently pursuing relevant engineering courses at a loca
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="max-width: max-content;"></a>
+                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="max-width: 100%;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg" style="max-width: max-content;></a>
+                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg" style="max-width: 100%;"></a>
              </td>
              <td style="text-align: center;">
-                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg" style="max-width: max-content;"></a>
+                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg" style="max-width: 100%;"></a>
              </td>
         </tr>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="max-width: max-content;"></a>
+                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="max-width: 100%;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="max-width: max-content;"></a>
+                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="max-width: 100%;"></a>
              </td>             
              <td style="text-align: center;">
-                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="max-width: max-content;"></a>
+                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="max-width: 100%;"></a>
              </td>
         </tr>
         <tr>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="max-width: max-content;"></a>
+                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="max-width: 100%;"></a>
             </td>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="max-width: max-content;"></a>
+                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="max-width: 100%;"></a>
             </td>
             <td>&nbsp;</td>
         </tr>
@@ -83,6 +83,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <img alt="Photograph" src="/images/scholarships/profile_photo_ihbmz.png" style="height: 250px;"/>
             <br/>
             <strong>Indra Haqim Bin Mohd Zulkifi</strong>
+            <br/>
             <span style="text-decoration: italic;">
                 Diploma in Mechanical Engineering
             </span>
@@ -99,6 +100,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <img alt="Photograph" src="/images/scholarships/profile_photo_vl.png" style="height: 250px;"/>
             <br/>
             <strong>Vera Lam</strong>
+            <br/>
             <span style="text-decoration: italic;">
                 Diploma in Enargy Systems & Management
             </span>
@@ -115,6 +117,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <img alt="Photograph" src="/images/scholarships/profile_photo_mabs.png" style="height: 250px;"/>
             <br/>
             <strong>Muhammad Afiq Bin Sapuan</strong>
+            <br/>
             <span style="text-decoration: italic;">
                 Diploma in Clean Energy Management
             </span>
@@ -158,20 +161,20 @@ Click <a href="/files/EIS_FAQs_2019%20(28%20Jan%202019).pdf" target="_blank">her
 Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
-        <div class="labelmessage">
+        <div class="labelmessage" style="text-align:center;">
             <strong>
                 The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
             </strong>
             <br>
             <br>
         </div>
-        <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center; font-size: 15px;" >
+        <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
             <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
                 To apply, please login to Powering Lives portal with your Singpass
             </span>
             <br/>
             <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
-                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg"/>
+                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg" style="width: 200px;"/>
             </a>
         </div>
     </div>
