@@ -16,8 +16,8 @@ Singapore Citizens and Permanent Residents who will be/ are currently pursuing r
 
 |Institution/ Category|Full-Term Scholarship|Mid-Term Scholarship*|
 ----------------------|---------------------|---------------------|
-Institute of Technical Education|![Tick](/images/icons/tick_1.png)|![Tick](/images/icons/tick_1.png)|
-Polytechnic|![Tick](/images/icons/tick_1.png)|![Tick](/images/icons/tick_1.png)|
+Institute of Technical Education|Yes|Yes|
+Polytechnic|Yes|Yes|
 *Open to current students with at least one academic year remaining at the point of application.
 
 Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the Singapore-Industry Scholarship (SgIS). 
@@ -27,32 +27,32 @@ Students who will be / currently pursuing relevant engineering courses at a loca
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg"></a>
+                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="max-width: max-content;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg"></a>
+                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg" style="max-width: max-content;></a>
              </td>
              <td style="text-align: center;">
-                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg"></a>
+                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg" style="max-width: max-content;"></a>
              </td>
         </tr>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg"></a>
+                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="max-width: max-content;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg"></a>
+                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="max-width: max-content;"></a>
              </td>             
              <td style="text-align: center;">
-                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/singapore_power.png"></a>
+                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="max-width: max-content;"></a>
              </td>
         </tr>
         <tr>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg"></a>
+                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="max-width: max-content;"></a>
             </td>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg"></a>
+                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="max-width: max-content;"></a>
             </td>
             <td>&nbsp;</td>
         </tr>
@@ -64,7 +64,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
 <table>
     <tr>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_gl.png"/>
+            <img alt="Photograph" src="/images/scholarships/profile_photo_gl.png"  style="height: 250px;"/>
             <br/>
             <strong>Gustavus Liew</strong>
             <span style="text-decoration: italic;">
@@ -80,7 +80,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_ihbmz.png"/>
+            <img alt="Photograph" src="/images/scholarships/profile_photo_ihbmz.png" style="height: 250px;"/>
             <br/>
             <strong>Indra Haqim Bin Mohd Zulkifi</strong>
             <span style="text-decoration: italic;">
@@ -96,7 +96,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_vl.png"/>
+            <img alt="Photograph" src="/images/scholarships/profile_photo_vl.png" style="height: 250px;"/>
             <br/>
             <strong>Vera Lam</strong>
             <span style="text-decoration: italic;">
@@ -112,7 +112,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_mabs.png"/>
+            <img alt="Photograph" src="/images/scholarships/profile_photo_mabs.png" style="height: 250px;"/>
             <br/>
             <strong>Muhammad Afiq Bin Sapuan</strong>
             <span style="text-decoration: italic;">
@@ -166,12 +166,12 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
             <br>
         </div>
         <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center; font-size: 15px;" >
-            <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn">
+            <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
                 To apply, please login to Powering Lives portal with your Singpass
             </span>
             <br/>
             <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
-                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg"">
+                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg"/>
             </a>
         </div>
     </div>
