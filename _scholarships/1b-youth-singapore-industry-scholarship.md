@@ -40,7 +40,7 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
     </tbody>
 </table>
 
-To submit your application, visit <a href="https://www.singaporeindustryscholarship.sg/application" target="_blank">https://www.singaporeindustryscholarship.sg/application</a>
+To submit your application, visit <a href="https://www.moe.gov.sg/sgis/application" target="_blank">https://www.moe.gov.sg/sgis/application</a>
 
 **Examples of Relevant Disciplines**  
 * Civil Engineering
