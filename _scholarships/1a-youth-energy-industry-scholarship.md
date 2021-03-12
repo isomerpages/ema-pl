@@ -9,13 +9,13 @@ third_nav_title: Youth
 
 ### Introduction on Energy-Industry Scholarship
 
-The Energy-Industry Scholarship (EIS) is the first dedicated scholarship to develop and nurture talent for the Power sector. Embark on a Rewarding, Meaningful and Stable career in the Power sector. Apply for the Energy-Industry Scholarship today!
-
 <div style="float: right;">
-    <a href="#HyperLinkLoginSingPass">
+    <a href="#NearHyperLinkLoginSingPass">
         <img alt="Start Powering" src="/images/start_powering.png" style="width: 150px; height: 200px;"/>
     </a>
 </div>
+
+The Energy-Industry Scholarship (EIS) is the first dedicated scholarship to develop and nurture talent for the Power sector. Embark on a Rewarding, Meaningful and Stable career in the Power sector. Apply for the Energy-Industry Scholarship today!
 
 ### Eligibility
 Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local Institute of Technical Education (ITE), or polytechnic.
@@ -170,6 +170,7 @@ Click <a href="/files/EIS_FAQs_2019%20(28%20Jan%202019).pdf" target="_blank">her
 
 Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
+<a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div class="labelmessage" style="text-align:center;">
         <strong>
