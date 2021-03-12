@@ -3,3 +3,176 @@ title: Energy-Industry Scholarship (EIS)
 permalink: /scholarships/youth/energy-industry-scholarship
 third_nav_title: Youth
 ---
+### Overview
+
+![Energy Industry Scholarship](/images/EIS_sub.jpg)
+
+### Introduction on Energy-Industry Scholarship
+
+The Energy-Industry Scholarship (EIS) is the first dedicated scholarship to develop and nurture talent for the Power sector. Embark on a Rewarding, Meaningful and Stable career in the Power sector. Apply for the Energy-Industry Scholarship today!
+
+### Eligibility
+Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local Institute of Technical Education (ITE), or polytechnic.
+
+|Institution/ Category|Full-Term Scholarship|Mid-Term Scholarship*|
+----------------------|---------------------|---------------------|
+Institute of Technical Education|![Tick](/images/icons/tick_1.png)|![Tick](/images/icons/tick_1.png)|
+Polytechnic|![Tick](/images/icons/tick_1.png)|![Tick](/images/icons/tick_1.png)|
+*Open to current students with at least one academic year remaining at the point of application.
+
+Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the Singapore-Industry Scholarship (SgIS). 
+
+### Sponsoring Organisations
+<table class="no-border">
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg"></a>
+             </td>
+             <td colspan="2" style="text-align: center;">
+                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg"></a>
+             </td>
+             <td style="text-align: center;">
+                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg"></a>
+             </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg"></a>
+             </td>
+             <td colspan="2" style="text-align: center;">
+                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg"></a>
+             </td>             
+             <td style="text-align: center;">
+                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/singapore_power.png"></a>
+             </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;">
+                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg"></a>
+            </td>
+            <td colspan="2" style="text-align: center;">
+                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg"></a>
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+[//]: # (showcase stories of scholars)
+
+<table>
+    <tr>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/profile_photo_gl.png"/>
+            <br/>
+            <strong>Gustavus Liew</strong>
+            <span style="text-decoration: italic;">
+                Diploma in Electrical Engineering
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                Ngee Ann Polytechnic
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                EIS 2020 Scholar
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/profile_photo_ihbmz.png"/>
+            <br/>
+            <strong>Indra Haqim Bin Mohd Zulkifi</strong>
+            <span style="text-decoration: italic;">
+                Diploma in Mechanical Engineering
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                Singapore Polytechnic
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                EIS 2019 Scholar
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/profile_photo_vl.png"/>
+            <br/>
+            <strong>Vera Lam</strong>
+            <span style="text-decoration: italic;">
+                Diploma in Enargy Systems & Management
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                Singapore Polytechnic
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                EIS 2017 Scholar
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/profile_photo_mabs.png"/>
+            <br/>
+            <strong>Muhammad Afiq Bin Sapuan</strong>
+            <span style="text-decoration: italic;">
+                Diploma in Clean Energy Management
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                Ngee Ann Polytechnic
+            </span>
+            <br/>
+            <span style="text-decoration: italic; text-color: gray;">
+                EIS 2019 Scholar
+            </span>
+        </td>
+    </tr>
+</table>
+
+### Scholarship Benefits
+
+### Scholarship Value
+The EIS will cover the following, where applicable:
+* Tuition fees
+* One-time allowance (to purchase items related to the course of study, such as computers and books)
+* Monthly living allowance
+
+### Sponsoring Opportunities
+* Industrial Attachments
+* Scholar Management (e.g. Mentorship)
+* Invitations to closed-door events with industry participants
+
+### Bond Period
+Scholars will be bonded to their respective sponsoring organisations upon completion of their studies. The bond period will commensurate with the total scholarship value. Please refer to the table below for more information.
+
+|Type of Scholarship|Institute of Technical Education|Polytechnic|
+|-------------------|--------------------------------|-----------|
+|Year 1 (Full-Term award)|2 years <br/>3 years (applicable for students enrolled in NITEC in Mechanical Technology)|3 years|
+|Year 2 (Mid-term award)|2 years|3 years|
+|Year 3 (Mid-term award)|2 years (if applicable)|2 years|
+
+### Frequently Asked Questions
+Click <a href="/files/EIS_FAQs_2019%20(28%20Jan%202019).pdf" target="_blank">here</a> to see a list of frequently asked questions.
+
+Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
+
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+        <div class="labelmessage">
+            <strong>
+                The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
+            </strong>
+            <br>
+            <br>
+        </div>
+        <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center; font-size: 15px;" >
+            <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn">
+                To apply, please login to Powering Lives portal with your Singpass
+            </span>
+            <br/>
+            <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
+                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg"">
+            </a>
+        </div>
+    </div>
+</div>
