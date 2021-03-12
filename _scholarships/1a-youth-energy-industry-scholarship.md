@@ -18,6 +18,7 @@ Singapore Citizens and Permanent Residents who will be/ are currently pursuing r
 ----------------------|---------------------|---------------------|
 Institute of Technical Education|Yes|Yes|
 Polytechnic|Yes|Yes|
+
 *Open to current students with at least one academic year remaining at the point of application.
 
 Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the Singapore-Industry Scholarship (SgIS). 
@@ -161,21 +162,20 @@ Click <a href="/files/EIS_FAQs_2019%20(28%20Jan%202019).pdf" target="_blank">her
 Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
-        <div class="labelmessage" style="text-align:center;">
-            <strong>
-                The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
-            </strong>
-            <br>
-            <br>
-        </div>
-        <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
-            <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
-                To apply, please login to Powering Lives portal with your Singpass
-            </span>
-            <br/>
-            <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
-                <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg" style="width: 200px;"/>
-            </a>
-        </div>
+    <div class="labelmessage" style="text-align:center;">
+        <strong>
+            The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
+        </strong>
+        <br>
+        <br>
+    </div>
+    <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
+        <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
+            To apply, please login to Powering Lives portal with your Singpass
+        </span>
+        <br/>
+        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
+            <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg" style="width: 200px; margin-top: 20px;"/>
+        </a>
     </div>
 </div>
