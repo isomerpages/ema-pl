@@ -28,32 +28,32 @@ Students who will be / currently pursuing relevant engineering courses at a loca
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="max-width: 100%;"></a>
+                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/partners/keppel_infrastructure.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/partners/pacific_light.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td style="text-align: center;">
-                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/partners/sembcorp.jpg" style="width: 250px; height: 120px;"></a>
              </td>
         </tr>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/partners/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/partners/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
              </td>             
              <td style="text-align: center;">
-                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="max-width: 100%;"></a>
+                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/partners/sp_group.png" style="width: 250px; height: 120px;"></a>
              </td>
         </tr>
         <tr>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/partners/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="max-width: 100%;"></a>
+                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/partners/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td>&nbsp;</td>
         </tr>
