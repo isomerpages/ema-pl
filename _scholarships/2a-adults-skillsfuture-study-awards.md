@@ -25,8 +25,6 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 * The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
 * Must not have completed more than 50% of supported course at the point of application.
  
-
-
 <span style="text-decoration: underline;">Submission of Application:</span>
 
 1)  Please indicate in Section F of the application form why the Power sector is a choice career and why you deserve the Study Award.
@@ -47,15 +45,19 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 Note:  Only shortlisted applicants will be notified.  EMA reserves the right not to disclose the reasons for not shortlisting any applications
 
- 
-
 ### Application Period
 Application is open all year round.
-
-
 
 ### Frequently Asked Questions
 * <a href="https://www.skillsfuture.gov.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
 * <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Awards for Power Sector</a>  
 
 For more information on eligible courses / submit your application, click <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>  
+
+As part of the national movement to provide Singaporeans with opportunities to develop to their fullest potential, the Energy Market Authority conferred 10 Singaporeans with the inaugural SkillsFuture Study Award for Power Sector in October 2017. This Award aims to support early to mid-career Singaporeans in the industry who aspire to deepen their power engineering skills. Each recipient will receive a bond-free award of $5,000 to defray out-of-pocket training expenses for engineering courses related to the Power Sector.  
+
+![SkillsFuture Study Awards 2017 Award Ceremony](/images/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TI84KMsg8YY&feature=emb_imp_woyt" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>  
+
+![Organised by Energy Market Authority, Part of Powering Lives, Skills Future Study Awards](/images/Study%20Award%20ceremony%202017/logobanner%20for%20SF%20study%20award.png?ver=2018-03-13-105823-247)
