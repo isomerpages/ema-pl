@@ -68,15 +68,16 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <img alt="Photograph" src="/images/scholarships/profile_photo_gl.png"  style="height: 250px;"/>
             <br/>
             <strong>Gustavus Liew</strong>
+            <br/>
             <span style="text-decoration: italic;">
                 Diploma in Electrical Engineering
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: gray;">
                 Ngee Ann Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: lightblue;">
                 EIS 2020 Scholar
             </span>
         </td>
@@ -136,13 +137,13 @@ Students who will be / currently pursuing relevant engineering courses at a loca
 
 ### Scholarship Benefits
 
-### Scholarship Value
+**Scholarship Value**  
 The EIS will cover the following, where applicable:
 * Tuition fees
 * One-time allowance (to purchase items related to the course of study, such as computers and books)
 * Monthly living allowance
 
-### Sponsoring Opportunities
+**Sponsoring Opportunities**  
 * Industrial Attachments
 * Scholar Management (e.g. Mentorship)
 * Invitations to closed-door events with industry participants
