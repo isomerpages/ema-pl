@@ -17,7 +17,8 @@ Singapore Citizens and Permanent Residents who will be/ are currently pursuing r
 |Institution/ Category|Full-Term Scholarship|Mid-Term Scholarship*|
 ----------------------|---------------------|---------------------|
 Institute of Technical Education|Yes|Yes|
-Polytechnic|Yes|Yes|
+Polytechnic|Yes|Yes|  
+
 *Open to current students with at least one academic year remaining at the point of application.
 
 Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the Singapore-Industry Scholarship (SgIS). 
