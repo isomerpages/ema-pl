@@ -90,11 +90,11 @@ Students who will be / currently pursuing relevant engineering courses at a loca
                 Diploma in Mechanical Engineering
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: gray;">
                 Singapore Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: lightblue;">
                 EIS 2019 Scholar
             </span>
         </td>
@@ -107,11 +107,11 @@ Students who will be / currently pursuing relevant engineering courses at a loca
                 Diploma in Enargy Systems & Management
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: gray;">
                 Singapore Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: lightblue;">
                 EIS 2017 Scholar
             </span>
         </td>
@@ -124,11 +124,11 @@ Students who will be / currently pursuing relevant engineering courses at a loca
                 Diploma in Clean Energy Management
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: gray;">
                 Ngee Ann Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; text-color: gray;">
+            <span style="text-decoration: italic; color: lightblue;">
                 EIS 2019 Scholar
             </span>
         </td>
