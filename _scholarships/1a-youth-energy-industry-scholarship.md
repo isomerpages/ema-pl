@@ -60,6 +60,8 @@ Students who will be / currently pursuing relevant engineering courses at a loca
     </tbody>
 </table>
 
+&nbsp;  
+
 [//]: # (showcase stories of scholars)
 
 <table>
