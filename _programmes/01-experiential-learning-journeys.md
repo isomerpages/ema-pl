@@ -46,7 +46,7 @@ The PLTs encompass visits to five locations in the Power sector. These are the P
 </div>
 
 <div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape." src="/imageslearning_journeys/Ubin%20(replace).jpg" style="width: 100%; max-width: 400px;" />
+    <img alt="ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape." src="/images/learning_journeys/Ubin%20(replace).jpg" style="width: 100%; max-width: 400px;" />
     <br/>
     <span style="font-style: italic;">ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.</span>
 </div>
