@@ -27,34 +27,19 @@ The PLTs encompass visits to five locations in the Power sector. These are the P
 |**"Clean and Green"**| **@ the Pulau Ubin Micro-grid Test-bed:** Explore the Pulau Ubin Micro-grid Test-bed  on Pulau Ubin, for a preview of how solar-storage-smart grid technologies are transforming the grid and how the lives of end-users, who previously depended on noisy diesel generators, are being changed.|
 |**"Keeping it Cool"**| **@ the Singapore District Cooling Plant:** Enter the world’s largest underground district cooling system with a visit to the Singapore District Cooling Plant at Marina Bay, which is keeping buildings cool at the Marina Bay business district.  |
 
-<div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="University students and staff after a visit to the Singapore LNG Terminal on Jurong Island." src="/images/learning_journeys/SLNG%20(replace).jpg" style="width: 100%; max-width: 400px;" />
-    <br/>
-    <span style="font-style: italic;">University students and staff after a visit to the Singapore LNG Terminal on Jurong Island.</span>
-</div>
+&nbsp;
 
-<div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant." src="/images/learning_journeys/Sembcorp%20(replace).jpg" style="width: 100%; max-width: 400px;" />
-    <br/>
-    <span style="font-style: italic;">Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant.</span>
-</div>
+![University students and staff after a visit to the Singapore LNG Terminal on Jurong Island](/images/learning_journeys/SLNG%20(replace).jpg)
+_University students and staff after a visit to the Singapore LNG Terminal on Jurong Island._  
 
-<div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="Participants learning about operations at the Power System Control Centre." src="/images/learning_journeys/PSCC%20photo.jpg" style="width: 100%; max-width: 400px;" />
-    <br/>
-    <span style="font-style: italic;">Participants learning about operations at the Power System Control Centre.</span>
-</div>
+![Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/learning_journeys/Sembcorp%20(replace).jpg)
+_Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant._  
 
-<div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape." src="/images/learning_journeys/Ubin%20(replace).jpg" style="width: 100%; max-width: 400px;" />
-    <br/>
-    <span style="font-style: italic;">ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.</span>
-</div>
+![Participants learning about operations at the Power System Control Centre.](images/learning_journeys/PSCC%20photo.jpg)
+_Participants learning about operations at the Power System Control Centre._  
 
-<div style="float: left; width: 100%; max-width: 400px; margin-right: 40px; margin-bottom: 40px;">
-    <img alt="Satisfied faces after a fruitful visit to the Singapore District Cooling Plant." src="/images/learning_journeys/SDC.JPG" style="width: 100%; max-width: 400px;" />
-    <br/>
-    <span style="font-style: italic;">Satisfied faces after a fruitful visit to the Singapore District Cooling Plant.</span>
-</div>
+![ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.](/images/learning_journeys/Ubin%20(replace).jpg)
+_ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape._  
 
-<p style="clear: both;"></p>
+![Satisfied faces after a fruitful visit to the Singapore District Cooling Plant.](/images/learning_journeys/SDC.JPG)
+_Satisfied faces after a fruitful visit to the Singapore District Cooling Plant._  
