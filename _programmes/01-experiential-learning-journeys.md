@@ -35,7 +35,7 @@ _University students and staff after a visit to the Singapore LNG Terminal on Ju
 ![Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/learning_journeys/Sembcorp%20(replace).jpg)
 _Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant._  
 
-![Participants learning about operations at the Power System Control Centre.](images/learning_journeys/PSCC%20photo.jpg)
+![Participants learning about operations at the Power System Control Centre.](/images/learning_journeys/PSCC%20photo.jpg)
 _Participants learning about operations at the Power System Control Centre._  
 
 ![ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.](/images/learning_journeys/Ubin%20(replace).jpg)
