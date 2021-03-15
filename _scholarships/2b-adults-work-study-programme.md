@@ -10,6 +10,6 @@ Participating employers can recruit local fresh graduates and prepare them to ta
 <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" target="_blank">Read More</a>  
 
 **Links:**  
-* Singapore Polytechnic - <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000485" traget="_blank">WSPostDip (Advanced Diploma in Power Engineering</a>
+* Singapore Polytechnic - <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000485" target="_blank">WSPostDip (Advanced Diploma in Power Engineering)</a>
 * Ngee Ann Polytechnic - <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000501" target="_blank">WSPostDip (Specialist Diploma in Electrical Design and Operation</a>
 * ITE College West – <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-electrical-engineering" target="_blank">Work-Learn Technical Diploma</a>
