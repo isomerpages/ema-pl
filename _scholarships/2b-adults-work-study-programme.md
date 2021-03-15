@@ -7,9 +7,9 @@ The SkillsFuture Work-Study Programmes (WSPs) are offered by Institutes of Highe
 
 Participating employers can recruit local fresh graduates and prepare them to take up suitable job roles. The programme is designed in collaboration with the industry to ensure relevance to employers in the sector. Participants in the programme can look forward to a structured career progression pathway within the organization.
 
-[Read More](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx)
+<a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" target="_blank">Read More</a>  
 
 **Links:**  
-* Singapore Polytechnic - [WSPostDip (Advanced Diploma in Power Engineering)](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000485)  
-* Ngee Ann Polytechnic - [WSPostDip (Specialist Diploma in Electrical Design and Operation)](https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000501)  
-* ITE College West – [Work-Learn Technical Diploma](https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-electrical-engineering)  
+* Singapore Polytechnic - <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000485" traget="_blank">WSPostDip (Advanced Diploma in Power Engineering</a>
+* Ngee Ann Polytechnic - <a href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Details.aspx?ProgrammeID=P00000501" target="_blank">WSPostDip (Specialist Diploma in Electrical Design and Operation</a>
+* ITE College West – <a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-electrical-engineering" target="_blank">Work-Learn Technical Diploma</a>
