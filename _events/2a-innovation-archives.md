@@ -440,6 +440,57 @@ _Lead Agency: EMA_
     </tbody>
 </table>
 
+## Speakers
+
+### Plenary Session
+
+<img alt="Prof. Low Teck Seng" src="/images/energy_innovation/low-teck-seng.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />  
+**Prof. Low Teck Seng**  
+Chief Executive Officer  
+National Research Foundation  
+Singapore  
+
+Prof. Low Teck Seng is currently the Chief Executive Officer of the National Research Foundation (NRF), Singapore. He was appointed to this position in July 2012. Prior to his appointment at the NRF, he was the Managing Director at the Agency for Science, Technology & Research.
+
+Prof. Low is presently a tenured professorship at Nanyang Technolgical University as well as at the National University of Singapore. He is a Fellow of the Singapore Academy of Engineers; Fellow of the IEEE and International Fellow of the Royal Academy of Engineers, UK.
+
+Prof. Low was awarded the National Science and Technology Medal in 2004, the highest honour bestowed on an individual who has made distinguished, sustained and exceptional contributions, and played a strategic role in the development of Singapore through the promotion and management of R&D.
+
+In 2007, he was awarded the Public Administration Medal (Gold) by the President of Singapore for his outstanding contributions to the development of technical education and the management of science and technology for the nation.
+
+<img alt="Mr. Ng Wai Choong" src="/images/energy_innovation/ng-wai-choong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Ng Wai Choong**  
+Chief Executive  
+Energy Market Authority  
+
+Mr. Ng Wai Choong has been the Chief Executive of Energy Market Authority since April 2015. He joined the Singapore Administrative Service in 1991 after graduating from the University of Tokyo, Japan in 1990. He also attended the Harvard Business School's Program for Management Development in 2001, and the INSEAD Advanced Management Program in 2012.
+
+Mr. Ng was the Deputy Secretary (Policy) in the Ministry of Finance from 2007 to March 2015 overseeing government revenue, expenditure and investment policies. Before that, he was the Deputy Secretary (Industry) in the Ministry of Trade and Industry from 2003 to 2007, and was concurrently the first Chief Executive of the Competition Commission of Singapore from 2005 to 2006.
+
+<img alt="Dr. Bryan Hannegan" src="/images/energy_innovation/bryan-hannegan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Bryan Hannegan**  
+Associate Laboratory Director for Energy Systems Integration  
+National Renewable Energy Laboratory  
+
+Dr. Bryan Hannegan is the Associate Director for Energy Systems Integration at the National Renewable Energy Laboratory (NREL), the U.S. Department of Energy’s primary national laboratory for energy efficiency and renewable energy research and development. In this role, he leads NREL’s global initiative to optimise links between electricity, fuel, thermal, water, and communication networks in order to enable a more sustainable society.
+
+Prior to joining NREL, Dr. Hannegan held several research leadership positions in fossil energy, renewable energy, and environmental science and technology at the Electric Power Research Institute, the non-profit R&D arm of the electric power industry. Earlier in his career, Dr. Hannegan served as a senior energy advisor to President George W. Bush in staff positions for the Council on Environmental Quality and the National Economic Council, and he has also served as a staff scientist for the U.S. Senate Committee on Energy and Natural Resources.
+
+Dr. Hannegan is a former elected Director of the Coastside County Water District, and he serves on numerous professional societies and commissions, including the California Council on Science and Technology, the American Meteorological Society’s Board on Global Strategies, and the International Energy Agency’s Renewable Energy Industry Advisory Board.
+
+<img alt="Mr. Wong Kim Yin" src="/images/energy_innovation/wong-kim-yin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Wong Kim Yin**  
+Group Chief Executive Officer  
+Singapore Power  
+
+Mr. Wong Kim Yin is the Group Chief Executive Officer (CEO) of Singapore Power Ltd (SP), since January 2012. As the Group CEO of SP, Mr. Wong is concurrently the Chairman of SP PowerAssets Ltd and PowerGas Ltd, and a Director of SP Services Ltd. He is also a member of the Board of Directors of Seatown Pte Ltd, Board of Governors of Singapore Polytechnic and Committee to the Council for Private Education, Ministry of Education.
+
+Prior to 2012, he was Senior Managing Director of Investment at Temasek International (Pte) Ltd, where he had been responsible for investments in the energy, transportation and industrial sectors.
+
+From 1995 to 2002, he worked for The AES Corporation, a power company listed on the New York Stock Exchange, and was responsible for merger and acquisition and project development across Asia Pacific.
+
+
+
 &nbsp;
 
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
@@ -458,3 +509,4 @@ _Lead Agency: EMA_
         <img alt="Building and Construction Agency, EDB Singapore, ie Singapore, Land Transport Authority, National Environment Agency" src="/images/energy_innovation/img-ei-partners.png" style="width: 650px; height: 60px;" />
     </div>
 </div>
+
