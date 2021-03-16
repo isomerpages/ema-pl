@@ -238,6 +238,32 @@ Visit to ERI@N's Labs -</strong><br/>
 <table>
     <tr>
         <td rowspan="2" style="vertical-align: top; text-align: center;">
+            <img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong-0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px;" />
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Chang Sau Sheong,</string><br/>
+            Chief Executive Officer<br/>
+            SP Digital
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;">
+            <p>
+                Sau Sheong leads SP Digital, the digital business subsidiary of SP Group. With a team of product managers, software engineers, architects, data scientists and user experience designers, SP Digital builds new digital products for a spectrum of internal and external users including residential and commercial partners as well as the public at large.
+            </p>
+            <p>
+                In his 24 years of industry experience, he has lead similar engineering teams at PayPal, Yahoo and HP in building software products. He was previously a co-founder in a software company and was involved in startups for more than 10 years.
+            </p>
+            <p>
+                Sau Sheong runs the GopherCon Singapore, the largest community-led Go programming language conference in Southeast Asia. He is also active and contributes to many other technology communities in Singapore and Southeast Asia. He has written 4 programming and technology-related books.
+            </p>
+            <p>
+                Sau Sheong has a bachelor's degree in Computer Engineering, a Masters in Commercial Law and is a certified arbitrator in Singapore.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" style="vertical-align: top; text-align: center;">
             <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
