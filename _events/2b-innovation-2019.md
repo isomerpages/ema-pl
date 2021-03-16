@@ -236,32 +236,6 @@ Visit to ERI@N's Labs -</strong><br/>
 
 ### Session I  
 <table>
-<tr>
-        <td rowspan="2" style="vertical-align: top; text-align: center;">
-            <img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong-0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
-        </td>
-        <td style="vertical-align: top;">
-            <strong>Chang Sau Sheong,</string><br/>
-            Chief Executive Officer<br/>
-            SP Digital
-        </td>
-    </tr>
-    <tr>
-        <td style="vertical-align: top;">
-            <p>
-                Sau Sheong leads SP Digital, the digital business subsidiary of SP Group. With a team of product managers, software engineers, architects, data scientists and user experience designers, SP Digital builds new digital products for a spectrum of internal and external users including residential and commercial partners as well as the public at large.
-            </p>
-            <p>
-                In his 24 years of industry experience, he has lead similar engineering teams at PayPal, Yahoo and HP in building software products. He was previously a co-founder in a software company and was involved in startups for more than 10 years.
-            </p>
-            <p>
-                Sau Sheong runs the GopherCon Singapore, the largest community-led Go programming language conference in Southeast Asia. He is also active and contributes to many other technology communities in Singapore and Southeast Asia. He has written 4 programming and technology-related books.
-            </p>
-            <p>
-                Sau Sheong has a bachelor's degree in Computer Engineering, a Masters in Commercial Law and is a certified arbitrator in Singapore.
-            </p>
-        </td>
-    </tr>
     <tr>
         <td rowspan="2" style="vertical-align: top; text-align: center;">
             <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
@@ -276,26 +250,6 @@ Visit to ERI@N's Labs -</strong><br/>
         <td style="vertical-align: top;">
             <p>
                 Ray Byrne is the manager of the Electric Power System Research Department at Sandia National Laboratories, where he has been employed since 1989. Prior to serving as manager, he was a Distinguished Member of the Technical Staff. He completed a B.S. in electrical engineering at the University of Virginia, an M.S. in electrical engineering at the University of Colorado, and a Ph.D. in electrical engineering at the University of New Mexico. He also completed an M.S. in financial mathematics (financial engineering) at the University of Chicago. He currently serves as team lead of the Equitable Regulatory Environment thrust area of the Sandia energy storage program. Awards include Time Magazine invention of the year in robotics in 2001, as well as the Prize paper award at the 2016 IEEE Power and Energy Society General Meeting for a paper on maximizing revenue from energy storage in grid applications. He is a member of Tau Beta Pi, Eta Kappa Nu, and Sigma Xi. He was elevated to IEEE Fellow in 2017 for contributions to miniature robotics and grid integration of energy storage.
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="2" style="vertical-align: top; text-align: center;">
-            <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
-        </td>
-        <td style="vertical-align: top;">
-            <strong>Prof David Yau,</strong><br/>
-            Information Systems Technology and Design<br/>
-            SUTD
-        </td>
-    </tr>
-    <tr>
-        <td style="vertical-align: top;">
-            <p>
-                David Yau received the B.Sc. from the Chinese University of Hong Kong, and M.S. and Ph.D. from the University of Texas at Austin, all in computer science. He is now Professor at the Singapore University of Technology & Design and Distinguished Scientist at the Advanced Digital Sciences Centre. He was Associate Professor (Computer Science) at Purdue University (West Lafayette). His research interests include cyberphysical systems and network security/privacy, wireless sensor networks, smart grid IT, and quality of service.
-            </p>
-            <p>
-                He serves as Associate Editor (AE) of IEEE Trans. Network Science and Engineering and ACM Trans. Sensor Networks. He was AE of IEEE Trans. Smart Grid, Special Section on Smart Grid CyberPhysical Security (2017), IEEE/ACM Trans. Networking (2004-09), and Springer Networking Science (2012-2013). He received a U.S. NSF CAREER award. His research has received Best Paper awards or finalist nominations in several international conferences, including ACM/IEEE IPSN 2017.
             </p>
         </td>
     </tr>
