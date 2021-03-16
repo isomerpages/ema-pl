@@ -162,7 +162,7 @@ Visit to ERI@N's Labs -</strong><br/>
 <table>
     <tr>
         <td style="vertical-align: top; text-align: center;">
-            <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam_khin_yong.jpg" style="border-radius: 50%; border: 10px solid #fff; height: 250px; width: 250px;" />
+            <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; height: 250px; width: 250px;" />
         </td>
         <td style="vertical-align: top;">
             <strong>Professor Lam Khin Yong,</strong><br/>
