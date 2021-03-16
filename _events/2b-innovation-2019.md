@@ -162,7 +162,7 @@ Visit to ERI@N's Labs -</strong><br/>
 <table>
     <tr>
         <td style="vertical-align: top; text-align: center;">
-            <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; height: 250px; width: 250px;" />
+            <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
             <strong>Professor Lam Khin Yong,</strong><br/>
@@ -181,6 +181,19 @@ Visit to ERI@N's Labs -</strong><br/>
         </td>
     </tr>
 </table>
+
+<div style="float: left;">
+    <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+</div>
+<div style="float: left;">
+    <strong>Dr. Raymond Byrne,</strong><br/>
+    Manager, Electric Power System Research Department<br/>
+    Sandia National Labs<br/>
+</div>
+<div style="clear: both;"></div>
+
+Ray Byrne is the manager of the Electric Power System Research Department at Sandia National Laboratories, where he has been employed since 1989. Prior to serving as manager, he was a Distinguished Member of the Technical Staff. He completed a B.S. in electrical engineering at the University of Virginia, an M.S. in electrical engineering at the University of Colorado, and a Ph.D. in electrical engineering at the University of New Mexico. He also completed an M.S. in financial mathematics (financial engineering) at the University of Chicago. He currently serves as team lead of the Equitable Regulatory Environment thrust area of the Sandia energy storage program. Awards include Time Magazine invention of the year in robotics in 2001, as well as the Prize paper award at the 2016 IEEE Power and Energy Society General Meeting for a paper on maximizing revenue from energy storage in grid applications. He is a member of Tau Beta Pi, Eta Kappa Nu, and Sigma Xi. He was elevated to IEEE Fellow in 2017 for contributions to miniature robotics and grid integration of energy storage.
+
 
 
 
