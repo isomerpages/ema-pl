@@ -3,7 +3,7 @@ title: 2019
 permalink: /events/energy-innovation/2019
 third_nav_title: Energy Innovation
 ---
-![Energy Innovation 2019](/images/energy_innovation/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+![Energy Innovation 2019](/images/energy_innovation/energy-innovation-banner-1190x360.png)
 
 ### Programme Overview
 <table>
@@ -27,7 +27,7 @@ third_nav_title: Energy Innovation
                 9.00 AM
             </td>
             <td style="vertical-align: top;">
-                <strong">Welcome Remarks by:</strong><br/>
+                <strong>Welcome Remarks by:</strong><br/>
                 Prof. Lam Khin Yong<br/>
                 Vice President (Research)<br/>
                 Nanyang Technological University<br/>
