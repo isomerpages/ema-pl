@@ -447,7 +447,7 @@ _Lead Agency: EMA_
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             ORGANISED BY
         </div>
-        <img alt="Energy Market Authority" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
+        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
     </div>
 </div>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
@@ -455,6 +455,6 @@ _Lead Agency: EMA_
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             PARTICIPATING PARTNERS
         </div>
-        <img alt="Energy Market Authority" src="/images/energy_innovation/img-ei-partners.png" style="width: 650px; height: 60px;" />
+        <img alt="Building and Construction Agency, EDB Singapore, ie Singapore, Land Transport Authority, National Environment Agency" src="/images/energy_innovation/img-ei-partners.png" style="width: 650px; height: 60px;" />
     </div>
 </div>
