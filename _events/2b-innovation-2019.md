@@ -15,70 +15,70 @@ third_nav_title: Energy Innovation
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 8.30 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Registration</span>
+                <strong>Registration</strong>
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 9.00 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Welcome Remarks by:</span><br/>
+                <strong">Welcome Remarks by:</strong><br/>
                 Prof. Lam Khin Yong<br/>
                 Vice President (Research)<br/>
                 Nanyang Technological University<br/>
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 9.10 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Opening Address by:</span><br/>
+                <strong>Opening Address by:</strong><br/>
                 Dr. Tan Wu Meng<br/>
                 Senior Parliamentary Secretary, Ministry of Trade and Industry & Ministry of Foreign Affairs
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;"><br/>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 9.25 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Keynote Address by:</span><br/>
+                <strong>Keynote Address by:</strong><br/>
                 Lara Olsen<br/>
                 Global Head of Business Development<br/>
                 Tesla Energy
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;"><br/>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 9.55 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Introduction to EcoLabs Centre of Innovation for Energy</span>
+                <strong>Introduction to EcoLabs Centre of Innovation for Energy</strong><br/>
                 Mahesh Kumar<br/>
                 Programme Director<br/>
                 EcoLabs Centre of Innovation for Energy
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 10.05 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Networking Reception</span>
+                <strong>Networking Reception</strong>
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 10.30 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Session I</span><br/>
+                <strong>Session I</strong><br/>
                 <ul>
                     <li>
                         <strong>Digitizing Electrons - Digital Transformation At A Utility Company</strong><br/>
@@ -102,19 +102,19 @@ third_nav_title: Energy Innovation
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 12.00 PM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Networking Lunch and Exhibition</span>
+                <strong>Networking Lunch and Exhibition</strong>
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 1.00 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Session II</span><br/>
+                <strong>Session II</strong><br/>
                 <ul>
                     <li>
                         <strong>Information on Ongoing/Upcoming Grant Calls</strong><br/>
@@ -130,12 +130,12 @@ third_nav_title: Energy Innovation
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 3.00 AM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">Tour of NTU Facilities (limited seats available)
-Visit to ERI@N's Labs -</span><br/>
+                <strong>Tour of NTU Facilities (limited seats available)
+Visit to ERI@N's Labs -</strong><br/>
                 <ul>
                     <li>
                         Solid State Transformer and Augmented Reality Labs; and
@@ -147,11 +147,11 @@ Visit to ERI@N's Labs -</span><br/>
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top;">
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
                 5.00 PM
             </td>
             <td style="vertical-align: top;">
-                <span style="font-weight: bold;">End of Programme</span>
+                <strong>End of Programme</strong>
             </td>
         </tr>
     </tbody>
