@@ -489,6 +489,50 @@ Prior to 2012, he was Senior Managing Director of Investment at Temasek Internat
 
 From 1995 to 2002, he worked for The AES Corporation, a power company listed on the New York Stock Exchange, and was responsible for merger and acquisition and project development across Asia Pacific.
 
+### Track 1 - Waste Management
+
+<img alt="Prof. Stapf Dieter" src="/images/energy_innovation/stapf-dieter.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Prof. Stapf Dieter**  
+Head of Institute for Technical Chemistry  
+Karlsruhe Institute of Technology  
+
+Prof. Stapf's key research fields are advanced thermochemical conversion technologies for biomass to chemicals and energy, as well as waste to energy including recovery of value streams. Amongst other functions, he represents Germany in the IEA bioenergy task 36 "Integrating Energy into Solid Waste Management Systems". Before he joined Karlsruhe Institute of Technology, he has worked with the world’s largest chemical company BASF filling in several functions in R&D, petrochemical operations and strategic planning.
+
+<img alt="Mr. Daniel E. Ponder" src="/images/energy_innovation/daniel-e-ponder.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Daniel E. Ponder**  
+Principal  
+Golder Associates Inc.  
+
+Mr. Ponder has been with Golder Associates for 27 years assisting both public and private waste management clients on five continents. He is widely recognized for his expertise in solid waste management planning and technical due diligence (related to mergers and acquisitions). Mr. Ponder leads Golder’s in-country team that assisted the Government of Abu Dhabi in establishing a solid waste management authority with the goal of becoming the top five in the world.
+
+Mr. Ponder is committed to incorporate sustainability into his practices, and strives to find best-fit value-added local solutions. He is known for his vision of long-term planning and innovative solutions.
+
+<img alt="Mr. Yoshio Seiki" src="/images/energy_innovation/yoshio-seiki.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Yoshio Seiki**  
+General Manager, Global Research & Innovation Center  
+Mitsubishi Heavy Industries Asia Pacific  
+
+Mr. Yoshio Seiki leads the team of Environmental and Energy system development in Asia Pacific, especially in ASEAN. He has 15 years of experience in chemical research and process design engineering, and four years of experience in technological strategy in MHI. Currently he is working on the development of Future Waste to Energy systems including several kinds of sustainable energy systems.
+
+<img alt="Asst. Prof. Michel-Alexandre Cardin" src="/images/energy_innovation/michel-alexandre-cardin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Asst. Prof. Michel-Alexandre Cardin**  
+Lead of the Strategic Engineering Laboratory  
+National University of Singapore  
+
+Dr. Michel-Alexandre Cardin is a research collaborator in the Energy and Environmental Sustainability Solutions (E2S2) for Mega-Cities, a collaboration between the National University of Singapore and Shanghai Jiao Tong University in China, funded by the National Research Foundation Campus for Research Excellence and Technological Enterprise (CREATE). He has research affiliation at the Massachusetts Institute of Technology (MIT), Singapore-ETH Centre, as well as the Singapore-MIT Alliance for Research and Technology. He is also Associate Editor of the INCOSE journal Systems Engineering, and served on the Editorial Review Board of the journal IEEE Transactions on Engineering Management. His research focuses on the development, experimental evaluation, and applications of novel procedures to design and architect engineering systems for uncertainty and flexibility – also known as real options. As part of the E2S2 project, he has developed new methods to analyze systems design and architecture of flexible Waste-to-Energy facilities operating growing and uncertain waste generation patterns.
+
+<img alt="Mr. Patrick Pang" src="/images/energy_innovation/patrick-pang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Patrick Pang**  
+Chief Technology Officer  
+National Environment Agency  
+
+Mr. Patrick Pang heads the Technology & Systems Integration Division (TSID) of the Joint Operations & Technology Group, which incorporates the National Environment Agency (NEA)’s Environment Technology Office (ETO).
+
+He leads ETO in the strategic management of NEA’s overall R&D plans and project portfolio, which entails operations-technology visioning, technology master-planning, project pipelining and providing oversight of fund allocation. TSID is also responsible for providing oversight to the development and implementation of technology within NEA, to enhance operational effectiveness.
+
+As CTO, he also provides strategic, integrative leadership to the development of new technologies, innovation and technology adoption in the industry.
+
+Mr. Pang was Director, Digital Economy at the National Research Foundation, where he set up the Digital Economy Research Directorate and coordinated the overall development of the Services & Digital Economy R&D agenda for Singapore, under the current five-year Research, Innovation & Enterprise 2020 plan.
 
 
 &nbsp;
