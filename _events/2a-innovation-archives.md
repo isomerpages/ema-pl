@@ -712,7 +712,7 @@ STEPS TO REGISTER
 * Upon the confirmation of your registration, you will receive an acknowledgement email from the event organiser.
 For enquiries on event registration, please email < ahref="mailto:EMA_IndustryPromotion@ema.gov.sg">EMA_IndustryPromotion@ema.gov.sg</a> or contact Ms Tan Pei Boon (6376 7870) or Ms Eden Hong (6376 7879)
 
-<span style="color: red;"><strong>Note: Registration is closed.</strong></span>
+<strong style="color: red;">Note: Registration is closed.</strong>
 
 &nbsp;
 
