@@ -801,7 +801,7 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
 
 \* All SEEC participants will participate in the Energy Connect Seminar
 
-### EX SEMINAR PROGRAMME
+### EC SEMINAR PROGRAMME
 
 **PROGRAMME AT A GLANCE**  
 <table>
