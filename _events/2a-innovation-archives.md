@@ -733,6 +733,8 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
     </div>
 </div>
 
+<div style="clear: both;"></div>
+
 &nbsp;
 
 ## Energy Connect   
@@ -749,15 +751,15 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
 
 ### SEEC
 
-<div style="width: 100%">
-    <div style="background: url(/images/energy_innovation/ec-seec-blk1.png) no-repeat center/100% 100%;">
-        <h1>LEARNING JOURNEY</h1>
-        <span style="text-decoration: italic;">13 May 2016, Friday [Morning]</span>
+<div style="display: flex;">
+    <div style="background: url(/images/energy_innovation/ec-seec-blk1.png) no-repeat center/100% 100%; float: left;">
+        <strong>LEARNING JOURNEY</strong><br/>
+        <span style="font-style: italic;">13 May 2016, Friday [Morning]</span><br/>
         Students will gain an insight into real world operations in the Power sector by visiting The Sembcorp Cogen @ Banyan Plant on Jurong Island or the Micro-Grid Test-Bed on Pulau Ubin.
     </div>
     <div style="background: url(/images/energy_innovation/ec-seec-blk2.png) no-repeat center/100% 100%;">
-        <h1>ENERGY COMPETITION</h1>
-        <span style="text-decoration: italic;">3 June 2016, Friday [Morning]</span>
+        <strong>ENERGY COMPETITION</strong><br/>
+        <span style="font-style: italic;">3 June 2016, Friday [Morning]</span></br/>
         This is a computer simulation game that challenges players to manage and develop a power ecosystem (e.g. maintenance and R&D), while maintaining the profitability, reliability and environmental impact of the plant.
         <table>
             <thead>
@@ -784,18 +786,15 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
                         </ul>
                         <strong>Best Overall Team</strong><br/>
                         <ul>
-                            <li>First: $1000</li>
-                            <li>Second: $800</li>
-                            <li>Third: $600</li>
-                        </ul>
-                        $1200
+                            <li>$1200</li>
+                        </ul>                        
                     </td>
                 </tr>
             </tbody>
         </table>
     </div>
     <div style="background: url(/images/energy_innovation/ec-seec-blk3.png) no-repeat center/100% 100%;">
-        <h1>INTERNSHIP</h1>
+        <strong>INTERNSHIP</strong><br/>
         Winners from each category will be offered internship opportunities with Sembcorp.
     </div>
 </div>
