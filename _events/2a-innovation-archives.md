@@ -733,3 +733,73 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
     </div>
 </div>
 
+&nbsp;
+
+## Energy Connect   
+![Energy Connect 2016, As part of the Energy Innovation 2016, the Energy Connect is a student programme that aims to engage our next-generation innovators and educators through a suite of programmes, including the "Sembcorp-EMA Energy Challenge", Energy Connect Seminar and an exhibition."](/images/energy_innovation/header-img-2.png)
+
+### Overview
+
+**SEMBCORP-EMA ENERGY CHALLENGE (SEEC)**  
+Jointly organised by Sembcorp Industries and Energy Market Authority
+Participants will gain insight into life as a power engineer by taking part in various site visits and participating in the SEEC, a game that simulates real-world issues faced by professionals in the Power sector. In addition to cash prizes, winners of the Challenge will be offered internships at Sembcorp.
+
+**ENERGY CONNECT SEMINAR**  
+Now into its fourth run, the Energy Connect Seminar is an annual platform that allows students to engage with industry professionals and learn about various career and development opportunities in the Power sector.
+
+### SEEC
+
+<div style="width: 100%">
+    <div style="background: url(/images/energy_innovation/ec-seec-blk1.png) no-repeat center/100% 100%;">
+        <h1>LEARNING JOURNEY</h1>
+        <span style="text-decoration: italic;">13 May 2016, Friday [Morning]</span>
+        Students will gain an insight into real world operations in the Power sector by visiting The Sembcorp Cogen @ Banyan Plant on Jurong Island or the Micro-Grid Test-Bed on Pulau Ubin.
+    </div>
+    <div style="background: url(/images/energy_innovation/ec-seec-blk2.png) no-repeat center/100% 100%;">
+        <h1>ENERGY COMPETITION</h1>
+        <span style="text-decoration: italic;">3 June 2016, Friday [Morning]</span>
+        This is a computer simulation game that challenges players to manage and develop a power ecosystem (e.g. maintenance and R&D), while maintaining the profitability, reliability and environmental impact of the plant.
+        <table>
+            <thead>
+                <tr>
+                    <th>CATEGORY</th>
+                    <th>PRIZES</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Institute of Technical Education</li>
+                            <li>Polytechnic</li>
+                            <li>University</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <strong>Prize for Each Team of 4</strong><br/>
+                        <ul>
+                            <li>First: $1000</li>
+                            <li>Second: $800</li>
+                            <li>Third: $600</li>
+                        </ul>
+                        <strong>Best Overall Team</strong><br/>
+                        <ul>
+                            <li>First: $1000</li>
+                            <li>Second: $800</li>
+                            <li>Third: $600</li>
+                        </ul>
+                        $1200
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="background: url(/images/energy_innovation/ec-seec-blk3.png) no-repeat center/100% 100%;">
+        <h1>INTERNSHIP</h1>
+        Winners from each category will be offered internship opportunities with Sembcorp.
+    </div>
+</div>
+
+\* All SEEC participants will participate in the Energy Connect Seminar
+
+
