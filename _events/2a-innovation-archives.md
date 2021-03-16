@@ -692,7 +692,7 @@ Franck Vitte joined the Bolloré group in 2000, which provides solutions for lug
 
 Since 2012, Franck is also responsible for the regional development of Blue Solutions, which is the company that brings together the Bolloré Group’s electricity storage activities through various applications such as electric car-sharing, public transport and smart grids. As such, he has been involved in several electro-mobility projects for major Asian cities.
 
-<img alt="Ms. Martha Loleit" src="/images/energy_innovation/martha-loleit.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Ms. Martha Loleit" src="/images/energy_innovation/loleit-martha.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Ms. Martha Loleit**  
 Business Development Manager  
 Energy Research Institute of Nanyang Technological University, ERI@N  
