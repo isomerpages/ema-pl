@@ -681,6 +681,27 @@ National University of Singapore
 
 Prof. Dong-Yup Lee has more than 10 years of strong research leadership experience that led to numerous insightful publications on optimisation applications in various fields, most notably in the area of software tool development and micro-grid scheduling. His main research interests focus on the application of systems engineering and integrative approaches to a variety of interesting systems, including chemical, biological, biomedical, pharmaceutical and nano/micro processes. He has around 10 patents and published about 100 research articles on these and other topics.
 
+### Track 5 - Future of e-Mobility
+
+<img alt="Mr. Franck Vitte" src="/images/energy_innovation/franck-vitte.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Franck Vitte**  
+Head of Asia / Middle East Geography at Blue Solutions  
+Bolloré Group  
+
+Franck Vitte joined the Bolloré group in 2000, which provides solutions for luggage handling that are deployed in the vast majority of airports in the region. He contributed to the development of new processes which enable faster and seamless travel while optimising the utilisation of airports’ infrastructure.
+
+Since 2012, Franck is also responsible for the regional development of Blue Solutions, which is the company that brings together the Bolloré Group’s electricity storage activities through various applications such as electric car-sharing, public transport and smart grids. As such, he has been involved in several electro-mobility projects for major Asian cities.
+
+<img alt="Ms. Martha Loleit" src="/images/energy_innovation/martha-loleit.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Ms. Martha Loleit**  
+Business Development Manager  
+Energy Research Institute of Nanyang Technological University, ERI@N  
+
+Dr. Martha Loleit is responsible for the micro-grid initiative REIDS. She ensures that the initiative provides intellectual leadership to governments, NGOs and the private sector to advance the renewable energy market in the South East Asian region.
+
+Previously, she led a task force at ERI@N, which developed a national roadmap for electric vehicles in Singapore, commissioned by the Singapore Government.
+
+Prior to her current role, she headed the department for Sustainable Urban Mobility Concepts at Fraunhofer Institute for Industrial Engineering in Germany. With Fraunhofer, she coordinated the sustainable transport team in the European Commission’s initiative “Transportation Innovation Deployment in Europe” and the “Morgenstadt: City of the Future Initiative” supporting the German Federal Government. She worked closely with cities and leading companies from the automotive, energy and information & communication technology sectors on advancing the electric vehicle market.
 
 
 
