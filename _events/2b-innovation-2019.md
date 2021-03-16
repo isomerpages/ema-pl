@@ -160,7 +160,7 @@ Visit to ERI@N's Labs -</strong><br/>
 
 ### Plenary Session
 
-<img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Professor Lam Khin Yong,**  
 Vice President (Research)  
@@ -177,7 +177,7 @@ He is also the recipient of the National Order of the Legion of Honour (Chevalie
 He is currently holding directorships in various entities such as IPI Singapore and NTUitive Pte Ltd. He obtained his BSc with First Class Honours in Mechanical Engineering from Imperial College London and his Master's and PhD from the Massachusetts Institute of Technology. He holds an Honorary Professorship Diploma, the highest honour and recognition, from the Lomonosov Moscow State University, one of the top universities in Russia
 
 
-<img alt="Dr. Tan Wu Meng" src="/images/energy_innovation/tan-wu-meng.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Dr. Tan Wu Meng" src="/images/energy_innovation/tan-wu-meng.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Dr. Tan Wu Meng,**  
 Senior Parliamentary Secretary  
@@ -190,7 +190,7 @@ Dr Tan previously was a Member of the Government Parliamentary Committees for Fi
 Prior to joining the Government, Dr Tan worked as a Physician and Medical Oncologist specialising in the care of cancer patients. He read Medicine at Trinity College, University of Cambridge, during which he also completed a PhD in Molecular Biology. His post-graduate training was at the Singapore General Hospital and National Cancer Centre Singapore. From 2015 to 2018 his medical practice was in the private sector.
 
 
-<img alt="Lara Olsen" src="/images/energy_innovation/lara-olsen.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Lara Olsen" src="/images/energy_innovation/lara-olsen.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Lara Olsen,**  
 Global Head of Business Development  
@@ -203,7 +203,7 @@ Before joining Tesla, Lara was Head of Strategy at CitiPower Powercor and was He
 
 ### Session I  
 
-<img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Chang Sau Sheong,**  
 Chief Executive Officer  
@@ -218,7 +218,7 @@ Sau Sheong runs the GopherCon Singapore, the largest community-led Go programmin
 Sau Sheong has a bachelor's degree in Computer Engineering, a Masters in Commercial Law and is a certified arbitrator in Singapore.
 
 
-<img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Dr. Raymond Byrne,**  
 Manager, Electric Power System Research Department  
@@ -227,7 +227,7 @@ Sandia National Labs
 Ray Byrne is the manager of the Electric Power System Research Department at Sandia National Laboratories, where he has been employed since 1989. Prior to serving as manager, he was a Distinguished Member of the Technical Staff. He completed a B.S. in electrical engineering at the University of Virginia, an M.S. in electrical engineering at the University of Colorado, and a Ph.D. in electrical engineering at the University of New Mexico. He also completed an M.S. in financial mathematics (financial engineering) at the University of Chicago. He currently serves as team lead of the Equitable Regulatory Environment thrust area of the Sandia energy storage program. Awards include Time Magazine invention of the year in robotics in 2001, as well as the Prize paper award at the 2016 IEEE Power and Energy Society General Meeting for a paper on maximizing revenue from energy storage in grid applications. He is a member of Tau Beta Pi, Eta Kappa Nu, and Sigma Xi. He was elevated to IEEE Fellow in 2017 for contributions to miniature robotics and grid integration of energy storage.
 
 
-<img alt="Prof David Yau" src="/images/energy_innovation/david-yau_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+<img alt="Prof David Yau" src="/images/energy_innovation/david-yau_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
 
 **Prof David Yau,**  
 Information Systems Technology and Design  
