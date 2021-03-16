@@ -238,7 +238,7 @@ Visit to ERI@N's Labs -</strong><br/>
 <table>
     <tr>
         <td rowspan="2" style="vertical-align: top; text-align: center;">
-            test
+            <img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong-0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
             test
