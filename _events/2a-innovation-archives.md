@@ -6,7 +6,7 @@ third_nav_title: Energy Innovation
 # Energy Innovation 2016
 
 ## Energy Innovation   
-![Energy Innovation 2016, 03 June 2016 Suntec Singapore Convention and Exhibition Centre](/images/energy_innovation/header-img-1.png]
+![Energy Innovation 2016, 03 June 2016 Suntec Singapore Convention and Exhibition Centre](/images/energy_innovation/header-img-1.png)
 
 ### Overview  
 The Energy Innovation 2016 is a platform that aims to encourage collaborations between industry, researchers and government, and grow key local capabilities in priority areas to meet Singapore’s energy and low carbon objectives. Energy industry captains, researchers and academics will exchange knowledge and views about cutting-edge energy technologies and commercialisation strategies to translate these technologies to application.
@@ -227,10 +227,10 @@ _Lead Agency: NEA_
     </tbody>
 </table>
 
-<a id="2016-track-2" href=""></a>
+<a id="2016-track-3" href=""></a>
 **Track 3 - Smart Grids & Solar Forecasting**  
 _Building a resilient future grid_  
-_Lead Agency: EMA  
+_Lead Agency: EMA_  
 <table>
     <thead>
         <tr>
@@ -339,7 +339,7 @@ _Lead Agency: NCCS_
 </table>
 
 <a id="2016-track-5" href=""></a>
-**Track 4 - Future of e-Mobility**  
+**Track 5 - Future of e-Mobility**  
 _Electrifying Singapore's vehicular fleet_  
 _Lead Agency: LTA_  
 <table>
@@ -430,7 +430,7 @@ _Lead Agency: EMA_
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                XXX
+                3:30pm
             </td>
             <td style="vertical-align: top;">
                 <strong>Cloud Imaging Using Ground-based Whole Sky Imager</strong><br/>
@@ -449,6 +449,8 @@ _Lead Agency: EMA_
         </div>
         <img alt="Energy Market Authority" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
     </div>
+</div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
     <div style="float: left;">
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             PARTICIPATING PARTNERS
