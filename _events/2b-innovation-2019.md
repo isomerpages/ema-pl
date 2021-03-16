@@ -159,6 +159,31 @@ Visit to ERI@N's Labs -</strong><br/>
 
 
 ### Plenary Session
+<table>
+    <tr>
+        <td style="vertical-align: top; text-align: center;">
+            <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam_khin_yong.jpg" style="border-radius: 50%; border: 10px solid #fff; height: 250px; width: 250px;" />
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Professor Lam Khin Yong,</strong><br/>
+            Vice President (Research)<br/>
+            Nanyang Technological University Singapore<br/>
+
+            <p>Professor Lam Khin Yong is Vice President (Research) at Nanyang Technological University (NTU) Singapore. In this position since 2014, he drives NTU's collaborations with major industry and academic partners, including setting up of Corporate Laboratories with companies such as Rolls-Royce, ST Engineering and Singtel, and growing NTU's joint research programmes with global top universities through the National Research Foundation's Campus for Research Excellence and Technological Enterprise (CREATE) initiative.</p>
+
+            <p>In his previous role as Associate Provost, he spearheaded joint research programmes with top universities globally, including the Technical University of Munich, the University of Cambridge and The Hebrew University of Jerusalem.</p>
+
+            <p>Professor Lam has held many key academic, research and administrative appointments, and currently serves on the International Advisory Board of Innovation Cooperation Center (Bangkok) (ICCB) of the Chinese Academy of Sciences (CAS).</p>
+
+            <p>He is also the recipient of the National Order of the Legion of Honour (Chevalier), France, the Singapore Distinguished Service Award from the National Supercomputing Centre Singapore and Singapore's President's Science and Technology Medal (PSTM), for his contributions to fostering collaborations between academia and industry.</p>
+
+            <p>He is currently holding directorships in various entities such as IPI Singapore and NTUitive Pte Ltd. He obtained his BSc with First Class Honours in Mechanical Engineering from Imperial College London and his Master's and PhD from the Massachusetts Institute of Technology. He holds an Honorary Professorship Diploma, the highest honour and recognition, from the Lomonosov Moscow State University, one of the top universities in Russia.</p>
+        </td>
+    </tr>
+</table>
+
+
+
 
 <div style="text-align: center; left-margin: auto; right-margin: auto;">
     Organised by<br/>
