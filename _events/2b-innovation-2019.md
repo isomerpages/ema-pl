@@ -111,7 +111,7 @@ third_nav_title: Energy Innovation
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                1.00 AM
+                1.00 PM
             </td>
             <td style="vertical-align: top;">
                 <strong>Session II</strong><br/>
@@ -131,7 +131,7 @@ third_nav_title: Energy Innovation
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                3.00 AM
+                3.00 PM
             </td>
             <td style="vertical-align: top;">
                 <strong>Tour of NTU Facilities (limited seats available)
