@@ -57,7 +57,9 @@ Simply click the ‘Start Powering’ button to deposit your resume, indicate yo
 
 &nbsp;
 
-<div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
+<a id="NearHyperLinkLoginSingPass"></a>
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+    <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
         <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
             To apply, please login to Powering Lives portal with your Singpass
         </span>
@@ -66,3 +68,4 @@ Simply click the ‘Start Powering’ button to deposit your resume, indicate yo
             <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg" style="width: 200px; margin-top: 20px;"/>
         </a>
     </div>
+</div>
