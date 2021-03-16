@@ -566,9 +566,9 @@ Prof. Sekhar’s research interests include thermal comfort, ventilation and IAQ
 He has been an ASHRAE Distinguished Lecturer since 2006 and is regularly invited as a speaker around the world. He is a co-recipient of The Enterprise Challenge award of the Prime Minister’s Office, Singapore in 2004 and ASEAN Energy Award in 2011. Prof. Sekhar is active in several technical committees in ASHRAE and has been recognised with several awards from ASHRAE.
 
 <img alt="Mrs. Tam Li Phin" src="/images/energy_innovation/tam-li-phin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
-Mrs. Tam Li Phin
-Director, Environmental & Water Technology, Centre of Innovation
-Ngee Ann Polytechnic
+Mrs. Tam Li Phin  
+Director, Environmental & Water Technology, Centre of Innovation  
+Ngee Ann Polytechnic  
 
 Since taking over leadership of the Environmental & Water Technology, Centre of Innovation (EWTCOI) at Ngee Ann Polytechnic (NP), Mrs. Tam Li Phin has re-vamped the business model and grown the staff strength from a 6-member team to the present 42-member team. Its key mission is to help SMEs adopt innovative technologies and move up the technology value chain.
 
