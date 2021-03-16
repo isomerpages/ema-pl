@@ -740,7 +740,7 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
 ## Energy Connect   
 ![Energy Connect 2016, As part of the Energy Innovation 2016, the Energy Connect is a student programme that aims to engage our next-generation innovators and educators through a suite of programmes, including the "Sembcorp-EMA Energy Challenge", Energy Connect Seminar and an exhibition."](/images/energy_innovation/header-img-2.png)
 
-### Overview
+### OVERVIEW
 
 **SEMBCORP-EMA ENERGY CHALLENGE (SEEC)**  
 Jointly organised by Sembcorp Industries and Energy Market Authority
