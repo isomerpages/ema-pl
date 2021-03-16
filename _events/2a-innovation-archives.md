@@ -566,7 +566,7 @@ Prof. Sekhar’s research interests include thermal comfort, ventilation and IAQ
 He has been an ASHRAE Distinguished Lecturer since 2006 and is regularly invited as a speaker around the world. He is a co-recipient of The Enterprise Challenge award of the Prime Minister’s Office, Singapore in 2004 and ASEAN Energy Award in 2011. Prof. Sekhar is active in several technical committees in ASHRAE and has been recognised with several awards from ASHRAE.
 
 <img alt="Mrs. Tam Li Phin" src="/images/energy_innovation/tam-li-phin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
-Mrs. Tam Li Phin  
+**Mrs. Tam Li Phin**  
 Director, Environmental & Water Technology, Centre of Innovation  
 Ngee Ann Polytechnic  
 
@@ -575,6 +575,81 @@ Since taking over leadership of the Environmental & Water Technology, Centre of 
 The Centre possesses multi-disciplinary capabilities ranging from environmental & water engineering, chemical engineering, mechanical engineering, to electrical engineering. The Centre has also developed platform capabilities in Membrane technology, Energy Efficiency Technology, Industrial Water Technology and Sustainable Materials Technology. Thus far, the 10 year-old Centre has received some S$36 million in funding from 2006 to 2019. It has filed some 15 patents in various fields of work, lodged more than 20 knowhows and trade secrets, secured some 330 industry projects and generated revenue of S$17 million.
 
 Prior to her current role, Mrs. Tam managed the Environmental & Water Pollution Diploma programme in NP for 15 years and was Director (IPAM) at the Civil Service College.
+
+### Track 3 - Smart Grids & Solar Forecasting
+
+<img alt="Mr. Ng Kok Wan" src="/images/energy_innovation/ng-kok-wan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Ng Kok Wan**  
+Assistant Chief Executive (International Services)  
+Intellectual Property Office of Singapore (IPOS) and Executive Director IPOS-I  
+
+Mr. Ng Kok Wan is responsible for the establishment and development of Singapore's indigenous patent search and examination capability. In the space of three years, Mr. Ng had raised the Intellectual Property Office of Singapore (IPOS) S&E Unit (Patent Search & Examination), which turned operational as an International Searching Authority (ISA) / (IPEA) under the Patent Cooperation Treaty on 1 September 2015.
+
+Mr. Ng now drives efforts in the young and rapidly growing office to achieve world-class patent examination quality and to fashion imaginative and value-added patent services for user community in Singapore and the world beyond. Prior to IPOS, Mr. Ng was a Colonel in the Singapore Army, where he last served as the Head of Army Research & Technology.
+
+<img alt="Mr. Lim Soon Chia" src="/images/energy_innovation/lim-soon-chia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Lim Soon Chia**  
+Director (Technology) 
+Cyber Security Agency of Singapore 
+
+In his current role, Mr. Lim Soon Chia is responsible for capability development, evaluation and certification, and technology management for cyber security. Under his portfolio, he is also leading the effort of ‘security-by-design’, to institutionalise the best practice of incorporating cyber security consideration upfront in the design of networked systems.
+
+<img alt="Mr. Lim Chih Shoong" src="/images/energy_innovation/lim-chih-shoong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Lim Chih Shoong**  
+Managing Director, ASEAN Smart Grid Services Lead  
+Accenture  
+
+Mr. Lim Chih Shoong has more than 15 years of experience in the Resources industry ranging from oil and gas majors, mining to utilities. Some of his past experiences include Singapore’s Smart Grid Pilot IES, Enterprise Asset Management and Digital Grid transformation projects.
+
+He has led numerous digital transformation workshops for the Utilities around the region, helping customer explore the art of the possible and to understand the organisation transformations required to manage the transition. This includes video analytics, use of drones and Network Operating Centres.
+
+Mr. Lim also has the unique experience to work at projects in Russia, South Africa, Manila, Pakistan, Vietnam, etc and brings global content together with digital technologies for businesses.
+
+<img alt="Dr. Ashwin M. Khambadkone" src="/images/energy_innovation/ashwin-khambadkone.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Ashwin M. Khambadkone**  
+Associate Professor, Department of Electrical and Computer Engineering  
+National University of Singapore  
+
+Associate Professor Ashwin M. Khambadkone’s current areas of research are distributed-energy-resource networks, renewable energy sources, control of power-electronics-based energy systems. Assoc. Prof. Khambadkone was the recipient of the Outstanding Paper Award in 1991 and the Best Paper Award in 2002 from the IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, the Prize Paper Award from the IEEE Industry Applications Society Industrial Power Converter Committee in 2005, and the Outstanding Educator Award in 2008 from the National University of Singapore.
+
+He was the Programme Manager for A*STAR’s Intelligent Energy Distribution Systems (IEDS) Thematic Strategic Research Programme in June 2008. He is also the Principal Investigator of the Modular Distributed Energy Resource Network (MODERN) IEDS project.
+
+<img alt="Dr. Sue Ellen Haupt" src="/images/energy_innovation/sue-ellen-haupt.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Sue Ellen Haupt**  
+Director, Weather Systems & Assessment Program, Research Applications Laboratory  
+National Center for Atmospheric Research  
+
+Dr. Sue Ellen Haupt is an expert in meteorology applied to renewable energy, boundary layer meteorology, large scale atmospheric dynamics, dynamical systems, numerical methods, artificial intelligence methods, and computational fluid dynamics. Dr. Haupt has authored and edited several books and published numerous journal articles on these topics.
+
+Dr. Haupt also serves as Director of Education and Outreach for the World Energy and Meteorology Council, Adjunct Professor of Meteorology at The Pennsylvania State University, and a Councillor for the American Meteorological Society.
+
+<img alt="Dr. Felicia Shaw" src="/images/energy_innovation/felicia-shaw.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Felicia Shaw**  
+Director, Risk & Resource Department  
+Meteorological Service Singapore  
+
+Dr. Felicia Shaw is Director of the Risk & Resource Department of the Meteorological Service Singapore, which develops specialised meteorological applications and conducts natural hazard assessments for government and industry. She has previously held policy and technology portfolios within Singapore’s Ministry of the Environment and Water Resources, the Ministry of Trade & Industry, the Centre for Climate Research Singapore and the Public Utilities Board. Dr. Shaw is also an Adjunct Fellow of the Energy Studies Institute at the National University of Singapore and a Fellow of the Geological Society of London.
+
+<img alt="Dr. Wilfred Walsh" src="/images/energy_innovation/wilfred-walsh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Wilfred Walsh**  
+Research and Business Development Executive  
+Solar Energy Research Institute of Singapore  
+
+Dr. Wilfred Walsh is a physicist and astronomer working in the new field of energy meteorology, which aims to quantify renewable energy resources and facilitate the large scale deployment of sustainable energy sources. Currently, his work focuses on solar irradiance forecasting and grid management for cities with high penetration levels of solar photovoltaic electricity generation.
+
+<img alt="Dr. Stefan Winkler" src="/images/energy_innovation/stefan-winkler.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Stefan Winkler**  
+Principal Research Scientist  
+Advanced Digital Sciences Centre  
+
+Prior to his current position, Dr. Stefan Winkler co-founded Genista, worked for a Silicon Valley company, and held faculty positions at the National University of Singapore and the University of Lausanne, Switzerland. Dr. Winkler has published over 100 papers and the book "Digital Video Quality" (Wiley). He is an Associate Editor of the IEEE Transactions on Image Processing, a member of the IVMSP Technical Committee of the IEEE Signal Processing Society, and Chair of the IEEE Singapore Signal Processing Chapter. He has also served on the technical program committees of numerous conferences and workshops, including several times as area chair of ICIP and ICME. He has contributed to video quality standards in VQEG, ITU, ATIS, VSF, and SCTE. His research interests include video processing, computer vision, perception, and human-computer interaction.
+
+<img alt="Dr. Jason Lai" src="/images/energy_innovation/jason-lai.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Jason Lai**  
+Visiting Professor, School of Electrical & Electronic Engineering, College of Engineering  
+Nanyang Technological University  
+
+
 
 &nbsp;
 
