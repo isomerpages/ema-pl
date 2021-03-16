@@ -238,6 +238,19 @@ Visit to ERI@N's Labs -</strong><br/>
 <table>
     <tr>
         <td rowspan="2" style="vertical-align: top; text-align: center;">
+            test
+        </td>
+        <td style="vertical-align: top;">
+            test
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;">
+            test
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" style="vertical-align: top; text-align: center;">
             <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
