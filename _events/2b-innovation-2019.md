@@ -3,7 +3,7 @@ title: 2019
 permalink: /events/energy-innovation/2019
 third_nav_title: Energy Innovation
 ---
-<div style="width: 100%;>
+<div style="width: 100%;">
     <img src="/images/energy_innovation/energy-innovation-banner-1190x360.png" alt="Energy Innovation 2019"/>
     <div style="text-align: center; font-family: 'Arial Black' Arial Sans-serif; font-weight: 900; font-size: 1em; background-image: linear-gradient( rgb( 79, 176, 227 ), rgb( 56, 72, 158 ) ); color: #fff; padding: 15px 0; ">
         NANYANG EXECUTIVE CENTRE AUDITORIUM, NANYANG TECHNOLOGICAL UNIVERSITY | 28 MAY 2019
