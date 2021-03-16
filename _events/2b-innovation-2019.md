@@ -161,39 +161,52 @@ Visit to ERI@N's Labs -</strong><br/>
 ### Plenary Session
 <table>
     <tr>
-        <td style="vertical-align: top; text-align: center;">
+        <td rowspan="2" style="vertical-align: top; text-align: center;">
             <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
             <strong>Professor Lam Khin Yong,</strong><br/>
             Vice President (Research)<br/>
-            Nanyang Technological University Singapore<br/>
-
-            <p>Professor Lam Khin Yong is Vice President (Research) at Nanyang Technological University (NTU) Singapore. In this position since 2014, he drives NTU's collaborations with major industry and academic partners, including setting up of Corporate Laboratories with companies such as Rolls-Royce, ST Engineering and Singtel, and growing NTU's joint research programmes with global top universities through the National Research Foundation's Campus for Research Excellence and Technological Enterprise (CREATE) initiative.</p>
-
-            <p>In his previous role as Associate Provost, he spearheaded joint research programmes with top universities globally, including the Technical University of Munich, the University of Cambridge and The Hebrew University of Jerusalem.</p>
-
-            <p>Professor Lam has held many key academic, research and administrative appointments, and currently serves on the International Advisory Board of Innovation Cooperation Center (Bangkok) (ICCB) of the Chinese Academy of Sciences (CAS).</p>
-
-            <p>He is also the recipient of the National Order of the Legion of Honour (Chevalier), France, the Singapore Distinguished Service Award from the National Supercomputing Centre Singapore and Singapore's President's Science and Technology Medal (PSTM), for his contributions to fostering collaborations between academia and industry.</p>
-
-            <p>He is currently holding directorships in various entities such as IPI Singapore and NTUitive Pte Ltd. He obtained his BSc with First Class Honours in Mechanical Engineering from Imperial College London and his Master's and PhD from the Massachusetts Institute of Technology. He holds an Honorary Professorship Diploma, the highest honour and recognition, from the Lomonosov Moscow State University, one of the top universities in Russia.</p>
+            Nanyang Technological University Singapore
         </td>
     </tr>
+        <td style="vertical-align: top;">
+            <p>
+                Professor Lam Khin Yong is Vice President (Research) at Nanyang Technological University (NTU) Singapore. In this position since 2014, he drives NTU's collaborations with major industry and academic partners, including setting up of Corporate Laboratories with companies such as Rolls-Royce, ST Engineering and Singtel, and growing NTU's joint research programmes with global top universities through the National Research Foundation's Campus for Research Excellence and Technological Enterprise (CREATE) initiative.
+            </p>
+            <p>
+                In his previous role as Associate Provost, he spearheaded joint research programmes with top universities globally, including the Technical University of Munich, the University of Cambridge and The Hebrew University of Jerusalem.
+            </p>
+            <p>
+                Professor Lam has held many key academic, research and administrative appointments, and currently serves on the International Advisory Board of Innovation Cooperation Center (Bangkok) (ICCB) of the Chinese Academy of Sciences (CAS).
+            </p>
+            <p>
+                He is also the recipient of the National Order of the Legion of Honour (Chevalier), France, the Singapore Distinguished Service Award from the National Supercomputing Centre Singapore and Singapore's President's Science and Technology Medal (PSTM), for his contributions to fostering collaborations between academia and industry.
+            </p>
+            <p>
+                He is currently holding directorships in various entities such as IPI Singapore and NTUitive Pte Ltd. He obtained his BSc with First Class Honours in Mechanical Engineering from Imperial College London and his Master's and PhD from the Massachusetts Institute of Technology. He holds an Honorary Professorship Diploma, the highest honour and recognition, from the Lomonosov Moscow State University, one of the top universities in Russia
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" style="vertical-align: top; text-align: center;">
+            <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+        </td>
+        <td style="vertical-align: top;">
+            <strong>Dr. Raymond Byrne,</strong><br/>
+            Manager, Electric Power System Research Department<br/>
+            Sandia National Labs
+        </td>
+    </tr>
+    </tr>
+        <td style="vertical-align: top;">
+            <p>
+                Ray Byrne is the manager of the Electric Power System Research Department at Sandia National Laboratories, where he has been employed since 1989. Prior to serving as manager, he was a Distinguished Member of the Technical Staff. He completed a B.S. in electrical engineering at the University of Virginia, an M.S. in electrical engineering at the University of Colorado, and a Ph.D. in electrical engineering at the University of New Mexico. He also completed an M.S. in financial mathematics (financial engineering) at the University of Chicago. He currently serves as team lead of the Equitable Regulatory Environment thrust area of the Sandia energy storage program. Awards include Time Magazine invention of the year in robotics in 2001, as well as the Prize paper award at the 2016 IEEE Power and Energy Society General Meeting for a paper on maximizing revenue from energy storage in grid applications. He is a member of Tau Beta Pi, Eta Kappa Nu, and Sigma Xi. He was elevated to IEEE Fellow in 2017 for contributions to miniature robotics and grid integration of energy storage.
+            </p>
+        </td>
+    </tr>
+
 </table>
-
-<div style="display: table;">
-    <div style="float: left; display: table-cell; vertical-align: middle;">
-        <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
-    </div>
-    <div style="float: left; display: table-cell; vertical-align: middle;">
-        <strong>Dr. Raymond Byrne,</strong><br/>
-        Manager, Electric Power System Research Department<br/>
-        Sandia National Labs<br/>
-    </div>
-</div>
-
-Ray Byrne is the manager of the Electric Power System Research Department at Sandia National Laboratories, where he has been employed since 1989. Prior to serving as manager, he was a Distinguished Member of the Technical Staff. He completed a B.S. in electrical engineering at the University of Virginia, an M.S. in electrical engineering at the University of Colorado, and a Ph.D. in electrical engineering at the University of New Mexico. He also completed an M.S. in financial mathematics (financial engineering) at the University of Chicago. He currently serves as team lead of the Equitable Regulatory Environment thrust area of the Sandia energy storage program. Awards include Time Magazine invention of the year in robotics in 2001, as well as the Prize paper award at the 2016 IEEE Power and Energy Society General Meeting for a paper on maximizing revenue from energy storage in grid applications. He is a member of Tau Beta Pi, Eta Kappa Nu, and Sigma Xi. He was elevated to IEEE Fellow in 2017 for contributions to miniature robotics and grid integration of energy storage.
 
 
 
