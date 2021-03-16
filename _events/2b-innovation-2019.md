@@ -10,6 +10,11 @@ third_nav_title: Energy Innovation
     </div>
 </div>
 
+* [Programme Overview](#programme-overview) 
+* [Plenary Session](#plenary-session)
+* [Session I](#session-one)
+
+<a id="programme-overview" href=""></a>
 ### Programme Overview
 <table>
     <thead>
@@ -162,7 +167,7 @@ Visit to ERI@N's Labs -</strong><br/>
     </tbody>
 </table>
 
-
+<a id="plenary-session" href=""></a>
 ### Plenary Session
 
 <img alt="Professor Lam Khin Yong" src="/images/energy_innovation/lam-khin-yong.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
@@ -205,7 +210,7 @@ As Head of Business Development & Industrial Products for Tesla Energy, Lara is 
 
 Before joining Tesla, Lara was Head of Strategy at CitiPower Powercor and was Head of Strategy at the Australian Renewable Energy Agency. She also spent 7 years at The Boston Consulting Group in Australia and Europe and co-founded Billcap, an energy software-as-a-service company. Lara has an MBA from INSEAD, and a B.Eng/Arts from Melbourne University and Tokyo Institute of Technology.
 
-
+<a id="session-one" href=""></a>
 ### Session I  
 
 <img alt="Chang Sau Sheong" src="/images/energy_innovation/chang-sau-sheong_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; max-width: 250px;" />
