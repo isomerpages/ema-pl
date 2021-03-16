@@ -801,4 +801,148 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
 
 \* All SEEC participants will participate in the Energy Connect Seminar
 
+### EX SEMINAR PROGRAMME
 
+**PROGRAMME AT A GLANCE**  
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th style="text-align: center;">Programmes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                1:00pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>
+                    Registration<br/>
+                    Networking Lunch and Exhibition Viewing
+                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                2:00pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Building a Career in the Power Sector</strong><br/>
+                Mr. Kwong Kok Chan, Deputy General Manager (Maintenance), PacificLight Power
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                2:25pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Power Sector - A Sector without Sunset</strong><br/>
+                Mr. Lim Zi Yang, Senior Engineer, Power Operations, Sembcorp Industries
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                2:45pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Energy-Industry Scholarship - A Key to Powering Your Future</strong><br/>
+                Mr. Tay Wei Jia, Energy-Industry Scholarship Scholar, Singapore Power
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                3:05pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Key Attributes of a Successful Technical Professional</strong><br/>
+                Ms. Crystal Lim Leahy, Director, Centre for Future-Ready Graduates, National University of Singapore
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                3:25pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>
+                    Sembcorp-EMA Energy Challenge Prize Presentation Ceremony<br/>
+                    Powering Lives Challenge Prize Presentation Ceremony
+                </strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                3:40
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Networking Session</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                4:30pm
+            </td>
+            <td style="vertical-align: top;">
+                <strong>End of Event</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### SPEAKERS
+
+<img alt="Mr. Kwong Kok Chan" src="/images/energy_innovation/kwong-kok-chan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Kwong Kok Chan**  
+Deputy General Manager (Maintenance)  
+PacificLight Power  
+
+Mr. Kwong Kok Chan headed the Instrumentation and Control Section of Senoko Power Station for 14 years from 1988 to2002. He became Vice President of Information Systems from 2002 to2005. From 2009 to2012, he was a member of the Repowering Team interfacing with international lenders and consultants. Mr. Kwong is currently with PacificLight Power as its Head of Maintenance.
+
+Mr. Kwong was awarded the EcoFriend Award by the National Environment Agency in 2007 and the Watermark Award by the Public Utilities Board in 2010. Currently, he is a member of the Technical Committee of Singapore Institute of Power & Gas, and is involved in the development of curriculum for technical personnels aspiring to seek career advancement in the Power sector.
+
+Mr. Kwong was also the President of the Instrumentation & Control Society of Singapore from 2010 to2014. He was the author of over 10 technical papers presented at regional forums.
+
+<img alt="Mr. Lim Zi Yang" src="/images/energy_innovation/lim-zi-yang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Lim Zi Yang**  
+Senior Engineer, Power Operations  
+Sembcorp Industries  
+
+Mr. Lim Zi Yang is responsible for handling operational matters at Sembcorp Cogen, a combined power and steam generation plant located on Jurong Island, the petrochemical hub in Singapore.
+
+Prior to taking on his current role, Mr. Lim was stationed at the Sembcorp Woodchip Boiler Plant, a pioneering renewable energy plant on Jurong Island, where he managed plant operations, troubleshooting and process optimisation. He was also involved in managing a team of technicians, as well as the plant’s running costs and budgets.
+
+In his free time, Mr. Lim enjoys sports. He is active in the company’s staff recreation club, where he has coordinated the company’s representation at sports tournaments and organised various company-wide activities to boost staff welfare and health.
+
+<img alt="Mr. Tay Wei Jia" src="/images/energy_innovation/tay-wei-jia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Tay Wei Jia**  
+Energy-Industry Scholarship Scholar  
+Singapore Power  
+
+Mr. Tay Wei Jia is a final-year undergraduate pursuing Electrical Engineering at the National University of Singapore. He was awarded the Mid-Term Energy-Industry Scholarship by Singapore Power (SP) in 2014. He witnessed the dedication and professionalism of engineers and technical staff that work round the clock to keep the lights on and develop sustainable energy solutions during his internship at SP. Upon graduating, he will be joining SP’s Engineering Development for GraduatEs (EDGE) Programme which comprises structured training, job rotations to critical operational areas and support for professional engineering accreditation.
+
+<img alt="Ms. Crystal Lim Leahy" src="/images/energy_innovation/crystal-lim-leahy.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Ms. Crystal Lim Leahy**  
+Director,  
+Centre for Future-Ready Graduates  
+National University of Singapore  
+
+Ms. Crystal Lim Leahy focuses on assisting students in developing their fullest potential and prepares them for their future careers. In January 2016, she pioneered Roots & Wings, a ground-breaking module that helps students discover their own potential, develop a growth mind-set and hone their interpersonal skills.
+
+Prior to her current role at the National University of Singapore, Ms. Lim Leahy founded innovative holistic education start-up Legacy Retreat, and played active advisory roles in diverse sectors from finance to holistic education and human capital. She is also a passionate and dedicated young philanthropist raising funds for a wide variety of causes ranging from autism, mindfulness, hospice care to the arts.
+
+<div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
+    <div style="float: left;">
+        <div style="margin-left: auto; margin-right:auto; width: fit-content;">
+            ORGANISED BY
+        </div>
+        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
+    </div>
+</div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
+    <div style="float: right;">
+        <div style="margin-left: auto; margin-right:auto; width: fit-content;">
+            SEEC PARTNER
+        </div>
+        <img alt="Sembcorp" src="/images/energy_innovation/img-ec-seec.png" style="width: 160px; height: 60px;" />
+    </div>
+</div>
