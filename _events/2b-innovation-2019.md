@@ -281,7 +281,7 @@ Visit to ERI@N's Labs -</strong><br/>
     </tr>
         <tr>
         <td rowspan="2" style="vertical-align: top; text-align: center;">
-            <img alt="Dr. Raymond Byrne" src="/images/energy_innovation/raymond-byrne.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
+            <img alt="Prof David Yau" src="/images/energy_innovation/david-yau_0.jpg" style="border-radius: 50%; border: 10px solid #fff; min-width: 250px; min-height: 250px; " />
         </td>
         <td style="vertical-align: top;">
             <strong>Prof David Yau,</strong><br/>
@@ -301,7 +301,7 @@ Visit to ERI@N's Labs -</strong><br/>
     </tr>
 </table>
 
-* Speakers are subject to change.
+\* Speakers are subject to change.
 
 &nbsp;
 
