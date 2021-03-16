@@ -534,6 +534,47 @@ As CTO, he also provides strategic, integrative leadership to the development of
 
 Mr. Pang was Director, Digital Economy at the National Research Foundation, where he set up the Digital Economy Research Directorate and coordinated the overall development of the Services & Digital Economy R&D agenda for Singapore, under the current five-year Research, Innovation & Enterprise 2020 plan.
 
+### Track 2 - Green Buildings Technologies
+
+<img alt="Prof. Lam Khee Poh" src="/images/energy_innovation/lam-khee-poh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Prof. Lam Khee Poh**  
+Center for Building, Performance and Diagnostics, School of Architecture  
+Carnegie Mellon University  
+
+Prof. Lam is an educator, researcher, architect and consultant who specialises in life cycle building information modelling and computational design support systems for total building performance analysis and building diagnostics. He serves on the Editorial Boards of the Journal of Building Performance Simulation, (Taylor and Francis, UK), and Building Simulation: An International Journal (Springer and Tsinghua University Press). He is a member of the Energy Foundation Board of Directors and works on a range of activities including green building codes and standards, education and training, as well as sustainable design demonstration projects in China.
+
+He is also a building performance consultant for several major award winning projects in Singapore, China and the USA. He is currently Visiting Professor at the School of Architecture, Chinese University of Hong Kong, and the National University of Singapore.
+
+<img alt="Assoc. Prof. Tseng King-Jet" src="/images/energy_innovation/tseng-king-jet.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Assoc. Prof. Tseng King-Jet**  
+SinBerBEST, Program Co-Leader  
+Nanyang Technological University  
+
+Born and grew up in Singapore, King-Jet received B.Eng. (First Class) and M.Eng. from National University of Singapore, and Ph.D. from Cambridge University in England. He has more than twenty years of academic, research, industrial and professional experience in electrical power and energy systems.
+
+He has undertaken numerous contract research projects for major corporations and has been holding key advisory appointments in both public and private sectors in Singapore. He has published over hundred technical papers, and actively reviews and edits papers for major international journals and conferences.
+
+He has been the academic Head of Power Engineering at Nanyang Technological University, and is currently the Program Co-Director for Singapore-Berkeley Building Efficiency and Sustainability in the Tropics research program (SinBerBEST) of NRF-CREATE and the Program Principal Investigator for Rolls-Royce@NTU Corporate Lab. He is also the Board Member of Singapore Green Building Council and has founded spin-off companies from his research.
+
+<img alt="Prof. Chandra Sekhar" src="/images/energy_innovation/chandra-sekhar.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Prof. Chandra Sekhar**  
+Co-Director, CiBEST, Department of Building  
+National University of Singapore  
+
+Prof. Sekhar’s research interests include thermal comfort, ventilation and IAQ, energy efficient ACMV systems and building energy analysis. He is a co-inventor and holds three US and other patents in the area of energy efficient air-conditioning system with zonal ventilation control for enhanced indoor air quality. Prof. Sekhar is a Fellow of the American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) and a Fellow of the International Society of Indoor Air Quality and Climate.
+
+He has been an ASHRAE Distinguished Lecturer since 2006 and is regularly invited as a speaker around the world. He is a co-recipient of The Enterprise Challenge award of the Prime Minister’s Office, Singapore in 2004 and ASEAN Energy Award in 2011. Prof. Sekhar is active in several technical committees in ASHRAE and has been recognised with several awards from ASHRAE.
+
+<img alt="Mrs. Tam Li Phin" src="/images/energy_innovation/tam-li-phin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+Mrs. Tam Li Phin
+Director, Environmental & Water Technology, Centre of Innovation
+Ngee Ann Polytechnic
+
+Since taking over leadership of the Environmental & Water Technology, Centre of Innovation (EWTCOI) at Ngee Ann Polytechnic (NP), Mrs. Tam Li Phin has re-vamped the business model and grown the staff strength from a 6-member team to the present 42-member team. Its key mission is to help SMEs adopt innovative technologies and move up the technology value chain.
+
+The Centre possesses multi-disciplinary capabilities ranging from environmental & water engineering, chemical engineering, mechanical engineering, to electrical engineering. The Centre has also developed platform capabilities in Membrane technology, Energy Efficiency Technology, Industrial Water Technology and Sustainable Materials Technology. Thus far, the 10 year-old Centre has received some S$36 million in funding from 2006 to 2019. It has filed some 15 patents in various fields of work, lodged more than 20 knowhows and trade secrets, secured some 330 industry projects and generated revenue of S$17 million.
+
+Prior to her current role, Mrs. Tam managed the Environmental & Water Pollution Diploma programme in NP for 15 years and was Director (IPAM) at the Civil Service College.
 
 &nbsp;
 
