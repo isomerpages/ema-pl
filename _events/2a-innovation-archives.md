@@ -710,7 +710,7 @@ STEPS TO REGISTER
 * Please indicate clearly in the "Remarks" column on the track(s) that you would like to attend. For example, if you would like to join "Track 1 - Waste Management" and "Track 4 - Energy Modelling", please indicate "Track 1 and Track 4" in the "Remarks" column.
 * Each participant is encouraged to select one track in the morning and one track in the afternoon.
 * Upon the confirmation of your registration, you will receive an acknowledgement email from the event organiser.
-For enquiries on event registration, please email < ahref="mailto:EMA_IndustryPromotion@ema.gov.sg">EMA_IndustryPromotion@ema.gov.sg</a> or contact Ms Tan Pei Boon (6376 7870) or Ms Eden Hong (6376 7879)
+For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov.sg](mailto:EMA_IndustryPromotion@ema.gov.sg) or contact Ms Tan Pei Boon (6376 7870) or Ms Eden Hong (6376 7879)
 
 <strong style="color: red;">Note: Registration is closed.</strong>
 
