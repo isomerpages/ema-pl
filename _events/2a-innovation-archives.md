@@ -649,6 +649,41 @@ Prior to his current position, Dr. Stefan Winkler co-founded Genista, worked for
 Visiting Professor, School of Electrical & Electronic Engineering, College of Engineering  
 Nanyang Technological University  
 
+### Track 4 - Energy Modelling
+
+<img alt="Dr. Gabrial Anandarajah" src="/images/energy_innovation/gabrial-anandarajah.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Gabrial Anandarajah**  
+Senior Lecturer, Energy Systems Modelling  
+United College London, UK  
+
+Prior to joining UCL Energy Institute, Dr. Gabrial Anandarajah worked for King’s College London and Asian Institute of Technology, Thailand. Gabrial is an expert in energy system modelling and policy analysis, carrying out energy and climate policy analysis at city, national, regional and global level. He has about 15 years of research experience.
+
+The Times Integrated Assessment Model (TIAM)-UCL, which is a multi-region global energy system model, has been successfully developed under his leadership under the UK Energy Research Centre Phase II project (2009-2014). Gabrial also carries out analysis to UK Government bodies such as Department of Energy and Climate Change and Committee on Climate Change. Gabrial’s research interests include energy system modelling at national, regional and global level, multi-criteria analysis (AHP), multi-objective energy system modelling, decomposition analysis, global technology learning, modelling unconventional gas, energy efficiency improvements in developing countries, and low-carbon technology pathways for developing countries.
+
+<img alt="Dr. Su Bin" src="/images/energy_innovation/su-bin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Dr. Su Bin**  
+Senior Fellow  
+Energy Studies Institute  
+
+Dr. Su Bin is Senior Fellow at the Energy Studies Institute (ESI), National University of Singapore (NUS). He leads the energy modelling programme in ESI, and is actively involved in energy modelling related projects commissioned by Government agencies in Singapore. He obtained his PhD in the Department of Industrial and Systems Engineering at the NUS. His main research interest is energy and environmental systems modelling and analysis, with particular emphasis on energy efficiency, climate change, embodied energy/emissions, benchmarking, carbon footprint, carbon pricing, emission trading and rebound effect. Dr. Su is presently Associate Editor of Energy Economics, Editorial Board Member of Reports on Economics and Finance, and Enviromental Economics Research, and reviewer for more than 40 international peer-reviewed journals.
+
+<img alt="Mr. Yann Grynberg" src="/images/energy_innovation/yann-grynberg.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Mr. Yann Grynberg**  
+Program Director, Sustainable Building Technologies  
+Energy Research @ NTU  
+
+Mr. Yann Grynberg is currently the Program Director for Sustainable Building Technologies and Comfort Program at ERI@N NTU. He has over 15 years of experience in the industry and worked for the last nine years in Japan and Singapore on projects related to sustainable construction at a French company Bouygues (top three in the world for construction). His aim, with the help of a RD&D team, is to test, demonstrate and deploy new innovative technologies and processes to allow new and existing buildings to reach the highest level of energy efficiency. His research interest includes modeling and simulation for building design, innovative cooling technologies, smart lighting systems and active facades. He was instrumental in facilitating the first 10 storey PPVC (Prefabricated Prefinished Volumetric Construction) building in Singapore, over the extension of the Crowne Plaza Hotel at Changi Airport.
+
+<img alt="Prof. Lee Dong-Yup" src="/images/energy_innovation/lee-dong-yup.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+**Prof. Lee Dong-Yup**  
+Assistant Professor, Department of Chemical and Biomolecular Engineering  
+National University of Singapore  
+
+Prof. Dong-Yup Lee has more than 10 years of strong research leadership experience that led to numerous insightful publications on optimisation applications in various fields, most notably in the area of software tool development and micro-grid scheduling. His main research interests focus on the application of systems engineering and integrative approaches to a variety of interesting systems, including chemical, biological, biomedical, pharmaceutical and nano/micro processes. He has around 10 patents and published about 100 research articles on these and other topics.
+
+
+
+
 
 
 &nbsp;
