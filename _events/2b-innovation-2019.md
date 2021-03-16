@@ -251,7 +251,7 @@ He serves as Associate Editor (AE) of IEEE Trans. Network Science and Engineerin
 
 &nbsp;
 
-<div style="text-align: center; left-margin: auto; right-margin: auto;">
+<div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
     Organised by<br/>
     <div style="float: left;">
         <img alt="Energy Market Authority" src="/images/energy_innovation/energy-market-authority.png" style="width: 200px; height: 90px;" />
