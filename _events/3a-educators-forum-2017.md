@@ -43,8 +43,8 @@ Synopsis: Find out how Queenstown Secondary School develops and implement ALP to
 ### Game-Based Learning: Discover “Energy” through Innovative Card Game  
 
 <div style="width: 100%;">
-    <img alt="Ms. Syuhaida Dol Mat" src="/images/educators-forum/eefcatholichighsyuhaidalowres.jpg" style="display: inline-block; max-width: 288px; float: left;" />
-    <img alt="Mr. Winfred Oh" src="/images/educators-forum/eefwinfredohcatholichighlowres.jpg" style="display: inline-block; max-width: 288px; float: left;" />
+    <img alt="Ms. Syuhaida Dol Mat" src="/images/educators-forum/eefcatholichighsyuhaidalowres.jpg" style="display: inline-block; max-width: 288px;" />
+    <img alt="Mr. Winfred Oh" src="/images/educators-forum/eefwinfredohcatholichighlowres.jpg" style="display: inline-block; max-width: 288px;" />
 </div>
 _Ms. Syuhaida Dol Mat (Geography teacher) and Mr. Winfred Oh (Geography teacher), Catholic High School_  
 Synopsis: Find out about Catholic High's experience in developing their award wining energy card game - "Sovereign City" to cultivate student's interest in energy.
