@@ -30,7 +30,7 @@ Youth@SIEW also features exhibitions that showcase energy-related innovations by
 ### ITE College East
 **EnergICE**   
 
-**Summary of project **  
+**Summary of project**  
 This project aims to leverage the difference in electricity prices at night and harness this energy to be used in the daytime. EnergICE is a new concept of energy storage, in which thermal energy is “stored” in cool/ frozen fluids that can then be channelled back into the air-conditioning system during the day, when electricity rates are higher
 
 <a href="/files/[E-Poster]%20ITE%20College%20East_EnergICE.pdf" target="_blank">Click here to view the project poster</a>  
@@ -95,7 +95,7 @@ This project aims to develop an intelligent system to help consumers save water 
 **Summary of project**  
 The project team aims to design, build and operate energy efficient vehicles that are sustainable. 
 
-<a href="/files/[E-Poster]%20Nanyang%20Technological%20University_Nanyang%20Venture%2011.pdf?ver=2020-11-04-234901-203" target="_blank">Click here to view the project poster</a>
+<a href="/files/[E-Poster]%20Nanyang%20Technological%20University_Nanyang%20Venture%2011.pdf" target="_blank">Click here to view the project poster</a>
 
 <a href="/files/NTU%20slides.pdf" target="_blank">Click here to view the project presentation</a>
 
