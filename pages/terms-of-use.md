@@ -121,7 +121,5 @@ iv.     any claim made by a third party in connection with the third party’s u
 **Meaning of Terms**  
 
 12. In these Terms of Use: 
-
-·      “relevant Websites” means this Website or other Websites owned by EMA that are linked from this Website;
-
-·      “use of the datasets” includes accessing, downloading, copying, distribution, transmission, modification and adaptation of the datasets, or any derived analyses or applications, for commercial purposes or otherwise.
+* “relevant Websites” means this Website or other Websites owned by EMA that are linked from this Website;
+* “use of the datasets” includes accessing, downloading, copying, distribution, transmission, modification and adaptation of the datasets, or any derived analyses or applications, for commercial purposes or otherwise.
