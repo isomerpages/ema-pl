@@ -11,12 +11,11 @@ third_nav_title: Youth@SIEW
 
 <a id="2016" href=""></a>
 # 2016
+![Youth@SIEW](/images/youth-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
-![Youth@SIEW](/images/youth-siew/youth@siew%20logo.png)
-
-Organiser: Energy Market Authority
-Date: 26 October 2016
-Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
+Organiser: Energy Market Authority  
+Date: 26 October 2016  
+Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
@@ -26,13 +25,14 @@ We appreciate your support and are looking forward to your participation in futu
 
 ![Youth@SIEW 2016 Event Photos](/images/youth-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
 
+
 <a id="2017" href=""></a>
 # 2017
 ![Youth@SIEW](/images/youth-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
-Organiser: Energy Market Authority
-Date: 25 October 2017
-Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
+Organiser: Energy Market Authority  
+Date: 25 October 2017  
+Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
@@ -109,7 +109,7 @@ We appreciate your strong support and are looking forward to your participation 
         <tr>
             <td rowspan="4" style="text-align: center; vertical-align: top; white-space: nowrap;">
                 10:35 - <br/>
-                11:30
+                11:30&nbsp;
             </td>
             <td style="vertical-align: top;">
                 <strong>In Dialogue Session with Youth Panelist: </strong><br/>
@@ -148,15 +148,15 @@ We appreciate your strong support and are looking forward to your participation 
 # 2018
 ![Youth@SIEW](/images/youth-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
-Organiser: Energy Market Authority
-Date: 2 November 2018
-Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore
+Organiser: Energy Market Authority  
+Date: 2 November 2018  
+Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
 **Youth@SIEW 2018** concluded with strong participation from more than 400 students, educators and industry partners.
 
-Industry captain Mr Kwong Kok Chan (Deputy General Manager, Maintenance, PacificLight Power Pte Ltd) took the students for a walk down memory lane and shared about how the energy sector had evolved over the years, as well as the exciting yet meaningful careers they could embark on upon their graduation. This nicely complements the launch of our refreshed Skills Framework for Energy and Power (SFwEP), which maps out skillsets for more than 120 job roles, across 11 tracks, in different energy areas including distributed generation management and cyber-security (click [here](https://www.skillsfuture.gov.sg/skills-framework/energyandpower) for more information).
+Industry captain Mr Kwong Kok Chan (Deputy General Manager, Maintenance, PacificLight Power Pte Ltd) took the students for a walk down memory lane and shared about how the energy sector had evolved over the years, as well as the exciting yet meaningful careers they could embark on upon their graduation. This nicely complements the launch of our refreshed Skills Framework for Energy and Power (SFwEP), which maps out skillsets for more than 120 job roles, across 11 tracks, in different energy areas including distributed generation management and cyber-security (click <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">here</a> for more information).
  
 Students were also engaged in an interactive dialogue session helmed by SPS Dr Tan Wu Meng, Mr Kwong, Mr Leong Wei Hung (President, Shell International Eastern Trading Company), facilitated by Ms Melissa Low (Research Fellow, Energy Studies Institute), which shed insights on future developments and opportunities in the sector. 11 schools also participated in the Youth Energy Showcase, where students shared enthusiastically on their innovative projects to senior foreign and local delegates.
 
@@ -227,9 +227,9 @@ We are grateful for your strong participation and look forward to yet another re
             </td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+            <td rowspan="4" style="text-align: center; vertical-align: top; white-space: nowrap;">
                 10:15 -<br/>
-                12:00
+                12:00&nbsp;
             </td>
             <td style="vertical-align: top;">
                 <strong>In Dialogue Session with Youth Panelist:</strong><br/>
@@ -267,9 +267,9 @@ We are grateful for your strong participation and look forward to yet another re
 # 2019
 ![Youth@SIEW](/images/youth-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
-Organiser: Energy Market Authority
-Date: 1 November 2019
-Venue: Sands Expo and Convention Centre, MBS Singapore
+Organiser: Energy Market Authority  
+Date: 1 November 2019  
+Venue: Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
@@ -286,7 +286,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 
 Please contact the Industry Development Department [@EMA_HumanCapital@ema.gov.sg](mailto:@EMA_HumanCapital@ema.gov.sg) for more details.
 
-## Youth Showcases
+## 2019 Youth Showcases
 
 ### ITE College East
 **Eliminating Standby Power**  
