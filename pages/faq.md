@@ -8,8 +8,8 @@ You can register for an account by clicking on the “Register” link found at 
 
 For general viewing of the portal, there is no need to register for an account. An account is needed only if you are interested in applying for the following:
 
-i. Internship; or
-ii. Energy-Industry Scholarship
+i. Internship; or  
+ii. Energy-Industry Scholarship  
 
 
  
@@ -36,7 +36,7 @@ Please email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) f
 
  
 **How do I apply for an internship?**  
-To apply, you may submit your resume online via the Powering Lives portal (www.poweringlives.gov.sg/internships/aboutinternships), and indicate your availability period, and choice of companies. The relevant companies will contact you for more details should there be any internship opportunities.
+To apply, you may submit your resume online via the Powering Lives portal [ (www.poweringlives.gov.sg/programmes/internships)](/programmes/internships), and indicate your availability period, and choice of companies. The relevant companies will contact you for more details should there be any internship opportunities.
 
 
  
@@ -50,20 +50,20 @@ This is an industry scholarship for those pursuing relevant engineering courses 
 
 Besides a full-term scholarship, the EIS also offers a mid-term scholarship to those who have already commenced their studies. The bond period will be commensurate with the total scholarship value. Applicants interested in applying for a mid-term scholarship will need to have at least one academic year of studies remaining at the point of application.
 
-For more information, please refer to the link here or email [EMA_HumanCapital@ema.gov.sg ](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link [here](/files/EIS%20FAQs%20(Final)%20-%2018%20OCT%202017.pdf) or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
 **Who are the sponsoring organisations for the EIS?**  
 The sponsoring companies are:
 
-i. Keppel Infrastructure Holdings Pte Ltd
-ii. Sembcorp Industries Ltd
-iii. Senoko Energy Pte Ltd
-iv. Singapore LNG Corporation Pte Ltd
-v. Singapore Power Ltd
-vi. Tuas Power Generation Pte Ltd
-vii. YTL PowerSeraya Pte Ltd
+i. Keppel Infrastructure Holdings Pte Ltd  
+ii. Sembcorp Industries Ltd  
+iii. Senoko Energy Pte Ltd  
+iv. Singapore LNG Corporation Pte Ltd  
+v. Singapore Power Ltd  
+vi. Tuas Power Generation Pte Ltd  
+vii. YTL PowerSeraya Pte Ltd  
 
 
  
@@ -89,7 +89,7 @@ First announced in Budget 2015, the SkillsFuture Study Award for Power Sector is
 
 Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, course materials and other training-related costs. This is on top of existing government course fee subsidies. The Award is bond- free.
 
-For more information, please refer to the link here or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link <a href="http://www.skillsfuture.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -98,15 +98,11 @@ The Study Award targets early to mid-career Singaporeans seeking to develop and 
 
 To be eligible, the criteria are:
 
-Must be a Singapore Citizen with at least two years of engineering work experience in the Power sector (Electricity and Gas) or related sectors; or (ii) a Licensed Electrical Worker (LEW) / Licensed Gas Service Worker (LGSW) / Licensed Cable Detection Worker (LCDW); or (iii) with at least two years of relevant Power Engineering skillsets in other sectors.
-
-Must not be a previous recipient of any SkillsFuture Study Awards or a current recipient of any scholarship/full bursary/full company sponsorship awarded for the same course.
-
-Meets entry requirements for relevant engineering courses (e.g. chemical, mechanical, electrical, power engineering) offered by the local government institutions (i.e. ITE, polytechnic, university), Singapore Institute of Power & Gas and BCA Academy.
-
-The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
-
-Must have applied for the SkillsFuture Study Awards prior to the commencement of the supported course.
+* Must be a Singapore Citizen with at least two years of engineering work experience in the Power sector (Electricity and Gas) or related sectors; or (ii) a Licensed Electrical Worker (LEW) / Licensed Gas Service Worker (LGSW) / Licensed Cable Detection Worker (LCDW); or (iii) with at least two years of relevant Power Engineering skillsets in other sectors.
+* Must not be a previous recipient of any SkillsFuture Study Awards or a current recipient of any scholarship/full bursary/full company sponsorship awarded for the same course.
+* Meets entry requirements for relevant engineering courses (e.g. chemical, mechanical, electrical, power engineering) offered by the local government institutions (i.e. ITE, polytechnic, university), Singapore Institute of Power & Gas and BCA Academy.
+* The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
+* Must have applied for the SkillsFuture Study Awards prior to the commencement of the supported course.
 
  
 **My company is sponsoring my course fees and other out-of-pocket expenses related to the course. Can I still apply for the SkillsFuture Study Awards?**  
@@ -120,9 +116,9 @@ The full sum of S$5,000 will be disbursed after the award recipient completes at
 
  
 **How do I apply for the Study Awards?**  
-Applicants may apply online at www.skillsfuture.sg/studyawards/power for the Study Award.
+Applicants may apply online at <a href="www.skillsfuture.sg/studyawards/power" target=_blank">www.skillsfuture.sg/studyawards/power</a> for the Study Award.
 
 
  
 **I am experiencing technical issues with my application. Who can I contact for assistance?**  
-Please visit the Feedback Portal at https://portal.ssg-wsg.gov.sg/feedback or call 6785 5785 for assistance.
+Please visit the Feedback Portal at <a href="https://portal.ssg-wsg.gov.sg/feedback" target="_blank">https://portal.ssg-wsg.gov.sg/feedback</a> or call 6785 5785 for assistance.
