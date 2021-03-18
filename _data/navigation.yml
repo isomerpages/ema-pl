@@ -6,6 +6,11 @@
 
 logo: "/images/Poweringlives logo.jpg"
 
+# TODO
+# Set the url for Energy Innovation submenu to the 2021 page after content is added
+# Set the url for Energy Educators Forum submenu to the 2021 page after content is added
+# Set the url for Youth@SIEW submenu to the 2021 page after content is added
+
 links:
   - title: About
     collection: about
@@ -16,7 +21,16 @@ links:
   - title: Programmes
     collection: programmes
   - title: Events
-    collection: events
+    url: /events/singapore-energy-grand-challenge/overview
+    sublinks:
+      - title: Singapore Energy Grand Challenge (SEGC)
+        url: /events/singapore-energy-grand-challenge/overview
+      - title: Energy Innovation
+        url: /events/energy-innovation/2019
+      - title: Energy Educators Forum
+        url: /events/energy-educators-forum/2017
+      - title: Youth@SIEW
+        url: /events/youth-at-siew/2020
   - title: Resources
     collection: resources
   - title: Contact Us
