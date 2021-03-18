@@ -172,20 +172,16 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
-    <div class="labelmessage" style="text-align:center;">
+    <div style="text-align:center;">
         <strong>
             The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
         </strong>
         <br>
         <br>
     </div>
-    <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
-        <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
-            To apply, please login to Powering Lives portal with your Singpass
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
+            To apply, please <a href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx">click here and login to Powering Lives portal</a> with your Singpass
         </span>
-        <br/>
-        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://www.poweringlives.gov.sg/SPLogin&amp;Target=https://www.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
-            <img alt="Log in with Singpass" id="ImageSingPass" src="/images/log_in_with_singpass.svg" style="width: 200px; margin-top: 20px;"/>
-        </a>
     </div>
 </div>

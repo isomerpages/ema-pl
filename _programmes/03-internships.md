@@ -59,8 +59,8 @@ Simply click the ‘Start Powering’ button to deposit your resume, indicate yo
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
-    <div id="dnn_ctr1731_Scholarships_pnlInCycle" style="text-align:center;" >
-        <span id="dnn_ctr1731_Scholarships_lblNotLoggedIn" style="text-align:center; font-size: 15px;">
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
             To apply, please <a href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx">click here and login to Powering Lives portal</a> with your Singpass
         </span>
     </div>
