@@ -68,7 +68,7 @@ vii. YTL PowerSeraya Pte Ltd
 
  
 **How do I apply for the EIS?**  
-You may submit your application online via the Powering Lives portal <a href="https://www.poweringlives.gov.sg">(www.poweringlives.gov.sg)</a> during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
+You may submit your application online via the Powering Lives portal (<a href="https://www.poweringlives.gov.sg">www.poweringlives.gov.sg</a>) during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
 
 
  
@@ -116,7 +116,7 @@ The full sum of S$5,000 will be disbursed after the award recipient completes at
 
  
 **How do I apply for the Study Awards?**  
-Applicants may apply online at <a href="www.skillsfuture.sg/studyawards/power" target="_blank">www.skillsfuture.sg/studyawards/power</a> for the Study Award.
+Applicants may apply online at <a href="https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065</a>
 
 
  
