@@ -2,7 +2,7 @@
 title: Power Sector Overview
 permalink: /about/power-sector-overview/
 ---
-<img src="/images/Industry_sub.jpg" /><br/>
+<img src="/images/about/Industry_sub.jpg" /><br/>
 
 Every day, many activities happen within the Power sector to ensure a stable supply of electricity. This includes securing fuel supply, generating power as well as transmitting, distributing and selling electricity.  The Power sector value chain provides an overview of these various critical functions within the sector. 
 
