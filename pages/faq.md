@@ -30,7 +30,7 @@ For security reasons, each user account will only be allowed to log in once at a
 
 
  
-**I am experiencing technical issues with my account and/or applications. Who can I contact for assistance?**
+**I am experiencing technical issues with my account and/or applications. Who can I contact for assistance?**  
 Please email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) for assistance.
 
 
@@ -50,7 +50,7 @@ This is an industry scholarship for those pursuing relevant engineering courses 
 
 Besides a full-term scholarship, the EIS also offers a mid-term scholarship to those who have already commenced their studies. The bond period will be commensurate with the total scholarship value. Applicants interested in applying for a mid-term scholarship will need to have at least one academic year of studies remaining at the point of application.
 
-For more information, please refer to the link [here](/files/EIS%20FAQs%20(Final)%20-%2018%20OCT%202017.pdf) or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link <a href="/files/EIS%20FAQs%20(Final)%20-%2018%20OCT%202017.pdf" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -68,7 +68,7 @@ vii. YTL PowerSeraya Pte Ltd
 
  
 **How do I apply for the EIS?**  
-You may submit your application online via the Powering Lives portal (www.poweringlives.gov.sg) during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
+You may submit your application online via the Powering Lives portal <a href="https://www.poweringlives.gov.sg">(www.poweringlives.gov.sg)</a> during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
 
 
  
@@ -89,7 +89,7 @@ First announced in Budget 2015, the SkillsFuture Study Award for Power Sector is
 
 Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, course materials and other training-related costs. This is on top of existing government course fee subsidies. The Award is bond- free.
 
-For more information, please refer to the link <a href="http://www.skillsfuture.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -116,7 +116,7 @@ The full sum of S$5,000 will be disbursed after the award recipient completes at
 
  
 **How do I apply for the Study Awards?**  
-Applicants may apply online at <a href="www.skillsfuture.sg/studyawards/power" target=_blank">www.skillsfuture.sg/studyawards/power</a> for the Study Award.
+Applicants may apply online at <a href="www.skillsfuture.sg/studyawards/power" target="_blank">www.skillsfuture.sg/studyawards/power</a> for the Study Award.
 
 
  
