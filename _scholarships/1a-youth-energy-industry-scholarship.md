@@ -5,7 +5,7 @@ third_nav_title: Youth
 ---
 ### Overview
 
-![Energy Industry Scholarship](/images/EIS_sub.jpg)
+![Energy Industry Scholarship](/images/scholarships/youth/EIS_sub.jpg)
 
 ### Introduction on Energy-Industry Scholarship
 
@@ -73,7 +73,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
 <table>
     <tr>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_gl.png"  style="height: 250px;"/>
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_gl.png"  style="height: 250px;"/>
             <br/>
             <strong>Gustavus Liew</strong>
             <br/>
@@ -90,7 +90,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_ihbmz.png" style="height: 250px;"/>
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_ihbmz.png" style="height: 250px;"/>
             <br/>
             <strong>Indra Haqim Bin Mohd Zulkifi</strong>
             <br/>
@@ -107,7 +107,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_vl.png" style="height: 250px;"/>
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_vl.png" style="height: 250px;"/>
             <br/>
             <strong>Vera Lam</strong>
             <br/>
@@ -124,7 +124,7 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/profile_photo_mabs.png" style="height: 250px;"/>
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_mabs.png" style="height: 250px;"/>
             <br/>
             <strong>Muhammad Afiq Bin Sapuan</strong>
             <br/>

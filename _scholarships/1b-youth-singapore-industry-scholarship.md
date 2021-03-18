@@ -3,7 +3,7 @@ title: Singapore-Industry Scholarship
 permalink: /scholarships/youth/singapore-industry-scholarship
 third_nav_title: Youth
 ---
-![Energy Industry Scholarship](/images/SGIS_sub.jpg)
+![Energy Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
 
 ### Introduction on Singapore-Industry Scholarship (SgIS)
 
