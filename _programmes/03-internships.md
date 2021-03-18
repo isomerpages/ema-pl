@@ -2,7 +2,7 @@
 title: Internships
 permalink: /programmes/internships/
 ---
-![Internships](/images/INTERNSHIPS_internship_details_splash.jpg)
+![Internships](/images/programmes/internships/INTERNSHIPS_internship_details_splash.jpg)
 
 <div style="float: right;">
     <a href="#NearHyperLinkLoginSingPass">
