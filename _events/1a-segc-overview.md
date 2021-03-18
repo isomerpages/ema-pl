@@ -71,7 +71,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/segc/microsoft-logo-png-transparent%20.png" />
     <br/>
-    <span style="font-style: italic;">Supported by:</a>
+    <span style="font-style: italic;">Supported by:</span>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/segc/IMDA_Logo.jpg" />
     <br/>
     <br/>
