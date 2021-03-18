@@ -20,7 +20,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 ### Singapore Energy Grand Challenge (Youth) 2021 Overview
 
-<img alt="Overview" style="width: 505px; height: 505px; max-width: 505px;" src="/images/segc/SEGC%202021%20Overview.jpg" />  
+<img alt="Overview" style="width: 505px; height: 260px; max-width: 505px;" src="/images/segc/SEGC%202021%20Overview.jpg" />  
 
 
 **There are 3 phases that you need to take note of:**  
@@ -47,11 +47,13 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 3. The top 3 teams of both Junior and Senior Categories will receive their awards in end-July 2021.
 
-<div style="margin-left: auto; margin-right: auto; text-align: center;">
+<p style="text-align: center;">
     <br/>
     Click the link below to register!
     <br/>
-    <a href="http://go.gov.sg/segc2021"><img alt="Register Here" style="width: 363px; height: 65px; max-width: 363px;" src="/images/segc/Register%20button.png" /></a>
+    <a href="http://go.gov.sg/segc2021">
+        <img alt="Register Here" style="width: 363px; height: 65px; max-width: 363px;" src="/images/segc/Register%20button.jpg" />
+    </a>
     <br/>
     <br/>
     For more information, please visit:
@@ -64,17 +66,18 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     - <a href="/files/segc/Getting%20Started%20with%20Minecraft.pdf" target="_blank">Guidebook on M:EE licenses</a>
     <br/>
-    In Partnership with:
+    <br/>
+    <span style="font-style: italic;">In Partnership with:</span>
     <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/segc/microsoft-logo-png-transparent%20.png" />
     <br/>
-    Supported by:
+    <span style="font-style: italic;">Supported by:</a>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/segc/IMDA_Logo.jpg" />
     <br/>
     <br/>
     <br/>
-    <div>
+    <div style="width: fit-content; margin-left: auto; margin-right: auto;">
         <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="/images/segc/ema%20logo%20transparent%20hi-res.jpg" />
-        <img alt="Powering Lives" style="width: 150px; height: 39px; max-width: 150px; display: inline-block;" src="/images/segc/EMA%20PL%20brandmark%20full%20colour.png" />
+        <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="/images/segc/EMA%20PL%20brandmark%20full%20colour.png" />
     </div>
-</div>
+</p>
