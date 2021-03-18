@@ -6,8 +6,8 @@ agency_name: Powering Lives
 locations:
   - title: Mailing Address
     address:
-        - 991G Alexandra Road &#x23;01-29
-        - Singapore 119975
+        - "991G Alexandra Road #01-29"
+        - "Singapore 119975"
 contacts:
   - title: General Enquiries & Feedback
     content:
