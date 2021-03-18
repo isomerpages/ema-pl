@@ -6,7 +6,7 @@ permalink: /programmes/internships/
 
 <div style="float: right;">
     <a href="#NearHyperLinkLoginSingPass">
-        <img alt="Start Powering" src="/images/start_powering.png" style="width: 150px; height: 200px;"/>
+        <img alt="Start Powering" src="/images/common/start_powering.png" style="width: 150px; height: 200px;"/>
     </a>
 </div>
 
