@@ -3,9 +3,9 @@ title: YTL PowerSeraya
 permalink: /careers/industry-partners/ytl-powerseraya
 third_nav_title: Industry Partners
 ---
-<img src="/images/partners/large/ytl_power_seraya_large.jpg" alt="YTL PowerSeraya" style="width: 450px; height: 312px;" /><br/>
+<img src="/images/careers/industry-partners/ytl_power_seraya_large.jpg" alt="YTL PowerSeraya" style="width: 450px; height: 312px;" /><br/>
 
-<a href="https://www.ytlpowerseraya.com"><img alt="YTL PowerSeraya" src="/images/partners/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
+<a href="https://www.ytlpowerseraya.com"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
 
 The YTL PowerSeraya Group, a wholly owned subsidiary of YTL Power International Berhad, is an integrated energy company that provides multi-utility services such as electricity, steam, water, and natural gas.
 
