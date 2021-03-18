@@ -6,7 +6,7 @@ third_nav_title: Energy Innovation
 # Energy Innovation 2016
 
 ## Energy Innovation   
-![Energy Innovation 2016, 03 June 2016 Suntec Singapore Convention and Exhibition Centre](/images/energy_innovation/header-img-1.png)
+![Energy Innovation 2016, 03 June 2016 Suntec Singapore Convention and Exhibition Centre](/images/events/energy-innovation/header-img-1.png)
 
 ### Overview  
 The Energy Innovation 2016 is a platform that aims to encourage collaborations between industry, researchers and government, and grow key local capabilities in priority areas to meet Singapore’s energy and low carbon objectives. Energy industry captains, researchers and academics will exchange knowledge and views about cutting-edge energy technologies and commercialisation strategies to translate these technologies to application.
@@ -444,7 +444,7 @@ _Lead Agency: EMA_
 
 ### Plenary Session
 
-<img alt="Prof. Low Teck Seng" src="/images/energy_innovation/low-teck-seng.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />  
+<img alt="Prof. Low Teck Seng" src="/images/events/energy-innovation/low-teck-seng.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />  
 **Prof. Low Teck Seng**  
 Chief Executive Officer  
 National Research Foundation  
@@ -458,7 +458,7 @@ Prof. Low was awarded the National Science and Technology Medal in 2004, the hig
 
 In 2007, he was awarded the Public Administration Medal (Gold) by the President of Singapore for his outstanding contributions to the development of technical education and the management of science and technology for the nation.
 
-<img alt="Mr. Ng Wai Choong" src="/images/energy_innovation/ng-wai-choong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Ng Wai Choong" src="/images/events/energy-innovation/ng-wai-choong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Ng Wai Choong**  
 Chief Executive  
 Energy Market Authority  
@@ -467,7 +467,7 @@ Mr. Ng Wai Choong has been the Chief Executive of Energy Market Authority since 
 
 Mr. Ng was the Deputy Secretary (Policy) in the Ministry of Finance from 2007 to March 2015 overseeing government revenue, expenditure and investment policies. Before that, he was the Deputy Secretary (Industry) in the Ministry of Trade and Industry from 2003 to 2007, and was concurrently the first Chief Executive of the Competition Commission of Singapore from 2005 to 2006.
 
-<img alt="Dr. Bryan Hannegan" src="/images/energy_innovation/bryan-hannegan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Bryan Hannegan" src="/images/events/energy-innovation/bryan-hannegan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Bryan Hannegan**  
 Associate Laboratory Director for Energy Systems Integration  
 National Renewable Energy Laboratory  
@@ -478,7 +478,7 @@ Prior to joining NREL, Dr. Hannegan held several research leadership positions i
 
 Dr. Hannegan is a former elected Director of the Coastside County Water District, and he serves on numerous professional societies and commissions, including the California Council on Science and Technology, the American Meteorological Society’s Board on Global Strategies, and the International Energy Agency’s Renewable Energy Industry Advisory Board.
 
-<img alt="Mr. Wong Kim Yin" src="/images/energy_innovation/wong-kim-yin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Wong Kim Yin" src="/images/events/energy-innovation/wong-kim-yin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Wong Kim Yin**  
 Group Chief Executive Officer  
 Singapore Power  
@@ -491,14 +491,14 @@ From 1995 to 2002, he worked for The AES Corporation, a power company listed on 
 
 ### Track 1 - Waste Management
 
-<img alt="Prof. Stapf Dieter" src="/images/energy_innovation/stapf-dieter.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Prof. Stapf Dieter" src="/images/events/energy-innovation/stapf-dieter.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Prof. Stapf Dieter**  
 Head of Institute for Technical Chemistry  
 Karlsruhe Institute of Technology  
 
 Prof. Stapf's key research fields are advanced thermochemical conversion technologies for biomass to chemicals and energy, as well as waste to energy including recovery of value streams. Amongst other functions, he represents Germany in the IEA bioenergy task 36 "Integrating Energy into Solid Waste Management Systems". Before he joined Karlsruhe Institute of Technology, he has worked with the world’s largest chemical company BASF filling in several functions in R&D, petrochemical operations and strategic planning.
 
-<img alt="Mr. Daniel E. Ponder" src="/images/energy_innovation/daniel-e-ponder.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Daniel E. Ponder" src="/images/events/energy-innovation/daniel-e-ponder.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Daniel E. Ponder**  
 Principal  
 Golder Associates Inc.  
@@ -507,21 +507,21 @@ Mr. Ponder has been with Golder Associates for 27 years assisting both public an
 
 Mr. Ponder is committed to incorporate sustainability into his practices, and strives to find best-fit value-added local solutions. He is known for his vision of long-term planning and innovative solutions.
 
-<img alt="Mr. Yoshio Seiki" src="/images/energy_innovation/yoshio-seiki.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Yoshio Seiki" src="/images/events/energy-innovation/yoshio-seiki.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Yoshio Seiki**  
 General Manager, Global Research & Innovation Center  
 Mitsubishi Heavy Industries Asia Pacific  
 
 Mr. Yoshio Seiki leads the team of Environmental and Energy system development in Asia Pacific, especially in ASEAN. He has 15 years of experience in chemical research and process design engineering, and four years of experience in technological strategy in MHI. Currently he is working on the development of Future Waste to Energy systems including several kinds of sustainable energy systems.
 
-<img alt="Asst. Prof. Michel-Alexandre Cardin" src="/images/energy_innovation/michel-alexandre-cardin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Asst. Prof. Michel-Alexandre Cardin" src="/images/events/energy-innovation/michel-alexandre-cardin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Asst. Prof. Michel-Alexandre Cardin**  
 Lead of the Strategic Engineering Laboratory  
 National University of Singapore  
 
 Dr. Michel-Alexandre Cardin is a research collaborator in the Energy and Environmental Sustainability Solutions (E2S2) for Mega-Cities, a collaboration between the National University of Singapore and Shanghai Jiao Tong University in China, funded by the National Research Foundation Campus for Research Excellence and Technological Enterprise (CREATE). He has research affiliation at the Massachusetts Institute of Technology (MIT), Singapore-ETH Centre, as well as the Singapore-MIT Alliance for Research and Technology. He is also Associate Editor of the INCOSE journal Systems Engineering, and served on the Editorial Review Board of the journal IEEE Transactions on Engineering Management. His research focuses on the development, experimental evaluation, and applications of novel procedures to design and architect engineering systems for uncertainty and flexibility – also known as real options. As part of the E2S2 project, he has developed new methods to analyze systems design and architecture of flexible Waste-to-Energy facilities operating growing and uncertain waste generation patterns.
 
-<img alt="Mr. Patrick Pang" src="/images/energy_innovation/patrick-pang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Patrick Pang" src="/images/events/energy-innovation/patrick-pang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Patrick Pang**  
 Chief Technology Officer  
 National Environment Agency  
@@ -536,7 +536,7 @@ Mr. Pang was Director, Digital Economy at the National Research Foundation, wher
 
 ### Track 2 - Green Buildings Technologies
 
-<img alt="Prof. Lam Khee Poh" src="/images/energy_innovation/lam-khee-poh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Prof. Lam Khee Poh" src="/images/events/energy-innovation/lam-khee-poh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Prof. Lam Khee Poh**  
 Center for Building, Performance and Diagnostics, School of Architecture  
 Carnegie Mellon University  
@@ -545,7 +545,7 @@ Prof. Lam is an educator, researcher, architect and consultant who specialises i
 
 He is also a building performance consultant for several major award winning projects in Singapore, China and the USA. He is currently Visiting Professor at the School of Architecture, Chinese University of Hong Kong, and the National University of Singapore.
 
-<img alt="Assoc. Prof. Tseng King-Jet" src="/images/energy_innovation/tseng-king-jet.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Assoc. Prof. Tseng King-Jet" src="/images/events/energy-innovation/tseng-king-jet.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Assoc. Prof. Tseng King-Jet**  
 SinBerBEST, Program Co-Leader  
 Nanyang Technological University  
@@ -556,7 +556,7 @@ He has undertaken numerous contract research projects for major corporations and
 
 He has been the academic Head of Power Engineering at Nanyang Technological University, and is currently the Program Co-Director for Singapore-Berkeley Building Efficiency and Sustainability in the Tropics research program (SinBerBEST) of NRF-CREATE and the Program Principal Investigator for Rolls-Royce@NTU Corporate Lab. He is also the Board Member of Singapore Green Building Council and has founded spin-off companies from his research.
 
-<img alt="Prof. Chandra Sekhar" src="/images/energy_innovation/chandra-sekhar.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Prof. Chandra Sekhar" src="/images/events/energy-innovation/chandra-sekhar.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Prof. Chandra Sekhar**  
 Co-Director, CiBEST, Department of Building  
 National University of Singapore  
@@ -565,7 +565,7 @@ Prof. Sekhar’s research interests include thermal comfort, ventilation and IAQ
 
 He has been an ASHRAE Distinguished Lecturer since 2006 and is regularly invited as a speaker around the world. He is a co-recipient of The Enterprise Challenge award of the Prime Minister’s Office, Singapore in 2004 and ASEAN Energy Award in 2011. Prof. Sekhar is active in several technical committees in ASHRAE and has been recognised with several awards from ASHRAE.
 
-<img alt="Mrs. Tam Li Phin" src="/images/energy_innovation/tam-li-phin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mrs. Tam Li Phin" src="/images/events/energy-innovation/tam-li-phin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mrs. Tam Li Phin**  
 Director, Environmental & Water Technology, Centre of Innovation  
 Ngee Ann Polytechnic  
@@ -578,7 +578,7 @@ Prior to her current role, Mrs. Tam managed the Environmental & Water Pollution 
 
 ### Track 3 - Smart Grids & Solar Forecasting
 
-<img alt="Mr. Ng Kok Wan" src="/images/energy_innovation/ng-kok-wan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Ng Kok Wan" src="/images/events/energy-innovation/ng-kok-wan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Ng Kok Wan**  
 Assistant Chief Executive (International Services)  
 Intellectual Property Office of Singapore (IPOS) and Executive Director IPOS-I  
@@ -587,14 +587,14 @@ Mr. Ng Kok Wan is responsible for the establishment and development of Singapore
 
 Mr. Ng now drives efforts in the young and rapidly growing office to achieve world-class patent examination quality and to fashion imaginative and value-added patent services for user community in Singapore and the world beyond. Prior to IPOS, Mr. Ng was a Colonel in the Singapore Army, where he last served as the Head of Army Research & Technology.
 
-<img alt="Mr. Lim Soon Chia" src="/images/energy_innovation/lim-soon-chia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Lim Soon Chia" src="/images/events/energy-innovation/lim-soon-chia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Lim Soon Chia**  
 Director (Technology) 
 Cyber Security Agency of Singapore 
 
 In his current role, Mr. Lim Soon Chia is responsible for capability development, evaluation and certification, and technology management for cyber security. Under his portfolio, he is also leading the effort of ‘security-by-design’, to institutionalise the best practice of incorporating cyber security consideration upfront in the design of networked systems.
 
-<img alt="Mr. Lim Chih Shoong" src="/images/energy_innovation/lim-chih-shoong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Lim Chih Shoong" src="/images/events/energy-innovation/lim-chih-shoong.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Lim Chih Shoong**  
 Managing Director, ASEAN Smart Grid Services Lead  
 Accenture  
@@ -605,7 +605,7 @@ He has led numerous digital transformation workshops for the Utilities around th
 
 Mr. Lim also has the unique experience to work at projects in Russia, South Africa, Manila, Pakistan, Vietnam, etc and brings global content together with digital technologies for businesses.
 
-<img alt="Dr. Ashwin M. Khambadkone" src="/images/energy_innovation/ashwin-khambadkone.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Ashwin M. Khambadkone" src="/images/events/energy-innovation/ashwin-khambadkone.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Ashwin M. Khambadkone**  
 Associate Professor, Department of Electrical and Computer Engineering  
 National University of Singapore  
@@ -614,7 +614,7 @@ Associate Professor Ashwin M. Khambadkone’s current areas of research are dist
 
 He was the Programme Manager for A*STAR’s Intelligent Energy Distribution Systems (IEDS) Thematic Strategic Research Programme in June 2008. He is also the Principal Investigator of the Modular Distributed Energy Resource Network (MODERN) IEDS project.
 
-<img alt="Dr. Sue Ellen Haupt" src="/images/energy_innovation/sue-ellen-haupt.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Sue Ellen Haupt" src="/images/events/energy-innovation/sue-ellen-haupt.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Sue Ellen Haupt**  
 Director, Weather Systems & Assessment Program, Research Applications Laboratory  
 National Center for Atmospheric Research  
@@ -623,35 +623,35 @@ Dr. Sue Ellen Haupt is an expert in meteorology applied to renewable energy, bou
 
 Dr. Haupt also serves as Director of Education and Outreach for the World Energy and Meteorology Council, Adjunct Professor of Meteorology at The Pennsylvania State University, and a Councillor for the American Meteorological Society.
 
-<img alt="Dr. Felicia Shaw" src="/images/energy_innovation/felicia-shaw.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Felicia Shaw" src="/images/events/energy-innovation/felicia-shaw.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Felicia Shaw**  
 Director, Risk & Resource Department  
 Meteorological Service Singapore  
 
 Dr. Felicia Shaw is Director of the Risk & Resource Department of the Meteorological Service Singapore, which develops specialised meteorological applications and conducts natural hazard assessments for government and industry. She has previously held policy and technology portfolios within Singapore’s Ministry of the Environment and Water Resources, the Ministry of Trade & Industry, the Centre for Climate Research Singapore and the Public Utilities Board. Dr. Shaw is also an Adjunct Fellow of the Energy Studies Institute at the National University of Singapore and a Fellow of the Geological Society of London.
 
-<img alt="Dr. Wilfred Walsh" src="/images/energy_innovation/wilfred-walsh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Wilfred Walsh" src="/images/events/energy-innovation/wilfred-walsh.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Wilfred Walsh**  
 Research and Business Development Executive  
 Solar Energy Research Institute of Singapore  
 
 Dr. Wilfred Walsh is a physicist and astronomer working in the new field of energy meteorology, which aims to quantify renewable energy resources and facilitate the large scale deployment of sustainable energy sources. Currently, his work focuses on solar irradiance forecasting and grid management for cities with high penetration levels of solar photovoltaic electricity generation.
 
-<img alt="Dr. Stefan Winkler" src="/images/energy_innovation/stefan-winkler.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Stefan Winkler" src="/images/events/energy-innovation/stefan-winkler.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Stefan Winkler**  
 Principal Research Scientist  
 Advanced Digital Sciences Centre  
 
 Prior to his current position, Dr. Stefan Winkler co-founded Genista, worked for a Silicon Valley company, and held faculty positions at the National University of Singapore and the University of Lausanne, Switzerland. Dr. Winkler has published over 100 papers and the book "Digital Video Quality" (Wiley). He is an Associate Editor of the IEEE Transactions on Image Processing, a member of the IVMSP Technical Committee of the IEEE Signal Processing Society, and Chair of the IEEE Singapore Signal Processing Chapter. He has also served on the technical program committees of numerous conferences and workshops, including several times as area chair of ICIP and ICME. He has contributed to video quality standards in VQEG, ITU, ATIS, VSF, and SCTE. His research interests include video processing, computer vision, perception, and human-computer interaction.
 
-<img alt="Dr. Jason Lai" src="/images/energy_innovation/jason-lai.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Jason Lai" src="/images/events/energy-innovation/jason-lai.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Jason Lai**  
 Visiting Professor, School of Electrical & Electronic Engineering, College of Engineering  
 Nanyang Technological University  
 
 ### Track 4 - Energy Modelling
 
-<img alt="Dr. Gabrial Anandarajah" src="/images/energy_innovation/gabrial-anandarajah.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Gabrial Anandarajah" src="/images/events/energy-innovation/gabrial-anandarajah.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Gabrial Anandarajah**  
 Senior Lecturer, Energy Systems Modelling  
 United College London, UK  
@@ -660,21 +660,21 @@ Prior to joining UCL Energy Institute, Dr. Gabrial Anandarajah worked for King�
 
 The Times Integrated Assessment Model (TIAM)-UCL, which is a multi-region global energy system model, has been successfully developed under his leadership under the UK Energy Research Centre Phase II project (2009-2014). Gabrial also carries out analysis to UK Government bodies such as Department of Energy and Climate Change and Committee on Climate Change. Gabrial’s research interests include energy system modelling at national, regional and global level, multi-criteria analysis (AHP), multi-objective energy system modelling, decomposition analysis, global technology learning, modelling unconventional gas, energy efficiency improvements in developing countries, and low-carbon technology pathways for developing countries.
 
-<img alt="Dr. Su Bin" src="/images/energy_innovation/su-bin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Dr. Su Bin" src="/images/events/energy-innovation/su-bin.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Dr. Su Bin**  
 Senior Fellow  
 Energy Studies Institute  
 
 Dr. Su Bin is Senior Fellow at the Energy Studies Institute (ESI), National University of Singapore (NUS). He leads the energy modelling programme in ESI, and is actively involved in energy modelling related projects commissioned by Government agencies in Singapore. He obtained his PhD in the Department of Industrial and Systems Engineering at the NUS. His main research interest is energy and environmental systems modelling and analysis, with particular emphasis on energy efficiency, climate change, embodied energy/emissions, benchmarking, carbon footprint, carbon pricing, emission trading and rebound effect. Dr. Su is presently Associate Editor of Energy Economics, Editorial Board Member of Reports on Economics and Finance, and Enviromental Economics Research, and reviewer for more than 40 international peer-reviewed journals.
 
-<img alt="Mr. Yann Grynberg" src="/images/energy_innovation/yann-grynberg.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Yann Grynberg" src="/images/events/energy-innovation/yann-grynberg.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Yann Grynberg**  
 Program Director, Sustainable Building Technologies  
 Energy Research @ NTU  
 
 Mr. Yann Grynberg is currently the Program Director for Sustainable Building Technologies and Comfort Program at ERI@N NTU. He has over 15 years of experience in the industry and worked for the last nine years in Japan and Singapore on projects related to sustainable construction at a French company Bouygues (top three in the world for construction). His aim, with the help of a RD&D team, is to test, demonstrate and deploy new innovative technologies and processes to allow new and existing buildings to reach the highest level of energy efficiency. His research interest includes modeling and simulation for building design, innovative cooling technologies, smart lighting systems and active facades. He was instrumental in facilitating the first 10 storey PPVC (Prefabricated Prefinished Volumetric Construction) building in Singapore, over the extension of the Crowne Plaza Hotel at Changi Airport.
 
-<img alt="Prof. Lee Dong-Yup" src="/images/energy_innovation/lee-dong-yup.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Prof. Lee Dong-Yup" src="/images/events/energy-innovation/lee-dong-yup.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Prof. Lee Dong-Yup**  
 Assistant Professor, Department of Chemical and Biomolecular Engineering  
 National University of Singapore  
@@ -683,7 +683,7 @@ Prof. Dong-Yup Lee has more than 10 years of strong research leadership experien
 
 ### Track 5 - Future of e-Mobility
 
-<img alt="Mr. Franck Vitte" src="/images/energy_innovation/franck-vitte.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Franck Vitte" src="/images/events/energy-innovation/franck-vitte.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Franck Vitte**  
 Head of Asia / Middle East Geography at Blue Solutions  
 Bolloré Group  
@@ -692,7 +692,7 @@ Franck Vitte joined the Bolloré group in 2000, which provides solutions for lug
 
 Since 2012, Franck is also responsible for the regional development of Blue Solutions, which is the company that brings together the Bolloré Group’s electricity storage activities through various applications such as electric car-sharing, public transport and smart grids. As such, he has been involved in several electro-mobility projects for major Asian cities.
 
-<img alt="Ms. Martha Loleit" src="/images/energy_innovation/loleit-martha.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Ms. Martha Loleit" src="/images/events/energy-innovation/loleit-martha.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Ms. Martha Loleit**  
 Business Development Manager  
 Energy Research Institute of Nanyang Technological University, ERI@N  
@@ -721,7 +721,7 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             ORGANISED BY
         </div>
-        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
+        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/events/energy-innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
     </div>
 </div>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
@@ -729,7 +729,7 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             PARTICIPATING PARTNERS
         </div>
-        <img alt="Building and Construction Agency, EDB Singapore, ie Singapore, Land Transport Authority, National Environment Agency" src="/images/energy_innovation/img-ei-partners.png" style="width: 650px; height: 60px;" />
+        <img alt="Building and Construction Agency, EDB Singapore, ie Singapore, Land Transport Authority, National Environment Agency" src="/images/events/energy-innovation/img-ei-partners.png" style="width: 650px; height: 60px;" />
     </div>
 </div>
 
@@ -738,7 +738,7 @@ For enquiries on event registration, please email [EMA_IndustryPromotion@ema.gov
 &nbsp;
 
 ## Energy Connect   
-![Energy Connect 2016, As part of the Energy Innovation 2016, the Energy Connect is a student programme that aims to engage our next-generation innovators and educators through a suite of programmes, including the "Sembcorp-EMA Energy Challenge", Energy Connect Seminar and an exhibition."](/images/energy_innovation/header-img-2.png)
+![Energy Connect 2016, As part of the Energy Innovation 2016, the Energy Connect is a student programme that aims to engage our next-generation innovators and educators through a suite of programmes, including the "Sembcorp-EMA Energy Challenge", Energy Connect Seminar and an exhibition."](/images/events/energy-innovation/header-img-2.png)
 
 ### OVERVIEW
 
@@ -752,12 +752,12 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
 ### SEEC
 
 <div style="display: flex;">
-    <div style="background: url(/images/energy_innovation/ec-seec-blk1.png) no-repeat center/100% 100%; float: left; padding: 10px 25px 10px 10px;">
+    <div style="background: url(/images/events/energy-innovation/ec-seec-blk1.png) no-repeat center/100% 100%; float: left; padding: 10px 25px 10px 10px;">
         <strong>LEARNING JOURNEY</strong><br/>
         <span style="font-style: italic;">13 May 2016, Friday [Morning]</span><br/>
         Students will gain an insight into real world operations in the Power sector by visiting The Sembcorp Cogen @ Banyan Plant on Jurong Island or the Micro-Grid Test-Bed on Pulau Ubin.
     </div>
-    <div style="background: url(/images/energy_innovation/ec-seec-blk2.png) no-repeat center/100% 100%; padding: 10px 25px 10px 10px;">
+    <div style="background: url(/images/events/energy-innovation/ec-seec-blk2.png) no-repeat center/100% 100%; padding: 10px 25px 10px 10px;">
         <strong>ENERGY COMPETITION</strong><br/>
         <span style="font-style: italic;">3 June 2016, Friday [Morning]</span></br/>
         This is a computer simulation game that challenges players to manage and develop a power ecosystem (e.g. maintenance and R&D), while maintaining the profitability, reliability and environmental impact of the plant.
@@ -793,7 +793,7 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
             </tbody>
         </table>
     </div>
-    <div style="background: url(/images/energy_innovation/ec-seec-blk3.png) no-repeat center/100% 100%; padding: 10px 25px 10px 10px;">
+    <div style="background: url(/images/events/energy-innovation/ec-seec-blk3.png) no-repeat center/100% 100%; padding: 10px 25px 10px 10px;">
         <strong>INTERNSHIP</strong><br/>
         Winners from each category will be offered internship opportunities with Sembcorp.
     </div>
@@ -891,7 +891,7 @@ Now into its fourth run, the Energy Connect Seminar is an annual platform that a
 
 ### SPEAKERS
 
-<img alt="Mr. Kwong Kok Chan" src="/images/energy_innovation/kwong-kok-chan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Kwong Kok Chan" src="/images/events/energy-innovation/kwong-kok-chan.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Kwong Kok Chan**  
 Deputy General Manager (Maintenance)  
 PacificLight Power  
@@ -902,7 +902,7 @@ Mr. Kwong was awarded the EcoFriend Award by the National Environment Agency in 
 
 Mr. Kwong was also the President of the Instrumentation & Control Society of Singapore from 2010 to2014. He was the author of over 10 technical papers presented at regional forums.
 
-<img alt="Mr. Lim Zi Yang" src="/images/energy_innovation/lim-zi-yang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Lim Zi Yang" src="/images/events/energy-innovation/lim-zi-yang.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Lim Zi Yang**  
 Senior Engineer, Power Operations  
 Sembcorp Industries  
@@ -913,14 +913,14 @@ Prior to taking on his current role, Mr. Lim was stationed at the Sembcorp Woodc
 
 In his free time, Mr. Lim enjoys sports. He is active in the company’s staff recreation club, where he has coordinated the company’s representation at sports tournaments and organised various company-wide activities to boost staff welfare and health.
 
-<img alt="Mr. Tay Wei Jia" src="/images/energy_innovation/tay-wei-jia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Mr. Tay Wei Jia" src="/images/events/energy-innovation/tay-wei-jia.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Mr. Tay Wei Jia**  
 Energy-Industry Scholarship Scholar  
 Singapore Power  
 
 Mr. Tay Wei Jia is a final-year undergraduate pursuing Electrical Engineering at the National University of Singapore. He was awarded the Mid-Term Energy-Industry Scholarship by Singapore Power (SP) in 2014. He witnessed the dedication and professionalism of engineers and technical staff that work round the clock to keep the lights on and develop sustainable energy solutions during his internship at SP. Upon graduating, he will be joining SP’s Engineering Development for GraduatEs (EDGE) Programme which comprises structured training, job rotations to critical operational areas and support for professional engineering accreditation.
 
-<img alt="Ms. Crystal Lim Leahy" src="/images/energy_innovation/crystal-lim-leahy.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
+<img alt="Ms. Crystal Lim Leahy" src="/images/events/energy-innovation/crystal-lim-leahy.jpg" style="min-width: 200; min-height: 230; max-width: 200px;" />
 **Ms. Crystal Lim Leahy**  
 Director,  
 Centre for Future-Ready Graduates  
@@ -935,7 +935,7 @@ Prior to her current role at the National University of Singapore, Ms. Lim Leahy
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             ORGANISED BY
         </div>
-        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/energy_innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
+        <img alt="Energy Market Authority, NCCS, National Research Foundation" src="/images/events/energy-innovation/img-ei-organisers.png" style="width: 320px; height: 60px;" />
     </div>
 </div>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: fit-content;">
@@ -943,6 +943,6 @@ Prior to her current role at the National University of Singapore, Ms. Lim Leahy
         <div style="margin-left: auto; margin-right:auto; width: fit-content;">
             SEEC PARTNER
         </div>
-        <img alt="Sembcorp" src="/images/energy_innovation/img-ec-seec.png" style="width: 160px; height: 60px;" />
+        <img alt="Sembcorp" src="/images/events/energy-innovation/img-ec-seec.png" style="width: 160px; height: 60px;" />
     </div>
 </div>

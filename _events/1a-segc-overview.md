@@ -3,7 +3,7 @@ title: Overview
 permalink: /events/singapore-energy-grand-challenge/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC)
 ---
-![Singapore Energy Grand Challenge (Youth) 2021](/images/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
 <p style="text-align: center; font-weight: bold;">
     CALLING ALL SECONDARY SCHOOL AND JUNIOR COLLEGE STUDENTS!
     <br/><br/>
@@ -20,7 +20,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 ### Singapore Energy Grand Challenge (Youth) 2021 Overview
 
-<img alt="Overview" style="width: 505px; height: 260px; max-width: 505px;" src="/images/segc/SEGC%202021%20Overview.jpg" />  
+<img alt="Overview" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202021%20Overview.jpg" />  
 
 
 **There are 3 phases that you need to take note of:**  
@@ -52,7 +52,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     Click the link below to register!
     <br/>
     <a href="http://go.gov.sg/segc2021">
-        <img alt="Register Here" style="width: 363px; height: 65px; max-width: 363px;" src="/images/segc/Register%20button.jpg" />
+        <img alt="Register Here" style="width: 363px; height: 65px; max-width: 363px;" src="/images/events/segc/Register%20button.jpg" />
     </a>
     <br/>
     <br/>
@@ -69,15 +69,15 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
-    <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/segc/microsoft-logo-png-transparent%20.png" />
+    <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/events/segc/microsoft-logo-png-transparent%20.png" />
     <br/>
     <span style="font-style: italic;">Supported by:</span>
-    <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/segc/IMDA_Logo.jpg" />
+    <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/events/segc/IMDA_Logo.jpg" />
     <br/>
     <br/>
     <br/>
     <div style="width: fit-content; margin-left: auto; margin-right: auto;">
-        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="/images/segc/ema%20logo%20transparent%20hi-res.jpg" />
-        <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="/images/segc/EMA%20PL%20brandmark%20full%20colour.png" />
+        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="/images/events/segc/ema%20logo%20transparent%20hi-res.jpg" />
+        <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="/images/events/segc/EMA%20PL%20brandmark%20full%20colour.png" />
     </div>
 </p>

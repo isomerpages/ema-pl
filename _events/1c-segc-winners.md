@@ -3,15 +3,15 @@ title: Winners
 permalink: /events/singapore-energy-grand-challenge/winners
 third_nav_title: Singapore Energy Grand Challenge (SEGC)
 ---
-![Singapore Energy Grand Challenge (Youth) 2020](/images/segc/segc2020banner.png)
+![Singapore Energy Grand Challenge (Youth) 2020](/images/events/segc/segc2020banner.png)
 
 SEGC (Youth) 2020 was launched in March 2020 for all secondary school students to co-create Singapore’s Energy Story with the challenge statement “How would your energy efficient school or neighbourhood in Singapore look like in 2050?”. 92 teams across some 30 secondary schools took part in the challenge, using Microsoft’s Minecraft: Education Edition to create their ideal energy efficient world and showcase their aspirations for Singapore. 
 
 
-<img style="max-width: 602px;" alt="Champion - Team Futurae, Raffles Girl's School (Secondary)" src="/images/segc/segc2020winners.png" />
+<img style="max-width: 602px;" alt="Champion - Team Futurae, Raffles Girl's School (Secondary)" src="/images/events/segc/segc2020winners.png" />
 
 
-<img style="max-width: 602px;" alt="First Runnup-up - Physicsociety, Bedok Green Secondary School, Second Runner-up - Lightning Prodigies, St Hilda's Secondary School" src="/images/segc/segc2020runnersup.png" />
+<img style="max-width: 602px;" alt="First Runnup-up - Physicsociety, Bedok Green Secondary School, Second Runner-up - Lightning Prodigies, St Hilda's Secondary School" src="/images/events/segc/segc2020runnersup.png" />
 
 
 <p style="text-align: center">

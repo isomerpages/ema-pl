@@ -11,7 +11,7 @@ third_nav_title: Youth@SIEW
 
 <a id="2016" href=""></a>
 # 2016
-![Youth@SIEW](/images/youth-siew/YouthatSIEW%20(NEW%20LOGO).png)
+![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
 Organiser: Energy Market Authority  
 Date: 26 October 2016  
@@ -23,12 +23,12 @@ Attended by 360 participants, **Youth@SIEW**, saw active participation from the 
 
 We appreciate your support and are looking forward to your participation in future events!
 
-![Youth@SIEW 2016 Event Photos](/images/youth-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
+![Youth@SIEW 2016 Event Photos](/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
 
 
 <a id="2017" href=""></a>
 # 2017
-![Youth@SIEW](/images/youth-siew/YouthatSIEW%20(NEW%20LOGO).png)
+![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
 Organiser: Energy Market Authority  
 Date: 25 October 2017  
@@ -42,7 +42,7 @@ We appreciate your strong support and are looking forward to your participation 
 
 ---
 
-![Youth@SIEW 2017 Photographs](/images/youth-siew/Post%20SIEW%202017%20update%20pic.jpg)
+![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
 
 **Highlights of Youth@SIEW 2017**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EI1G4KRi_Ig" frameborder="0" allowfullscreen=""></iframe>  
@@ -146,7 +146,7 @@ We appreciate your strong support and are looking forward to your participation 
 
 <a id="2018" href=""></a>
 # 2018
-![Youth@SIEW](/images/youth-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 Organiser: Energy Market Authority  
 Date: 2 November 2018  
@@ -164,7 +164,7 @@ We are grateful for your strong participation and look forward to yet another re
 
 ---
 
-![Youth@SIEW 2018 Photgraphs](/images/youth-siew/YouthatSIEW%202018%20collage.png)
+![Youth@SIEW 2018 Photgraphs](/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png)
 
 **Highlights of Youth@SIEW 2018** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/umY6frPVE1Y" frameborder="0" allowfullscreen=""></iframe>  
@@ -264,7 +264,7 @@ We are grateful for your strong participation and look forward to yet another re
 
 
 # 2019
-![Youth@SIEW](/images/youth-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 Organiser: Energy Market Authority  
 Date: 1 November 2019  

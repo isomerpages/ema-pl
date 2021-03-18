@@ -3,7 +3,7 @@ title: 2020
 permalink: /events/youth-at-siew/2020
 third_nav_title: Youth@SIEW
 ---
-![Youth@SIEW](/images/youth-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 Organiser: Energy Market Authority  
 Date: 30 October 2020   
