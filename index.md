@@ -16,12 +16,12 @@ sections:
             - title: "Internships"
               description: "Considering a career in the Power sector, but not quite sure what that entails?"
               url: /programmes/internships/
-              url: /careers/sfwep/
             - title: "Singapore Energy Grand Challenge 2021"
               description: "How would your carbon-free school or neighbourhood in Singapore look like in 2050?"
               url: /events/singapore-energy-grand-challenge/overview
             - title: "Skills Framework for Energy & Power"
               description: "The SFw for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes."
+              url: /careers/sfwep/
 #    - infobar:
 #        title: Infobar title
 #        subtitle: Subtitle
