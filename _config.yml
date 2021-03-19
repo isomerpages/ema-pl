@@ -1,6 +1,6 @@
 title: Powering Lives
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-poweringlives.ico
+favicon: /images/common/favicon-poweringlives.ico
 
 # Site colors
 colors:

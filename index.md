@@ -2,14 +2,14 @@
 layout: homepage
 title: Powering Lives
 description: Brief site description here
-image: /images/Poweringlives%20logo.jpg
+image: /images/common/Poweringlives%20logo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Hero title
         subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        background: /images/home/hero-banner.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
