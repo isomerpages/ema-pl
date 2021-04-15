@@ -13,14 +13,15 @@ sections:
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
-            - title: "Internships"
-              description: "Considering a career in the Power sector, but not quite sure what that entails?"
-              url: /programmes/internships/
             - title: "Singapore Energy Grand Challenge 2021"
               description: "How would your carbon-free school or neighbourhood in Singapore look like in 2050?"
               url: /events/singapore-energy-grand-challenge/overview
             - title: "Skills Framework for Energy & Power"
-              description: "The SFw for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes."
+              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training 
+            - title: "Scholarships"
+              description: "Considering a scholarship in the Power sector? We have available scholarships for ITE, polytechnic and university students."
+              url: /scholarships/youth/energy-industry-scholarship
+programmes."
               url: /careers/sfwep/
 #    - infobar:
 #        title: Infobar title
