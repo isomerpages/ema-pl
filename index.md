@@ -17,12 +17,13 @@ sections:
               description: "How would your carbon-free school or neighbourhood in Singapore look like in 2050?"
               url: /events/singapore-energy-grand-challenge/overview
             - title: "Skills Framework for Energy & Power"
-              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training 
+              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
+              url: /careers/sfwep
             - title: "Scholarships"
               description: "Considering a scholarship in the Power sector? We have available scholarships for ITE, polytechnic and university students."
               url: /scholarships/youth/energy-industry-scholarship
-programmes."
-              url: /careers/sfwep/
+
+              
 #    - infobar:
 #        title: Infobar title
 #        subtitle: Subtitle
