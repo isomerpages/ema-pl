@@ -31,7 +31,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 2. Approach your teacher to register and submit your entry, including the URL to your video.
 
-3. Registration period opens from 1 March to 15 April 2021.
+3. Registration period opens from 1 March to 25 April 2021 (extended from 15 April).
 
 **Phase 2 – Clinic Sessions:**  
 
