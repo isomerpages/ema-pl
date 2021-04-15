@@ -174,7 +174,7 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Energy-Industry Scholarship is now open for applications until 31-Mar-2021.
+            The Energy-Industry Scholarship is now open for applications until 18-Apr-2021.
         </strong>
         <br>
         <br>
