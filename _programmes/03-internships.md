@@ -46,7 +46,7 @@ Simply click the ‘Start Powering’ button to deposit your resume, indicate yo
                 <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td style="text-align: center;">
-                <a href="https://www.ytlpowerseraya.com/"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://ytlpowerseraya.com.sg/"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td style="text-align: center;">
                 <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;"></a>
