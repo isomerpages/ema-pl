@@ -9,6 +9,9 @@ permalink: /resources/video-library
 * [Science](#science)
 * [Humanities](#humanities)
 
+**Singapore's Energy Story**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeQkdJEbAjs" frameborder="0" allowfullscreen=""></iframe>
+
 <a id="science" href=""></a>
 ### Science
 **Thermodynamics: Boil-Off Gas Recovery**  
@@ -33,12 +36,10 @@ permalink: /resources/video-library
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szvNFg2-Og4" frameborder="0" allowfullscreen=""></iframe>
 
 <a id="humanities" href=""></a>
-### Humantities
+### Humanities
 **Behind-The-Scenes: Singapore's Energy Landscape**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjEdhup8Kkc" frameborder="0" allowfullscreen=""></iframe>
 
 **Electricity Market**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iF08gChiY_A" frameborder="0" allowfullscreen=""></iframe>
 
-**EMA-MOE Science Education video series (Singapore's Energy Story)**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UeQkdJEbAjs" frameborder="0" allowfullscreen=""></iframe>
