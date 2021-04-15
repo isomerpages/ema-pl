@@ -58,11 +58,11 @@ Young Singapore citizens who are about to embark on their full-time local underg
 * Singapore Citizen
 * Good GCE 'A' Level results (at least 10 academic units), International Baccalaureate, NUS High School Diploma or Polytechnic Diploma
 * Seeking admission or have been accepted for admission to the following institutions:
- * Nanyang Technological University (NTU)
- * National University of Singapore (NUS)
- * Singapore Institute of Technology (SIT)
- * Singapore Management University (SMU)
- * Singapore University of Technology and Design (SUTD)
+    * Nanyang Technological University (NTU)
+    * National University of Singapore (NUS)
+    * Singapore Institute of Technology (SIT)
+    * Singapore Management University (SMU)
+    * Singapore University of Technology and Design (SUTD)
 * Good co-curricular activities record and leadership achievements
 * Passion to contribute to Singapore’s strategic sectors
  
@@ -86,11 +86,11 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 **Eligibility Criteria**  
 * Singapore Citizen
 * Good undergraduate results from the following institutions:
- * Nanyang Technological University (NTU)
- * National University of Singapore (NUS)
- * Singapore Institute of Technology (SIT)
- * Singapore Management University (SMU)
- * Singapore University of Technology and Design (SUTD)
+    * Nanyang Technological University (NTU)
+    * National University of Singapore (NUS)
+    * Singapore Institute of Technology (SIT)
+    * Singapore Management University (SMU)
+    * Singapore University of Technology and Design (SUTD)
 * Have completed at least 1 academic semester  and have not embarked on final year of study at point of application
 * Good co-curricular activities record and leadership achievements
 * Passion to contribute to Singapore’s strategic sectors 
