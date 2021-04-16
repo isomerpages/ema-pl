@@ -31,15 +31,15 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 2)  After submitting your Study Award’s application, please also submit the following supporting documents to <a href="mailto:EMA_HumanCapital@ema.gov.sg">EMA_HumanCapital@ema.gov.sg</a>:
 
-    a.  Scanned colour copy of IC (front and back);
+    * a. Scanned colour copy of IC (front and back);
 
-    b.  Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
+    * b. Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
 
-    c.  A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
+    * c. A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
 
-    d.  Course curriculum or outline of selected course of study (if any). For applicants who have already commenced the course at the point of application - Please complete Form 1 (Declaration of Completed Module) to state clearly the list of modules, and corresponding number of academic / credit units allocated for each module (if relevant); and
+    * d. Course curriculum or outline of selected course of study (if any). For applicants who have already commenced the course at the point of application - Please complete Form 1 (Declaration of Completed Module) to state clearly the list of modules, and corresponding number of academic / credit units allocated for each module (if relevant); and
 
-    e. Scanned copy of Letter of Offer or Matriculation from the institution (if any).
+    * e. Scanned copy of Letter of Offer or Matriculation from the institution (if any).
 
 3)  Only complete applications will be accepted for evaluation.
 
