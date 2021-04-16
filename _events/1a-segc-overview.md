@@ -20,7 +20,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 ### Singapore Energy Grand Challenge (Youth) 2021 Overview
 
-<img alt="Overview, 1 March Registration Opens, by 25 April Video Submission, End May Virtual Clinix Sessions, End July Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202021%20Overview%202.png" />  
+<img alt="Overview, 1 March Registration Opens, by 25 April Video Submission, End May Virtual Clinic Sessions, End July Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202021%20Overview%202.png" />  
 
 
 **There are 3 phases that you need to take note of:**  
