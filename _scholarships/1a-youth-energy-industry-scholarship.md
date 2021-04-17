@@ -70,102 +70,64 @@ Students who will be / currently pursuing relevant engineering courses at a loca
 
 [//]: # (showcase stories of scholars)
 
-<table>
-    <tr>
-        <td style="text-align: center; border: none;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_gl.png"  style="height: 250px;"/>
-        </td>
-        <td style="text-align: center; border: none;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_ihbmz.png" style="height: 250px;"/>
-        </td>
-        <td style="text-align: center; border: none;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_vl.png" style="height: 250px;"/>
-        </td>
-        <td style="text-align: center; border: none;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_mabs.png" style="height: 250px;"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; border: none;">
-            <strong>Gustavus Liew</strong>
-        </td>
-        <td style="text-align: center; border: none;">
-            <strong>Indra Haqim Bin Mohd Zulkifi</strong>
-        </td>
-        <td style="text-align: center; border: none;">
-            <strong>Vera Lam</strong>
-        </td>
-        <td style="text-align: center; border: none;">
-            <strong>Muhammad Afiq Bin Sapuan</strong>
-        </td>
-    </tr>   
-    <tr>
-        <td style="text-align: center; border: none;">
-            <span style="font-style: italic;">
-                Diploma in Electrical Engineering
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="font-style: italic;">
-                Diploma in Mechanical Engineering
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="font-style: italic;">
-                Diploma in Energy Systems & Management
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="font-style: italic;">
-                Diploma in Clean Energy Management
-            </span>
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; border: none;">
-            <span style="">
-                Ngee Ann Polytechnic
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="">
-                Singapore Polytechnic
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="">
-                Singapore Polytechnic
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="">
-                Ngee Ann Polytechnic
-            </span>
-        </td>
-    </tr> 
-    <tr>
-        <td style="text-align: center; border: none;">
-            <span style="color: #6A288A;">
-                EIS 2020 Scholar
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="color: #6A288A;">
-                EIS 2019 Scholar
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="color: #6A288A;">
-                EIS 2017 Scholar
-            </span>
-        </td>
-        <td style="text-align: center; border: none;">
-            <span style="color: #6A288A;">
-                EIS 2019 Scholar
-            </span>
-        </td>
-    </tr>    
-</table>
+<div style="width: 100%; overflow: hidden; text-align: center;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile_photo_gl.png"  
+            style="width: 180px;"/><br/>
+        <strong>Gustavus Liew</strong><br/>
+        <span style="font-style: italic;">
+            Diploma in Electrical Engineering
+        </span><br/>
+        <span style="">
+            Ngee Ann Polytechnic
+        </span><br/>
+        <span style="color: #6A288A;">
+            EIS 2020 Scholar
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile_photo_ihbmz.png" 
+            style="width: 180px;"/><br/>
+        <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
+        <span style="font-style: italic;">
+            Diploma in Mechanical Engineering
+        </span><br/>
+        <span style="">
+            Singapore Polytechnic
+        </span><br/>
+        <span style="color: #6A288A;">
+            EIS 2019 Scholar
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Vera Lam" src="/images/scholarships/youth/profile_photo_vl.png" 
+            style="width: 180px;"/><br/>
+        <strong>Vera Lam</strong><br/>
+        <span style="font-style: italic;">
+            Diploma in Energy Systems & Management
+        </span><br/>
+        <span style="">
+            Singapore Polytechnic
+        </span><br/>
+        <span style="color: #6A288A;">
+            EIS 2017 Scholar
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+            style="width: 180px;"/><br/>
+        <strong>Muhammad Afiq Bin Sapuan</strong><br/>
+        <span style="font-style: italic;">
+            Diploma in Clean Energy Management
+        </span><br/>
+        <span style="">
+            Ngee Ann Polytechnic
+        </span><br/>
+        <span style="color: #6A288A;">
+            EIS 2019 Scholar
+        </span>
+    </div>
+</div>
 
 ### Scholarship Benefits
 
