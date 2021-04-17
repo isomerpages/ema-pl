@@ -5,9 +5,9 @@ published: true
 ---
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 200px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile_photo_gl.png"  
-            style="width: 200px;"/><br/>
+            style="width: 250px;"/><br/>
         <strong>Gustavus Liew</strong><br/>
         <span style="font-style: italic;">
             Diploma in Electrical Engineering
@@ -19,9 +19,9 @@ published: true
             EIS 2020 Scholar
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 200px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile_photo_ihbmz.png" 
-            style="width: 200px;"/><br/>
+            style="width: 250px;"/><br/>
         <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
         <span style="font-style: italic;">
             Diploma in Mechanical Engineering
@@ -33,9 +33,9 @@ published: true
             EIS 2019 Scholar
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 200px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Vera Lam" src="/images/scholarships/youth/profile_photo_vl.png" 
-            style="width: 200px;"/><br/>
+            style="width: 250px;"/><br/>
         <strong>Vera Lam</strong><br/>
         <span style="font-style: italic;">
             Diploma in Energy Systems & Management
@@ -47,9 +47,9 @@ published: true
             EIS 2017 Scholar
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 200px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
-            style="width: 200px;"/><br/>
+            style="width: 250px;"/><br/>
         <strong>Muhammad Afiq Bin Sapuan</strong><br/>
         <span style="font-style: italic;">
             Diploma in Clean Energy Management
