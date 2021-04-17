@@ -19,7 +19,7 @@ published: true
             EIS 2020 Scholar
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile_photo_ihbmz.png" 
             style="width: 180px;"/><br/>
         <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
@@ -33,7 +33,7 @@ published: true
             EIS 2019 Scholar
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Vera Lam" src="/images/scholarships/youth/profile_photo_vl.png" 
             style="width: 180px;"/><br/>
         <strong>Vera Lam</strong><br/>
