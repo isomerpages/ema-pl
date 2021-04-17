@@ -1,6 +1,7 @@
 ---
-title: 2021
+title: 2021 (WIP)
 permalink: /events/energy-educators-forum/2021
 third_nav_title: Energy Educators Forum
+published: true
 ---
 
