@@ -77,15 +77,15 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <br/>
             <strong>Gustavus Liew</strong>
             <br/>
-            <span style="text-decoration: italic;">
+            <span style="font-style: italic;">
                 Diploma in Electrical Engineering
             </span>
             <br/>
-            <span style="text-decoration: italic; color: gray;">
+            <span style="">
                 Ngee Ann Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; color: lightblue;">
+            <span style="color: #6A288A;">
                 EIS 2020 Scholar
             </span>
         </td>
@@ -94,15 +94,15 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <br/>
             <strong>Indra Haqim Bin Mohd Zulkifi</strong>
             <br/>
-            <span style="text-decoration: italic;">
+            <span style="font-style: italic;">
                 Diploma in Mechanical Engineering
             </span>
             <br/>
-            <span style="text-decoration: italic; color: gray;">
+            <span style="">
                 Singapore Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; color: lightblue;">
+            <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
         </td>
@@ -111,15 +111,15 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <br/>
             <strong>Vera Lam</strong>
             <br/>
-            <span style="text-decoration: italic;">
+            <span style="font-style: italic;">
                 Diploma in Enargy Systems & Management
             </span>
             <br/>
-            <span style="text-decoration: italic; color: gray;">
+            <span style="">
                 Singapore Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; color: lightblue;">
+            <span style="color: #6A288A;">
                 EIS 2017 Scholar
             </span>
         </td>
@@ -128,15 +128,15 @@ Students who will be / currently pursuing relevant engineering courses at a loca
             <br/>
             <strong>Muhammad Afiq Bin Sapuan</strong>
             <br/>
-            <span style="text-decoration: italic;">
+            <span style="font-style: italic;">
                 Diploma in Clean Energy Management
             </span>
             <br/>
-            <span style="text-decoration: italic; color: gray;">
+            <span style="">
                 Ngee Ann Polytechnic
             </span>
             <br/>
-            <span style="text-decoration: italic; color: lightblue;">
+            <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
         </td>
