@@ -72,94 +72,94 @@ Students who will be / currently pursuing relevant engineering courses at a loca
 
 <table>
     <tr>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <img alt="Photograph" src="/images/scholarships/youth/profile_photo_gl.png"  style="height: 250px;"/>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <img alt="Photograph" src="/images/scholarships/youth/profile_photo_ihbmz.png" style="height: 250px;"/>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <img alt="Photograph" src="/images/scholarships/youth/profile_photo_vl.png" style="height: 250px;"/>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <img alt="Photograph" src="/images/scholarships/youth/profile_photo_mabs.png" style="height: 250px;"/>
         </td>
     </tr>
     <tr>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <strong>Gustavus Liew</strong>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <strong>Indra Haqim Bin Mohd Zulkifi</strong>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <strong>Vera Lam</strong>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <strong>Muhammad Afiq Bin Sapuan</strong>
         </td>
     </tr>   
     <tr>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="font-style: italic;">
                 Diploma in Electrical Engineering
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="font-style: italic;">
                 Diploma in Mechanical Engineering
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="font-style: italic;">
                 Diploma in Energy Systems & Management
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="font-style: italic;">
                 Diploma in Clean Energy Management
             </span>
         </td>
     </tr>
     <tr>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="">
                 Ngee Ann Polytechnic
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="">
                 Singapore Polytechnic
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="">
                 Singapore Polytechnic
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="">
                 Ngee Ann Polytechnic
             </span>
         </td>
     </tr> 
     <tr>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="color: #6A288A;">
                 EIS 2020 Scholar
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="color: #6A288A;">
                 EIS 2017 Scholar
             </span>
         </td>
-        <td style="text-align: center;">
+        <td style="text-align: center; border: none;">
             <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
