@@ -74,73 +74,97 @@ Students who will be / currently pursuing relevant engineering courses at a loca
     <tr>
         <td style="text-align: center;">
             <img alt="Photograph" src="/images/scholarships/youth/profile_photo_gl.png"  style="height: 250px;"/>
-            <br/>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_ihbmz.png" style="height: 250px;"/>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_vl.png" style="height: 250px;"/>
+        </td>
+        <td style="text-align: center;">
+            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_mabs.png" style="height: 250px;"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
             <strong>Gustavus Liew</strong>
-            <br/>
+        </td>
+        <td style="text-align: center;">
+            <strong>Indra Haqim Bin Mohd Zulkifi</strong>
+        </td>
+        <td style="text-align: center;">
+            <strong>Vera Lam</strong>
+        </td>
+        <td style="text-align: center;">
+            <strong>Muhammad Afiq Bin Sapuan</strong>
+        </td>
+    </tr>   
+    <tr>
+        <td style="text-align: center;">
             <span style="font-style: italic;">
                 Diploma in Electrical Engineering
             </span>
-            <br/>
+        </td>
+        <td style="text-align: center;">
+            <span style="font-style: italic;">
+                Diploma in Mechanical Engineering
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <span style="font-style: italic;">
+                Diploma in Energy Systems & Management
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <span style="font-style: italic;">
+                Diploma in Clean Energy Management
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
             <span style="">
                 Ngee Ann Polytechnic
             </span>
-            <br/>
+        </td>
+        <td style="text-align: center;">
+            <span style="">
+                Singapore Polytechnic
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <span style="">
+                Singapore Polytechnic
+            </span>
+        </td>
+        <td style="text-align: center;">
+            <span style="">
+                Ngee Ann Polytechnic
+            </span>
+        </td>
+    </tr> 
+    <tr>
+        <td style="text-align: center;">
             <span style="color: #6A288A;">
                 EIS 2020 Scholar
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_ihbmz.png" style="height: 250px;"/>
-            <br/>
-            <strong>Indra Haqim Bin Mohd Zulkifi</strong>
-            <br/>
-            <span style="font-style: italic;">
-                Diploma in Mechanical Engineering
-            </span>
-            <br/>
-            <span style="">
-                Singapore Polytechnic
-            </span>
-            <br/>
             <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_vl.png" style="height: 250px;"/>
-            <br/>
-            <strong>Vera Lam</strong>
-            <br/>
-            <span style="font-style: italic;">
-                Diploma in Enargy Systems & Management
-            </span>
-            <br/>
-            <span style="">
-                Singapore Polytechnic
-            </span>
-            <br/>
             <span style="color: #6A288A;">
                 EIS 2017 Scholar
             </span>
         </td>
         <td style="text-align: center;">
-            <img alt="Photograph" src="/images/scholarships/youth/profile_photo_mabs.png" style="height: 250px;"/>
-            <br/>
-            <strong>Muhammad Afiq Bin Sapuan</strong>
-            <br/>
-            <span style="font-style: italic;">
-                Diploma in Clean Energy Management
-            </span>
-            <br/>
-            <span style="">
-                Ngee Ann Polytechnic
-            </span>
-            <br/>
             <span style="color: #6A288A;">
                 EIS 2019 Scholar
             </span>
         </td>
-    </tr>
+    </tr>    
 </table>
 
 ### Scholarship Benefits
