@@ -20,9 +20,9 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </strong>
     <br/>
     <br/>
-    Check out their winning entries here: <a href="go.gov.sg/segc-youth-winners" target="_blank">go.gov.sg/segc-youth-winners</a>
+    Check out their winning entries here: <a href="https://go.gov.sg/segc-youth-winners" target="_blank">go.gov.sg/segc-youth-winners</a>
     <br/>
     <br/>
-    Watch the virtual award ceremony here: <a href="https://go.gov.sg/segc-youth-live " target="_blank">https://go.gov.sg/segc-youth-live</a>
+    Watch the virtual award ceremony here: <a href="https://go.gov.sg/segc-youth-live " target="_blank">go.gov.sg/segc-youth-live</a>
     <br/>
 </p>
