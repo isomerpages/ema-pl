@@ -23,7 +23,7 @@ Youth@SIEW also features exhibitions that showcase energy-related innovations by
 <a href="/files/RIED%20Panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a>  
 
 
-<a href="/files/Manpower%20Panel.pdf">Click here to find out more about our manpower initiatives for the energy sector.</a>  
+<a href="/files/Manpower%20Panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a>  
 
 ## 2020 Youth Showcases
 
