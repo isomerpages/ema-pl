@@ -1,0 +1,12 @@
+collections:
+  scholarships:
+    output: true
+    order:
+      - youth/.keep
+      - youth/energy-industry-scholarship-eis.md
+      - youth/singapore-industry-scholarship.md
+      - adults/.keep
+      - adults/skillsfuture-study-awards-for-power-sector.md
+      - adults/work-study-programme.md
+      - adults/singapore-energy-award-wip.md
+      - adults/sf-fellowships-and-employer-award-wip.md

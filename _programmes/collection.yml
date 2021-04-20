@@ -1,0 +1,7 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - experiential-learning-journeys-powering-lives-trail.md
+      - energy-ambassadors-programme.md
+      - internships.md
