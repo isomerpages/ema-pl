@@ -19,19 +19,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-    about:
-      output: true   
-    careers:
-      output: true 
-    scholarships:
-      output: true
-    programmes:
-      output: true
-    events:
-      output: true
-    resources:
-      output: true
 
 #resources_name: resources
 
@@ -55,8 +42,11 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://ema-pl-staging.netlify.app
+prod: https://ema-pl-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
