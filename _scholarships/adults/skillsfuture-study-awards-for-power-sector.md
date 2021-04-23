@@ -39,7 +39,7 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
      * Scanned copy of Letter of Offer or Matriculation from the institution (if any).
 3. Only complete applications will be accepted for evaluation.
 
-Note:  Only shortlisted applicants will be notified.  EMA reserves the right not to disclose the reasons for not shortlisting any applications
+Note:  Only shortlisted applicants will be notified.  EMA reserves the right not to disclose the reasons for not shortlisting any applications.
 
 ### Application Period
 Application is open all year round.
