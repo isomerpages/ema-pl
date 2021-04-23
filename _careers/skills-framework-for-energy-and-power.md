@@ -1,5 +1,5 @@
 ---
-title: Skills Framework for Energy and Power
+title: Skills Framework for Energy and Power (SFwEP)
 permalink: /careers/sfwep/
 ---
 ![alt text - The Electricity Sector](/images/careers/sfwep/electricity.png)
