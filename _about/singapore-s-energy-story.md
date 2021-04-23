@@ -28,7 +28,6 @@ We will explore ways to tap on regional power grids to access energy that is cos
 
 We will also look into emerging low-carbon solutions (e.g. carbon capture, utilisation and storage technologies, hydrogen) that have the potential to help reduce Singapore's carbon footprint.
 
-&nbsp;
 **Energy Efficiency**
 
 On the demand side, we will continue our efforts to improve our energy efficiency in all sectors. We will also empower our households to better manage their electricity consumption by providing them with more information.
