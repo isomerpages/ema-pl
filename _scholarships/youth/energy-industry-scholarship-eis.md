@@ -7,7 +7,7 @@ third_nav_title: Youth
 
 ![Energy Industry Scholarship](/images/scholarships/youth/EIS_sub.jpg)
 
-### Introduction on Energy-Industry Scholarship
+### Introduction to Energy-Industry Scholarship
 
 <div style="float: right;">
     <a href="#NearHyperLinkLoginSingPass">
@@ -18,7 +18,7 @@ third_nav_title: Youth
 The Energy-Industry Scholarship (EIS) is the first dedicated scholarship to develop and nurture talent for the Power sector. Embark on a Rewarding, Meaningful and Stable career in the Power sector. Apply for the Energy-Industry Scholarship today!
 
 ### Eligibility
-Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local Institute of Technical Education (ITE), or polytechnic.
+Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local Institute of Technical Education (ITE), or polytechnic are eligible.
 
 |Institution/ Category|Full-Term Scholarship|Mid-Term Scholarship*|
 ----------------------|---------------------|---------------------|
@@ -27,7 +27,7 @@ Polytechnic|Yes|Yes|
 
 *Open to current students with at least one academic year remaining at the point of application.
 
-Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the Singapore-Industry Scholarship (SgIS). 
+Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the <a href="/" target="/scholarships/youth/singapore-industry-scholarship" target="_blank" >here</a>Singapore-Industry Scholarship (SgIS). 
 
 ### Sponsoring Organisations
 <table class="no-border">
@@ -167,7 +167,7 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-            To apply, please <a href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx">click here and login to Powering Lives portal</a> with your Singpass
+            To apply, please <a href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx">click here and login to Powering Lives portal</a> with your Singpass.
         </span>
     </div>
 </div>
