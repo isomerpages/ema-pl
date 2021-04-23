@@ -54,6 +54,6 @@ As part of the national movement to provide Singaporeans with opportunities to d
 
 ![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
 
-<iframe width = "560" height "315" src="https://www.youtube.com/embed/TI84KMsg8YY" frameborder="0" allowfullscreen="" ></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TI84KMsg8YY" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ![Organised by Energy Market Authority, Part of Powering Lives, Skills Future Study Awards](/images/scholarships/adults/logobanner%20for%20SF%20study%20award.png)
