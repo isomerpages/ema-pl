@@ -120,7 +120,7 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Energy-Industry Scholarship is now open for applications until 18-Apr-2021.
+            The Singapore-Industry Scholarship applications closed on 22-Mar-2021.
         </strong>
         <br>
         <br>
