@@ -13,4 +13,4 @@ In Gas to Power, we have a track record of developing, owning and operating powe
 
 Our subsidiary, Keppel Seghers, offers a broad portfolio of environmental solutions, and its scope of activities includes consultancy, design, engineering, technology development, construction, operations and maintenance of plants and facilities as well as investments in large environmental projects.
 
-Keppel DHCS, is the first and largest district cooling service provider in Singapore, providing cooling services through the development and operation of such systems at major business parks.
+Keppel DHCS is the first and largest district cooling service provider in Singapore, providing cooling services through the development and operation of such systems at major business parks.
