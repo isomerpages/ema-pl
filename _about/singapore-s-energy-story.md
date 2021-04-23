@@ -16,7 +16,7 @@ EMA has taken steps to help our power generation companies (gencos) improve the 
 
 **2nd Switch: Solar**  
 
-Solar remains the most promising renewable energy source for Singapore, while energy storage systems allows us to counter the intermittency of renewable energy sources such as solar.
+Solar remains the most promising renewable energy source for Singapore, while energy storage systems allow us to counter the intermittency of renewable energy sources such as solar.
 
 Singapore has achieved its 2020 solar target of 350 megawatt-peak (MWp) in the first quarter of that year. In the longer term, we are working towards achieving a new solar target of at least 2 gigawatt-peak (GWp) by 2030, and an energy storage deployment target of 200MW beyond 2025.
 
@@ -29,15 +29,16 @@ We will explore ways to tap on regional power grids to access energy that is cos
 We will also look into emerging low-carbon solutions (e.g. carbon capture, utilisation and storage technologies, hydrogen) that have the potential to help reduce Singapore's carbon footprint.
 
 &nbsp;
+**Energy Efficiency**
 
 On the demand side, we will continue our efforts to improve our energy efficiency in all sectors. We will also empower our households to better manage their electricity consumption by providing them with more information.
 
-Our <a href="/files/Future-SG-Energy-Story-Infographic_20191029.pdf" target="_blank">Energy Story</a> is a long-term effort. The Energy Market Authority will be working with various stakeholders, from businesses to research communities, youths and unions and the general public to achieve this vision of a cleaner and more efficient energy future.
+Our Energy Story is a long-term effort. The Energy Market Authority will be working with various stakeholders, from businesses to research communities, youths, unions and the general public to achieve this vision of a cleaner and more efficient energy future.
 
 ![Future Singapore Energy Story Infographic](/images/about/Future-SG-Energy-Story-Infographic_20191029.jpg)
 *Source: Ministry of Trade and Industry, Singapore*
 
-Watch this short video on our Energy Story on <a href="https://youtu.be/WVzvLXUwcUs" target="_blank">YouTube</a>
+Watch this short video on our Energy Story
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 Find out more at <a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">https://www.beyondthecurrent.gov.sg/energy-story</a>
