@@ -1,11 +1,11 @@
 ---
-title: Singapore-Industry Scholarship
+title: Singapore-Industry Scholarship (SgIS)
 permalink: /scholarships/youth/singapore-industry-scholarship
 third_nav_title: Youth
 ---
 ![Energy Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
 
-### Introduction on Singapore-Industry Scholarship (SgIS)
+### Introduction to Singapore-Industry Scholarship (SgIS)
 
 Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the Power sector.
 
@@ -115,3 +115,19 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 **Value of Award and Bond Period**  
 * 1 to 2 academic years remaining in university at point of application – S$40,000 grant and a 2-year bond with the sponsoring organisation
 * More than 2 academic years remaining in university at point of application – S$60,000 grant and a 3-year bond with the sponsoring organisation
+
+<a id="NearHyperLinkLoginSingPass"></a>
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+    <div style="text-align:center;">
+        <strong>
+            The Energy-Industry Scholarship is now open for applications until 18-Apr-2021.
+        </strong>
+        <br>
+        <br>
+    </div>
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
+        To submit your application, visit <a href="https://www.moe.gov.sg/sgis/application" target="_blank">https://www.moe.gov.sg/sgis/application</a>
+        </span>
+    </div>
+</div>
