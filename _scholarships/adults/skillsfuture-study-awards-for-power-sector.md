@@ -32,11 +32,11 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 1. Please indicate in Section F of the application form why the Power sector is a choice career and why you deserve the Study Award.
 2. After submitting your Study Award’s application, please also submit the following supporting documents to <a href="mailto:EMA_HumanCapital@ema.gov.sg">EMA_HumanCapital@ema.gov.sg</a>:
-     a. Scanned colour copy of IC (front and back);
-     b. Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
-     c. A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
-     d. Course curriculum or outline of selected course of study (if any). For applicants who have already commenced the course at the point of application - Please complete Form 1 (Declaration of Completed Module) to state clearly the list of modules, and corresponding number of academic / credit units allocated for each module (if relevant); and
-     e. Scanned copy of Letter of Offer or Matriculation from the institution (if any).
+     * Scanned colour copy of IC (front and back);
+     * Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
+     * A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
+     * Course curriculum or outline of selected course of study (if any). For applicants who have already commenced the course at the point of application - Please complete Form 1 (Declaration of Completed Module) to state clearly the list of modules, and corresponding number of academic / credit units allocated for each module (if relevant); and
+     * Scanned copy of Letter of Offer or Matriculation from the institution (if any).
 3. Only complete applications will be accepted for evaluation.
 
 Note:  Only shortlisted applicants will be notified.  EMA reserves the right not to disclose the reasons for not shortlisting any applications
@@ -54,6 +54,6 @@ As part of the national movement to provide Singaporeans with opportunities to d
 
 ![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
 
-<iframe style="margin-left: auto; margin-right: auto; width: 560px; height: 315px;" src="https://www.youtube.com/embed/TI84KMsg8YY" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>  
+<iframe width = "560" height "315" src="https://www.youtube.com/embed/TI84KMsg8YY" frameborder="0" allowfullscreen="" ></iframe>  
 
 ![Organised by Energy Market Authority, Part of Powering Lives, Skills Future Study Awards](/images/scholarships/adults/logobanner%20for%20SF%20study%20award.png)
