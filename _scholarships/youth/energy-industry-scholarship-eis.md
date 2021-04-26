@@ -27,7 +27,7 @@ Polytechnic|Yes|Yes|
 
 *Open to current students with at least one academic year remaining at the point of application.
 
-Students who will be / currently pursuing relevant engineering courses at a local university are encouraged to apply for the <a href="/scholarships/youth/singapore-industry-scholarship" target="_blank" >Singapore-Industry Scholarship (SgIS).</a> 
+Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships/youth/singapore-industry-scholarship" target="_blank" >Singapore-Industry Scholarship (SgIS).</a> 
 
 ### Sponsoring Organisations
 <table class="no-border">
@@ -160,7 +160,7 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Energy-Industry Scholarship is now open for applications until 18-Apr-2021.
+            The Energy-Industry Scholarship applications closed on 18-Apr-2021.
         </strong>
         <br>
         <br>
