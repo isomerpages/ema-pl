@@ -116,9 +116,9 @@ The full sum of S$5,000 will be disbursed after the award recipient completes at
 
  
 **How do I apply for the Study Awards?**  
-Applicants may apply online at <a href="https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065</a>
+Applicants may apply online <a href="https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>
 
 
  
 **I am experiencing technical issues with my application. Who can I contact for assistance?**  
-Please visit the Feedback Portal at <a href="https://portal.ssg-wsg.gov.sg/feedback" target="_blank">https://portal.ssg-wsg.gov.sg/feedback</a> or call 6785 5785 for assistance.
+Please visit the Feedback Portal <a href="https://portal.ssg-wsg.gov.sg/feedback" target="_blank">here</a> or call 6785 5785 for assistance.
