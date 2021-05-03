@@ -8,6 +8,7 @@ third_nav_title: Youth@SIEW
 * [2017](#2017)
 * [2018](#2018)
 * [2019](#2019)
+* [2019 Youth Energy Showcase](#2019YouthEnergyShowcase)
 
 <a id="2016" href=""></a>
 # 2016
@@ -285,7 +286,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 
 Please contact the Industry Development Department [@EMA_HumanCapital@ema.gov.sg](mailto:@EMA_HumanCapital@ema.gov.sg) for more details.
 
-## 2019 Youth Showcases
+## 2019 Youth Energy Showcase
 
 ### ITE College East
 **Eliminating Standby Power**  
