@@ -8,7 +8,7 @@ third_nav_title: Youth@SIEW
 * [2017](#2017)
 * [2018](#2018)
 * [2019](#2019)
-    * [2019 Youth Energy Showcase](##2019 Youth Energy Showcase)
+    * [2019 Youth Energy Showcase](#2019 Youth Energy Showcase)
 
 <a id="2016" href=""></a>
 # 2016
