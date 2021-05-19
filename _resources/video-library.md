@@ -6,11 +6,16 @@ permalink: /resources/video-library
 
 <A href="https://www.youtube.com/watch?v=LqnCHniADJo&list=PLA11-KVxu2UOE5x9LwORdaoifuUQ2ffCO" target="_blank">Full Playlist on YouTube</a>  
 
-* [Science](#science)
 * [Humanities](#humanities)
+* [Science](#science)
 
-**Singapore's Energy Story**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UeQkdJEbAjs" frameborder="0" allowfullscreen=""></iframe>
+<a id="humanities" href=""></a>
+### Humanities
+**Behind-The-Scenes: Singapore's Energy Landscape**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjEdhup8Kkc" frameborder="0" allowfullscreen=""></iframe>
+
+**Electricity Market**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iF08gChiY_A" frameborder="0" allowfullscreen=""></iframe>
 
 <a id="science" href=""></a>
 ### Science
@@ -35,11 +40,6 @@ permalink: /resources/video-library
 **Singapore's Fuel Sources**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szvNFg2-Og4" frameborder="0" allowfullscreen=""></iframe>
 
-<a id="humanities" href=""></a>
-### Humanities
-**Behind-The-Scenes: Singapore's Energy Landscape**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjEdhup8Kkc" frameborder="0" allowfullscreen=""></iframe>
-
-**Electricity Market**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iF08gChiY_A" frameborder="0" allowfullscreen=""></iframe>
+**Singapore's Energy Story**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeQkdJEbAjs" frameborder="0" allowfullscreen=""></iframe>
 
