@@ -102,9 +102,9 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Vera Lam" src="/images/scholarships/youth/profile_photo_vl.png" 
             style="width: 180px;"/><br/>
-        <strong>Vera Lam</strong><br/>
+        <strong>Teo Mei Fang</strong><br/>
         <span style="font-style: italic;">
-            Diploma in Energy Systems & Management
+            Diploma in Electrical and Electronic Engineering
         </span><br/>
         <span style="">
             Singapore Polytechnic
@@ -122,6 +122,20 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span><br/>
         <span style="">
             Ngee Ann Polytechnic
+        </span><br/>
+        <span style="color: #6A288A;">
+            EIS 2019 Scholar
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+            style="width: 180px;"/><br/>
+        <strong>Muhammad Rafiuddin Bin Samsudien</strong><br/>
+        <span style="font-style: italic;">
+            Nitec in Electrical Technology (Power & Control)
+        </span><br/>
+        <span style="">
+            ITE College West
         </span><br/>
         <span style="color: #6A288A;">
             EIS 2019 Scholar
@@ -160,7 +174,8 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Energy-Industry Scholarship applications closed on 18-Apr-2021.
+            Thank you for your interest in the Energy-Industry Scholarship. Application is now closed.
+            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
         <br>
