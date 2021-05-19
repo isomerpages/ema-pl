@@ -40,7 +40,32 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
     </tbody>
 </table>
 
-To submit your application, visit <a href="https://www.moe.gov.sg/sgis/application" target="_blank">https://www.moe.gov.sg/sgis/application</a>
+[//]: # (showcase stories of scholars)
+
+<div style="width: 100%; overflow: hidden; text-align: center;">
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+            style="width: 180px;"/><br/>
+        <strong>Muhammad Hafiz Bin Aziz</strong><br/>
+        <span style="font-style: italic;">
+            Bachelors in Mechanical Engineering
+        </span><br/>
+        <span style="">
+            Nanyang Technological University
+        </span>
+    </div>
+ <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+            style="width: 180px;"/><br/>
+        <strong>Goh Yi Hui</strong><br/>
+        <span style="font-style: italic;">
+            Bachelors in Engineering (Electrical & Electronics) with Business Minor
+        </span><br/>
+        <span style="">
+            Nanyang Technological University
+        </span>
+    </div>
+</div>
 
 **Examples of Relevant Disciplines**  
 * Civil Engineering
@@ -120,7 +145,8 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Singapore-Industry Scholarship applications closed on 22-Mar-2021.
+            Thank you for your interest in the Singapore-Industry Scholarship. Application is now closed. <br>
+            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
         <br>
