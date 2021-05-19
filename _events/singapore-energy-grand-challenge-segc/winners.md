@@ -1,7 +1,7 @@
 ---
 title: Winners
-permalink: /events/singapore-energy-grand-challenge/winners
-third_nav_title: Singapore Energy Grand Challenge (SEGC)
+permalink: /events/singapore-energy-grand-challenge-youth/winners
+third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2020](/images/events/segc/segc2020banner.png)
 
