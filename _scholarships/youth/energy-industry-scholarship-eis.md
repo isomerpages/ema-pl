@@ -148,7 +148,7 @@ Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            Thank you for your interest in the Energy-Industry Scholarship. Application is now closed.
+            Thank you for your interest in the Energy-Industry Scholarship. Application is now closed. <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
