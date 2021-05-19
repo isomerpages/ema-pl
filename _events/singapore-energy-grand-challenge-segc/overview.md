@@ -1,7 +1,7 @@
 ---
 title: Overview
-permalink: /events/singapore-energy-grand-challenge/overview
-third_nav_title: Singapore Energy Grand Challenge (SEGC)
+permalink: /events/singapore-energy-grand-challenge-youth/overview
+third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
 <p style="text-align: center; font-weight: bold;">
