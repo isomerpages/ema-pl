@@ -80,9 +80,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span><br/>
         <span style="">
             Ngee Ann Polytechnic
-        </span><br/>
-        <span style="color: #6A288A;">
-            EIS 2020 Scholar
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
@@ -94,9 +91,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span><br/>
         <span style="">
             Singapore Polytechnic
-        </span><br/>
-        <span style="color: #6A288A;">
-            EIS 2019 Scholar
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
@@ -108,23 +102,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span><br/>
         <span style="">
             Singapore Polytechnic
-        </span><br/>
-        <span style="color: #6A288A;">
-            EIS 2017 Scholar
-        </span>
-    </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
-            style="width: 180px;"/><br/>
-        <strong>Muhammad Afiq Bin Sapuan</strong><br/>
-        <span style="font-style: italic;">
-            Diploma in Clean Energy Management
-        </span><br/>
-        <span style="">
-            Ngee Ann Polytechnic
-        </span><br/>
-        <span style="color: #6A288A;">
-            EIS 2019 Scholar
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
@@ -136,9 +113,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span><br/>
         <span style="">
             ITE College West
-        </span><br/>
-        <span style="color: #6A288A;">
-            EIS 2019 Scholar
         </span>
     </div>
 </div>
