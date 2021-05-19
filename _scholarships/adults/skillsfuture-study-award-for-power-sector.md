@@ -1,11 +1,11 @@
 ---
-title: SkillsFuture Study Awards for Power Sector (SFSA)
-breadcrumb: SkillsFuture Study Awards
-permalink: /scholarships/adults/skillsfuture-study-awards
+title: SkillsFuture Study Award for Power Sector (SFSA)
+breadcrumb: SkillsFuture Study Award
+permalink: /scholarships/adults/skillsfuture-study-award
 third_nav_title: Adults
 ---
 
-![SkillsFuture Study Awards for Power Sector](/images/scholarships/adults/Skillsfuture%20Banner%20-%20low%20res.png)
+![SkillsFuture Study Award for Power Sector](/images/scholarships/adults/Skillsfuture%20Banner%20-%20low%20res.png)
 
 ### Sector Overview
 
@@ -30,8 +30,8 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
  
 <span style="text-decoration: underline;">Submission of Application:</span>
 
-1. Please indicate in Section F of the application form why the Power sector is a choice career and why you deserve the Study Award.
-2. After submitting your Study Award’s application, please also submit the following supporting documents to <a href="mailto:EMA_HumanCapital@ema.gov.sg">EMA_HumanCapital@ema.gov.sg</a>:
+1. Please indicate in the Career Development Plan of your application form why the Power sector is a choice career and why you deserve the Study Award.
+2. Please upload the following documents in the online application portal:
      * Scanned colour copy of IC (front and back);
      * Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
      * A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
