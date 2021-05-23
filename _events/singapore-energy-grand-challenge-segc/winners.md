@@ -99,6 +99,50 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
 </div>
 
 
+
+<div style="text-align: left;">
+    <strong>
+        Second Runner-up - Lightning Prodigies
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+       St. Hilda’s Secondary School
+    </span>
+</div>
+<div style="text-align: center;">
+    Lightning Prodigies, demonstrated a thorough consideration of balancing the trade-offs between energy security, competitive prices and environmental sustainability. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Solar panels in Minecraft" src="/images/events/segc/solar-panels.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Solar Panels
+        </strong>
+        <br/>
+        Impressive arrays of solar panels to power electricity needs
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Lightning Prodigies members: Nur Sarah Binte Mohamed Rafiq, Ng Sheng Kang Ernest, Tan Kang Rui, Roger Halim" src="/images/events/segc/lightning-prodigies.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Nur Sarah Binte Mohamed Rafiq, Ng Sheng Kang Ernest, Tan Kang Rui, Roger Halim
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="LED Lighting in Minecraft" src="/images/events/segc/led-lighting.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            LED Lighting
+        </strong>
+        <br/>
+        Efficient LED lighting system throughout the entire school
+    </div>
+</div>
+
+
+
 <p style="text-align: center">
     <strong>
         Congratulations to all the winners!
