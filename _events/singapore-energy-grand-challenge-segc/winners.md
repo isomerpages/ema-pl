@@ -55,6 +55,8 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </div>
 </div>
 
+
+
 <div style="text-align: center;">
     <strong>
         First Runner-up - Physicsociety
@@ -75,7 +77,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         A more energy efficient way of purifying rainwater
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Physicsociety Members: Ong Shi En, Ashraf Masuri, Sun-Yen Tan, Colby Kang with Minecraft background" src="/images/events/segc/physicsociety.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Physicsociety Members: Ong Shi En, Ashraf Masuri, Sun-Yen Tan, Colby Kang with Minecraft background" src="/images/events/segc/physicsociety.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Members: (L to R)
