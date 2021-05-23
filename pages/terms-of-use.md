@@ -2,9 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### Terms of Use
-
-1.   Agreement - Terms
+#### 1.   Agreement - Terms
 
 All access of any area of www.poweringlives.gov.sg ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms. In these Terms, the words "we", "our" and "us" refers to the Energy Market Authority.
 
