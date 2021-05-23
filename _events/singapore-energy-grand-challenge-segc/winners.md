@@ -16,7 +16,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Raffles Girls’ School (Secondary)
     </span>
     <br/>
-    <img alt="Photograph of Team Futurae members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun" src="/images/events/segc/team-futurae.png" style="width: 416px;"/>
+    <img alt="Photograph of Team Futurae members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun in front of a Minecraft background" src="/images/events/segc/team-futurae.png" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun
@@ -27,7 +27,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     Team Futurae clinched the championship with their creative and comprehensive presentation of innovative energy efficient ideas for Singapore in 2050. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="HydroSol" src="/images/events/segc/hydro-sol.png" style="width: 240px; height: 160px;"/>
+        <img alt="HydroSol in Minecraft" src="/images/events/segc/hydro-sol.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             HydroSol
@@ -36,7 +36,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Hydrogen-Solar fuelled school buses
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Carbon-capturing concrete" src="/images/events/segc/carbon-capturing-concrete.png" style="width: 240px; height: 160px;"/>
+        <img alt="Carbon-capturing concrete in Minecraft" src="/images/events/segc/carbon-capturing-concrete.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Carbon-capturing concrete
@@ -45,7 +45,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Capturing CO2 released during incineration to reduce our carbon footprint
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Pressure-plate paths" src="/images/events/segc/pressure-plate-paths.png" style="width: 240px; height: 160px;"/>
+        <img alt="Pressure-plate paths in Minecraft" src="/images/events/segc/pressure-plate-paths.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Pressure-plate paths
@@ -55,7 +55,44 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </div>
 </div>
 
-<img style="max-width: 602px;" alt="First Runnup-up - Physicsociety, Bedok Green Secondary School, Second Runner-up - Lightning Prodigies, St Hilda's Secondary School" src="/images/events/segc/segc2020runnersup.png" />
+<div style="text-align: center;">
+    <strong>
+        First Runner-up - Physicsociety
+    </strong>
+    <span style="font-style: italic;">
+        Bedok Green Secondary School
+    </span>
+    <br/>
+    Physicsociety was recognised for their creative video delivery and impressive Minecraft world. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Water filtration system in Minecraft" src="/images/events/segc/water-filtration-system.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Water filtration system
+        </strong>
+        <br/>
+        A more energy efficient way of purifying rainwater
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Physicsociety Members: Ong Shi En, Ashraf Masuri, Sun-Yen Tan, Colby Kang with Minecraft background" src="/images/events/segc/physicsociety.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Ong Shi En, Ashraf Masuri, Sun-Yen Tan, Colby Kang
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Thermoelectric generators in Minecraft" src="/images/events/segc/thermoelectric-generators.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Thermoelectric generators
+        </strong>
+        <br/>
+        Converting heat flows into electricity
+    </div>
+</div>
 
 
 <p style="text-align: center">
