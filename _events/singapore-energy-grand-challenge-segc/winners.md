@@ -7,7 +7,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 SEGC (Youth) 2020 was launched in March 2020 for all secondary school students to co-create Singapore’s Energy Story with the challenge statement “How would your energy efficient school or neighbourhood in Singapore look like in 2050?”. 92 teams across some 30 secondary schools took part in the challenge, using Microsoft’s Minecraft: Education Edition to create their ideal energy efficient world and showcase their aspirations for Singapore. 
 
-<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+<div style="text-align: left;">
     <strong>
         Champion - Team Futurae
     </strong>
@@ -15,7 +15,8 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     <span style="font-style: italic;">
         Raffles Girls’ School (Secondary)
     </span>
-    <br/>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
     <img alt="Photograph of Team Futurae members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun in front of a Minecraft background" src="/images/events/segc/team-futurae.png" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
@@ -56,18 +57,16 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
 </div>
 
 
-
-<div style="text-align: center;">
-    <div style="text-align: left;">
-        <strong>
-            First Runner-up - Physicsociety
-        </strong>
-        <br/>
-        <span style="font-style: italic;">
-            Bedok Green Secondary School
-        </span>
-    </div>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up - Physicsociety
+    </strong>
     <br/>
+    <span style="font-style: italic;">
+        Bedok Green Secondary School
+    </span>
+</div>
+<div style="text-align: center;">
     Physicsociety was recognised for their creative video delivery and impressive Minecraft world. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
