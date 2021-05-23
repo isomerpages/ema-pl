@@ -5,7 +5,7 @@ third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/city_gas_large.jpg" alt="City Gas" style="width: 450px; height: 312px;" /><br/>
 
-<a href="https://www.citygas.com.sg/"><img alt="City Gas" src="/images/common/partner-logos/City_Gas.jpg" style="width: 250px; height: 120px;"></a>
+<a href="https://www.citygas.com.sg/" target="_blank"><img alt="City Gas" src="/images/common/partner-logos/City_Gas.jpg" style="width: 250px; height: 120px;"></a>
 
 City Gas is Singapore’s premium town gas and natural gas utilities provider, producing and delivering piped gas to residential, commercial and industrial customers island-wide.
 
