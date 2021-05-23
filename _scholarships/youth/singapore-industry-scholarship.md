@@ -43,7 +43,7 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
 [//]: # (showcase stories of scholars)
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
-<div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 315px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of >Muhammad Hafiz Bin Aziz" src="/images/scholarships/youth/profile-photo-mhba.jpg" 
             style="width: 315px;"/><br/>
         <strong>Muhammad Hafiz Bin Aziz</strong><br/>
