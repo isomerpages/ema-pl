@@ -22,8 +22,10 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun
     </span>
 </div>
-Team Futurae clinched the championship with their creative and comprehensive presentation of innovative energy efficient ideas for Singapore in 2050.  
+ 
 <div style="text-align: center;">
+    Team Futurae clinched the championship with their creative and comprehensive presentation of innovative energy efficient ideas for Singapore in 2050. 
+    <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="HydroSol" src="/images/events/segc/hydro-sol.png" style="width: 240px; height: 160px;"/>
         <br/>
