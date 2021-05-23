@@ -58,12 +58,15 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
 
 
 <div style="text-align: center;">
-    <strong>
-        First Runner-up - Physicsociety
-    </strong>
-    <span style="font-style: italic;">
-        Bedok Green Secondary School
-    </span>
+    <div style="text-align: left;">
+        <strong>
+            First Runner-up - Physicsociety
+        </strong>
+        <br/>
+        <span style="font-style: italic;">
+            Bedok Green Secondary School
+        </span>
+    </div>
     <br/>
     Physicsociety was recognised for their creative video delivery and impressive Minecraft world. 
     <br/>
