@@ -57,7 +57,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
 </div>
 
 
-<div style="text-align: left;">
+<div style="text-align: left; margin-top: 30px;">
     <strong>
         First Runner-up - Physicsociety
     </strong>
@@ -100,7 +100,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
 
 
 
-<div style="text-align: left;">
+<div style="text-align: left; margin-top: 30px;">
     <strong>
         Second Runner-up - Lightning Prodigies
     </strong>
