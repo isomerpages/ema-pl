@@ -1,5 +1,5 @@
 collections:
-  resources:
+  educational-resources:
     output: true
     order:
       - info-pack.md

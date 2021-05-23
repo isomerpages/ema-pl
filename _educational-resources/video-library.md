@@ -2,7 +2,7 @@
 title: Video Library
 permalink: /educational-resources/video-library
 ---
-![Info Pack Resources](/images/resources/Resources.jpg)
+![Info Pack Resources](/images/educational-resources/Resources.jpg)
 
 <A href="https://www.youtube.com/watch?v=LqnCHniADJo&list=PLA11-KVxu2UOE5x9LwORdaoifuUQ2ffCO" target="_blank">Full Playlist on YouTube</a>  
 
