@@ -19,21 +19,21 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/common/partner-logos/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.senokoenergy.com/" target="_blank"><img alt="Senoko Energy" src="/images/common/partner-logos/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td style="text-align: center;">
-                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.slng.com.sg/" target="_blank"><img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
              </td>             
              <td style="text-align: center;">
-                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.spgroup.com.sg/" target="_blank"><img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;"></a>
              </td>
         </tr>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.tuaspower.com.sg/" target="_blank"><img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td style="text-align: center;">
-                <a href="https://ytlpowerseraya.com.sg/"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://ytlpowerseraya.com.sg/" target="_blank"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td>&nbsp;</td>
         </tr>
@@ -44,8 +44,8 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
-            style="width: 180px;"/><br/>
+        <img alt="Photograph of >Muhammad Hafiz Bin Aziz" src="/images/scholarships/youth/profile-photo-mhba.jpg" 
+            style="width: 315px;"/><br/>
         <strong>Muhammad Hafiz Bin Aziz</strong><br/>
         <span style="font-style: italic;">
             Bachelors in Mechanical Engineering
@@ -55,7 +55,7 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
         </span>
     </div>
  <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+        <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
             style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
         <span style="font-style: italic;">
