@@ -1,6 +1,0 @@
-collections:
-  educational-resources:
-    output: true
-    order:
-      - info-pack.md
-      - video-library.md
