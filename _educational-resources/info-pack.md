@@ -1,6 +1,6 @@
 ---
 title: Info Pack
-permalink: /resources/info-pack
+permalink: /educational-resources/info-pack
 ---
 ![Info Pack Resources](/images/resources/Resources.jpg)
 
