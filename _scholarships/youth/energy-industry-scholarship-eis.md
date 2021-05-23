@@ -34,32 +34,32 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <a href="http://www.kepinfra.com/"><img alt="Keppel Infrastructure" src="/images/common/partner-logos/keppel_infrastructure.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="http://www.kepinfra.com/" target="_blank"><img alt="Keppel Infrastructure" src="/images/common/partner-logos/keppel_infrastructure.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.pacificlight.com.sg/"><img alt="PacificLight Power" src="/images/common/partner-logos/pacific_light.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.pacificlight.com.sg/" target="_blank"><img alt="PacificLight Power" src="/images/common/partner-logos/pacific_light.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td style="text-align: center;">
-                <a href="https://www.sembcorp.com/"><img alt="Sembcorp Industries" src="/images/common/partner-logos/sembcorp.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.sembcorp.com/" target="_blank"><img alt="Sembcorp Industries" src="/images/common/partner-logos/sembcorp.jpg" style="width: 250px; height: 120px;"></a>
              </td>
         </tr>
         <tr>
             <td style="text-align: center;">
-                <a href="https://www.senokoenergy.com/"><img alt="Senoko Energy" src="/images/common/partner-logos/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.senokoenergy.com/" target="_blank"><img alt="Senoko Energy" src="/images/common/partner-logos/senoko_new.jpg" style="width: 250px; height: 120px;"></a>
              </td>
              <td colspan="2" style="text-align: center;">
-                <a href="https://www.slng.com.sg/"><img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.slng.com.sg/" target="_blank"><img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
              </td>             
              <td style="text-align: center;">
-                <a href="https://www.spgroup.com.sg/"><img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.spgroup.com.sg/" target="_blank"><img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;"></a>
              </td>
         </tr>
         <tr>
             <td colspan="2" style="text-align: center;">
-                <a href="https://www.tuaspower.com.sg/"><img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://www.tuaspower.com.sg/" target="_blank"><img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td colspan="2" style="text-align: center;">
-                <a href="https://ytlpowerseraya.com.sg/"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
+                <a href="https://ytlpowerseraya.com.sg/" target="_blank"><img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;"></a>
             </td>
             <td>&nbsp;</td>
         </tr>
@@ -72,7 +72,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile_photo_gl.png"  
+        <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile-photo-gl.jpg"  
             style="width: 180px;"/><br/>
         <strong>Gustavus Liew</strong><br/>
         <span style="font-style: italic;">
@@ -83,7 +83,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile_photo_ihbmz.png" 
+        <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile-photo-ihbmz.jpg" 
             style="width: 180px;"/><br/>
         <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
         <span style="font-style: italic;">
@@ -94,7 +94,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Vera Lam" src="/images/scholarships/youth/profile_photo_vl.png" 
+        <img alt="Photograph of Teo Mei Fang" src="/images/scholarships/youth/profile-photo-tmf.jpg" 
             style="width: 180px;"/><br/>
         <strong>Teo Mei Fang</strong><br/>
         <span style="font-style: italic;">
@@ -105,7 +105,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Muhammad Afiq Bin Sapuan" src="/images/scholarships/youth/profile_photo_mabs.png" 
+        <img alt="Photograph of Muhammad Rafiuddin Bin Samsudien" src="/images/scholarships/youth/profile-photo-mrbs.jpg" 
             style="width: 180px;"/><br/>
         <strong>Muhammad Rafiuddin Bin Samsudien</strong><br/>
         <span style="font-style: italic;">
@@ -140,7 +140,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 |Year 3 (Mid-term award)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
-Click <a href="/files/EIS_FAQs_2019%20(28%20Jan%202019).pdf" target="_blank">here</a> to see a list of frequently asked questions.
+Click <a href="/files/EIS%20FAQs%20Apr%202021.pdf" target="_blank">here</a> to see a list of frequently asked questions.
 
 Click <a href="/files/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
