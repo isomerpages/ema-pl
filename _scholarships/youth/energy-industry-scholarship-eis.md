@@ -69,6 +69,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 &nbsp;  
 
 [//]: # (showcase stories of scholars)
+### Past Scholars
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
