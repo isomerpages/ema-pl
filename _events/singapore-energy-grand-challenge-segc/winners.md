@@ -24,10 +24,11 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </span>
 </div>
  
-<div style="text-align: center;">
+<div style="text-align: left;">
     Team Futurae clinched the championship with their creative and comprehensive presentation of innovative energy efficient ideas for Singapore in 2050. 
     <br/>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+</div>
+    <div style="text-align: center; display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="HydroSol in Minecraft" src="/images/events/segc/hydro-sol.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
@@ -66,10 +67,11 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Bedok Green Secondary School
     </span>
 </div>
-<div style="text-align: center;">
+<div style="text-align: left;">
     Physicsociety was recognised for their creative video delivery and impressive Minecraft world. 
     <br/>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+</div>
+    <div style="text-align: center; display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Water filtration system in Minecraft" src="/images/events/segc/water-filtration-system.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
@@ -109,10 +111,11 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
        St. Hilda’s Secondary School
     </span>
 </div>
-<div style="text-align: center;">
+<div style="text-align: left;">
     Lightning Prodigies, demonstrated a thorough consideration of balancing the trade-offs between energy security, competitive prices and environmental sustainability. 
     <br/>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+</div>
+    <div style="text-align: center; display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Solar panels in Minecraft" src="/images/events/segc/solar-panels.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
