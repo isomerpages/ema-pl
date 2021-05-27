@@ -9,13 +9,13 @@ sections:
     - hero:
         title: Powering Lives
         subtitle: "The Power sector in Singapore encompasses both the electricity and gas sectors. Together with our industry partners, we ensure that a stable and affordable supply of energy is delivered to consumers."
-        background: "/images/home/Slider%202@work.jpg"
+        background: "/images/home/portal_banner_3.jpg"
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
             - title: "Singapore Energy Grand Challenge 2021"
               description: "How would your carbon-free school or neighbourhood in Singapore look like in 2050?"
-              url: /events/singapore-energy-grand-challenge/overview
+              url: /events/singapore-energy-grand-challenge-segc-youth/overview
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
