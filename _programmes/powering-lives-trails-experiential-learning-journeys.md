@@ -1,6 +1,6 @@
 ---
-title: Experiential Learning Journeys (Powering Lives Trails)
-permalink: /programmes/experiential-learning-journeys-powering-lives-trails/
+title: Powering Lives Trails (Experiential Learning Journeys)
+permalink: /programmes/powering-lives-trails-experiential-learning-journeys/
 ---
 ![Experiential Learning Journey (Photograph)](/images/programmes/experiential-learning-journeys/Events_sub.jpg)
 
