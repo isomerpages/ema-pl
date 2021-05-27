@@ -1,6 +1,6 @@
 ---
 title: Video Library
-permalink: /educational-resources/video-library
+permalink: /energy-education-resources/video-library
 ---
 ![Info Pack Resources](/images/educational-resources/Resources.jpg)
 
