@@ -4,9 +4,7 @@ permalink: /events/singapore-energy-grand-challenge-segc-youth/winners
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2020](/images/events/segc/segc2020banner.png)
-
 SEGC (Youth) 2020 was launched in March 2020 for all secondary school students to co-create Singapore’s Energy Story with the challenge statement “How would your energy efficient school or neighbourhood in Singapore look like in 2050?”. 92 teams across some 30 secondary schools took part in the challenge, using Microsoft’s Minecraft: Education Edition to create their ideal energy efficient world and showcase their aspirations for Singapore. 
-
 <div style="text-align: left;">
     <strong>
         Champion - Team Futurae
@@ -22,6 +20,8 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     <span style="font-style: italic;">
         Members: (L to R) Hilary Chee, Anastasiya Samushkova, Zhang Haiyun
     </span>
+</div>
+ 
 <div style="text-align: center;">
     Team Futurae clinched the championship with their creative and comprehensive presentation of innovative energy efficient ideas for Singapore in 2050. 
     <br/>
@@ -54,7 +54,6 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </div>
 </div>
 
-
 <div style="text-align: left; margin-top: 30px;">
     <strong>
         First Runner-up - Physicsociety
@@ -63,6 +62,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     <span style="font-style: italic;">
         Bedok Green Secondary School
     </span>
+</div>
 <div style="text-align: center;">
     Physicsociety was recognised for their creative video delivery and impressive Minecraft world. 
     <br/>
@@ -95,8 +95,6 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </div>
 </div>
 
-
-
 <div style="text-align: left; margin-top: 30px;">
     <strong>
         Second Runner-up - Lightning Prodigies
@@ -105,7 +103,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     <span style="font-style: italic;">
        St. Hilda’s Secondary School
     </span>
-    </div>
+</div>
 <div style="text-align: center;">
     Lightning Prodigies, demonstrated a thorough consideration of balancing the trade-offs between energy security, competitive prices and environmental sustainability. 
     <br/>
@@ -137,9 +135,6 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Efficient LED lighting system throughout the entire school
     </div>
 </div>
-
-
-
 <p style="text-align: center">
     <strong>
         Congratulations to all the winners!
