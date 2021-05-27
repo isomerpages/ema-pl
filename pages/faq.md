@@ -50,9 +50,6 @@ This is an industry scholarship for those pursuing relevant engineering courses 
 
 Besides a full-term scholarship, the EIS also offers a mid-term scholarship to those who have already commenced their studies. The bond period will be commensurate with the total scholarship value. Applicants interested in applying for a mid-term scholarship will need to have at least one academic year of studies remaining at the point of application.
 
-For more information, please refer to the link <a href="/scholarships/youth/energy-industry-scholarship" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
-
-
  
 **Who are the sponsoring organisations for the EIS?**  
 The sponsoring companies are:
@@ -69,7 +66,9 @@ viii. YTL PowerSeraya Pte Ltd
 
  
 **How do I apply for the EIS?**  
-You may submit your application online via the Powering Lives portal (<a href="https://www.poweringlives.gov.sg">www.poweringlives.gov.sg</a>) during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
+You may submit your application online via the Powering Lives portal during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
+
+For more information, please refer to the link <a href="/scholarships/youth/energy-industry-scholarship" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -90,6 +89,10 @@ First announced in Budget 2015, the SkillsFuture Study Award for Power Sector is
 
 Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, course materials and other training-related costs. This is on top of existing government course fee subsidies. The Award is bond- free.
 
+
+**What is the eligibility criteria and how do I apply for the Study Awards?**  
+Applicants may apply online <a href="/scholarships/adults/skillsfuture-study-award" target="_blank">here</a>
+
 For more information, please refer to the link <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
@@ -101,11 +104,6 @@ If it is a full sponsorship, you will not be eligible for the SkillsFuture Study
  
 **How will the Study Awards’ monies be disbursed?**  
 The full sum of S$5,000 will be disbursed after the award recipient completes at least 50 per cent of the course. Supporting documents such as certification letter and/or transcripts from the institutes of higher learning/ training provider must be submitted to EMA to certify that the recipient is still undergoing, or has completed, the course.
-
-
- 
-**What is the eligibility criteria and how do I apply for the Study Awards?**  
-Applicants may apply online <a href="/scholarships/adults/skillsfuture-study-award" target="_blank">here</a>
 
 
  
