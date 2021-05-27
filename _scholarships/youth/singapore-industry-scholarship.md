@@ -9,7 +9,7 @@ third_nav_title: Youth
 
 Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the Power sector.
 
-### SgIS Scholarships (click below for more information)
+### SgIS Scholarships
 * [SgIS Full-Term](#full-term) - For 'A' Level, Diploma Holders and equivalent
 * [SgIS Mid-Term (Local)](#mid-term-local) - For Local Undergraduates
 * [SgIS Mid-Term (Overseas)](#mid-term-overseas) - For Overseas Undergraduates
