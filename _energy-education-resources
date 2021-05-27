@@ -1,6 +1,0 @@
-collections:
-  energy-education-resources:
-    output: true
-    order:
-      - info-pack.md
-      - video-library.md
