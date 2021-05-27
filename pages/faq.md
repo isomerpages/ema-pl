@@ -50,7 +50,7 @@ This is an industry scholarship for those pursuing relevant engineering courses 
 
 Besides a full-term scholarship, the EIS also offers a mid-term scholarship to those who have already commenced their studies. The bond period will be commensurate with the total scholarship value. Applicants interested in applying for a mid-term scholarship will need to have at least one academic year of studies remaining at the point of application.
 
-For more information, please refer to the link <a href="/files/EIS%20FAQs%20(Final)%20-%2018%20OCT%202017.pdf" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link <a href="/scholarships/youth/energy-industry-scholarship" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -58,12 +58,13 @@ For more information, please refer to the link <a href="/files/EIS%20FAQs%20(Fin
 The sponsoring companies are:
 
 i. Keppel Infrastructure Holdings Pte Ltd  
-ii. Sembcorp Industries Ltd  
-iii. Senoko Energy Pte Ltd  
-iv. Singapore LNG Corporation Pte Ltd  
-v. Singapore Power Ltd  
-vi. Tuas Power Generation Pte Ltd  
-vii. YTL PowerSeraya Pte Ltd  
+ii. PacificLight Power Pte Ltd
+iii. Sembcorp Industries Ltd  
+iv. Senoko Energy Pte Ltd  
+v. Singapore LNG Corporation Pte Ltd  
+vi. Singapore Power Ltd  
+vii. Tuas Power Generation Pte Ltd  
+viii. YTL PowerSeraya Pte Ltd  
 
 
  
@@ -93,18 +94,6 @@ For more information, please refer to the link <a href="https://www.skillsfuture
 
 
  
-**Who can apply for the SkillsFuture Study Award for Power Sector?**  
-The Study Award targets early to mid-career Singaporeans seeking to develop and deepen their skills in the Power sector. The Study Award is given out yearly.
-
-To be eligible, the criteria are:
-
-* Must be a Singapore Citizen with at least two years of engineering work experience in the Power sector (Electricity and Gas) or related sectors; or (ii) a Licensed Electrical Worker (LEW) / Licensed Gas Service Worker (LGSW) / Licensed Cable Detection Worker (LCDW); or (iii) with at least two years of relevant Power Engineering skillsets in other sectors.
-* Must not be a previous recipient of any SkillsFuture Study Awards or a current recipient of any scholarship/full bursary/full company sponsorship awarded for the same course.
-* Meets entry requirements for relevant engineering courses (e.g. chemical, mechanical, electrical, power engineering) offered by the local government institutions (i.e. ITE, polytechnic, university), Singapore Institute of Power & Gas and BCA Academy.
-* The course applied to must be a single structured programme offered by an institute of higher learning/training provider, with a minimum duration of 80 hours.
-* Must have applied for the SkillsFuture Study Awards prior to the commencement of the supported course.
-
- 
 **My company is sponsoring my course fees and other out-of-pocket expenses related to the course. Can I still apply for the SkillsFuture Study Awards?**  
 If it is a full sponsorship, you will not be eligible for the SkillsFuture Study Award for the Power sector. However, if it is a partial sponsorship, you will be eligible to apply for the SkillsFuture Study Award.
 
@@ -115,8 +104,8 @@ The full sum of S$5,000 will be disbursed after the award recipient completes at
 
 
  
-**How do I apply for the Study Awards?**  
-Applicants may apply online <a href="https://programmes.myskillsfuture.gov.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>
+**What is the eligibility criteria and how do I apply for the Study Awards?**  
+Applicants may apply online <a href="/scholarships/adults/skillsfuture-study-award" target="_blank">here</a>
 
 
  
