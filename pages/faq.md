@@ -1,8 +1,9 @@
 ---
-title: Faq
+title: Frequently Asked Questions
 permalink: /faq
 ---
- 
+
+### Portal Account 
 **How do I register for an account on the portal?**  
 You can register for an account by clicking on the “Register” link found at the top right-hand corner of the page.
 
@@ -34,7 +35,7 @@ For security reasons, each user account will only be allowed to log in once at a
 Please email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) for assistance.
 
 
- 
+### Intership
 **How do I apply for an internship?**  
 To apply, you may submit your resume online via the Powering Lives portal [ (www.poweringlives.gov.sg/programmes/internships)](/programmes/internships), and indicate your availability period, and choice of companies. The relevant companies will contact you for more details should there be any internship opportunities.
 
@@ -44,7 +45,7 @@ To apply, you may submit your resume online via the Powering Lives portal [ (www
 Successful applicants will be notified by the relevant companies via phone, email or post.
 
 
- 
+### Energy-Industry Scholarship  
 **What is the Energy-Industry Scholarship?**  
 This is an industry scholarship for those pursuing relevant engineering courses at the local Institutes of Technical Education (ITE) and polytechnics. The scholarship will cover the student’s tuition fees, one-time allowance (to purchase items related to his or her studies, such as a computer and books) and a monthly living allowance.
 
@@ -81,7 +82,7 @@ Successful applicants will be notified by the respective sponsoring organisation
 The EIS is meant for students without any existing bursary or scholarship.
 
 
- 
+### SkillsFuture Study Award for Power Sector
 **What is the SkillsFuture Study Award for Power Sector?**  
 The SkillsFuture Study Award for Power Sector aims to nurture a strong Singapore core of Power sector workforce equipped with relevant skillsets.
 
