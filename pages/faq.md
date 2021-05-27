@@ -35,7 +35,7 @@ For security reasons, each user account will only be allowed to log in once at a
 Please email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) for assistance.
 
 
-### Intership
+### Internship
 **How do I apply for an internship?**  
 To apply, you may submit your resume online via the Powering Lives portal [ (www.poweringlives.gov.sg/programmes/internships)](/programmes/internships), and indicate your availability period, and choice of companies. The relevant companies will contact you for more details should there be any internship opportunities.
 
