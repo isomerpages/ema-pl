@@ -17,5 +17,5 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - email: EMA_humancapital@ema.gov.sg
+    - email: EMA_HumanCapital@ema.gov.sg
 ---
