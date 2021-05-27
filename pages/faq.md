@@ -54,14 +54,14 @@ Besides a full-term scholarship, the EIS also offers a mid-term scholarship to t
 **Who are the sponsoring organisations for the EIS?**  
 The sponsoring companies are:
 
-i. Keppel Infrastructure Holdings Pte Ltd  
-ii. PacificLight Power Pte Ltd
-iii. Sembcorp Industries Ltd  
-iv. Senoko Energy Pte Ltd  
-v. Singapore LNG Corporation Pte Ltd  
-vi. Singapore Power Ltd  
-vii. Tuas Power Generation Pte Ltd  
-viii. YTL PowerSeraya Pte Ltd  
+* Keppel Infrastructure Holdings Pte Ltd  
+* PacificLight Power Pte Ltd
+* Sembcorp Industries Ltd  
+* Senoko Energy Pte Ltd  
+* Singapore LNG Corporation Pte Ltd  
+* Singapore Power Ltd  
+* Tuas Power Generation Pte Ltd  
+* YTL PowerSeraya Pte Ltd  
 
 
  
