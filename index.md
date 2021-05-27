@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Powering Lives
         subtitle: "The Power sector in Singapore encompasses both the electricity and gas sectors. Together with our industry partners, we ensure that a stable and affordable supply of energy is delivered to consumers."
-        background: "/images/home/PEPS_banner.jpg"
+        background: "/images/home/PEPS_banner.png"
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
