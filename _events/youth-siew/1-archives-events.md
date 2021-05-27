@@ -3,145 +3,29 @@ title: Archives (Events)
 permalink: /events/youth-at-siew/archives-events
 third_nav_title: Youth@SIEW
 ---
-
-* [2016](#2016)
-* [2017](#2017)
-* [2018](#2018)
 * [2019](#2019)
+* [2018](#2018)
+* [2017](#2017)
+* [2016](#2016)
 
-<a id="2016" href=""></a>
-# 2016
-![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
-
-Organiser: Energy Market Authority  
-Date: 26 October 2016  
-Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
-
----
-
-Attended by 360 participants, **Youth@SIEW**, saw active participation from the students, educators and industry partners. The participants were engaged in an insightful dialogue session with Minister for Ministry of Trade and Industry (Industry) Mr. S Iswaran, Mr. Frank Phuan (Co-Founder and Director of Sunseap Group) and Ms. Valerie Lee (General Manager, Sembcorp Power). We also saw a total of 14 student projects from the various IHLs at the Youth Energy Showcase.
-
-We appreciate your support and are looking forward to your participation in future events!
-
-![Youth@SIEW 2016 Event Photos](/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
-
-
-<a id="2017" href=""></a>
-# 2017
-![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
+<a id="2019" href=""></a>
+# 2019
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 Organiser: Energy Market Authority  
-Date: 25 October 2017  
-Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
+Date: 1 November 2019  
+Venue: Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
-**Youth@SIEW 2017** saw more than 420 students and educators engaged in an exciting dialogue of Singapore's Energy Future that would be shaped by the “3D” trends of Decarbonisation, Decentralisation and Digitalisation. The audience had the opportunity to learn about the exciting opportunities in the sector through the sharing by industry captain and their peers. They were also engaged in an insightful dialogue session with Senior Minister of State, Ms Sim Ann, Mr Samuel Tan (Chief Digital Officer of SP Group), Ms Liu Xiaowei (Vice President, External Relations of Shell APAC), moderated by Mr Winfred Oh (Geography Teacher, Catholic High School). We also saw a total of 12 student projects hosted by students from the various Institutions of Higher Learning (IHLs) at the Youth Energy Showcase, graced by numerous foreign delegates and our respective Guest-of-Honour Ms Sim Ann and Ms Low Yen Ling.
+Youths play a critical role in shaping Singapore’s energy future that is increasingly digitalised, decentralised and decarbonised.
 
-We appreciate your strong support and are looking forward to your participation in 2018!
+Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. Seize the opportunity to be part of Singapore’s young energy movement, and share your aspirations with more than 300 of your peers and energy industry leaders!
 
----
-
-![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
-
-**Highlights of Youth@SIEW 2017**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EI1G4KRi_Ig" frameborder="0" allowfullscreen=""></iframe>  
-
-**Full video of Youth@SIEW 2017** 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v7KvmF0OQxA" frameborder="0" allowfullscreen=""></iframe>  
-
----
-
-**Programme Details**  
-<table>
-    <thead>
-        <tr>
-            <th>Time</th>
-            <th style="text-align: center;">Programmes</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                09:00
-            </td>
-            <td style="vertical-align: top;">
-                <strong>Snap Poll</strong>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                09:05
-            </td>
-            <td style="vertical-align: top;">
-                <strong>Sharing Session by Industry Captain - “Powering Future Cities with EnergyTech”</strong><br/>
-                Mr. Samuel Tan, Chief Digital Officer, SP Group
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                09:35
-            </td>
-            <td style="vertical-align: top;">
-                <strong>Students’ Presentation (2 presentations)</strong><br/>
-                <ul>
-                    <li>Sharing by Sembcorp-EMA Energy Challenge participant</li>
-                    <li>Energy Scenarios Talk Show by NTU Renaissance Engineering team</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                10:00
-            </td>
-            <td style="vertical-align: top;">
-                <strong>Launch of MOE-EMA Science Education videos </strong>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
-                10:05
-            </td>
-            <td style="vertical-align: top;">
-                <strong>Morning Tea Break</strong>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="4" style="text-align: center; vertical-align: top; white-space: nowrap;">
-                10:35 - <br/>
-                11:30&nbsp;
-            </td>
-            <td style="vertical-align: top;">
-                <strong>In Dialogue Session with Youth Panelist: </strong><br/>
-                <ul>
-                    <li>Ms Sim Ann (Senior Minister of State for MTI and MCCY)</li>
-                    <li>Ms Liu Xiao Wei (VP External Relation, Shell APAC)</li>
-                    <li>Mr Samuel Tan (Chief Data Officer, SP Group)</li>
-                </ul>
-                <br/>
-                <strong>Moderator:</strong><br/>
-                <ul>
-                    <li>Mr Winfred Oh (Geography teacher, Catholic High School) </li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td style="vertical-align: top;">
-                <strong>Presentation of Energy-Industry Scholarship</strong>
-            </td>
-        </tr>
-        <tr>
-            <td style="vertical-align: top;">
-                <strong>Networking Reception and Tour of Youth Energy Showcase</strong>
-            </td>
-        </tr>
-        <tr>
-            <td style="vertical-align: top;">
-                <strong>End of Session</strong>
-            </td>
-        </tr>
-    </tbody>
-</table>
+**Event Highlights** 
+* **In Dialogue with Youth**: Discuss Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders.
+* **Youth Energy Showcase**: _Be inspired by new innovations from your peers, and learn about exciting career opportunities in our energy sector._
+* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learn how to balance Singapore’s Energy trilemma, and cheer your school teams as they compete with one another in an intense online energy competition._
 
 
 <a id="2018" href=""></a>
@@ -263,21 +147,136 @@ We are grateful for your strong participation and look forward to yet another re
 </table>
 
 
-# 2019
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+<a id="2017" href=""></a>
+# 2017
+![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
 Organiser: Energy Market Authority  
-Date: 1 November 2019  
-Venue: Sands Expo and Convention Centre, MBS Singapore  
+Date: 25 October 2017  
+Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
 ---
 
-Youths play a critical role in shaping Singapore’s energy future that is increasingly digitalised, decentralised and decarbonised.
+**Youth@SIEW 2017** saw more than 420 students and educators engaged in an exciting dialogue of Singapore's Energy Future that would be shaped by the “3D” trends of Decarbonisation, Decentralisation and Digitalisation. The audience had the opportunity to learn about the exciting opportunities in the sector through the sharing by industry captain and their peers. They were also engaged in an insightful dialogue session with Senior Minister of State, Ms Sim Ann, Mr Samuel Tan (Chief Digital Officer of SP Group), Ms Liu Xiaowei (Vice President, External Relations of Shell APAC), moderated by Mr Winfred Oh (Geography Teacher, Catholic High School). We also saw a total of 12 student projects hosted by students from the various Institutions of Higher Learning (IHLs) at the Youth Energy Showcase, graced by numerous foreign delegates and our respective Guest-of-Honour Ms Sim Ann and Ms Low Yen Ling.
 
-Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. Seize the opportunity to be part of Singapore’s young energy movement, and share your aspirations with more than 300 of your peers and energy industry leaders!
+We appreciate your strong support and are looking forward to your participation in 2018!
 
-**Event Highlights** 
-* **In Dialogue with Youth**: Discuss Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders.
-* **Youth Energy Showcase**: _Be inspired by new innovations from your peers, and learn about exciting career opportunities in our energy sector._
-* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learn how to balance Singapore’s Energy trilemma, and cheer your school teams as they compete with one another in an intense online energy competition._
+---
 
+![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
+
+**Highlights of Youth@SIEW 2017**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EI1G4KRi_Ig" frameborder="0" allowfullscreen=""></iframe>  
+
+**Full video of Youth@SIEW 2017** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7KvmF0OQxA" frameborder="0" allowfullscreen=""></iframe>  
+
+---
+
+**Programme Details**  
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th style="text-align: center;">Programmes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                09:00
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Snap Poll</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                09:05
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Sharing Session by Industry Captain - “Powering Future Cities with EnergyTech”</strong><br/>
+                Mr. Samuel Tan, Chief Digital Officer, SP Group
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                09:35
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Students’ Presentation (2 presentations)</strong><br/>
+                <ul>
+                    <li>Sharing by Sembcorp-EMA Energy Challenge participant</li>
+                    <li>Energy Scenarios Talk Show by NTU Renaissance Engineering team</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                10:00
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Launch of MOE-EMA Science Education videos </strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+                10:05
+            </td>
+            <td style="vertical-align: top;">
+                <strong>Morning Tea Break</strong>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="4" style="text-align: center; vertical-align: top; white-space: nowrap;">
+                10:35 - <br/>
+                11:30&nbsp;
+            </td>
+            <td style="vertical-align: top;">
+                <strong>In Dialogue Session with Youth Panelist: </strong><br/>
+                <ul>
+                    <li>Ms Sim Ann (Senior Minister of State for MTI and MCCY)</li>
+                    <li>Ms Liu Xiao Wei (VP External Relation, Shell APAC)</li>
+                    <li>Mr Samuel Tan (Chief Data Officer, SP Group)</li>
+                </ul>
+                <br/>
+                <strong>Moderator:</strong><br/>
+                <ul>
+                    <li>Mr Winfred Oh (Geography teacher, Catholic High School) </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">
+                <strong>Presentation of Energy-Industry Scholarship</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">
+                <strong>Networking Reception and Tour of Youth Energy Showcase</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: top;">
+                <strong>End of Session</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<a id="2016" href=""></a>
+# 2016
+![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
+
+Organiser: Energy Market Authority  
+Date: 26 October 2016  
+Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
+
+---
+
+Attended by 360 participants, **Youth@SIEW**, saw active participation from the students, educators and industry partners. The participants were engaged in an insightful dialogue session with Minister for Ministry of Trade and Industry (Industry) Mr. S Iswaran, Mr. Frank Phuan (Co-Founder and Director of Sunseap Group) and Ms. Valerie Lee (General Manager, Sembcorp Power). We also saw a total of 14 student projects from the various IHLs at the Youth Energy Showcase.
+
+We appreciate your support and are looking forward to your participation in future events!
+
+![Youth@SIEW 2016 Event Photos](/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
