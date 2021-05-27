@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - singapore-energy-grand-challenge-segc/.keep
-      - singapore-energy-grand-challenge-segc/overview.md
-      - singapore-energy-grand-challenge-segc/training-material-wip.md
-      - singapore-energy-grand-challenge-segc/winners.md
+      - singapore-energy-grand-challenge-segc-youth/.keep
+      - singapore-energy-grand-challenge-segc-youth/overview.md
+      - singapore-energy-grand-challenge-segc-youth/training-material-wip.md
+      - singapore-energy-grand-challenge-segc-youth/winners.md
       - energy-innovation/.keep
       - energy-innovation/archives.md
       - energy-innovation/2019.md
@@ -14,6 +14,7 @@ collections:
       - energy-educators-forum/2017.md
       - energy-educators-forum/2021-wip.md
       - youth-siew/.keep
-      - youth-siew/archives.md
       - youth-siew/2020.md
+      - youth-siew/archives(events).md
+      - youth-siew/archives(youth-energy-showcase).md
       - youth-siew/2021-wip.md
