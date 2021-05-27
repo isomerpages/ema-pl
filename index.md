@@ -4,7 +4,7 @@ title: Powering Lives
 description: Brief site description here
 image: /images/home/hero-banner.png
 permalink: /
-notification: "Singpass and Corpass functions in the Poweringlives.gov.sg will be undergoing scheduled maintenance from 19 Mar 2021 (23:50) to 20 Mar 2021 (08:00), and will not be available during this period. We apologise for any inconvenience."
+notification: "Poweringlives.gov.sg will be undergoing scheduled maintenance from 18 Jun 2021 (09:00) to 19 Jun 2021 (02:00), and will not be available during this period. We apologise for any inconvenience."
 sections:
     - hero:
         title: Powering Lives
