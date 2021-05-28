@@ -21,14 +21,7 @@ links:
   - title: Programmes
     collection: programmes
   - title: Events
-    url: /events/singapore-energy-grand-challenge/overview
-    sublinks:
-      - title: Singapore Energy Grand Challenge (SEGC Youth)
-        url: /events/singapore-energy-grand-challenge-segc-youth/overview
-      - title: Energy Educators Forum
-        url: /events/energy-educators-forum/2017
-      - title: Youth@SIEW
-        url: /events/youth-at-siew/2020
+    collection: events
   - title: Energy Education Resources
     collection: energy-education-resources
   - title: Contact Us
