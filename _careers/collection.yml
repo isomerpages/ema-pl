@@ -14,5 +14,5 @@ collections:
       - industry-partners/tuas-power.md
       - industry-partners/ytl-powerseraya.md
       - public-service/.keep
-      - public-service/power-engineering-professionals-for-the-public-service-peps.md
-      - public-service/power-engineering-competency-framework-for-the-public-service-wip.md
+      - public-service/peps.md
+      - public-service/pecf-wip.md
