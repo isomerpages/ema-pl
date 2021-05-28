@@ -49,11 +49,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 <p style="text-align: center;">
     <br/>
-    Click the link below to register!
-    <br/>
-    <a href="http://go.gov.sg/segc2021">
-        <img alt="Register Here" style="width: 363px; height: 65px; max-width: 363px;" src="/images/events/segc/Register%20button.jpg" />
-    </a>
+    Thanks for your submissions! Shortlisted teams have been notified.
     <br/>
     <br/>
     For more information, please visit:
