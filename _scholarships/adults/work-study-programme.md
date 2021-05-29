@@ -1,6 +1,6 @@
 ---
 title: Work-Study Programme
-permalink: /scholarships/adults/work-study-programme
+permalink: /scholarshipsandawards/adults/work-study-programme
 third_nav_title: Adults
 ---
 The SkillsFuture Work-Study Programmes (WSPs) are offered by Institutes of Higher Learning (IHLs) and appointed private training providers. Targeted at fresh graduates from the Polytechnics, Institute of Technical Education (ITE) and mid-career individuals, the wide range of WSPs provides them with a head-start in their careers related to their discipline of study and more opportunities to build on the skills and knowledge they have acquired in school through a work-study arrangement.
