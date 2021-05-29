@@ -1,7 +1,7 @@
 ---
 title: SkillsFuture Study Award for Power Sector (SFSA)
 breadcrumb: SkillsFuture Study Award
-permalink: /scholarships/adults/skillsfuture-study-award
+permalink: /scholarshipsandawards/adults/skillsfuture-study-award
 third_nav_title: Adults
 ---
 
