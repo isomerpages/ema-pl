@@ -2,7 +2,7 @@
 title: Singapore's Energy Story
 permalink: /about/energy-story/
 ---
-Singapore's energy sector has come a long way since its early days. Over the last 50 years, we have moved from oil to natural gas for cleaner power generation. We have also seen more of use of solar energy, particularly on rooftops and reservoirs.
+Singapore's energy sector has come a long way since its early days. Over the last 50 years, we have moved from oil to natural gas for cleaner power generation. We have also seen an increased use of solar energy, particularly on rooftops and reservoirs.
 
 With challenges brought about by climate change, we will need to change the way we use and produce energy. This is particularly so if our energy demand continues to rise with our economic development.
 
