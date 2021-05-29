@@ -4,7 +4,7 @@ permalink: /careers/sfwep/
 ---
 ### Introduction to SFwEP
 
-* <Insert chart>
+* WIP insert chart
 
 The Skills Framework (SFw) is a SkillsFuture initiative developed for the Singapore workforce to promote skills mastery and lifelong learning.
 
@@ -16,7 +16,7 @@ Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), an
 * Existing and emerging skills; and
 * Training programmes for skills upgrading and mastery.
 
-Find out more at <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">https://www.skillsfuture.gov.sg/skills-framework/energyandpower</a> 
+Find out more <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">here</a> 
 
 
 
