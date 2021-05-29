@@ -24,6 +24,7 @@ links:
     collection: events
   - title: Energy Education Resources
     collection: energy-education-resources
-  - title: Contact Us
-    url: /contact-us/
+    
+#    title: Contact Us
+#    url: /contact-us/
   
