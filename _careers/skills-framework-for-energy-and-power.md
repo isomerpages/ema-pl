@@ -2,6 +2,24 @@
 title: Skills Framework for Energy and Power (SFwEP)
 permalink: /careers/sfwep/
 ---
+### Introduction to SFwEP
+
+* <Insert chart>
+
+The Skills Framework (SFw) is a SkillsFuture initiative developed for the Singapore workforce to promote skills mastery and lifelong learning.
+
+Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), and the Energy Market Authority (EMA), together with industry associations, training providers, organisations and unions, the Skills Framework for Energy and Power provides useful information on:
+
+* Sector information;
+* Career pathways;
+* Occupations and job roles;
+* Existing and emerging skills; and
+* Training programmes for skills upgrading and mastery.
+
+Find out more at <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">https://www.skillsfuture.gov.sg/skills-framework/energyandpower</a> 
+
+
+
 ![alt text - The Electricity Sector](/images/careers/sfwep/electricity.png)
 
 ### The Electricity Sector  
@@ -12,6 +30,4 @@ Our electricity market is open and competitive. As the regulator, the Energy Mar
 ![alt text - The Gas Sector](/images/careers/sfwep/gas.png)
 
 ### The Gas Sector  
-The gas industry is of vital importance, not only to our nation’s own generation of power but as a driver of economic growth. Similar to the electricity market, the gas sector is structured to encourage competition. To further enhance our energy security, one of the major developments in recent years was the commencement of operations of our Liquefied Natural Gas (LNG) terminal. The LNG terminal allows Singapore to source for gas globally to complement piped natural gas that we receive from Indonesia and Malaysia. Beyond this core operation, the terminal enhances Singapore’s position as a centre for LNG trading in Asia, and also has the potential to offer ancillary services like LNG storage.
-
-Find out more at <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">https://www.skillsfuture.gov.sg/skills-framework/energyandpower</a>  
+The gas industry is of vital importance, not only to our nation’s own generation of power but as a driver of economic growth. Similar to the electricity market, the gas sector is structured to encourage competition. To further enhance our energy security, one of the major developments in recent years was the commencement of operations of our Liquefied Natural Gas (LNG) terminal. The LNG terminal allows Singapore to source for gas globally to complement piped natural gas that we receive from Indonesia and Malaysia. Beyond this core operation, the terminal enhances Singapore’s position as a centre for LNG trading in Asia, and also has the potential to offer ancillary services like LNG storage. 
