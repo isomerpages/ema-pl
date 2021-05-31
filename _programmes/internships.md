@@ -14,7 +14,7 @@ Considering a career in the Power sector, but not quite sure what that entails?
 
 Our internship programme provides you with the perfect opportunity to experience what it’s like to be in the Power sector, whether you’re a fresh graduate dipping your toes into the working world or a working professional looking for a mid-career switch.
 
-Deposit your resume, indicate your period of availability and get ready to go full steam ahead<a href="#NearHyperLinkLoginSingPass"> here!</a>
+Deposit your resume, indicate your period of availability and get ready to go full steam ahead!
 
 ### Sponsoring Organisations  
 <table class="no-border">
