@@ -1,7 +1,7 @@
 ---
 title: Singapore-Industry Scholarship (SgIS)
-permalink: /scholarshipsandawards/youth/singapore-industry-scholarship
-third_nav_title: Youth
+permalink: /scholarshipsandawards/students/singapore-industry-scholarship
+third_nav_title: Students
 ---
 ![Energy Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
 
