@@ -1,6 +1,6 @@
 ---
-title: Power Sector Overview
-permalink: /about/power-sector-overview/
+title: Energy Sector Overview
+permalink: /about/energy-sector-overview/
 ---
 <img src="/images/about/Industry_sub.jpg" /><br/>
 
