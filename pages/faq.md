@@ -69,7 +69,7 @@ The sponsoring companies are:
 **How do I apply for the EIS?**  
 You may submit your application online via the Powering Lives portal during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
 
-For more information, please refer to the link <a href="/scholarshipsandawards/youth/energy-industry-scholarship" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
+For more information, please refer to the link <a href="/scholarshipsandawards/students/energy-industry-scholarship" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto: EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
 
  
@@ -92,7 +92,7 @@ Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, 
 
 
 **What is the eligibility criteria and how do I apply for the Study Awards?**  
-Applicants may apply online <a href="/scholarshipsandawards/adults/skillsfuture-study-award" target="_blank">here</a>
+Applicants may apply online <a href="/scholarshipsandawards/employees/skillsfuture-study-award" target="_blank">here</a>
 
 For more information, please refer to the link <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 
