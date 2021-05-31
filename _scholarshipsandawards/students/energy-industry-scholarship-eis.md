@@ -1,7 +1,7 @@
 ---
 title: Energy-Industry Scholarship (EIS)
 permalink: /scholarshipsandawards/students/energy-industry-scholarship
-third_nav_title: Youth
+third_nav_title: Students
 ---
 ![Energy Industry Scholarship](/images/scholarships/youth/EIS_sub.jpg)
 
