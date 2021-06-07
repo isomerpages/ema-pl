@@ -5,7 +5,9 @@ third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/singapore_lng_corporation_large.jpg" alt="Singapore LNG Corporation (SLNG)" style="width: 450px; height: 312px;" /><br/>
 
-<a href="https://www.slng.com.sg/" target="_blank"><img alt="Singapore LNG Corporation (SLNG)" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
+<div style="text-align: center;">
+    <a href="https://www.slng.com.sg/" target="_blank"><img alt="Singapore LNG Corporation (SLNG)" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
+</div>
 
 Singapore LNG Corporation (SLNG) was incorporated in June 2009 to develop, build, own and operate Singapore’s very first open-access, multi-user Liquefied Natural Gas (LNG) terminal, a key national infrastructure that supports Singapore’s diversification strategy to enhance energy security and future economic development in the energy sector.
 
