@@ -54,13 +54,13 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     For more information, please visit:
     <br/>
-    - <a href="/files/segc/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Frequently Asked Questions</a>
+    - <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Frequently Asked Questions</a>
     <br/>
     - <a href="https://www.empirecode.co/learning-resources/" target="_blank">M:EE Learning Resources</a>
     <br/>
     - <a href="https://www.beyondthecurrent.gov.sg/" target="_blank">Singapore Energy Story</a>
     <br/>
-    - <a href="/files/segc/Getting%20Started%20with%20Minecraft.pdf" target="_blank">Guidebook on M:EE licenses</a>
+    - <a href="/files/events/segc-youth/overview/Getting%20Started%20with%20Minecraft.pdf" target="_blank">Guidebook on M:EE licenses</a>
     <br/>
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
