@@ -32,7 +32,7 @@ The PLTs encompass visits to five locations in the Power sector. These are the P
 ![University students and staff after a visit to the Singapore LNG Terminal on Jurong Island](/images/programmes/experiential-learning-journeys/SLNG%20(replace).jpg)
 _University students and staff after a visit to the Singapore LNG Terminal on Jurong Island._  
 
-![Sembcorp Industries’ Operations Engineer Lim Zi Yang sharing with ITE, polytechnic and university students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/programmes/experiential-learning-journeys/Sembcorp%20(replace).jpg)
+![Sembcorp Industries Senior Engineer Ang Kang Jie sharing with students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/programmes/experiential-learning-journeys/Sembcorp-PLT.jpg)
 _Sembcorp Industries Senior Engineer Ang Kang Jie sharing with students on operations at the Sembcorp Cogen @ Banyan Plant._  
 
 ![Participants learning about operations at the Power System Control Centre.](/images/programmes/experiential-learning-journeys/PSCC%20photo.jpg)
