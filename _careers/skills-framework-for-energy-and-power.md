@@ -4,8 +4,6 @@ permalink: /careers/sfwep/
 ---
 ### Introduction to SFwEP
 
-* (Softworkz to insert value chain)
-
 The Skills Framework (SFw) is a SkillsFuture initiative developed for the Singapore workforce to promote skills mastery and lifelong learning.
 
 Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), and the Energy Market Authority (EMA), together with industry associations, training providers, organisations and unions, the Skills Framework for Energy and Power provides useful information on:
@@ -18,7 +16,7 @@ Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), an
 
 Find out more <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">here</a> 
 
-
+* (Softworkz to insert new value chain, delete the other 2)
 
 ![alt text - The Electricity Sector](/images/careers/sfwep/electricity.png)
 
