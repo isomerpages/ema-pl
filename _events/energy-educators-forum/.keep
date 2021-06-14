@@ -1,6 +1,0 @@
-collections:
-	  events:
-	    output: true
-	    order:
-	      - energy-educators-forum/2021-wip.md
-	      - energy-educators-forum/2017.md
