@@ -1,6 +1,6 @@
 ---
-title: Energy Ambassadors Programme
-permalink: /programmes/energy-ambassadors-programme/
+title: Energy Ambassadors Programme (EAP)
+permalink: /programmes/eap/
 ---
 ![Be an Energy Ambassador!](/images/programmes/energy-ambassadors-programme/energyambassador_F-04.jpg?ver=2018-05-22-171426-997)
 
