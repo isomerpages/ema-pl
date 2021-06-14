@@ -21,7 +21,7 @@ sections:
               url: /careers/sfwep
             - title: "Scholarships"
               description: "Considering a scholarship in the Power sector? We have available scholarships for ITE, polytechnic and university students."
-              url: /scholarshipsandawards/students/energy-industry-scholarship
+              url: /scholarships-awards/students/eis
 
               
 #    - infobar:
