@@ -56,7 +56,7 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-            For more information on eligible courses / submit your application, <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065">click here.</a> 
+            For more information on eligible courses / submit your application, <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">click here.</a> 
         </span>
     </div>
 </div>
