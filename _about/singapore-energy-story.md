@@ -1,6 +1,6 @@
 ---
 title: Singapore's Energy Story
-permalink: /about/energy-story/
+permalink: /about/singapore-energy-story/
 ---
 Singapore's energy sector has come a long way since its early days. Over the last 50 years, we have moved from oil to natural gas for cleaner power generation. We have also seen an increased use of solar energy, particularly on rooftops and reservoirs.
 
@@ -40,4 +40,4 @@ Our Energy Story is a long-term effort. The Energy Market Authority is working w
 Watch this short video on our Energy Story
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-Find out more at <a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">https://www.beyondthecurrent.gov.sg/energy-story</a>
+Find out more <a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">here</a>
