@@ -2,7 +2,7 @@ collections:
   careers:
     output: true
     order:
-      - skills-framework-for-energy-and-power.md
+      - sfwep.md
       - industry-partners/.keep
       - industry-partners/city-gas.md
       - industry-partners/keppel-infrastructure.md
