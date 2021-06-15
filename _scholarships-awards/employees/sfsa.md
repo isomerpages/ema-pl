@@ -32,7 +32,6 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 1. Please indicate in the Career Development Plan of your application form why the Power sector is a choice career and why you deserve the Study Award.
 2. Please upload the following documents in the online application portal:
-     * Scanned colour copy of IC (front and back);
      * Scanned copy of LEW/LGSW/LCDW licence (if you are a licensed worker);
      * A testimonial or referral letter from past/current employer or the Union of Power and Gas Employees that states how the selected course can help to deepen engineering skills related to the Power sector.  All applications must be accompanied by a testimonial or referral letter;
      * Course curriculum or outline of selected course of study (if any). For applicants who have already commenced the course at the point of application - Please complete Form 1 (Declaration of Completed Module) to state clearly the list of modules, and corresponding number of academic / credit units allocated for each module (if relevant); and
@@ -41,15 +40,29 @@ The SkillsFuture Study Awards is a monetary award to help Singaporeans equip the
 
 Note:  Only shortlisted applicants will be notified.  EMA reserves the right not to disclose the reasons for not shortlisting any applications.
 
-### Application Period
-Application is open all year round.
-
 ### Frequently Asked Questions
 * <a href="https://www.skillsfuture.gov.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
 * <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Award for Power Sector</a>  
 
-For more information on eligible courses / submit your application, click <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">here</a>  
+### Applications
 
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+    <div style="text-align:center;">
+        <strong>
+            Application is open all year round.
+        </strong>
+        <br>
+        <br>
+    </div>
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
+            For more information on eligible courses / submit your application, <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065">click here.</a> 
+        </span>
+    </div>
+</div>
+
+
+### SkillsFuture Study Award for Power Sector, Award Ceremony 2017
 As part of the national movement to provide Singaporeans with opportunities to develop to their fullest potential, the Energy Market Authority conferred 10 Singaporeans with the inaugural SkillsFuture Study Award for Power Sector in October 2017. This Award aims to support early to mid-career Singaporeans in the industry who aspire to deepen their power engineering skills. Each recipient will receive a bond-free award of $5,000 to defray out-of-pocket training expenses for engineering courses related to the Power Sector.  
 
 ![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
