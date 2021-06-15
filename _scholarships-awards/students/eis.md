@@ -103,18 +103,19 @@ Students who will be / currently pursuing relevant engineering courses at a univ
             Singapore Polytechnic
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Muhammad Rafiuddin Bin Samsudien" src="/images/scholarships/youth/profile-photo-mrbs.jpg" 
-            style="width: 180px;"/><br/>
-        <strong>Muhammad Rafiuddin Bin Samsudien</strong><br/>
-        <span style="font-style: italic;">
-            Nitec in Electrical Technology (Power & Control)
-        </span><br/>
-        <span style="">
-            ITE College West
-        </span>
-    </div>
-</div>
+    
+[//]: hidden    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+[//]:        <img alt="Photograph of Muhammad Rafiuddin Bin Samsudien" src="/images/scholarships/youth/profile-photo-mrbs.jpg" 
+[//]:            style="width: 180px;"/><br/>
+[//]:        <strong>Muhammad Rafiuddin Bin Samsudien</strong><br/>
+[//]:        <span style="font-style: italic;">
+[//]:            Nitec in Electrical Technology (Power & Control)
+[//]:        </span><br/>
+[//]:        <span style="">
+[//]:            ITE College West
+[//]:        </span>
+[//]:    </div>
+[//]: </div>
 
 ### Scholarship Benefits
 
