@@ -62,7 +62,7 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 </div>
 
 
-### SkillsFuture Study Award for Power Sector, Award Ceremony 2017
+### Award Ceremony 2017
 As part of the national movement to provide Singaporeans with opportunities to develop to their fullest potential, the Energy Market Authority conferred 10 Singaporeans with the inaugural SkillsFuture Study Award for Power Sector in October 2017. This Award aims to support early to mid-career Singaporeans in the industry who aspire to deepen their power engineering skills. Each recipient will receive a bond-free award of $5,000 to defray out-of-pocket training expenses for engineering courses related to the Power Sector.  
 
 ![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
