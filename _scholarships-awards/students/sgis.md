@@ -97,14 +97,13 @@ Young Singapore citizens who are about to embark on their full-time local underg
 * Good co-curricular activities record and leadership achievements
 * Passion to contribute to Singapore’s strategic sectors
  
-**Value of Award and Bond Period**  
-<span style="text-decoration: underline">Value of Award</span>  
+**Value of Award**  
 * Full tuition fees and other approved academic charges
 * Maintenance and other allowances 
 * Hostel allowance
 * Overseas exchange sponsorship (if requirements are met)
  
-<span style="text-decoration: underline">Bond Period</span>  
+**Bond Period** 
 * 3 years with the sponsoring organisation (for SIT graduates)
 * 4 years with the sponsoring organisation (for NTU / NUS / SMU / SUTD graduates)
 
@@ -159,7 +158,7 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-        To submit your application, visit <a href="https://www.moe.gov.sg/sgis/application" target="_blank">https://www.moe.gov.sg/sgis/application</a>
+        To submit your application, <a href="https://www.moe.gov.sg/sgis/application" target="_blank">click here</a>
         </span>
     </div>
 </div>
