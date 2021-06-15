@@ -103,6 +103,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
             Singapore Polytechnic
         </span>
     </div>
+   </div>
     
 ### Scholarship Benefits
 
