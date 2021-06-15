@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - power-sector-overview.md
-      - singapore-s-energy-story.md
+      - energy-sector-overview.md
+      - singapore-energy-story.md
