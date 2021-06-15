@@ -54,6 +54,8 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     For more information, please visit:
     <br/>
+    - <a href="https://go.gov.sg/segc-clinic-video-2021" target="_blank">Virtual Clinic Recording</a>
+    <br/>
     - <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Frequently Asked Questions</a>
     <br/>
     - <a href="https://www.empirecode.co/learning-resources/" target="_blank">M:EE Learning Resources</a>
