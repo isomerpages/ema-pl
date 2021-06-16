@@ -27,7 +27,6 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
              <td style="text-align: center;">
                 <a href="https://www.slng.com.sg/" target="_blank"><img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;"></a>
              </td>             
-      
         </tr>
         <tr>
             <td style="text-align: center;">
@@ -49,7 +48,18 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
 ### Past Scholars
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-<div style="display: inline-block; vertical-align: top; text-align: center; width: 315px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Tay Xin Ci" src="/images/scholarships/youth/profile-photo-txc.jpg" 
+            style="width: 180px;"/><br/>
+        <strong>Tay Xin Ci</strong><br/>
+        <span style="font-style: italic;">
+            Bachelor of Engineering (Electrical Engineering)
+        </span><br/>
+        <span style="">
+            National University of Singapore
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 315px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of >Muhammad Hafiz Bin Aziz" src="/images/scholarships/youth/profile-photo-mhba.jpg" 
             style="width: 315px;"/><br/>
         <strong>Muhammad Hafiz Bin Aziz</strong><br/>
@@ -60,7 +70,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Nanyang Technological University
         </span>
     </div>
- <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
             style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
