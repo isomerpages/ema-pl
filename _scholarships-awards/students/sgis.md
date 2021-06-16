@@ -48,9 +48,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
 ### Past Scholars
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 162px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Tay Xin Ci" src="/images/scholarships/youth/profile-photo-txc.jpg" 
-            style="width: 180px;"/><br/>
+            style="width: 162px;"/><br/>
         <strong>Tay Xin Ci</strong><br/>
         <span style="font-style: italic;">
             Bachelor of Engineering (Electrical Engineering)
