@@ -24,7 +24,8 @@ published: true
         Do not have a Singpass? Apply <a href="https://www.singpass.gov.sg/">here.</a>
     </div>
 </div>
-
+<br/>
+<br/>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div>
         <strong>
