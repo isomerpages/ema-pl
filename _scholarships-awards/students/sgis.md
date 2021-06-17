@@ -64,7 +64,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             style="width: 315px;"/><br/>
         <strong>Muhammad Hafiz Bin Aziz</strong><br/>
         <span style="font-style: italic;">
-            Bachelors in Mechanical Engineering
+            Bachelor in Mechanical Engineering
         </span><br/>
         <span style="">
             Nanyang Technological University
@@ -75,7 +75,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
         <span style="font-style: italic;">
-            Bachelors in Engineering (Electrical & Electronics) with Business Minor
+            Bachelor in Engineering (Electrical & Electronics) with Business Minor
         </span><br/>
         <span style="">
             Nanyang Technological University
