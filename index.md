@@ -2,14 +2,14 @@
 layout: homepage
 title: Powering Lives
 description: Brief site description here
-image: /images/home/hero-banner.png
+image: /images/home/hero-banner.png 
 permalink: /
 notification: "Poweringlives.gov.sg will be undergoing scheduled maintenance from 18 Jun 2021 (09:00) to 19 Jun 2021 (02:00), and will not be available during this period. We apologise for any inconvenience."
 sections:
     - hero:
         title: Powering Lives
         subtitle: "The Power sector in Singapore encompasses both the electricity and gas sectors. Together with our industry partners, we ensure that a stable and affordable supply of energy is delivered to consumers."
-        background: "/images/home/PEPS_banner.png"
+        background: "/images/home/portal_banner_3.jpg"
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
