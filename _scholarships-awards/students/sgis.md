@@ -70,9 +70,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Nanyang Technological University
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
-            style="width: 180px;"/><br/>
+            style="width: 225px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
         <span style="font-style: italic;">
             Bachelor in Engineering (Electrical & Electronics) with Business Minor
