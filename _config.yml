@@ -1,6 +1,6 @@
-title: Title
+title: Powering Lives
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/common/favicon-poweringlives.ico
 
 # Site colors
 colors:
@@ -19,16 +19,8 @@ colors:
       color: '#00838f'
 
 
-collections:
-  scholarships:
-    output: true
-  industry:
-    output: true
-  careers:
-    output: true
-  programmes:
-    output: true
-resources_name: resources
+
+#resources_name: resources
 
 description: An Isomer site of the Singapore Government
 
@@ -50,8 +42,11 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://ema-pl-staging.netlify.app
+prod: https://ema-pl-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme

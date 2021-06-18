@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - energy-sector-overview.md
+      - singapore-energy-story.md

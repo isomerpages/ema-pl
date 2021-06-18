@@ -1,0 +1,6 @@
+collections:
+	  events:
+	    output: true
+	    order:
+	      - eef/2021-wip.md
+	      - eef/2017.md

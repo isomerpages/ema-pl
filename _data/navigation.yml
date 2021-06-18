@@ -4,22 +4,27 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: "/images/common/Poweringlives logo.jpg"
+
+# TODO
+# Set the url for Energy Innovation submenu to the 2021 page after content is added
+# Set the url for Energy Educators Forum submenu to the 2021 page after content is added
+# Set the url for Youth@SIEW submenu to the 2021 page after content is added
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: About Powering Lives
-    url: /about-powering-lives/
-  - title: Scholarships
-    collection: scholarships
-  - title: Industry
-    collection: industry
+  - title: About
+    collection: about
   - title: Careers
     collection: careers
+  - title: Scholarships & Awards 
+    collection: scholarships-awards
   - title: Programmes
     collection: programmes
-  - title: Resources
-    resource_room: true
+  - title: Events
+    collection: events
+  - title: Energy Education Resources
+    collection: energy-education-resources
+    
+#    title: Contact Us
+#    url: /contact-us/
+  

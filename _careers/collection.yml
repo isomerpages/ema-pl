@@ -1,0 +1,18 @@
+collections:
+  careers:
+    output: true
+    order:
+      - sfwep.md
+      - industry-partners/.keep
+      - industry-partners/city-gas.md
+      - industry-partners/keppel-infrastructure.md
+      - industry-partners/pacificlight-power.md
+      - industry-partners/senoko-energy.md
+      - industry-partners/sembcorp-industries.md
+      - industry-partners/sp-group.md
+      - industry-partners/singapore-lng-corporation.md
+      - industry-partners/tuas-power.md
+      - industry-partners/ytl-powerseraya.md
+      - public-service/.keep
+      - public-service/peps.md
+      - public-service/pecf-wip.md
