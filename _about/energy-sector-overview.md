@@ -8,5 +8,5 @@ Every day, many activities happen within the Power sector to ensure a stable sup
 
 Singapore’s electricity is generated primarily using natural gas. Power generation companies in Singapore have shifted from oil-fired steam plants to more advanced and environment-friendly gas-fired Combined Cycle Plants (CCP) over the years.
 
-The electricity generated at the plants is transmitted and distributed to the industrial and domestic consumers by the power grid, which is owned and operated by Singapore Power.
+The electricity generated at the plants is transmitted and distributed to the industrial and domestic consumers by the power grid, which is owned and operated by SP Group.
 
