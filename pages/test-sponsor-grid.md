@@ -61,7 +61,6 @@ published: true
             <img alt="Sembcorp Industries" src="/images/common/partner-logos/sembcorp.jpg" style="width: 250px; height: 120px; padding-left: 20px; padding-right: 20px;">
         </a>
     </div>
-    <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.senokoenergy.com/" target="_blank">
             <img alt="Senoko Energy" src="/images/common/partner-logos/senoko_new.jpg" style="width: 250px; height: 120px; padding-left: 20px; padding-right: 20px;">
@@ -77,7 +76,6 @@ published: true
             <img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px; padding-left: 20px; padding-right: 20px;">
         </a>
     </div>
-    <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
     <a href="https://www.tuaspower.com.sg/" target="_blank">
         <img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px; padding-left: 20px; padding-right: 20px;">
