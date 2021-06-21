@@ -45,7 +45,7 @@ published: true
 ### Responsive Test
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px; padding-left: 20px; padding-right: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 250px; margin: auto; margin-bottom: 20px;">
         <a href="http://www.kepinfra.com/" target="_blank">
             <img alt="Keppel Infrastructure" src="/images/common/partner-logos/keppel_infrastructure.jpg" 
                 style="min-width: 250px; min-height: 120px; width: 250px; height: 120px; padding-left: 20px; padding-right: 20px;">
