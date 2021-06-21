@@ -17,7 +17,8 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-
+# Google Analytics
+google_analytics: UA-58157934-1
 
 
 #resources_name: resources
