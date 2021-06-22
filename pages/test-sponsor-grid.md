@@ -1,7 +1,7 @@
 ---
 title: Sponsor Grid Test Page
 permalink: /test-sponsor-grid
-published: test
+published: true
 ---
 
 ### EIS Responsive
