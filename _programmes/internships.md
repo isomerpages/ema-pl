@@ -47,17 +47,19 @@ Deposit your resume, indicate your period of availability and get ready to go fu
         <a href="https://www.slng.com.sg/" target="_blank">
             <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;">
         </a>   
+    </div>
     </div><div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+        <a href="https://www.spgroup.com.sg/" target="_blank">
+            <img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;">
+        </a>    
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.tuaspower.com.sg/" target="_blank">
             <img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;">
         </a>    
     </div><div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://ytlpowerseraya.com.sg/" target="_blank">
             <img alt="YTL PowerSeraya" src="/images/common/partner-logos/ytl_power_seraya.jpg" style="width: 250px; height: 120px;">
-        </a>    
-    </div><div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="https://www.spgroup.com.sg/" target="_blank">
-            <img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;">
         </a>    
     </div>
 </div>
