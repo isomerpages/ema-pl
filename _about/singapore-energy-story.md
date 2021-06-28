@@ -18,7 +18,7 @@ EMA has taken steps to help our power generation companies (gencos) improve the 
 
 Solar remains the most promising renewable energy source for Singapore, while energy storage systems allow us to counter the intermittency of renewable energy sources such as solar.
 
-Singapore has achieved its 2020 solar target of 350 megawatt-peak (MWp) in the first quarter of that year. In the longer term, we are working towards achieving a new solar target of at least 2 gigawatt-peak (GWp) by 2030, and an energy storage deployment target of 200MW beyond 2025.
+Singapore has achieved its 2020 solar target of 350 megawatt-peak (MWp) in the first quarter of that year. In the longer term, we are working towards achieving a new solar target of at least 2 gigawatt-peak (GWp) by 2030, and an energy storage deployment target of at least 200MW beyond 2025.
 
 **3rd Switch: Regional Power Grids**  
 
