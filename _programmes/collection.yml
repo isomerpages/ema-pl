@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - plt.md
       - eap.md
+      - plt.md
       - internships.md
