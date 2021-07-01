@@ -6,7 +6,7 @@ permalink: /programmes/eap/
 ![Be an Energy Ambassador!](/images/programmes/energy-ambassadors-programme/EAP_edm.png)
    
 <div style="width: fit-content; margin-left: auto; margin-right: auto;">
-        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo.jng" />
+        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo.jpg" />
         <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
     </div>
 
@@ -18,8 +18,14 @@ Click <a href="/files/programmes/energy-ambassadors-programme/EAP FAQs 2021.pdf"
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            To submit your application, <a href="www.go.gov.sg/eap" target="_blank">click here</a>
+            Applications are open now till 31 August 2021.
         </strong>
         <br>
+        <br>
+    </div>
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
+        To submit your application, <a href="https://www.go.gov.sg/eap" target="_blank">click here</a>
+        </span>
     </div>
 </div>
