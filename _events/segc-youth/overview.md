@@ -75,7 +75,7 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
     <br/>
     <br/>
     <div style="width: fit-content; margin-left: auto; margin-right: auto;">
-        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="/images/events/segc/ema%20logo%20transparent%20hi-res.jpg" />
-        <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="/images/events/segc/EMA%20PL%20brandmark%20full%20colour.png" />
+        <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo.jpg" />
+        <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
     </div>
 </p>
