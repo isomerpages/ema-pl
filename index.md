@@ -21,7 +21,7 @@ sections:
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
             - title: "Energy Ambassador Programme"
-              description: "Join us as an Energy Ambassador, applications are open now till 31 August 2021!."
+              description: "Join us as an Energy Ambassador, applications are open now till 31 August 2021!"
               url: /programmes/eap
 
               
