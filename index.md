@@ -14,13 +14,13 @@ sections:
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
+            - title: "Skills Framework for Energy & Power"
+              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
+              url: /careers/sfwep
             - title: "Energy Educators Forum 2021"
               description: "Join us at the upcoming Energy Educators Forum on 23 July! The forum will discuss global and local energy trends and opportunities. It provides a platform to encourage shared learning among schools on innovative approaches to teach energy-related concepts."
               description: "Join us at the upcoming Energy Educators Forum on 23 July! The forum will discuss global and local energy trends and opportunities, and encourage shared learning among schools on innovative approaches to teach energy-related concepts."
               url: /events/eef/2021
-            - title: "Skills Framework for Energy & Power"
-              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
-              url: /careers/sfwep
             - title: "Energy Ambassadors Programme"
               description: "Join us as an Energy Ambassador, applications are open now till 31 August 2021!"
               url: /programmes/eap
