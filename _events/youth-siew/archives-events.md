@@ -3,10 +3,37 @@ title: Archives (Events)
 permalink: /events/youth-at-siew/archives-events
 third_nav_title: Youth@SIEW
 ---
+* [2020](#2020)
 * [2019](#2019)
 * [2018](#2018)
 * [2017](#2017)
 * [2016](#2016)
+
+
+<a id="2020" href=""></a>
+# 2020
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+
+Organiser: Energy Market Authority  
+Date: 30 October 2020   
+Venue: Virtual Event
+
+<a href="https://www.youtube.com/watch?v=xeVPRlBHyP8&ab_channel=SingaporeInternationalEnergyWeek" target="_blank">Click here to watch the recording of the event.</a> 
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1tKmVAfdh4" frameborder="0" allowfullscreen=""></iframe> 
+
+Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities to induce interest in the energy sector, held during the annual Singapore International Energy Week. The theme for Youth@SIEW 2020 is "Seizing Opportunities in a New Energy Landscape".
+
+The event allows participants to engage in meaning discussions with industry and government on energy issues and the importance of innovation and co-creation in achieving a more sustainable energy future, as well as gain insights on energy developments and challenges.
+
+Youth@SIEW also features exhibitions that showcase energy-related innovations by students from various institutes of higher learning. This year, the projects are featured along the themes of Decarbonisation and Digitalisation. 
+
+<a href="/files/events/youth-siew/2020/RIED%20Panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a>  
+
+<a href="/files/events/youth-siew/2020/Manpower%20Panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a> 
+
 
 <a id="2019" href=""></a>
 # 2019
