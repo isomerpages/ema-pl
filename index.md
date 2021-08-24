@@ -18,12 +18,12 @@ sections:
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
-            - title: "Energy Educators Forum 2021"
-              description: "Join us at the upcoming Energy Educators Forum on 23 July! The forum will discuss global and local energy trends and opportunities. It provides a platform to encourage shared learning among schools on innovative approaches to teach energy-related concepts."
-              url: /events/eef/2021
-            - title: "Energy Ambassadors Programme"
-              description: "Join us as an Energy Ambassador, applications are open now till 31 August 2021!"
-              url: /programmes/eap
+            - title: "Youth@SIEW 2021"
+              description: "Join us at the upcoming Youth@SIEW on 29 October! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities to induce interest in the energy sector, held during the annual Singapore International Energy Week."
+              url: /events/youth-at-siew/2021
+            - title: "Energy Education Resources"
+              description: "Looking for energy related resources for the classroom? Check out our resources page!"
+              url: /energy-education-resources/video-library
               
 #    - infobar:
 #        title: Infobar title
