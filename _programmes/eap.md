@@ -19,7 +19,7 @@ Click <a href="/files/programmes/energy-ambassadors-programme/EAP FAQs 2021.pdf"
     <div style="text-align:center;">
         <strong>
             Thank you for your interest in the Energy Ambassadors Programme. Application is now closed.
-            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
+           Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
         <br>
