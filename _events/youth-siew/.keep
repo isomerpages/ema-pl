@@ -2,7 +2,7 @@ collections:
 	  events:
 	    output: true
 	    order:
-	      - youth-siew/2021-wip.md
+	      - youth-siew/2021.md
 	      - youth-siew/2020.md
 	      - youth-siew/archives(events).md
 	      - youth-siew/archives(youth-energy-showcase).md
