@@ -18,14 +18,15 @@ Click <a href="/files/programmes/energy-ambassadors-programme/EAP FAQs 2021.pdf"
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            Applications are open now till 31 August 2021.
+            Thank you for your interest in the Energy Ambassadors Programme. Application is now closed.
+            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
         <br>
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-        To submit your application, <a href="https://www.go.gov.sg/eap" target="_blank">click here</a>
+        Shortlisted applicants will be contacted for interviews.
         </span>
     </div>
 </div>
