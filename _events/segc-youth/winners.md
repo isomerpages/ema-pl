@@ -43,10 +43,10 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         To maximise space and increase captured wind speeds
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Low-carbon vehicles in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Low-carbon Vehicles in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Low-carbon vehicles 
+            Low-carbon Vehicles 
         </strong>
         <br/>
         Fuelled by hydrogen gas generated from electrolysis
@@ -162,7 +162,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
 </div>
  
 <div style="text-align: center;">
-    Team Electrae was crowned the champion for their innovative ideas such as the use of bioluminescent algae for lighting and artificial intelligence to optimise overall energy usage. 
+    Team Electrae was crowned the champion for their innovative ideas such as the use of bioluminescent algae for lighting and artificial intelligence. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld1.png" style="width: 240px; height: 160px;"/>
@@ -265,7 +265,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
             Smart Flooring
         </strong>
         <br/>
-        Extensive use of smart flooring to generate electricity through motion
+        To generate electricity through motion
     </div>
 </div>
 
