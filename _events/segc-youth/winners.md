@@ -3,6 +3,164 @@ title: Winners
 permalink: /events/segc-youth/winners
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
+
+* [2021](#2021)
+* [2020](#2020)
+
+<a id="2021" href=""></a>
+# 2021
+![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+The second edition of SEGC (Youth) was launched in March 2021 to engage youth on sustainability issues and garner innovative ideas based on the theme “How would your carbon-free school or neighbourhood in Singapore look like in 2050?”. A total of 87 teams across 29 secondary schools and junior colleges took part in the challenge. Participants had to use Microsoft’s Minecraft: Education Edition to create their ideal carbon-free world and showcase their aspirations for Singapore.
+
+### Junior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - 3R Girls Team
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Raffles Girls’ School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of 3R Girls Team members" src="/images/events/segc/SEGC2021_3RGirls.jpg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Kong Zi Yau Bernadette (Jiang Zirou), Victoria Teo Yue Tong, Tan Xuan Ying
+    </span>
+</div>
+ 
+<div style="text-align: center;">
+    3R Girls clinched the Junior Category championship with their ideas included the use of hydrogen-powered vehicles and Maglev trains to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Wind Turbines in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld1.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Wind Turbines on Buildings
+        </strong>
+        <br/>
+        To increase captured wind speeds
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Low-carbon vehicles in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Low-carbon vehicles 
+        </strong>
+        <br/>
+        Fuelled by hydrogen gas generated from electrolysis
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Intelligent lighting in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld3.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Intelligent lighting
+        </strong>
+        <br/>
+        Solar-powered street lighting equipped with motion sensors 
+    </div>
+</div>
+
+<div style="text-align: left; margin-top: 30px;">
+    <strong>
+        First Runner-up - Team Mighty Chondria
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Nanyang Girls’ High School
+    </span>
+</div>
+<div style="text-align: center;">
+    Team Mighty Chondria was recognised for recreating a realistic model of their NGHS campus in Minecraft. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="NGHS campus in Minecraft" src="/images/events/segc/SEGC2021_Chondriaworld1.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            NGHS campus in Minecraft
+        </strong>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Team Mighty Chondria Members" src="/images/events/segc/SEGC2021_Chondria.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Xu Shaozhe, Chen Yifei Allegra, Tan Wen Li Glenda
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Genetically Modified Algae in Minecraft" src="/images/events/segc/SEGC2021_Chondriaworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Genetically Modified Algae
+        </strong>
+        <br/>
+        To produce hydrogen for power generation
+    </div>
+</div>
+
+<div style="text-align: left; margin-top: 30px;">
+    <strong>
+        Second Runner-up - Team Proficient
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+       Bedok Green Secondary School
+    </span>
+</div>
+<div style="text-align: center;">
+    Team Proficient awed the judges with their ideas to make their school carbon-free using renewable energy sources. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="SolarGeo Dome in Minecraft" src="/images/events/segc/SEGC2021_Proficientworld1.jpeg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            SolarGeo Dome
+        </strong>
+        <br/>
+        Highly-efficient solar thermal electric generator to convert solar energy into electricity
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Team Proficient members" src="/images/events/segc/SEGC2021_Proficient.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Zacq Leong Guang Yao, Sim Kai Feng, Tan Guan Xu
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Indoor Farm in Minecraft" src="/images/events/segc/SEGC2021_Proficientworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Indoor Farm
+        </strong>
+        <br/>
+        Efficient and automated farm
+    </div>
+</div>
+
+
+### Senior Category
+
+<p style="text-align: center">
+    <strong>
+        Congratulations to all the winners!
+    </strong>
+    <br/>
+    <br/>
+    <a href="go.gov.sg/segc-youth-2021-winners" target="_blank">Check out the 2021 winning entries here</a>
+    <br/>
+    <br/>
+    <a href="https://go.gov.sg/eef-2021-live" target="_blank">Watch the virtual award ceremony here</a>
+    <br/>
+</p>
+
+---
+<a id="2020" href=""></a>
+# 2020
 ![Singapore Energy Grand Challenge (Youth) 2020](/images/events/segc/segc2020banner.png)
 SEGC (Youth) 2020 was launched in March 2020 for all secondary school students to co-create Singapore’s Energy Story with the challenge statement “How would your energy efficient school or neighbourhood in Singapore look like in 2050?”. 92 teams across some 30 secondary schools took part in the challenge, using Microsoft’s Minecraft: Education Edition to create their ideal energy efficient world and showcase their aspirations for Singapore. 
 <div style="text-align: left;">
@@ -105,7 +263,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
     </span>
 </div>
 <div style="text-align: center;">
-    Lightning Prodigies, demonstrated a thorough consideration of balancing the trade-offs between energy security, competitive prices and environmental sustainability. 
+    Lightning Prodigies demonstrated a thorough consideration of balancing the trade-offs between energy security, competitive prices and environmental sustainability. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Solar panels in Minecraft" src="/images/events/segc/solar-panels.png" style="width: 240px; height: 160px;"/>
@@ -140,10 +298,11 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Congratulations to all the winners!
     </strong>
     <br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wn-2EUK6bHI&ab_channel=EnergyMarketAuthority" frameborder="0" allowfullscreen=""></iframe> 
     <br/>
-    Check out their winning entries here: <a href="https://go.gov.sg/segc-youth-winners" target="_blank">go.gov.sg/segc-youth-winners</a>
+    <a href="https://go.gov.sg/segc-youth-winners" target="_blank">Check out the 2020 winning entries here</a>
     <br/>
     <br/>
-    Watch the virtual award ceremony here: <a href="https://go.gov.sg/segc-youth-live " target="_blank">go.gov.sg/segc-youth-live</a>
+    <a href="https://go.gov.sg/segc-youth-live" target="_blank">Watch the virtual award ceremony here</a>
     <br/>
 </p>
