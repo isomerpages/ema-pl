@@ -4,7 +4,7 @@ collections:
     order:
       - segc-youth/.keep
       - segc-youth/overview.md
-      - segc-youth/training-material-wip.md
+      - segc-youth/training-materials.md
       - segc-youth/winners.md
       - eef/.keep
       - eef/2021.md
