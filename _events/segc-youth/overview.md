@@ -44,6 +44,8 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 3. The top 3 teams of both Junior and Senior Categories will receive their awards in end-July 2021.
 
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
 <p style="text-align: center;">
     <br/><strong>
     SEGC (Youth) 2021 has been completed. Look out for 2022 challenge statement!
