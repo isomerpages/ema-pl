@@ -40,7 +40,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
             Wind Turbines on Buildings
         </strong>
         <br/>
-        To increase captured wind speeds
+        To maximise space and increase captured wind speeds
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Low-carbon vehicles in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld2.png" style="width: 240px; height: 160px;"/>
@@ -55,7 +55,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         <img alt="Intelligent lighting in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld3.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Intelligent lighting
+            Intelligent Lighting
         </strong>
         <br/>
         Solar-powered street lighting equipped with motion sensors 
@@ -144,6 +144,130 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
 
 
 ### Senior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Team Electrae
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Dunman High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Electrae members" src="/images/events/segc/SEGC2021_Electrae.png" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Ng Jin Seang Jordan, Kwok Zheng Feng, Jake Kee Chong Han
+    </span>
+</div>
+ 
+<div style="text-align: center;">
+    Team Electrae was crowned the champion for their innovative ideas such as the use of bioluminescent algae for lighting and artificial intelligence to optimise overall energy usage. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld1.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Overview of Electrae's World
+        </strong>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Innovative Lighting in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Innovative Lighting
+        </strong>
+        <br/>
+        Bioluminescent algae for lighting
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Artificial Intelligence in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld3.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Artificial Intelligence
+        </strong>
+        <br/>
+        To optimise overall energy usage 
+    </div>
+</div>
+
+<div style="text-align: left; margin-top: 30px;">
+    <strong>
+        First Runner-up - Team Energae
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Dunman High School
+    </span>
+</div>
+<div style="text-align: center;">
+    Team Energae was recognised for their impressive creation of a carbon-free neighbourhood, that uses multiple surfaces and technologies to generate electricity. 
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Overview of Electrae's World
+        </strong>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Team Energae Members" src="/images/events/segc/SEGC2021_Energae.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Ang Guan Yu Jasper, Tan York Yang, Chng Yongzhi Kevan, Aaron Ang Chen Yee
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Carbon Capture in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Air Capture System
+        </strong>
+        <br/>
+        Efficient large-scale direct air capture system to capture carbon dioxide from the atmosphere
+    </div>
+</div>
+
+<div style="text-align: left; margin-top: 30px;">
+    <strong>
+        Second Runner-up - Team Goaty
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+       Anderson Serangoon Junior College
+    </span>
+</div>
+<div style="text-align: center;">
+    Team Goaty demonstrated their creative ideas on using smart flooring and central cooling to create a carbon-free living hub.
+    <br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Goatyworld1.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Merlion hawker centre and basketball court
+        </strong>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Team Goaty members" src="/images/events/segc/SEGC2021_Goaty.jpg" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Members: (L to R)
+        </strong>
+        <br/>
+        Koh Li Tian, Germaine Yeo, Janel Lee Mei Er, Ernest Tan Jian Yu
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
+        <img alt="Smart Flooring in Minecraft" src="/images/events/segc/SEGC2021_Goatyworld2.png" style="width: 240px; height: 160px;"/>
+        <br/>
+        <strong>
+            Smart Flooring
+        </strong>
+        <br/>
+        Extensive use of smart flooring to generate electricity through motion
+    </div>
+</div>
 
 <p style="text-align: center">
     <strong>
