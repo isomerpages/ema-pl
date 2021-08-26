@@ -45,9 +45,9 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 3. The top 3 teams of both Junior and Senior Categories will receive their awards in end-July 2021.
 
 <p style="text-align: center;">
-    <br/>
+    <br/><strong>
     SEGC (Youth) 2021 has been completed. Look out for 2022 challenge statement!
-    <br/>
+    </strong><br/>
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
