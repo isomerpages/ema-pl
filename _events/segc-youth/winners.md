@@ -31,7 +31,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
 </div>
  
 <div style="text-align: center;">
-    3R Girls clinched the Junior Category championship with their ideas included the use of hydrogen-powered vehicles and Maglev trains to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
+    3R Girls clinched the Junior Category championship with their ideas included the use of hydrogen-powered vehicles to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Wind Turbines in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld1.png" style="width: 240px; height: 160px;"/>
