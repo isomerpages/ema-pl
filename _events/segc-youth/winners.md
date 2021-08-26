@@ -207,7 +207,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Overview of Electrae's World
+            Overview of Energae's World
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
@@ -275,7 +275,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     </strong>
     <br/>
     <br/>
-    <a href="go.gov.sg/segc-youth-2021-winners" target="_blank">Check out the 2021 winning entries here</a>
+    <a href="https://go.gov.sg/segc-youth-2021-winners" target="_blank">Check out the 2021 winning entries here</a>
     <br/>
     <br/>
     <a href="https://go.gov.sg/eef-2021-live" target="_blank">Watch the virtual award ceremony here</a>
