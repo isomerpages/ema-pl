@@ -26,7 +26,7 @@ Venue: Virtual Event
 
 Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities to induce interest in the energy sector, held during the annual Singapore International Energy Week. The theme for Youth@SIEW 2020 is "Seizing Opportunities in a New Energy Landscape".
 
-The event allows participants to engage in meaning discussions with industry and government on energy issues and the importance of innovation and co-creation in achieving a more sustainable energy future, as well as gain insights on energy developments and challenges.
+The event allows participants to engage in meaningful discussions with industry and government on energy issues and the importance of innovation and co-creation in achieving a more sustainable energy future, as well as gain insights on energy developments and challenges.
 
 Youth@SIEW also features exhibitions that showcase energy-related innovations by students from various institutes of higher learning. This year, the projects are featured along the themes of Decarbonisation and Digitalisation. 
 
