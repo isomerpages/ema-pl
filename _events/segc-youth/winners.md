@@ -207,8 +207,10 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         <img alt="Smark Park in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Smart park lined with smart flooring system to convert movement to electricity
+            Smart Park 
         </strong>
+        <br/>
+        Lined with smart flooring system to convert movement to electricity
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Team Energae Members" src="/images/events/segc/SEGC2021_Energae.jpg" style="width: 240px; height: 160px;"/>
