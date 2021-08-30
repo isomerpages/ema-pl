@@ -7,7 +7,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 <p style="text-align: center; font-weight: bold;">
     How would your carbon-free school or neighbourhood in Singapore look like in 2050?
     
-    <br/><italic>
+    <br/><br/></strong><italic>
     SEGC (Youth) 2021 has completed. Look out for 2022 challenge statement!
     </italic><br/>
 </p>
