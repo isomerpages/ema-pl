@@ -19,7 +19,7 @@ sections:
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
             - title: "Youth@SIEW 2021"
-              description: "Join us at the upcoming Youth@SIEW on 29 October! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities to induce interest in the energy sector, held during the annual Singapore International Energy Week."
+              description: "Join us at the upcoming Youth@SIEW on 29 October! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities, held during the annual Singapore International Energy Week."
               url: /events/youth-at-siew/2021
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
