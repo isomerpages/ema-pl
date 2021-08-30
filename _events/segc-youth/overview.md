@@ -6,6 +6,10 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
 <p style="text-align: center; font-weight: bold;">
     How would your carbon-free school or neighbourhood in Singapore look like in 2050?
+    
+    <br/><italic>
+    SEGC (Youth) 2021 has completed. Look out for 2022 challenge statement!
+    </italic><br/>
 </p>
 
  
@@ -47,9 +51,6 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <p style="text-align: center;">
-    <br/><strong>
-    SEGC (Youth) 2021 has been completed. Look out for 2022 challenge statement!
-    </strong><br/>
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
