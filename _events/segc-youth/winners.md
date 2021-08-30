@@ -31,7 +31,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
 </div>
  
 <div style="text-align: center;">
-    3R Girls clinched the Junior Category championship with their ideas included the use of hydrogen-powered vehicles to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
+    3R Girls clinched the Junior Category championship for their creative ideas such as the use of hydrogen-powered vehicles to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="Wind Turbines in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld1.png" style="width: 240px; height: 160px;"/>
@@ -72,7 +72,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     </span>
 </div>
 <div style="text-align: center;">
-    Team Mighty Chondria was recognised for recreating a realistic model of their NGHS campus in Minecraft. 
+    Team Mighty Chondria was recognised for recreating a realistic Minecraft version of their NGHS campus which incorporated various technologies to achieve a carbon-free school. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
         <img alt="NGHS campus in Minecraft" src="/images/events/segc/SEGC2021_Chondriaworld1.png" style="width: 240px; height: 160px;"/>
@@ -204,10 +204,10 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     Team Energae was recognised for their impressive creation of a carbon-free neighbourhood, that uses multiple surfaces and technologies to generate electricity. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Smark Park in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Overview of Energae's World
+            Smart park lined with smart flooring system to convert movement to electricity
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
