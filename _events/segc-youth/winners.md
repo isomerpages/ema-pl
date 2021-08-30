@@ -424,7 +424,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Congratulations to all the winners!
     </strong>
     <br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wn-2EUK6bHI&ab_channel=EnergyMarketAuthority" frameborder="0" allowfullscreen=""></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wn-2EUK6bHI" frameborder="0" allowfullscreen=""></iframe> 
     <br/>
     <a href="https://go.gov.sg/segc-youth-winners" target="_blank">Check out the 2020 winning entries here</a>
     <br/>
