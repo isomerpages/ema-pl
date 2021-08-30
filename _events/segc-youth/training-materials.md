@@ -7,7 +7,7 @@ published: true
 
 ### Virtual Clinic Recording 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JEW4X8hrhxc&ab_channel=PoweringLives" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JEW4X8hrhxc" frameborder="0" allowfullscreen=""></iframe> 
 
 For more resources, please visit:
   <br/>
