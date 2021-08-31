@@ -24,11 +24,11 @@ Venue: Virtual Event
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m1tKmVAfdh4" frameborder="0" allowfullscreen=""></iframe> 
 
-Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities, held during the annual Singapore International Energy Week. The theme for Youth@SIEW 2020 is "Seizing Opportunities in a New Energy Landscape".
+Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities, held during the annual Singapore International Energy Week. The theme for Youth@SIEW 2020 was "Seizing Opportunities in a New Energy Landscape".
 
 The event allowed participants to engage in meaningful discussions with industry and government on energy issues and the importance of innovation and co-creation in achieving a more sustainable energy future, as well as gain insights on energy developments and challenges.
 
-Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning. For 2020, the projects are featured along the themes of Decarbonisation and Digitalisation. 
+Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning. For 2020, the projects were along the themes of Decarbonisation and Digitalisation. 
 
 <a href="/files/events/youth-siew/2020/RIED%20Panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a>  
 
@@ -52,7 +52,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 **Event Highlights**
 * **In Dialogue with Youth**: _Discussed Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders._
 * **Youth Energy Showcase**: _Featured new innovations from fellow students, and learnt about exciting career opportunities in our energy sector._
-* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma, and cheered on their school teams as they competed with one another in an intense online energy competition._
+* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma as school teams competed with one another in an intense online energy competition._
 
 
 <a id="2018" href=""></a>
