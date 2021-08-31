@@ -47,7 +47,7 @@ Venue: Sands Expo and Convention Centre, MBS Singapore
 
 Youths play a critical role in shaping Singapore’s energy future that is increasingly digitalised, decentralised and decarbonised.
 
-Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. As part of Singapore’s young energy movement, participants shared their aspirations with more than 300 of your peers and energy industry leaders!
+Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. As part of Singapore’s young energy movement, participants shared their aspirations with more than 300 of their peers and energy industry leaders!
 
 **Event Highlights**
 * **In Dialogue with Youth**: _Discussed Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders._
