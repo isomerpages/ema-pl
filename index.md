@@ -10,7 +10,7 @@ notification:  Welcome to our revamped PoweringLives website!
 sections:
     - hero:
         title: Powering Lives
-        subtitle: "The Power sector in Singapore encompasses both the electricity and gas sectors. Together with our industry partners, we ensure that a stable and affordable supply of energy is delivered to consumers."
+        subtitle: "The Power sector in Singapore encompasses both the electricity and gas sectors. Together with our industry partners, we ensure that a stable, affordable and sustainable supply of energy is delivered to consumers."
         background: "/images/home/portal_banner_3.jpg"
 #        button: Contact Us
 #        url: /contact-us/
@@ -19,7 +19,7 @@ sections:
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
             - title: "Youth@SIEW 2021"
-              description: "Join us at the upcoming Youth@SIEW on 29 October! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities, held during the annual Singapore International Energy Week."
+              description: "Join us at the upcoming Youth@SIEW on 29 October, to be held during the annual Singapore International Energy Week! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities."
               url: /events/youth-at-siew/2021
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
