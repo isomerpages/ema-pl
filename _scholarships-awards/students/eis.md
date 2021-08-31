@@ -131,7 +131,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 
 |Type of Scholarship|Institute of Technical Education|Polytechnic|
 |-------------------|--------------------------------|-----------|
-|Year 1 (Full-Term award)|2 years <br/>3 years (applicable for students enrolled in NITEC in Mechanical Technology)|3 years|
+|Year 1 (Full-Term award)|2 years|3 years|
 |Year 2 (Mid-term award)|2 years|2 years|
 |Year 3 (Mid-term award)|2 years (if applicable)|2 years|
 
