@@ -248,7 +248,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Goatyworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Merlion hawker centre and basketball court
+            Merlion Hawker Centre and Basketball Court
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
@@ -289,6 +289,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
 # 2020
 ![Singapore Energy Grand Challenge (Youth) 2020](/images/events/segc/segc2020banner.png)
 SEGC (Youth) 2020 was launched in March 2020 for all secondary school students to co-create Singapore’s Energy Story with the challenge statement “How would your energy efficient school or neighbourhood in Singapore look like in 2050?”. 92 teams across some 30 secondary schools took part in the challenge, using Microsoft’s Minecraft: Education Edition to create their ideal energy efficient world and showcase their aspirations for Singapore. 
+
 <div style="text-align: left;">
     <strong>
         Champion - Team Futurae
@@ -322,7 +323,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         <img alt="Carbon-capturing concrete in Minecraft" src="/images/events/segc/carbon-capturing-concrete.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Carbon-capturing concrete
+            Carbon-capturing Concrete
         </strong>
         <br/>
         Capturing CO2 released during incineration to reduce our carbon footprint
@@ -331,7 +332,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         <img alt="Pressure-plate paths in Minecraft" src="/images/events/segc/pressure-plate-paths.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Pressure-plate paths
+            Pressure-plate Paths
         </strong>
         <br/>
         Turning kinetic energy to electricity
@@ -354,7 +355,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         <img alt="Water filtration system in Minecraft" src="/images/events/segc/water-filtration-system.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Water filtration system
+            Water Filtration System
         </strong>
         <br/>
         A more energy efficient way of purifying rainwater
@@ -372,7 +373,7 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         <img alt="Thermoelectric generators in Minecraft" src="/images/events/segc/thermoelectric-generators.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
-            Thermoelectric generators
+            Thermoelectric Generators
         </strong>
         <br/>
         Converting heat flows into electricity
