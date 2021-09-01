@@ -3,10 +3,37 @@ title: Archives (Events)
 permalink: /events/youth-at-siew/archives-events
 third_nav_title: Youth@SIEW
 ---
+* [2020](#2020)
 * [2019](#2019)
 * [2018](#2018)
 * [2017](#2017)
 * [2016](#2016)
+
+
+<a id="2020" href=""></a>
+# 2020
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+
+Organiser: Energy Market Authority  
+Date: 30 October 2020   
+Venue: Virtual Event
+
+<a href="https://www.youtube.com/watch?v=xeVPRlBHyP8&ab_channel=SingaporeInternationalEnergyWeek" target="_blank">Click here to watch the recording of the event.</a> 
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1tKmVAfdh4" frameborder="0" allowfullscreen=""></iframe> 
+
+Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities, held during the annual Singapore International Energy Week. The theme for Youth@SIEW 2020 was "Seizing Opportunities in a New Energy Landscape".
+
+The event allowed participants to engage in meaningful discussions with industry and government on energy issues and the importance of innovation and co-creation in achieving a more sustainable energy future, as well as gain insights on energy developments and challenges.
+
+Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning. For 2020, the projects were along the themes of Decarbonisation and Digitalisation. 
+
+<a href="/files/events/youth-siew/2020/RIED%20Panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a>  
+
+<a href="/files/events/youth-siew/2020/Manpower%20Panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a> 
+
 
 <a id="2019" href=""></a>
 # 2019
@@ -20,12 +47,12 @@ Venue: Sands Expo and Convention Centre, MBS Singapore
 
 Youths play a critical role in shaping Singapore’s energy future that is increasingly digitalised, decentralised and decarbonised.
 
-Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. Seize the opportunity to be part of Singapore’s young energy movement, and share your aspirations with more than 300 of your peers and energy industry leaders!
+Youth@SIEW is Singapore’s milestone energy platform for students to exchange ideas and discover new innovations that would be transforming how we keep the lights on and gas flowing. As part of Singapore’s young energy movement, participants shared their aspirations with more than 300 of their peers and energy industry leaders!
 
-**Event Highlights** 
-* **In Dialogue with Youth**: Discuss Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders.
-* **Youth Energy Showcase**: _Be inspired by new innovations from your peers, and learn about exciting career opportunities in our energy sector._
-* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learn how to balance Singapore’s Energy trilemma, and cheer your school teams as they compete with one another in an intense online energy competition._
+**Event Highlights**
+* **In Dialogue with Youth**: _Discussed Singapore’s energy landscape and emerging career opportunities with senior government and industry leaders._
+* **Youth Energy Showcase**: _Featured new innovations from fellow students, and learnt about exciting career opportunities in our energy sector._
+* **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma as school teams competed with one another in an intense online energy competition._
 
 
 <a id="2018" href=""></a>

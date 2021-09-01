@@ -5,10 +5,11 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
 <p style="text-align: center; font-weight: bold;">
-    CALLING ALL SECONDARY SCHOOL AND JUNIOR COLLEGE STUDENTS!
-    <br/><br/>
-    Your Challenge Statement:<br/>
     How would your carbon-free school or neighbourhood in Singapore look like in 2050?
+    
+    <br/><br/>
+    2021 challenge has ended. Look out for 2022's challenge statement!
+    <br/>
 </p>
 
  
@@ -47,23 +48,9 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 3. The top 3 teams of both Junior and Senior Categories will receive their awards in end-July 2021.
 
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
 <p style="text-align: center;">
-    <br/>
-    Thanks for your submissions! Shortlisted teams have been notified.
-    <br/>
-    <br/>
-    For more information, please visit:
-    <br/>
-    - <a href="https://go.gov.sg/segc-clinic-video-2021" target="_blank">Virtual Clinic Recording</a>
-    <br/>
-    - <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Frequently Asked Questions</a>
-    <br/>
-    - <a href="https://www.empirecode.co/learning-resources/" target="_blank">M:EE Learning Resources</a>
-    <br/>
-    - <a href="https://www.beyondthecurrent.gov.sg/" target="_blank">Singapore Energy Story</a>
-    <br/>
-    - <a href="/files/events/segc-youth/overview/Getting%20Started%20with%20Minecraft.pdf" target="_blank">Guidebook on M:EE licenses</a>
-    <br/>
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>

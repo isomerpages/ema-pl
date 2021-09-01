@@ -131,7 +131,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 
 |Type of Scholarship|Institute of Technical Education|Polytechnic|
 |-------------------|--------------------------------|-----------|
-|Year 1 (Full-Term award)|2 years <br/>3 years (applicable for students enrolled in NITEC in Mechanical Technology)|3 years|
+|Year 1 (Full-Term award)|2 years|3 years|
 |Year 2 (Mid-term award)|2 years|2 years|
 |Year 3 (Mid-term award)|2 years (if applicable)|2 years|
 
@@ -144,7 +144,7 @@ Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicatio
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-            Thank you for your interest in the Energy-Industry Scholarship. Application is now closed. <br>
+            Thank you for your interest in the Energy-Industry Scholarship. Applications are now closed. <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>

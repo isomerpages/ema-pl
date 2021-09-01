@@ -165,7 +165,7 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            Thank you for your interest in the Singapore-Industry Scholarship. Application is now closed. <br>
+            Thank you for your interest in the Singapore-Industry Scholarship. Applications are now closed. <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
