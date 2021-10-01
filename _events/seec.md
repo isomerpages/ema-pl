@@ -12,3 +12,5 @@ _Insert eDM logo & video_
 The annual Sembcorp-EMA Energy Challenge (SEEC) is jointly organised by Sembcorp Industries and the Energy Market Authority (EMA) since 2015. The SEEC encompasses three components - an experiential learning journey, an energy competition and internship opportunities.  Over 500 students from various Institutes of Higher Learning (IHL) have participated across the years.
 
 Winning teams stand a chance to win cash prizes and internship opportunities at Sembcorp!
+
+Hello Eden and Janet
