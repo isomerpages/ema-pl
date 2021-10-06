@@ -1,6 +1,7 @@
 ---
 title: Sembcorp-EMA Energy Challenge (SEEC)
 permalink: /events/seec/
+published: false
 ---
 _Insert eDM logo & video_
    
