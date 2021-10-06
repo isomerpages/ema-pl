@@ -14,4 +14,3 @@ The annual Sembcorp-EMA Energy Challenge (SEEC) is jointly organised by Sembcorp
 
 Winning teams stand a chance to win cash prizes and internship opportunities at Sembcorp!
 
-Hello Eden and Janet
