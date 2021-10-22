@@ -76,7 +76,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
         </a>
     </div>
 </div>
-
 &nbsp;  
 
 [//]: # (showcase stories of scholars)
