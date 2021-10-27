@@ -60,11 +60,11 @@ Students who will be / currently pursuing relevant engineering courses at a univ
             <img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;">
         </a>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="https://www.sunseap.com/SG/" target="_blank">
-            <img alt="Sunseap Group" src="/images/common/partner-logos/sunseap.png" style="width: 250px; height: 120px;">
-        </a>
-    </div>
+ [//]:     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+ [//]:        <a href="https://www.sunseap.com/SG/" target="_blank">
+ [//]:            <img alt="Sunseap Group" src="/images/common/partner-logos/sunseap.png" style="width: 250px; height: 120px;">
+ [//]:        </a>
+ [//]:     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
     <a href="https://www.tuaspower.com.sg/" target="_blank">
         <img alt="Tuas Power" src="/images/common/partner-logos/tuas_power.jpg" style="width: 250px; height: 120px;">
