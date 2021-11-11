@@ -52,7 +52,6 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
            Application is open till 31 January 2022. <br>
         </strong>
         <br>
-        <br>
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
