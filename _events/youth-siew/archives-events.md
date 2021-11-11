@@ -18,7 +18,7 @@ Organiser: Energy Market Authority
 Date: 30 October 2020   
 Venue: Virtual Event
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BcH40y53tAo&t=80s&ab_channel=SingaporeInternationalEnergyWeek" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcH40y53tAo" frameborder="0" allowfullscreen=""></iframe> 
  
 <a href="https://www.youtube.com/watch?v=xeVPRlBHyP8&ab_channel=SingaporeInternationalEnergyWeek" target="_blank">Click here to watch the recording of the event.</a> 
 
@@ -43,7 +43,7 @@ Organiser: Energy Market Authority
 Date: 1 November 2019  
 Venue: Sands Expo and Convention Centre, MBS Singapore  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlKB24ryx1g&t=1s&ab_channel=SingaporeInternationalEnergyWeek" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xlKB24ryx1g" frameborder="0" allowfullscreen=""></iframe> 
 
 ---
 
