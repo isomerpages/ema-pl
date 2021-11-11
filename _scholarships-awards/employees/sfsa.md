@@ -49,7 +49,8 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            Application is open all year round.
+           Application is open till 31 January 2022. <br>
+           Note: The SkillsFuture Study Awards will be discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. Eligible Singaporeans who wish to apply for the award should submit their applications by 31 January 2022.
         </strong>
         <br>
         <br>
