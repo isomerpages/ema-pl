@@ -4,7 +4,7 @@ title: Powering Lives
 description: Brief site description here
 image: /images/home/hero-banner.png 
 permalink: /
-notification:  Welcome to our revamped PoweringLives website!
+# notification:  Welcome to our revamped PoweringLives website!
 # Poweringlives.gov.sg will be undergoing scheduled maintenance from 16 Jul 2021 (18:00) to 16 Jul 2021 (20:00), and will not be available during this period. We apologise for any inconvenience.
 
 sections:
