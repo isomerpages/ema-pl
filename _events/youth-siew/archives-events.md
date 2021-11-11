@@ -18,7 +18,7 @@ Organiser: Energy Market Authority
 Date: 30 October 2020   
 Venue: Virtual Event
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BcH40y53tAo&t=80s" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcH40y53tAo&t=80s&ab_channel=SingaporeInternationalEnergyWeek" frameborder="0" allowfullscreen=""></iframe> 
  
 <a href="https://www.youtube.com/watch?v=xeVPRlBHyP8&ab_channel=SingaporeInternationalEnergyWeek" target="_blank">Click here to watch the recording of the event.</a> 
 
@@ -43,7 +43,7 @@ Organiser: Energy Market Authority
 Date: 1 November 2019  
 Venue: Sands Expo and Convention Centre, MBS Singapore  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlKB24ryx1g&t=1s" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xlKB24ryx1g&t=1s&ab_channel=SingaporeInternationalEnergyWeek" frameborder="0" allowfullscreen=""></iframe> 
 
 ---
 
@@ -114,6 +114,7 @@ Date: 26 October 2016
 Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
 <a href="https://www.siew.gov.sg/videos/default-source/videos/singapore-international-energy-week-2016/siew-2016-highlights/siew-2016-highlights.mp4?sfvrsn=f7c0e79_14" target="_blank">Click here to watch the highlights of SIEW 2016.</a>
+
 ---
 
 Attended by 360 participants, **Youth@SIEW**, saw active participation from the students, educators and industry partners. The participants were engaged in an insightful dialogue session with Minister for Ministry of Trade and Industry (Industry) Mr. S Iswaran, Mr. Frank Phuan (Co-Founder and Director of Sunseap Group) and Ms. Valerie Lee (General Manager, Sembcorp Power). We also saw a total of 14 student projects from the various IHLs at the Youth Energy Showcase.
