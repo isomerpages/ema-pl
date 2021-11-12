@@ -49,14 +49,14 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            Application is open all year round.
+           Application is open till 31 January 2022. <br>
         </strong>
-        <br>
         <br>
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-            For more information on eligible courses / submit your application, <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">click here.</a> 
+            For more information on eligible courses / submit your application, <a href="https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000065" target="_blank">click here.</a> <br><br>
+            Note: The SkillsFuture Study Awards will be discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. Eligible Singaporeans who wish to apply for the award should submit their applications by 31 January 2022.
         </span>
     </div>
 </div>

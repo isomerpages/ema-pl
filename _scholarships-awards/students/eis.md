@@ -30,8 +30,8 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="http://www.kepinfra.com/" target="_blank">
-            <img alt="Keppel Infrastructure" src="/images/common/partner-logos/keppel_infrastructure.jpg" 
+        <a href="https://www.kepinfra.com/en/" target="_blank">
+            <img alt="KMC" src="/images/common/partner-logos/kmc.png" 
                 style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
         </a>
     </div>

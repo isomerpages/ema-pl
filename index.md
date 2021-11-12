@@ -4,7 +4,7 @@ title: Powering Lives
 description: Brief site description here
 image: /images/home/hero-banner.png 
 permalink: /
-notification:  Welcome to our revamped PoweringLives website!
+# notification:  Welcome to our revamped PoweringLives website!
 # Poweringlives.gov.sg will be undergoing scheduled maintenance from 16 Jul 2021 (18:00) to 16 Jul 2021 (20:00), and will not be available during this period. We apologise for any inconvenience.
 
 sections:
@@ -18,8 +18,8 @@ sections:
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
-            - title: "Youth@SIEW 2021"
-              description: "Join us at the upcoming Youth@SIEW on 29 October, to be held during the annual Singapore International Energy Week! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities."
+            - title: "Youth Energy Showcase 2021"
+              description: "For the first time, as part of Youth@SIEW, we open the showcase to the public to share comments and ideas on 10 school projects. The form will be open till 26 November 2021."
               url: /events/youth-at-siew/2021
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
