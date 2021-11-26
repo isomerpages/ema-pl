@@ -34,6 +34,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 <a href="/files/events/youth-siew/2020/Manpower%20Panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a> 
 
+![Youth@SIEW 2020 Photographs](/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg)
 
 <a id="2019" href=""></a>
 # 2019
@@ -56,6 +57,8 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 * **Youth Energy Showcase**: _Featured new innovations from fellow students, and learnt about exciting career opportunities in our energy sector._
 * **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma as school teams competed with one another in an intense online energy competition._
 
+![Youth@SIEW 2019 Photographs](/images/events/youth-at-siew/YouthatSIEW_2019_collage.jpg)
+
 
 <a id="2018" href=""></a>
 # 2018
@@ -76,10 +79,7 @@ Students were also engaged in an interactive dialogue session helmed by SPS Dr T
 
 We are grateful for your strong participation and look forward to yet another rewarding session at the next Youth@SIEW 2019.
 
----
-
 ![Youth@SIEW 2018 Photgraphs](/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png)
-
 
 
 <a id="2017" href=""></a>
@@ -99,8 +99,6 @@ Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
 **Youth@SIEW 2017** saw more than 420 students and educators engaged in an exciting dialogue of Singapore's Energy Future that would be shaped by the “3D” trends of Decarbonisation, Decentralisation and Digitalisation. The audience had the opportunity to learn about the exciting opportunities in the sector through the sharing by industry captain and their peers. They were also engaged in an insightful dialogue session with Senior Minister of State, Ms Sim Ann, Mr Samuel Tan (Chief Digital Officer of SP Group), Ms Liu Xiaowei (Vice President, External Relations of Shell APAC), moderated by Mr Winfred Oh (Geography Teacher, Catholic High School). We also saw a total of 12 student projects hosted by students from the various Institutions of Higher Learning (IHLs) at the Youth Energy Showcase, graced by numerous foreign delegates and our respective Guest-of-Honour Ms Sim Ann and Ms Low Yen Ling.
 
 We appreciate your strong support and are looking forward to your participation in 2018!
-
----
 
 ![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
 
