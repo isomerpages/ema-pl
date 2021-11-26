@@ -36,6 +36,12 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 ![Youth@SIEW 2020 Photographs](/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg)
 
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+            <img alt="Youth@SIEW 2020 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg" 
+                style="min-width: 2540px; min-height: 2878px; width: 2540px; height: 2878px;">
+        </a>
+    </div>
+
 <a id="2019" href=""></a>
 # 2019
 ![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
