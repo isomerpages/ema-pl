@@ -36,8 +36,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
    <img alt="Youth@SIEW 2020 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg" 
-    style="min-width: 1000px; min-height: 1000px; width: 1000px; height: 1000px;">
-   </a>
+    style="min-width: 500px; min-height: 500px; width: 500px; height: 500px;">
 </div>
 
 <a id="2019" href=""></a>
