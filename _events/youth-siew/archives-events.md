@@ -36,7 +36,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
    <img alt="Youth@SIEW 2020 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg" 
-    style="min-width: 500px; min-height: 500px; width: 500px; height: 500px;">
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
 </div>
 
 <a id="2019" href=""></a>
@@ -60,7 +60,10 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 * **Youth Energy Showcase**: _Featured new innovations from fellow students, and learnt about exciting career opportunities in our energy sector._
 * **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma as school teams competed with one another in an intense online energy competition._
 
-![Youth@SIEW 2019 Photographs](/images/events/youth-at-siew/YouthatSIEW_2019_collage.jpg)
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+   <img alt="Youth@SIEW 2019 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2019_collage.jpg" 
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
+</div>
 
 
 <a id="2018" href=""></a>
@@ -82,8 +85,10 @@ Students were also engaged in an interactive dialogue session helmed by SPS Dr T
 
 We are grateful for your strong participation and look forward to yet another rewarding session at the next Youth@SIEW 2019.
 
-![Youth@SIEW 2018 Photgraphs](/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png)
-
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+   <img alt="Youth@SIEW 2018 Photographs" src="/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png" 
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
+</div>
 
 <a id="2017" href=""></a>
 # 2017
@@ -103,7 +108,10 @@ Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
 
 We appreciate your strong support and are looking forward to your participation in 2018!
 
-![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+   <img alt="Youth@SIEW 2017 Photographs" src="/images/events/youth-at-siew/YPost%20SIEW%202017%20update%20pic.jpg" 
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
+</div>
 
 
 <a id="2016" href=""></a>
@@ -122,4 +130,8 @@ Attended by 360 participants, **Youth@SIEW**, saw active participation from the 
 
 We appreciate your support and are looking forward to your participation in future events!
 
-![Youth@SIEW 2016 Event Photos](/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+   <img alt="Youth@SIEW 2016 Photographs" src="/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg" 
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
+</div>
+
