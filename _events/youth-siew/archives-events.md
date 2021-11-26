@@ -87,7 +87,7 @@ We are grateful for your strong participation and look forward to yet another re
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
    <img alt="Youth@SIEW 2018 Photographs" src="/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png" 
-    style="min-width: 700px; min-height: 700px;">
+    style="min-width: 700px;">
 </div>
 
 <a id="2017" href=""></a>
@@ -110,7 +110,7 @@ We appreciate your strong support and are looking forward to your participation 
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
    <img alt="Youth@SIEW 2017 Photographs" src="/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg" 
-    style="min-width: 700px; min-height: 700px;">
+    style="min-width: 700px;">
 </div>
 
 
@@ -132,5 +132,5 @@ We appreciate your support and are looking forward to your participation in futu
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
    <img alt="Youth@SIEW 2016 Photographs" src="/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg" 
-    style="min-width: 700px; min-height: 700px;">
+    style="min-width: 700px;">
 </div>
