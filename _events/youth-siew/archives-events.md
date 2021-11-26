@@ -85,10 +85,8 @@ Students were also engaged in an interactive dialogue session helmed by SPS Dr T
 
 We are grateful for your strong participation and look forward to yet another rewarding session at the next Youth@SIEW 2019.
 
-<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2018 Photographs" src="/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png" 
-    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
-</div>
+![Youth@SIEW 2018 Photographs](/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png)
+
 
 <a id="2017" href=""></a>
 # 2017
@@ -108,10 +106,7 @@ Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
 
 We appreciate your strong support and are looking forward to your participation in 2018!
 
-<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2017 Photographs" src="/images/events/youth-at-siew/YPost%20SIEW%202017%20update%20pic.jpg" 
-    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
-</div>
+![Youth@SIEW 2017 Photographs](/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg)
 
 
 <a id="2016" href=""></a>
@@ -130,8 +125,4 @@ Attended by 360 participants, **Youth@SIEW**, saw active participation from the 
 
 We appreciate your support and are looking forward to your participation in future events!
 
-<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2016 Photographs" src="/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg" 
-    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
-</div>
-
+![Youth@SIEW 2016 Photographs](/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg)
