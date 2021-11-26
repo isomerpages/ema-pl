@@ -19,8 +19,8 @@ Deposit your resume, indicate your period of availability and get ready to go fu
 ### Sponsoring Organisations  
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="https://www.citygas.com.sg/" target="_blank">
-            <img alt="City Gas" src="/images/common/partner-logos/City_Gas.jpg" style="width: 250px; height: 120px;">
+        <a href="https://www.cityenergy.com.sg/" target="_blank">
+            <img alt="City Energy" src="/images/common/partner-logos/city_energy.png" style="width: 250px; height: 120px;">
         </a>    
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
