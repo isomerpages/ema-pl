@@ -30,6 +30,12 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+        <a href="https://www.eigen.energy/" target="_blank">
+            <img alt="Eigen Energy" src="/images/common/partner-logos/kmc.png" 
+                style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
+        </a>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.kepinfra.com/en/" target="_blank">
             <img alt="KMC" src="/images/common/partner-logos/kmc.png" 
                 style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
@@ -140,7 +146,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 |Year 3 (Mid-term award)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
-Click <a href="/files/scholarships-awards/students/eis/EIS_FAQs_2021_Jun.pdf" target="_blank">here</a> to see a list of frequently asked questions.
+Click <a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">here</a> to see a list of frequently asked questions.
 
 Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
@@ -148,7 +154,7 @@ Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicatio
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-            Thank you for your interest in the Energy-Industry Scholarship. Applications are now closed. <br>
+            The Energy-Industry Scholarship is now open for applications until 31 Mar 2022. <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
