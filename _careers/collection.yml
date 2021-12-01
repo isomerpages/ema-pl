@@ -4,7 +4,8 @@ collections:
     order:
       - sfwep.md
       - industry-partners/.keep
-      - industry-partners/city-gas.md
+      - industry-partners/city-energy.md
+      - industry-partners/eigen-energy.md
       - industry-partners/kmc.md
       - industry-partners/pacificlight-power.md
       - industry-partners/sembcorp-industries.md

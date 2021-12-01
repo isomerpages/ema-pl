@@ -18,9 +18,9 @@ sections:
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/sfwep
-            - title: "Youth Energy Showcase 2021"
-              description: "For the first time, as part of Youth@SIEW, we open the showcase to the public to share comments and ideas on 10 school projects. The form will be open till 26 November 2021."
-              url: /events/youth-at-siew/2021
+            - title: "Energy-Industry Scholarship"
+              description: "Embark on a rewarding, meaningful and stable career in the energy sector. Apply for the Energy-Industry Scholarship today!"
+              url: /scholarships-awards/students/eis
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
               url: /energy-education-resources/video-library
