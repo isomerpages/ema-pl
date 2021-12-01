@@ -31,7 +31,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.eigen.energy/" target="_blank">
-            <img alt="Eigen Energy" src="/images/common/partner-logos/kmc.png" 
+            <img alt="Eigen Energy" src="/images/common/partner-logos/eigen_energy.png" 
                 style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
         </a>
     </div>
