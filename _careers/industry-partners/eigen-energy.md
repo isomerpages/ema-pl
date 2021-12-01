@@ -13,4 +13,4 @@ Eigen Energy is a systems integrator in the renewable energy sector with the vis
 
 With business verticals in Solar PV, EV Charging, and Energy Storage, the company aims to be the cornerstone for renewable energy infrastructure beyond Singapore to provide engineering solutions for urban and rural landscapes.
 
-We are passionate about the ecological significance our work brings and believe in creating value through safe business practices in an environmentally responsible and ethical way, while promoting a culture of integrity and accountability.
+Eigen Energy is passionate about the ecological significance its work brings and believe in creating value through safe business practices in an environmentally responsible and ethical way, while promoting a culture of integrity and accountability.
