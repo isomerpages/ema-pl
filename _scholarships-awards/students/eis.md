@@ -148,7 +148,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 ### Frequently Asked Questions
 Click <a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">here</a> to see a list of frequently asked questions.
 
-Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_2017.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
+Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_Jan2022.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
