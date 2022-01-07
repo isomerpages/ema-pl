@@ -52,19 +52,6 @@ This is an industry scholarship for those pursuing relevant engineering courses 
 Besides a full-term scholarship, the EIS also offers a mid-term scholarship to those who have already commenced their studies. The bond period will be commensurate with the total scholarship value. Applicants interested in applying for a mid-term scholarship will need to have at least one academic year of studies remaining at the point of application.
 
  
-**Who are the sponsoring organisations for the EIS?**  
-The sponsoring companies are:
-
-* Keppel Infrastructure Holdings Pte Ltd  
-* PacificLight Power Pte Ltd
-* Sembcorp Industries Ltd  
-* Senoko Energy Pte Ltd  
-* Singapore LNG Corporation Pte Ltd  
-* Singapore Power Ltd  
-* Tuas Power Generation Pte Ltd  
-* YTL PowerSeraya Pte Ltd  
-
-
  
 **How do I apply for the EIS?**  
 You may submit your application online via the Powering Lives portal during the application cycle which starts in December and closes in March. This application period is applicable whether you are applying for the Full-term or Mid-term scholarship.
