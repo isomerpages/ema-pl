@@ -49,7 +49,7 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-           Application closed on 31 January 2022. <br>
+           Applications closed on 31 January 2022. <br>
         </strong>
         <br>
     </div>
