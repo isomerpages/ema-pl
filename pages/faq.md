@@ -79,7 +79,7 @@ Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, 
 
 
 **What is the eligibility criteria and how do I apply for the Study Awards?**  
-Applicants may apply online <a href="/scholarships-awards/employees/sfsa" target="_blank">here</a>
+Applications closed on 31 January 2022.
 
 For more information, please refer to the link <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
 

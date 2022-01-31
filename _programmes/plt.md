@@ -17,6 +17,8 @@ The Powering Lives Trails (PLTs) are structured, experiential learning journeys 
 
 The PLTs encompass visits to five locations in the Power sector. These are the Power System Control Centre, the Sembcorp Cogen @ Banyan Plant, the Singapore Liquefied Natural Gas (LNG) Terminal, the Pulau Ubin Micro-grid Test-bed and the Singapore District Cooling Plant. In addition, there is an introductory presentation to the Power sector and the site/company, an interactive learning activity and a networking/Q&A session.
 
+_The PLT is currently on hold. Please check back soon!_
+
 ![Experiential Learning Journeys (Map)](/images/programmes/experiential-learning-journeys/journey-map.png)
 
 |   |   |
