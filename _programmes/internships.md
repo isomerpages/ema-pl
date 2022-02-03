@@ -74,8 +74,8 @@ Deposit your resume, indicate your period of availability and get ready to go fu
             To apply, please login to Powering Lives application portal with your Singpass
         </span>
         <br/>
-        <a id="HyperLinkLoginSingPass" href="https://puat.poweringlives.gov.sg/SPLogin/default.aspx?o=login”;
-            img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
+        <a id="HyperLinkLoginSingPass" href="https://puat.poweringlives.gov.sg/SPLogin/default.aspx?o=login”>
+            <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
         </a>
     </div>
 </div>
