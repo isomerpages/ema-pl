@@ -165,7 +165,7 @@ Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicatio
             To apply, please login to Powering Lives application portal with your Singpass
         </span>
         <br/>
-        <a id="HyperLinkLoginSingPass" href="https://puat.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
+        <a id="HyperLinkLoginSingPass" href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
             <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
         </a>
     </div>
