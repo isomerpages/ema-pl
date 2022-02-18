@@ -4,7 +4,7 @@ title: Powering Lives
 description: Brief site description here
 image: /images/home/hero-banner.png 
 permalink: /
-notification:  Singpass and Corppass will be undergoing urgent maintenance from 18 Feb 2022 (18:30) to 18 Feb 2022 (19:00), and will not be available during this period. We apologise for any inconvenience.
+notification:  Singpass and Corppass will be undergoing maintenance from 18 Feb 2022 (18:30) to 18 Feb 2022 (19:00), and will not be available during this period. We apologise for any inconvenience.
 
 sections:
     - hero:
