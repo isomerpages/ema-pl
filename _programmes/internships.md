@@ -76,7 +76,7 @@ Deposit your resume, indicate your period of availability and get ready to go fu
             Singpass and Corppass will be undergoing urgent maintenance from 18 Feb 2022 (18:30) to 18 Feb 2022 (19:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
         <br/>
-        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&ResponseBinding=HTTPArtifact&PartnerId=https://apply.poweringlives.gov.sg/SPLogin&Target=https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&NameIdFormat=Email&esrvcID=EMA-MP-SP">
+        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://apply.poweringlives.gov.sg/SPLogin&amp;Target=https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
             <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
         </a>
     </div>
