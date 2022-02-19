@@ -155,17 +155,16 @@ Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicatio
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-            The Energy-Industry Scholarship is now open for applications until 31 Mar 2022. <br>
-            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
+            The Energy-Industry Scholarship is now open for applications until 31 Mar 2022. 
+        <br>
         </strong>
+            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         <br>
         <br>
     </div>
     <div style="text-align:center; font-size: 15px;" >
         <span>
             To apply, please login to Powering Lives application portal with your Singpass.
-           <br/> 
-            Singpass and Corppass will be undergoing maintenance from 18 Feb 2022 (18:30) to 18 Feb 2022 (19:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
         <br/>
         <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://apply.poweringlives.gov.sg/SPLogin&amp;Target=https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
