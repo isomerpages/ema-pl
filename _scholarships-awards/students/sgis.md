@@ -86,6 +86,17 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Nanyang Technological University
         </span>
     </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Ng Yong Hwee" src="/images/scholarships/youth/profile-photo-nyh.jpg" 
+            style="width: 225px;"/><br/>
+        <strong>Ng Yong Hwee</strong><br/>
+        <span style="font-style: italic;">
+            Bachelor in Chemical Engineering
+        </span><br/>
+        <span style="">
+            National University of Singapore
+        </span>
+    </div>
 </div>
 
 **Examples of Relevant Disciplines**  
