@@ -1,5 +1,5 @@
 ---
-title: Power Engineering Competency Framework for the Public Service
+title: Power Engineering Competency Framework for the Public Service (PECF)
 permalink: /careers/public-service/pecf
 third_nav_title: Public Service
 
