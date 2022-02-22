@@ -53,9 +53,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
 ### Past Scholars
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Tay Xin Ci" src="/images/scholarships/youth/profile-photo-txc.jpg" 
-            style="width: 225px;"/><br/>
+            style="width: 180px;"/><br/>
         <strong>Tay Xin Ci</strong><br/>
         <span style="font-style: italic;">
             Bachelor of Engineering (Electrical Engineering)
@@ -64,9 +64,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             National University of Singapore
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 315px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 252px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of >Muhammad Hafiz Bin Aziz" src="/images/scholarships/youth/profile-photo-mhba.jpg" 
-            style="width: 315px;"/><br/>
+            style="width: 252px;"/><br/>
         <strong>Muhammad Hafiz Bin Aziz</strong><br/>
         <span style="font-style: italic;">
             Bachelor in Mechanical Engineering
@@ -75,9 +75,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Nanyang Technological University
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
-            style="width: 225px;"/><br/>
+            style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
         <span style="font-style: italic;">
             Bachelor in Engineering (Electrical & Electronics) with Business Minor
@@ -86,9 +86,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Nanyang Technological University
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Ng Yong Hwee" src="/images/scholarships/youth/profile-photo-nyh.jpeg" 
-            style="width: 225px;"/><br/>
+            style="width: 180px;"/><br/>
         <strong>Ng Yong Hwee</strong><br/>
         <span style="font-style: italic;">
             Bachelor in Chemical Engineering
