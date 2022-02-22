@@ -87,7 +87,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Ng Yong Hwee" src="/images/scholarships/youth/profile-photo-nyh.jpg" 
+        <img alt="Photograph of Ng Yong Hwee" src="/images/scholarships/youth/profile-photo-nyh.jpeg" 
             style="width: 225px;"/><br/>
         <strong>Ng Yong Hwee</strong><br/>
         <span style="font-style: italic;">
