@@ -53,7 +53,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
 ### Past Scholars
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 160px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Tay Xin Ci" src="/images/scholarships/youth/profile-photo-txc.jpg" 
             style="width: 180px;"/><br/>
         <strong>Tay Xin Ci</strong><br/>
@@ -75,7 +75,7 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             Singapore Institute of Technology
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 160px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
             style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
