@@ -167,7 +167,7 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
   <br/>
   - <a href="/files/careers/tsc/23. Engineering Problem Solving_PECF_vF.pdf" target="_blank">Engineering Problem Solving</a>
   <br/>
-  - <a href="/files/careers/tsc/24. Network Tech Specifications Development_PECF_vF.pdf" target="_blank">Network Tech Specifications Development</a>
+  - <a href="/files/careers/tsc/24. Network Tech Specifications Development_PECF_vF.pdf" target="_blank">Network Technical Specifications Development</a>
   <br/>
   - <a href="/files/careers/tsc/25. Power Engineering Management_PECF_vF.pdf" target="_blank">Power Engineering Management</a>
   <br/>
@@ -253,7 +253,7 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
   <br/>
   - <a href="/files/careers/tsc/57. Preventive Maintenance Management_PECF_vF.pdf" target="_blank">Preventive Maintenance Management</a>
   <br/>
-  - <a href="/files/careers/tsc/58. Reliability Centred Maintenance Mgmt_PECF_vF.pdf" target="_blank">Reliability Centred Maintenance Mgmt</a>
+  - <a href="/files/careers/tsc/58. Reliability Centred Maintenance Mgmt_PECF_vF.pdf" target="_blank">Reliability Centred Maintenance Management</a>
   <br/>  
   
 **Policy Management and Governance**
