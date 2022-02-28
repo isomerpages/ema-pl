@@ -112,7 +112,7 @@ Project Manager / Project Director / Deputy Director</a>
  
 Technical Skills and Competencies comprise occupation/job-specific knowledge, skills and abilities that a person needs to have to perform the various tasks.
 
-<a href="/files/careers/skillsmap/TSC.zip" target="_blank">Download the zip file here.</a>
+<a href="/files/careers/tsc/TSC.zip" target="_blank">Download the zip file here.</a>
 
 **Decarbonisation**
 
