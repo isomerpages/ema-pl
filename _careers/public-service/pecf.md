@@ -1,5 +1,5 @@
 ---
-title: Power Engineering Competency Framework for the Public Service (PECF)
+title: Power Engineering Competency Framework (PECF)
 permalink: /careers/public-service/pecf
 third_nav_title: Public Service
 
@@ -21,7 +21,9 @@ The Career Map shows the possible options for vertical and lateral progression f
 <a id="Skills Map" href=""></a>
 ### Skills Map
  
-The Skills Maps covers a total of 30 job roles, critical work functions, key tasks and skills and competencies aligned to the six functional tracks.
+The Skills Maps cover a total of 30 job roles, critical work functions, key tasks and skills and competencies aligned to the six functional tracks.
+
+<a href="/files/careers/skillsmap/Skills Map.zip" target="_blank">Download the zip file here.</a>
 
 **Monitoring & Control**
 
@@ -110,6 +112,8 @@ Project Manager / Project Director / Deputy Director</a>
  
 Technical Skills and Competencies comprise occupation/job-specific knowledge, skills and abilities that a person needs to have to perform the various tasks.
 
+<a href="/files/careers/skillsmap/TSC.zip" target="_blank">Download the zip file here.</a>
+
 **Decarbonisation**
 
   - <a href="/files/careers/tsc/1. Electric Vehicle Charging Systems Mgmt_PECF_vF.pdf" target="_blank">Electric Vehicle Charging Systems Management</a>
@@ -131,7 +135,7 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
   <br/>
   - <a href="/files/careers/tsc/8. Energy Storage Systems Management_PECF_vF.pdf" target="_blank">Energy Storage Systems Management</a>
   <br/>
-  - <a href="/files/careers/tsc/9. Hybrid AC&DC Power Distribution&Utilisation_PECF_vF.pdf" target="_blank">Hybrid AC&DC Power Distribution &  Utilisation</a>
+  - <a href="/files/careers/tsc/9. Hybrid AC&DC Power Distribution&Utilisation_PECF_vF.pdf" target="_blank">Hybrid AC and DC Power Distribution and Utilisation</a>
   <br/>
   - <a href="/files/careers/tsc/10. Microgrids Implementation_PECF_vF.pdf" target="_blank">Microgrids Implementation</a>
   <br/>
@@ -140,7 +144,7 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
 
 **Digitalisation**
 
-  - <a href="/files/careers/tsc/12. Business Intelligence & Data Analytics_PECF_vF.pdf" target="_blank">Business Intelligence & Data Analytics</a>
+  - <a href="/files/careers/tsc/12. Business Intelligence & Data Analytics_PECF_vF.pdf" target="_blank">Business Intelligence and Data Analytics</a>
   <br/>
   - <a href="/files/careers/tsc/13. Cybersecurity Framework Application_PECF_vF.pdf" target="_blank">Cybersecurity Framework Application</a>
   <br/>
@@ -178,11 +182,11 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
   <br/>
   - <a href="/files/careers/tsc/27. Battery Systems Management_PECF_vF.pdf" target="_blank">Battery Systems Management</a>
   <br/>
-  - <a href="/files/careers/tsc/28. Lifts & Escalators Systems Management_PECF_vF.pdf" target="_blank">Lifts & Escalators Systems Management</a>
+  - <a href="/files/careers/tsc/28. Lifts & Escalators Systems Management_PECF_vF.pdf" target="_blank">Lifts and Escalators Systems Management</a>
   <br/>
   - <a href="/files/careers/tsc/29. Lightning Protection Systems Mgmt_PECF_vF.pdf" target="_blank">Lightning Protection Systems Management</a>
   <br/>
-  - <a href="/files/careers/tsc/30. Relay & Protection Systems Management_PECF_vF.pdf" target="_blank">Relay & Protection Systems Management</a>
+  - <a href="/files/careers/tsc/30. Relay & Protection Systems Management_PECF_vF.pdf" target="_blank">Relay and Protection Systems Management</a>
   <br/>
   - <a href="/files/careers/tsc/31. Substation Design Management_PECF_vF.pdf" target="_blank">Substation Design Management</a>
   <br/>
@@ -212,7 +216,7 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
 
   - <a href="/files/careers/tsc/41. Inter-agency Collaboration_PECF_vF.pdf" target="_blank">Inter-agency Collaboration</a>
   <br/>
-  - <a href="/files/careers/tsc/42. Regulatory Compliance & Risk Mgmt_PECF_vF.pdf" target="_blank">Regulatory Compliance & Risk Management</a>
+  - <a href="/files/careers/tsc/42. Regulatory Compliance & Risk Mgmt_PECF_vF.pdf" target="_blank">Regulatory Compliance and Risk Management</a>
   <br/>
   - <a href="/files/careers/tsc/43. Stakeholder Management_PECF_vF.pdf" target="_blank">Stakeholder Management</a>
   <br/>
@@ -232,9 +236,9 @@ Technical Skills and Competencies comprise occupation/job-specific knowledge, sk
 
 **Installation, Testing and Commissioning**
 
-  - <a href="/files/careers/tsc/49. Electrical Equipment & Systems Testing_PECF_vF.pdf" target="_blank">Electrical Equipment & Systems Testing</a>
+  - <a href="/files/careers/tsc/49. Electrical Equipment & Systems Testing_PECF_vF.pdf" target="_blank">Electrical Equipment and Systems Testing</a>
   <br/>
-  - <a href="/files/careers/tsc/50. Equipment & Systems Installation and Commissioning_PECF_vF.pdf" target="_blank">Equipment & Systems Installation and Commissioning</a>
+  - <a href="/files/careers/tsc/50. Equipment & Systems Installation and Commissioning_PECF_vF.pdf" target="_blank">Equipment and Systems Installation and Commissioning</a>
   <br/>
   - <a href="/files/careers/tsc/51. Technical Inspection_PECF_vF.pdf" target="_blank">Technical Inspection</a>
   <br/>
