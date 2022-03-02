@@ -2,7 +2,7 @@
 title: Energy-Industry Scholarship (EIS)
 permalink: /scholarships-awards/students/eis
 third_nav_title: Students
-notification:  Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (15:00), and will not be available during this period. We apologise for any inconvenience.
+
 
 ---
 ![Energy Industry Scholarship](/images/scholarships/youth/EIS_sub.jpg)
