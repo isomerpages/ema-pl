@@ -53,9 +53,9 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
 ### Past Scholars
  
 <div style="width: 100%; overflow: hidden; text-align: center;">
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 155px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Tay Xin Ci" src="/images/scholarships/youth/profile-photo-txc.jpg" 
-            style="width: 225px;"/><br/>
+            style="width: 180px;"/><br/>
         <strong>Tay Xin Ci</strong><br/>
         <span style="font-style: italic;">
             Bachelor of Engineering (Electrical Engineering)
@@ -64,26 +64,37 @@ Partnering with the Singapore Government, industry players (e.g. Power sector) o
             National University of Singapore
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 315px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of >Muhammad Hafiz Bin Aziz" src="/images/scholarships/youth/profile-photo-mhba.jpg" 
-            style="width: 315px;"/><br/>
-        <strong>Muhammad Hafiz Bin Aziz</strong><br/>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 252px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Loh Guo Ming" src="/images/scholarships/youth/profile-photo-lgm.jpg" 
+            style="width: 252px;"/><br/>
+        <strong>Loh Guo Ming</strong><br/>
         <span style="font-style: italic;">
-            Bachelor in Mechanical Engineering
+            Bachelor in Mechanical Design Engineering
         </span><br/>
         <span style="">
-            Nanyang Technological University
+            Singapore Institute of Technology
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 225px; margin: auto; margin-bottom: 20px;">
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 155px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
-            style="width: 225px;"/><br/>
+            style="width: 180px;"/><br/>
         <strong>Goh Yi Hui</strong><br/>
         <span style="font-style: italic;">
             Bachelor in Engineering (Electrical & Electronics) with Business Minor
         </span><br/>
         <span style="">
             Nanyang Technological University
+        </span>
+    </div>
+    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
+        <img alt="Photograph of Ng Yong Hwee" src="/images/scholarships/youth/profile-photo-nyh.jpg" 
+            style="width: 180px;"/><br/>
+        <strong>Ng Yong Hwee</strong><br/>
+        <span style="font-style: italic;">
+            Bachelor in Chemical Engineering
+        </span><br/>
+        <span style="">
+            National University of Singapore
         </span>
     </div>
 </div>
@@ -166,8 +177,8 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
     <div style="text-align:center;">
         <strong>
             The Singapore-Industry Scholarship is now open for applications until 21 Mar 2022. <br>
-            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
+            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         <br>
         <br>
     </div>
