@@ -8,4 +8,4 @@ Leveraging EMA’s experience within the energy sector, our mandate was expanded
 **Power Engineering Careers in the Public Service**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3lDq6XZgkP0" frameborder="0" allowfullscreen=""></iframe>
 
-For more careers opportunities, you may visit the Power Engineering Competency Framework (PECF). <a href="https://www. poweringlives.gov.sg/careers/public-service/pecf/"
+For more careers opportunities, you may visit the <a href="https://www. poweringlives.gov.sg/careers/public-service/pecf/" target="_blank">Power Engineering Competency Framework (PECF)</a> .
