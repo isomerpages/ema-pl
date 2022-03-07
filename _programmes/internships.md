@@ -74,6 +74,5 @@ Deposit your resume, indicate your period of availability and get ready to go fu
             Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (15:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
         <br/>
-        </a>
     </div>
 </div>
