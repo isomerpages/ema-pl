@@ -71,7 +71,7 @@ Deposit your resume, indicate your period of availability and get ready to go fu
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center; font-size: 15px;" >
         <span>
-            Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (15:00), and will not be available during this period. We apologise for any inconvenience.
+            Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (17:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
         <br/>
     </div>
