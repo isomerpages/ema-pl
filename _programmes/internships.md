@@ -71,8 +71,12 @@ Deposit your resume, indicate your period of availability and get ready to go fu
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center; font-size: 15px;" >
         <span>
+            To apply, please login to Powering Lives application portal with your Singpass.
+        <br/>
             Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (17:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
         <br/>
+        <a id="HyperLinkLoginSingPass" href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
+        </a>
     </div>
 </div>
