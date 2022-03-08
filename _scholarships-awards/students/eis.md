@@ -165,13 +165,8 @@ Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicatio
     </div>
     <div style="text-align:center; font-size: 15px;" >
         <span>
-            To apply, please login to Powering Lives application portal with your Singpass.
        <br/>   
-            Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (15:00), and will not be available during this period. We apologise for any inconvenience.
+            Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (17:00), and will not be available during this period. We apologise for any inconvenience.
         </span>
-        <br/>
-        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://apply.poweringlives.gov.sg/SPLogin&amp;Target=https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
-            <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
-        </a>
     </div>
 </div>
