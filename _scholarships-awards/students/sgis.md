@@ -176,7 +176,7 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
         <strong>
-            The Singapore-Industry Scholarship is now open for applications until 21 Mar 2022. <br>
+            Applications for the Singapore-Industry Scholarship are closed. <br>
         </strong>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         <br>
@@ -184,7 +184,7 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-        To submit your application, <a href="https://www.moe.gov.sg/sgis/application" target="_blank">click here</a>
+        More details are on <a href="https://www.moe.gov.sg/sgis/application" target="_blank">MOE's website.</a>
         </span>
     </div>
 </div>
