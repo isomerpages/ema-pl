@@ -8,22 +8,22 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 
 For more career opportunities, you may visit:
 
-* <a href="https://cleantechsolar.com/contact/careers/">Cleantech Solar</a>
-* <a href="https://www.durapowerbattery.com/career/">Durapower</a>
-* <a href="https://www.linkedin.com/company/eigenenergy/">Eigen Energy</a>
-* <a href="https://www.energetix.sg/careers.html">Energetix</a>
-* <a href="https://www.engie-sea.com/careers">ENGIE South East Asia</a>
-* <a href="https://sg.linkedin.com/company/envision-group-digital">Envision</a>
-* <a href="https://www.evercomm.com.sg/people.html#join-us">Evercomm Singapore</a>
-* <a href="https://sg.linkedin.com/company/genplus-energy">GenPlus</a>
-* <a href="https://www.kepinfra.com/en/careers/">Keppel Infrastructure</a>
-* <a href="https://sg.linkedin.com/company/qe-labs">Quantified Energy Labs</a>
-* <a href="https://www.recgroup.com/en/green-your-career">REC Solar</a>
-* <a href="https://www.rda.ai/careers/">Red Dot Analytics</a>
-* <a href="https://www.sembcorp.com/en/careers">Sembcorp Industries</a>
-* <a href="https://sg.linkedin.com/company/singapore-power-ltd">SP Group</a>
-* <a href="https://sg.linkedin.com/company/sunseap">Sunseap</a>
-* <a href="http://solargy.com.sg/new/index.php?route=news/ncategory&ncat=59_65">SolarGy</a>
-* <a href="https://www.mycareersfuture.gov.sg/search?search=Clean%20Energy&sortBy=relevancy&page=0">MyCareersFuture Singapore</a>
+* <a href="https://cleantechsolar.com/contact/careers/" target="_blank">Cleantech Solar</a>
+* <a href="https://www.durapowerbattery.com/career/" target="_blank">Durapower</a>
+* <a href="https://www.linkedin.com/company/eigenenergy/" target="_blank">Eigen Energy</a>
+* <a href="https://www.energetix.sg/careers.html" target="_blank">Energetix</a>
+* <a href="https://www.engie-sea.com/careers" target="_blank">ENGIE South East Asia</a>
+* <a href="https://sg.linkedin.com/company/envision-group-digital" target="_blank">Envision</a>
+* <a href="https://www.evercomm.com.sg/people.html#join-us" target="_blank">Evercomm Singapore</a>
+* <a href="https://sg.linkedin.com/company/genplus-energy" target="_blank">GenPlus</a>
+* <a href="https://www.kepinfra.com/en/careers/" target="_blank">Keppel Infrastructure</a>
+* <a href="https://sg.linkedin.com/company/qe-labs" target="_blank">Quantified Energy Labs</a>
+* <a href="https://www.recgroup.com/en/green-your-career" target="_blank">REC Solar</a>
+* <a href="https://www.rda.ai/careers/" target="_blank">Red Dot Analytics</a>
+* <a href="https://www.sembcorp.com/en/careers" target="_blank">Sembcorp Industries</a>
+* <a href="https://sg.linkedin.com/company/singapore-power-ltd" target="_blank">SP Group</a>
+* <a href="https://sg.linkedin.com/company/sunseap" target="_blank">Sunseap</a>
+* <a href="http://solargy.com.sg/new/index.php?route=news/ncategory&ncat=59_65" target="_blank">SolarGy</a>
+* <a href="https://www.mycareersfuture.gov.sg/search?search=Clean%20Energy&sortBy=relevancy&page=0" target="_blank">MyCareersFuture Singapore</a>
 
 Watch this space for more updates!
