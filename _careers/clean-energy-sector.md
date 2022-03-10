@@ -8,8 +8,11 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 
 For more career opportunities, you may visit:
 
-* <a href="https://www.durapowerbattery.com/career/" target="_blank">Durapower</a>
-* <a href="https://www.engie-sea.com/careers" target="_blank">ENGIE South East Asia</a>
-* <a href="https://www.recgroup.com/en/green-your-career" target="_blank">REC Solar</a>
+* <a href="https://cleantechsolar.com/contact/careers/">Cleantech Solar</a>
+* <a href="https://www.durapowerbattery.com/career/">Durapower</a>
+* <a href="https://www.engie-sea.com/careers">ENGIE South East Asia</a>
+* <a href="https://www.recgroup.com/en/green-your-career">REC Solar</a>
 * <a href="http://solargy.com.sg/new/index.php?route=news/ncategory&ncat=59_65">SolarGy</a>
 * <a href="https://www.mycareersfuture.gov.sg/search?search=Clean%20Energy&sortBy=relevancy&page=0">MyCareersFuture Singapore</a>
+
+Watch this space for more updates!
