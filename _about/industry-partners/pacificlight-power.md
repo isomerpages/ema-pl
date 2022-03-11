@@ -1,6 +1,6 @@
 ---
 title: PacificLight Power
-permalink: /careers/industry-partners/pacificlight-power
+permalink: /about/industry-partners/pacificlight-power
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/pacific_light_large.jpg" alt="PacificLight Power" style="width: 450px; height: 312px;" /><br/>
