@@ -16,7 +16,7 @@ sections:
         key_highlights:
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
-              url: /careers/sfwep
+              url: /careers/poower-sector/sfwep
             - title: "Energy-Industry Scholarship"
               description: "Embark on a rewarding, meaningful and stable career in the energy sector. Apply for the Energy-Industry Scholarship today!"
               url: /scholarships-awards/students/eis
