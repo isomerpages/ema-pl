@@ -4,7 +4,7 @@ permalink: /careers/clean-energy-sector
 ---
 <img src="/images/careers/clean_energy_cover.jpg" /><br/>
 
-Against the backdrop of rising climate change concerns, Singapore is committed to playing our part to combat climate change and achieve a sustainable energy future. As the energy sector decarbonises, this presents fresh and exciting career opportunities in areas such as solar, energy storage systems, smart grids and regional trading. We will continue to work with <a href="https://www.poweringlives.gov.sg/about/industry-partners/city-energy/" target="_blank">industry partners</a>, institutes of higher learning and the Union of Power and Gas Employees (UPAGE) to ensure our workforce remains future-ready and are equipped with the right skillsets to capture these emerging opportunities.
+Against the backdrop of rising climate change concerns, Singapore is committed to playing our part to combat climate change and achieve a sustainable energy future. As the energy sector decarbonises, this presents fresh and exciting career opportunities in areas such as solar, energy storage systems, smart grids and regional trading. We will continue to work with <a href="https://www.poweringlives.gov.sg/about/industry-partners/city-energy" target="_blank">industry partners</a>, institutes of higher learning and the Union of Power and Gas Employees (UPAGE) to ensure our workforce remains future-ready and are equipped with the right skillsets to capture these emerging opportunities.
 
 For more career opportunities, you may visit:
 
