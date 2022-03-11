@@ -1,6 +1,6 @@
 ---
 title: Sunseap Group
-permalink: /careers/industry-partners/sunseap-group
+permalink: /about/industry-partners/sunseap-group
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/sunseap_large.png" alt="Sunseap Group - Floating PV" style="width: 450px; height: 312px;" /><br/>
