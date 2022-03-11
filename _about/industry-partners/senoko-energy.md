@@ -1,6 +1,6 @@
 ---
 title: Senoko Energy
-permalink: /careers/industry-partners/senoko-energy
+permalink: /about/industry-partners/senoko-energy
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/senoko_large.jpg" alt="Senoko Energy" style="width: 450px; height: 312px;" /><br/>
