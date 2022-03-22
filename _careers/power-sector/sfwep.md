@@ -1,6 +1,8 @@
 ---
 title: Skills Framework for Energy and Power (SFwEP)
-permalink: /careers/sfwep/
+permalink: /careers/power-sector/sfwep/
+third_nav_title: Power Sector
+
 ---
 ### Introduction to SFwEP
 
