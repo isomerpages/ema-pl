@@ -58,14 +58,9 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are now open till 13 April 2022.
+            Registrations are now open till 13 April 2022. Click <a href="https://www.go.gov.sg/segc2022" target="_blank"> here</a>
         </strong>
         <br>
-    <div>
-    <div style="text-align:center;" >
-        <span style="text-align:center; font-size: 15px;">
-        To register, <a href="https://www.go.gov.sg/segc2022" target="_blank">click here</a>
-        </span>
     </div>
 </div>  
 
