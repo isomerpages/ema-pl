@@ -18,7 +18,7 @@ Form a team of two to four with your schoolmates to participate in any of the 3 
 * [Junior (lower secondary students)](#SEGC (Junior/Senior))
 * [Senior (upper secondary and junior college students)](#SEGC (Junior/Senior))
 * [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (IHL))
-* 
+
 Winning teams across all 3 categories will win cash prizes of up to $10,000 in their respective category.
 
 <a id="SEGC (Junior/Senior)" href=""></a>
