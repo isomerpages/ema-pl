@@ -67,7 +67,6 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
         To register, <a href="https://www.go.gov.sg/segc2022" target="_blank">click here</a>
         </span>
     </div>
-</div>
         
 
 <a id="SEGC (IHL)" href=""></a>
