@@ -65,7 +65,7 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
 </div>  
 
 <a id="SEGC (IHL)" href=""></a>
-### SEGC (IHL) Overview
+### SEGC (IHL) 2022 Overview
 
 Registration for the IHL category will open in May 2022,  interested participants may watch this space for more updates!
 
