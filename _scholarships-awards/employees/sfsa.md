@@ -55,7 +55,7 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
-            Note: The SkillsFuture Study Awards will be discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. 
+            Note: The SkillsFuture Study Awards was discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. 
         </span>
     </div>
 </div>
