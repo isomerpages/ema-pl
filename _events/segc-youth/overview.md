@@ -24,7 +24,7 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
 <a id="SEGC (Junior/Senior)" href=""></a>
 ### SEGC (Junior/Senior) 2022 Overview
 
-<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202021%20Overview%202.png" />  
+<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
 
 
 **There are 3 phases that you need to take note of:**  
