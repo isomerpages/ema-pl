@@ -33,7 +33,7 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
 
 1. Tell us in 200 words what Singapore’s Energy Story means to your team.
 
-2. Submit a PowerPoint deck (maximum of 5 slides in .pdf, excluding cover slide) showcasing a minimum of 5 ideas* to achieve your vision of a sustainable Singapore.
+2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a sustainable Singapore.
 
 3. Approach your teacher to register and submit your entry.
 
