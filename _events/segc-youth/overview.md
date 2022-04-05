@@ -3,7 +3,7 @@ title: Overview
 permalink: /events/segc-youth/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
-![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
 <p style="text-align: center; font-weight: bold;">
     As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a sustainable Singapore by 2050?
     
