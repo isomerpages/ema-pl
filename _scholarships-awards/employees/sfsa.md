@@ -7,11 +7,26 @@ third_nav_title: Employees
 
 ![SkillsFuture Study Award for Power Sector](/images/scholarships/adults/Skillsfuture%20Banner%20-%20low%20res.png)
 
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+    <div style="text-align:center;">
+        <strong>
+           Applications closed on 31 January 2022. <br>
+        </strong>
+        <br>
+    </div>
+    <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
+            Note: The SkillsFuture Study Awards has been discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. 
+        </span>
+    </div>
+</div>
+
+
 ### Sector Overview
 
 The Power sector offers meaningful careers that help to keep the lights on and gas flowing for Singapore. The sector anticipates many exciting upcoming developments ranging from the expansion of the Liquefied Natural Gas Terminal, the increasing deployment of solar energy and energy storage, to the need to mitigate cyber-security challenges for power systems. These developments make our daily lives possible today.
 
-A strong-Singapore core that possesses deep and relevant skills is an asset that we must nurture together. Early to mid-career Singaporeans in the Power or related sectors can apply for the SkillsFuture Study Award for Power sector to support them in deepening their power engineering skills.
+A strong Singapore core that possesses deep and relevant skills is an asset that we must nurture together. Early to mid-career Singaporeans in the Power or related sectors can apply for the SkillsFuture Study Award for Power sector to support them in deepening their power engineering skills.
 
 ### About the Study Awards
 
@@ -43,22 +58,6 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 ### Frequently Asked Questions
 * <a href="https://www.skillsfuture.gov.sg/studyawards/faq" target="_blank">Frequently Asked Questions for SkillsFuture Study Awards</a>  
 * <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq" target="_blank">Frequently Asked Questions for the SkillsFuture Study Award for Power Sector</a>  
-
-### Applications
-
-<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
-    <div style="text-align:center;">
-        <strong>
-           Applications closed on 31 January 2022. <br>
-        </strong>
-        <br>
-    </div>
-    <div style="text-align:center;" >
-        <span style="text-align:center; font-size: 15px;">
-            Note: The SkillsFuture Study Awards has been discontinued on 1 April 2022, as part of SSG’s broader efforts to review existing schemes and prioritise resources for programmes that deliver stronger manpower development outcomes. 
-        </span>
-    </div>
-</div>
 
 
 ### Award Ceremony 2017
