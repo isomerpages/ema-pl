@@ -68,7 +68,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2022 - IHL
 
-Registration for the IHL category will open in May 2022,  interested participants may watch this space for more updates!
+Registration for the IHL category will open in late May 2022,  interested participants may watch this space for more updates!
 
 
 <p style="text-align: center;">
