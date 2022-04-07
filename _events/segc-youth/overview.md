@@ -5,7 +5,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
 <p style="text-align: center; font-weight: bold;">
-    As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a sustainable Singapore by 2050?
+    As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?
     
     <br/>
 </p>
@@ -15,8 +15,7 @@ The **Singapore Energy Grand Challenge (Youth)** invites all students to put you
 
 Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal that showcases your idea of a sustainable Singapore:
 
-* [Junior (lower secondary students)](#SEGC (Junior/Senior))
-* [Senior (upper secondary and junior college students)](#SEGC (Junior/Senior))
+* [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Junior/Senior))
 * [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (IHL))
 
 Winning teams across all 3 categories will win cash prizes of up to $10,000 in their respective category.
@@ -33,7 +32,7 @@ Winning teams across all 3 categories will win cash prizes of up to $10,000 in t
 
 1. Tell us in 200 words what Singapore’s Energy Story means to your team.
 
-2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a sustainable Singapore.
+2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a more sustainable Singapore.
 
 3. Approach your teacher to register and submit your entry.
 
@@ -51,7 +50,7 @@ _*To include at least 3 ideas related to managing energy demand_
 
 1. Final submissions will be judged according to the criteria of relevance, creativity, and presentation. 
 
-2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a sustainable Singapore. 
+2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a more sustainable Singapore. 
 
 3. The top 3 teams of both Junior and Senior Categories will be recognised in the SEGC (Youth) Award Ceremony on 28 Oct 2022.
 
