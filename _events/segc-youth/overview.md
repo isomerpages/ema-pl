@@ -3,7 +3,7 @@ title: Overview
 permalink: /events/segc-youth/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
-![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
 <p style="text-align: center; font-weight: bold;">
     As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?
     
@@ -18,10 +18,10 @@ Form a team of two to four with your schoolmates to participate in any of the 3 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
 * [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-Winning teams across all 3 categories will win cash prizes of up to $10,000 in their respective category.
+Top 3 teams per category will win a total of $10,000 in cash prizes.
 
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
-### SEGC (Youth) - Junior/Senior 2022 Overview
+### SEGC (Youth) 2022 - Junior/Senior Overview
 
 <img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
 
@@ -66,7 +66,7 @@ _*To include at least 3 ideas related to managing energy demand_
 </div>  
 
 <a id="SEGC (Youth) - IHL" href=""></a>
-### SEGC (Youth) - IHL 2022 Overview
+### SEGC (Youth) 2022 - IHL Overview
 
 Registration for the IHL category will open in May 2022,  interested participants may watch this space for more updates!
 
