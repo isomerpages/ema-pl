@@ -11,17 +11,17 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 </p>
 
  
-The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and innovating solutions to achieve a sustainable Singapore in 2050 and beyond!
+The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and innovating solutions to achieve a more sustainable Singapore in 2050 and beyond!
 
-Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal that showcases your idea of a sustainable Singapore:
+Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal that showcases your idea of a more sustainable Singapore:
 
-* [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Junior/Senior))
-* [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (IHL))
+* [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
+* [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
 Winning teams across all 3 categories will win cash prizes of up to $10,000 in their respective category.
 
-<a id="SEGC (Junior/Senior)" href=""></a>
-### SEGC (Junior/Senior) 2022 Overview
+<a id="SEGC (Youth) - Junior/Senior" href=""></a>
+### SEGC (Youth) - Junior/Senior 2022 Overview
 
 <img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
 
@@ -65,8 +65,8 @@ _*To include at least 3 ideas related to managing energy demand_
     </div>
 </div>  
 
-<a id="SEGC (IHL)" href=""></a>
-### SEGC (IHL) 2022 Overview
+<a id="SEGC (Youth) - IHL" href=""></a>
+### SEGC (Youth) - IHL 2022 Overview
 
 Registration for the IHL category will open in May 2022,  interested participants may watch this space for more updates!
 
