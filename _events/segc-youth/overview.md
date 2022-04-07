@@ -13,15 +13,15 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
  
 The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and innovating solutions to achieve a more sustainable Singapore in 2050 and beyond!
 
-Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal that showcases your idea of a more sustainable Singapore:
+Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
-* [Institute of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
+* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
 Top 3 teams per category will win a total of $10,000 in cash prizes.
 
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
-### SEGC (Youth) 2022 - Junior/Senior Overview
+### Overview of SEGC (Youth) 2022 - Junior/Senior
 
 <img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
 
@@ -52,7 +52,7 @@ _*To include at least 3 ideas related to managing energy demand_
 
 2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a more sustainable Singapore. 
 
-3. The top 3 teams of both Junior and Senior Categories will be recognised in the SEGC (Youth) Award Ceremony on 28 Oct 2022.
+3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
 
 <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
@@ -66,7 +66,7 @@ _*To include at least 3 ideas related to managing energy demand_
 </div>  
 
 <a id="SEGC (Youth) - IHL" href=""></a>
-### SEGC (Youth) 2022 - IHL Overview
+### Overview of SEGC (Youth) 2022 - IHL
 
 Registration for the IHL category will open in May 2022,  interested participants may watch this space for more updates!
 
