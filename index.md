@@ -17,9 +17,9 @@ sections:
             - title: "Skills Framework for Energy & Power"
               description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
               url: /careers/power-sector/sfwep
-            - title: "Energy-Industry Scholarship"
-              description: "Embark on a rewarding, meaningful and stable career in the energy sector. Apply for the Energy-Industry Scholarship today!"
-              url: /scholarships-awards/students/eis
+            - title: "Singapore Energy Grand Challenge (Youth) 2022"
+              description: "Calling all secondary and junior college students to design and co-create a more sustainable Singapore by 2050. Registrations for the Junior/Senior category are now open till 13 May 2022."
+              url: /events/segc-youth/overview
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
               url: /energy-education-resources/video-library
