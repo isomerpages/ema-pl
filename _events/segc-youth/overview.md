@@ -3,36 +3,42 @@ title: Overview
 permalink: /events/segc-youth/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
-![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
 <p style="text-align: center; font-weight: bold;">
-    How would your carbon-free school or neighbourhood in Singapore look like in 2050?
+    As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?
     
-    <br/><br/>
-    2021 challenge has ended. Look out for 2022's challenge statement!
     <br/>
 </p>
 
  
-The **Singapore Energy Grand Challenge (Youth)** invites all secondary school and junior college students to put your imagination and creativity to the test through designing Singapore's energy future. Using Microsoft's Minecraft: Education Edition (M:EE), bring to life your vision of a carbon-free Singapore in 2050 and beyond!
+The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and innovating solutions to achieve a more sustainable Singapore in 2050 and beyond!
 
-Form a team of two to four with your schoolmates to participate in the Junior (lower secondary students) or Senior (upper secondary and junior college students) category and submit a three-minute video that showcases your idea of a carbon-free Singapore using M:EE.
+Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
-Top 3 teams in the Junior and Senior categories will win cash prizes of up to $10,000 in their respective category.
+* [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
+* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-### Singapore Energy Grand Challenge (Youth) 2021 Overview
+Top 3 teams per category will win a total of $10,000 in cash prizes.
 
-<img alt="Overview, 1 March Registration Opens, by 25 April Video Submission, End May Virtual Clinic Sessions, End July Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202021%20Overview%202.png" />  
+<a id="SEGC (Youth) - Junior/Senior" href=""></a>
+### Overview of SEGC (Youth) 2022 - Junior/Senior
+
+<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
 
 
 **There are 3 phases that you need to take note of:**  
 
 **Phase 1 – Registration Period:**  
 
-1. Create a 3-min video to showcase your vision of a carbon-free Singapore using Minecraft: Education Edition (M:EE). Upload your video on YouTube and set the video to "Unlisted".
+1. Tell us in 200 words what Singapore’s Energy Story means to your team.
 
-2. Approach your teacher to register and submit your entry, including the URL to your video.
+2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a more sustainable Singapore.
 
-3. Registration period opens from 1 March to 25 April 2021 (extended from 15 April).
+3. Approach your teacher to register and submit your entry.
+
+4. Registration period opens from 8 April to 13 May 2022.
+
+_*To include at least 3 ideas related to managing energy demand_
 
 **Phase 2 – Clinic Sessions:**  
 
@@ -44,11 +50,26 @@ Top 3 teams in the Junior and Senior categories will win cash prizes of up to $1
 
 1. Final submissions will be judged according to the criteria of relevance, creativity, and presentation. 
 
-2. Members of the public can participate by voting for one of the top 3 Senior Category entries which best express their ideas for a carbon-free Singapore. 
+2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a more sustainable Singapore. 
 
-3. The top 3 teams of both Junior and Senior Categories will receive their awards in end-July 2021.
+3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%202021%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20%20(Junior%20and%20Senior)%202022%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
+    <div style="text-align:center;">        
+        <strong>
+            Registrations are now open till 13 May 2022. Click <a href="https://www.go.gov.sg/segc2022" target="_blank"> here</a> to register!
+        </strong>
+        <br>
+    </div>
+</div>  
+
+<a id="SEGC (Youth) - IHL" href=""></a>
+### Overview of SEGC (Youth) 2022 - IHL
+
+Registration for the IHL category will open in late May 2022,  interested participants may watch this space for more updates!
+
 
 <p style="text-align: center;">
     <br/>
