@@ -14,9 +14,9 @@ sections:
 #        button: Contact Us
 #        url: /contact-us/
         key_highlights:
-            - title: "Skills Framework for Energy & Power"
-              description: "The SF for Energy and Power contains information on trends, career pathways, occupations, job roles, skills and competencies and training programmes." 
-              url: /careers/power-sector/sfwep
+            - title: "Clean Energy Sector"
+              description: "Find out more about the new and exciting career opportunities in the clean energy sector here!" 
+              url: /careers/clean-energy-sector
             - title: "Singapore Energy Grand Challenge (Youth) 2022"
               description: "Calling all secondary and junior college students to design and co-create a more sustainable Singapore by 2050. Registration for the Junior/Senior categories is now open till 13 May 2022."
               url: /events/segc-youth/overview
