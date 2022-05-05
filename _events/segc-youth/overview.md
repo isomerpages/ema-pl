@@ -11,14 +11,14 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 </p>
 
  
-The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and innovating solutions to achieve a more sustainable Singapore in 2050 and beyond!
+The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and coming up  with innovate solutions to achieve a more sustainable Singapore in 2050 and beyond!
 
 Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
 * [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-Top 3 teams per category will win a total of $10,000 in cash prizes.
+Winning teams in each of the 3 categories will win a total of $10,000 in cash prizes.
 
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2022 - Junior/Senior
@@ -59,7 +59,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are now open till 13 May 2022. Click <a href="https://www.go.gov.sg/segc2022" target="_blank"> here</a> to register!
+            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
         </strong>
         <br>
     </div>
