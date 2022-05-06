@@ -68,32 +68,3 @@ Successful applicants will be notified by the respective sponsoring organisation
 **If I am currently receiving a bursary/scholarship, can I apply for the EIS?**  
 The EIS is meant for students without any existing bursary or scholarship.
 
-
-### SkillsFuture Study Award for Power Sector
-**What is the SkillsFuture Study Award for Power Sector?**  
-The SkillsFuture Study Award for Power Sector aims to nurture a strong Singapore core of Power sector workforce equipped with relevant skillsets.
-
-First announced in Budget 2015, the SkillsFuture Study Award for Power Sector is one of the initiatives under the national SkillsFuture movement. This aims to encourage Singaporeans to take ownership of their own skills upgrading and to deepen specialist skills in areas needed by future economic growth sectors.
-
-Each award, valued at $5,000, can be used to pay for out-of-pocket course fees, course materials and other training-related costs. This is on top of existing government course fee subsidies. The Award is bond- free.
-
-
-**What is the eligibility criteria and how do I apply for the Study Awards?**  
-Applications closed on 31 January 2022.
-
-For more information, please refer to the link <a href="https://www.skillsfuture.gov.sg/studyawards/power/faq/" target="_blank">here</a> or email [EMA_HumanCapital@ema.gov.sg](mailto:EMA_HumanCapital@ema.gov.sg) if you need further assistance.
-
-
- 
-**My company is sponsoring my course fees and other out-of-pocket expenses related to the course. Can I still apply for the SkillsFuture Study Awards?**  
-If it is a full sponsorship, you will not be eligible for the SkillsFuture Study Award for the Power sector. However, if it is a partial sponsorship, you will be eligible to apply for the SkillsFuture Study Award.
-
-
- 
-**How will the Study Awards’ monies be disbursed?**  
-The full sum of S$5,000 will be disbursed after the award recipient completes at least 50 per cent of the course. Supporting documents such as certification letter and/or transcripts from the institutes of higher learning/ training provider must be submitted to EMA to certify that the recipient is still undergoing, or has completed, the course.
-
-
- 
-**I am experiencing technical issues with my application. Who can I contact for assistance?**  
-Please visit the Feedback Portal <a href="https://portal.ssg-wsg.gov.sg/feedback" target="_blank">here</a> or call 6785 5785 for assistance.
