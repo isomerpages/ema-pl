@@ -3,11 +3,11 @@ title: Singapore-Industry Scholarship (SgIS)
 permalink: /scholarships-awards/students/sgis
 third_nav_title: Students
 ---
-![Energy Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
+![Singapore Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
 
-### Introduction to Singapore-Industry Scholarship (SgIS)
+### Introduction to Singapore-Industry Scholarship 
 
-Partnering with the Singapore Government, industry players (e.g. Power sector) offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the sector.
+Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the Energy sector.
 
 ### SgIS Scholarships
 * [SgIS Full-Term](#full-term) - For 'A' Level, Diploma Holders and equivalent
