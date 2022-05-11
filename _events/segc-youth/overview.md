@@ -36,7 +36,7 @@ Winning teams in each of the 3 categories will win a total of $10,000 in cash pr
 
 3. Approach your teacher to register and submit your entry.
 
-4. Registration period opens from 8 April to 13 May 2022.
+4. Registration period opens from 8 April to 18 May 2022 (extended).
 
 _*To include at least 3 ideas related to managing energy demand_
 
@@ -59,7 +59,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
+            Registrations are now open till 18 May 2022 (extended). Click <a href="https://www.go.gov.sg/segc2022" target="_blank"> here</a> to register!
         </strong>
         <br>
     </div>
