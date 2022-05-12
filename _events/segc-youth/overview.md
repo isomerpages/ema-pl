@@ -23,7 +23,7 @@ Winning teams in each of the 3 categories will win a total of $10,000 in cash pr
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2022 - Junior/Senior
 
-<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20Overview.PNG" />  
+<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v2.PNG" />  
 
 
 **There are 3 phases that you need to take note of:**  
@@ -54,12 +54,12 @@ _*To include at least 3 ideas related to managing energy demand_
 
 3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20%20(Junior%20and%20Senior)%202022%20FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv2.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are now open till 18 May 2022 (extended). Click <a href="https://www.go.gov.sg/segc2022" target="_blank"> here</a> to register!
+            Registrations are now open till 18 May 2022 (extended). <a href="https://www.go.gov.sg/segc2022" target="_blank"> Click here to register for SEGC (Youth) - Junior/Senior </a>
         </strong>
         <br>
     </div>
