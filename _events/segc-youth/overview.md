@@ -23,7 +23,7 @@ Winning teams in each of the 3 categories will win a total of $10,000 in cash pr
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2022 - Junior/Senior
 
-<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v2.PNG" />  
+<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v3.PNG" />  
 
 
 **There are 3 phases that you need to take note of:**  
@@ -36,7 +36,7 @@ Winning teams in each of the 3 categories will win a total of $10,000 in cash pr
 
 3. Approach your teacher to register and submit your entry.
 
-4. Registration period opens from 8 April to 18 May 2022 (extended).
+4. Registration period opens from 8 April to 20 May 2022 (extended).
 
 _*To include at least 3 ideas related to managing energy demand_
 
@@ -59,7 +59,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are now open till 18 May 2022 (extended). <a href="https://www.go.gov.sg/segc2022" target="_blank"> Click here to register for SEGC (Youth) - Junior/Senior </a>
+            Registrations are now open till 20 May 2022 (extended). <a href="https://www.go.gov.sg/segc2022" target="_blank"> Click here to register for SEGC (Youth) - Junior/Senior </a>
         </strong>
         <br>
     </div>
