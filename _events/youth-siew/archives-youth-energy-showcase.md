@@ -8,7 +8,7 @@ third_nav_title: Youth@SIEW
 
 
 <a id="2020" href=""></a>
-# 2020
+## 2020
 
 ### ITE College East
 **EnergICE**   
@@ -108,7 +108,7 @@ The project aims to design a simple Graphical User Interface (GUI) to help engin
 
 ---
 <a id="2019" href=""></a>
-# 2019
+## 2019
 
 ### ITE College East
 **Eliminating Standby Power**  

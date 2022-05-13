@@ -2,7 +2,7 @@
 title: Clean Energy Sector
 permalink: /careers/clean-energy-sector
 ---
-<img src="/images/careers/clean_energy_cover.jpg" /><br/>
+![Clean Energy Cover](/images/careers/clean_energy_cover.jpg)
 
 Against the backdrop of rising climate change concerns, Singapore is committed to playing our part to combat climate change and achieve a sustainable energy future. As the energy sector decarbonises, this presents fresh and exciting career opportunities in areas such as solar, energy storage systems, smart grids and regional trading. These include jobs in the management and deployment of renewables, design of renewables systems as well as the development of smart technologies for energy infrastructure.
 
