@@ -18,7 +18,7 @@ Form a team of two to four with your schoolmates to participate in any of the 3 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
 * [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-Winning teams in each of the 3 categories will win a total of $10,000 in cash prizes.
+Winning teams will win a total of $50,000 in cash prizes across the 3 categories .
 
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2022 - Junior/Senior
@@ -42,7 +42,7 @@ _*To include at least 3 ideas related to managing energy demand_
 
 **Phase 2 – Clinic Sessions:**  
 
-1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Story.
+1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Tra.
 
 2. Acquire additional Minecraft: Education Edition (M:EE) skills which will come in handy for your preparation and submission of a 5-min video to qualify for the final shortlisting round.
 
@@ -59,7 +59,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are now open till 20 May 2022 (extended). <a href="https://www.go.gov.sg/segc2022" target="_blank"> Click here to register for SEGC (Youth) - Junior/Senior </a>
+            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
         </strong>
         <br>
     </div>
