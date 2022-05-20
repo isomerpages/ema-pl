@@ -23,7 +23,7 @@ Winning teams will win a total of $50,000 in cash prizes across the 3 categories
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2022 - Junior/Senior
 
-<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v3.PNG" />  
+<img alt="Overview, 8 April Registration Opens, by 13 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v4.PNG" />  
 
 
 **There are 3 phases that you need to take note of:**  
