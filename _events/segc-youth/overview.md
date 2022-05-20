@@ -54,7 +54,7 @@ _*To include at least 3 ideas related to managing energy demand_
 
 3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv2.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv4.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
