@@ -78,10 +78,9 @@ _*To include at least 3 ideas related to managing energy demand_
 1. Register your interest for the virtual mass briefing session to interact with EMA and industry representatives by 2 June 2022, 12:00pm.
 
 2. The company-specific problem statements tied to the challenge are:
-
 a. Keppel Infrastructure:
 b. Schneider Electric:
-c. Sembcorp Industries"
+c. Sembcorp Industries:
 
 **Phase 2 – Submission:**  
 
@@ -101,6 +100,7 @@ c. Sembcorp Industries"
     <div style="text-align:center;">        
         <strong>
             Registration for the virtual mass briefing is now open till 2 June 2022. 
+        <br>
             <a href="https://go.gov.sg/segc2022" target="_blank">Click here to register for SEGC (Youth) - IHL. </a>
         </strong>
         <br>
@@ -114,9 +114,9 @@ c. Sembcorp Industries"
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/events/segc/microsoft-logo-png-transparent%20.png" />
-    <img alt="Keppel Infrastructure" style="width: 150px; height: 56px; max-width: 150px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
-    <img alt="Schneider Electric" style="width: 150px; height: 56px; max-width: 150px;" src="/images/common/partner-logos/schneider_logo.jpg" />
-    <img alt="Sembcorp Industries" style="width: 150px; height: 56px; max-width: 150px;" src="/images/common/partner-logos/sembcorp_logo.png" />
+    <img alt="Keppel Infrastructure" style="height: 56px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
+    <img alt="Schneider Electric" style="height: 56px;" src="/images/common/partner-logos/schneider_logo.jpg" />
+    <img alt="Sembcorp Industries" style="height: 56px;" src="/images/common/partner-logos/sembcorp_logo.png" />
     <br/>
     <span style="font-style: italic;">Supported by:</span>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/events/segc/IMDA_Logo.jpg" />
