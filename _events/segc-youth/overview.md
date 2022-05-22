@@ -75,11 +75,14 @@ _*To include at least 3 ideas related to managing energy demand_
 
 **Phase 1 – Virtual Mass Briefing:**  
 
-1. Register your interest for the virtual mass briefing session to interact with EMA and industry representatives by 2 June 2022, 12:00pm.
+1. Register your interest for the virtual mass briefing to interact with EMA and industry representatives by 2 June 2022, 12:00pm.
 
 2. The company-specific problem statements tied to the challenge are:
+
 a. Keppel Infrastructure:
+
 b. Schneider Electric:
+
 c. Sembcorp Industries:
 
 **Phase 2 – Submission:**  
