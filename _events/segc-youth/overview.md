@@ -126,7 +126,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
     <br/>
 <p style="text-align: center;">
     <br/>
-    <span style="font-wight: bold;">SEGC (Youth) - IHL</span>
+    <span style="font-weight: bold;">SEGC (Youth) - IHL</span>
     <br/>
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
