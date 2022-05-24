@@ -123,7 +123,6 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
     <br/>
     <span style="font-style: italic; text-align: center;">Supported by:</span>
     <br/>
-    <br/>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px; display: inline-block;" src="/images/events/segc/IMDA_Logo.jpg" />
     <br/>
     <br/>
