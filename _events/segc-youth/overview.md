@@ -114,7 +114,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 <br/>
 <p style="text-align: center;">
     <br/>
-    <span style="font-style: bold;">SEGC (Youth) - Junior/Senior</span>
+    <span style="font-weight: bold;">SEGC (Youth) - Junior/Senior</span>
     <br/>
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
@@ -123,7 +123,6 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
     <span style="font-style: italic; text-align: center;">Supported by:</span>
     <br/>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px; display: inline-block;" src="/images/events/segc/IMDA_Logo.jpg" />
-    <br/>
     <br/>
 <p style="text-align: center;">
     <br/>
