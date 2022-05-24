@@ -115,17 +115,19 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 <p style="text-align: center;">
     <br/>
     <span style="font-style: italic;">In Partnership with:</span>
+    <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px; display: inline-block;" src="/images/events/segc/microsoft-logo-png-transparent%20.png" />
 <img alt="Keppel Infrastructure" style="width: 200px; height: 48px; max-width: 200px; display: inline-block;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
 <img alt="Schneider Electric" style="width: 150px;height: 52px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/schneider_logo.jpg" />
 <img alt="Sembcorp Industries" style="width: 150px;height: 58px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/sembcorp_logo.png" />
     <br/>
     <span style="font-style: italic; text-align: center;">Supported by:</span>
+    <br/>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px; display: inline-block;" src="/images/events/segc/IMDA_Logo.jpg" />
     <br/>
     <br/>
     <br/>
     <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo.jpg" />
     <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
-</div>
+
 
