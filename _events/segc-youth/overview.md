@@ -79,11 +79,11 @@ _*To include at least 3 ideas related to managing energy demand_
 
 2. The company-specific problem statements tied to the challenge are:
 
-a. Keppel Infrastructure:
+a. Keppel Infrastructure: “With increasing energy demand, Keppel is seeking an integrated solution to reduce energy consumption of a typical building in Singapore through digital technologies such as Internet of Things/Artificial Intelligence/Machine Learning. The proposed solution should consider the environmental impact, system stability and cost-effectiveness.”
 
-b. Schneider Electric:
+b. Schneider Electric: “With increasing electric vehicle (EV) adoption, Schneider is seeking proposals to reduce carbon emissions and maintain grid reliability. The proposed solution should be cost-effective, suitable for deployment with minimal disruption to existing infrastructure, and increase the use of clean energy for EV charging.”
 
-c. Sembcorp Industries:
+c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of solar deployed by 2030. With more solar in our energy mix, Sembcorp is seeking ways to manage intermittency. The proposed solution may include new technologies to manage the amount of energy flowing into the grid or by creating a suitable environment to maximise the deployment of solar panels. It should be cost-effective, minimise its impact on the grid, be easy to deploy and maintain.”
 
 **Phase 2 – Submission:**  
 
@@ -117,9 +117,9 @@ c. Sembcorp Industries:
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/events/segc/microsoft-logo-png-transparent%20.png" />
-    <img alt="Keppel Infrastructure" style="width: 2000px; height: 56px; max-width: 250px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
-    <img alt="Schneider Electric" style="width: 180px;height: 56px; max-width: 180px;" src="/images/common/partner-logos/schneider_logo.jpg" />
-    <img alt="Sembcorp Industries" style="width: 180px;height: 56px; max-width: 180px;" src="/images/common/partner-logos/sembcorp_logo.png" />
+    <img alt="Keppel Infrastructure" style="width: 250px; height: 52px; max-width: 250px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
+    <img alt="Schneider Electric" style="width: 180px;height: 52px; max-width: 180px;" src="/images/common/partner-logos/schneider_logo.jpg" />
+    <img alt="Sembcorp Industries" style="width: 150px;height: 56px; max-width: 150px;" src="/images/common/partner-logos/sembcorp_logo.png" />
     <br/>
     <span style="font-style: italic;">Supported by:</span>
     <img alt="Infocomm Media Development Authority" style="width: 150px; height: 39px; max-width: 150px;" src="/images/events/segc/IMDA_Logo.jpg" />
