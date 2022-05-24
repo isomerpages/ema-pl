@@ -117,8 +117,8 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
     <span style="font-style: italic;">In Partnership with:</span>
     <br/>
     <img alt="Microsoft" style="width: 150px; height: 56px; max-width: 150px;" src="/images/events/segc/microsoft-logo-png-transparent%20.png" />
-    <img alt="Keppel Infrastructure" style="width: 250px; height: 52px; max-width: 250px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
-    <img alt="Schneider Electric" style="width: 180px;height: 52px; max-width: 180px;" src="/images/common/partner-logos/schneider_logo.jpg" />
+    <img alt="Keppel Infrastructure" style="width: 200px; height: 52px; max-width: 200px;" src="/images/common/partner-logos/Keppel_infra_logo.jpg" />
+    <img alt="Schneider Electric" style="width: 150px;height: 56px; max-width: 150px;" src="/images/common/partner-logos/schneider_logo.jpg" />
     <img alt="Sembcorp Industries" style="width: 150px;height: 56px; max-width: 150px;" src="/images/common/partner-logos/sembcorp_logo.png" />
     <br/>
     <span style="font-style: italic;">Supported by:</span>
