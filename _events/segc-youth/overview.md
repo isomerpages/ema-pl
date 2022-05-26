@@ -18,52 +18,7 @@ Form a team of two to four with your schoolmates to participate in any of the 3 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
 * [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-Winning teams will win a total of $50,000 in cash prizes across the 3 categories .
-
-<a id="SEGC (Youth) - Junior/Senior" href=""></a>
-### Overview of SEGC (Youth) 2022 - Junior/Senior
-
-<img alt="Overview, 8 April Registration Opens, by 20 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v4.PNG" />  
-
-
-**There are 3 phases that you need to take note of:**  
-
-**Phase 1 – Registration Period:**  
-
-1. Tell us in 200 words what Singapore’s Energy Story means to your team.
-
-2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a more sustainable Singapore.
-
-3. Approach your teacher to register and submit your entry.
-
-4. Registration period opens from 8 April to 20 May 2022 (extended).
-
-_*To include at least 3 ideas related to managing energy demand_
-
-**Phase 2 – Clinic Sessions:**  
-
-1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Transition.
-
-2. Acquire additional Minecraft: Education Edition (M:EE) skills which will come in handy for your preparation and submission of a 5-min video to qualify for the final shortlisting round.
-
-**Phase 3 – Final Judging and Award Ceremony:**  
-
-1. Final submissions will be judged according to the criteria of relevance, creativity, and presentation. 
-
-2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a more sustainable Singapore. 
-
-3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
-
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv4.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
-
-<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
-    <div style="text-align:center;">        
-        <strong>
-            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
-        </strong>
-        <br>
-    </div>
-</div>  
+Winning teams will win a total of $50,000 in cash prizes across the 3 categories.
 
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2022 - IHL
@@ -108,7 +63,53 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
         </strong>
         <br>
     </div>
-</div>  
+</div> 
+
+
+<a id="SEGC (Youth) - Junior/Senior" href=""></a>
+### Overview of SEGC (Youth) 2022 - Junior/Senior
+
+<img alt="Overview, 8 April Registration Opens, by 20 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v4.PNG" />  
+
+
+**There are 3 phases that you need to take note of:**  
+
+**Phase 1 – Registration Period:**  
+
+1. Tell us in 200 words what Singapore’s Energy Story means to your team.
+
+2. Submit a PowerPoint deck (maximum of 7 slides in .pdf) showcasing a minimum of 5 ideas* to achieve your vision of a more sustainable Singapore.
+
+3. Approach your teacher to register and submit your entry.
+
+4. Registration period opens from 8 April to 20 May 2022 (extended).
+
+_*To include at least 3 ideas related to managing energy demand_
+
+**Phase 2 – Clinic Sessions:**  
+
+1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Transition.
+
+2. Acquire additional Minecraft: Education Edition (M:EE) skills which will come in handy for your preparation and submission of a 5-min video to qualify for the final shortlisting round.
+
+**Phase 3 – Final Judging and Award Ceremony:**  
+
+1. Final submissions will be judged according to the criteria of relevance, creativity, and presentation. 
+
+2. Members of the public can participate by voting for one of the top 3 entries from each category which best express their ideas for a more sustainable Singapore. 
+
+3. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) Award Ceremony on 28 October 2022.
+
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv4.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
+    <div style="text-align:center;">        
+        <strong>
+            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
+        </strong>
+        <br>
+    </div>
+</div>   
 
 
 <br/>
