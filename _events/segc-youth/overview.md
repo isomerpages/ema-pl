@@ -57,9 +57,9 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registration for the virtual mass briefing is now open till 2 June 2022. 
+            Submissions are now open till 30 June 2022, 5:00pm. 
         <br>
-            <a href="https://go.gov.sg/segc2022" target="_blank">Click here to register for SEGC (Youth) - IHL. </a>
+            <a href="https://go.gov.sg/segc2022" target="_blank">Click here to submit your proposal for SEGC (Youth) - IHL. </a>
         </strong>
         <br>
     </div>
