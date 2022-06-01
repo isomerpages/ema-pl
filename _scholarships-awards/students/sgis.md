@@ -64,17 +64,6 @@ Partnering with the Singapore Government, industry players offer the Singapore-I
             National University of Singapore
         </span>
     </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 252px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Loh Guo Ming" src="/images/scholarships/youth/profile-photo-lgm.jpg" 
-            style="width: 252px;"/><br/>
-        <strong>Loh Guo Ming</strong><br/>
-        <span style="font-style: italic;">
-            Bachelor in Mechanical Design Engineering
-        </span><br/>
-        <span style="">
-            Singapore Institute of Technology
-        </span>
-    </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 155px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Goh Yi Hui" src="/images/scholarships/youth/profile-photo-gyh.jpg" 
             style="width: 180px;"/><br/>
