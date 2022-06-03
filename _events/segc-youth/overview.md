@@ -40,7 +40,7 @@ b. Schneider Electric: “With increasing electric vehicle (EV) adoption, Schnei
 
 c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of solar deployed by 2030. With more solar in our energy mix, Sembcorp is seeking ways to manage intermittency. The proposed solution may include new technologies to manage the amount of energy flowing into the grid or by creating a suitable environment to maximise the deployment of solar panels. It should be cost-effective, minimise its impact on the grid, be easy to deploy and maintain.”
 
-**Phase 2 – Submission:**  
+**Phase 2 – Submission [Ongoing]:**  
 
 1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
 
@@ -86,7 +86,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 
 _*To include at least 3 ideas related to managing energy demand_
 
-**Phase 2 – Clinic Sessions:**  
+**Phase 2 – Clinic Sessions [Ongoing]:**  
 
 1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Transition.
 
