@@ -7,10 +7,9 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ### SEGC (Youth) 2022 - IHL Virtual Briefing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/il8fn80BCR8" frameborder="0" allowfullscreen=""></iframe>
-<br/>
-- 00:00-22:53 --> Singapore Energy Transition & Manpower Initiatives
+- 00:00-22:53 --> Singapore's Energy Transition & Manpower Initiatives
 - 22:54-40:50 --> Competition Details
-- 40:51-1:05:38 --> Q&A
+- 40:51-1:05:39 --> Q&A
 
 ### SEGC (Youth) 2021 - Junior/Senior Virtual Clinic
 
