@@ -2,10 +2,14 @@
 title: Training Materials
 permalink: /events/segc-youth/training-materials
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
-published: true
----
 
-### Virtual Clinic Recording 2021
+---
+### SEGC (Youth) 2022 - IHL Virtual Briefing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/il8fn80BCR8" frameborder="0" allowfullscreen=""></iframe>
+
+
+### SEGC (Youth) 2021 - Junior/Senior Virtual Clinic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JEW4X8hrhxc" frameborder="0" allowfullscreen=""></iframe> 
 
