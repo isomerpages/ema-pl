@@ -11,7 +11,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 ### SEGC (Youth) 2021 - Junior/Senior Virtual Clinic
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JEW4X8hrhxc" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvtXkIQ_rH0" frameborder="0" allowfullscreen=""></iframe> 
 
 For more resources, please visit:
   <br/>
