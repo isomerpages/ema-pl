@@ -18,7 +18,7 @@ sections:
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
             - title: "Singapore Energy Grand Challenge (Youth) 2022"
-              description: "Registration for SEGC (Youth) - IHL is now open. Submit your proposals by 30 June 2022, 5:00pm."
+              description: "Registration for SEGC (Youth) - IHL is now open. Submit your proposals by 7 July 2022, 5:00pm."
               url: /events/segc-youth/overview
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"

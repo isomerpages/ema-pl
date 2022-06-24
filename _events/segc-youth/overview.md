@@ -44,7 +44,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 
 1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
 
-2. Submission period opens from 4 to 30 June 2022, 5:00pm.
+2. Submission period opens from 4 June to 7 July 2022, 5:00pm (extended).
 
 **Phase 3 – Semi-Finals and Grand Final:**  
 
@@ -57,7 +57,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Submissions are now open till 30 June 2022, 5:00pm. 
+            Submissions are now open till 7 July 2022, 5:00pm (extended). 
         <br>
             <a href="https://go.gov.sg/segc2022" target="_blank">Click here to submit your proposal for SEGC (Youth) - IHL. </a>
         </strong>
