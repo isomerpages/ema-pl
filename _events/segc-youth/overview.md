@@ -86,13 +86,13 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 
 _*To include at least 3 ideas related to managing energy demand_
 
-**Phase 2 – Clinic Sessions [Ongoing]:**  
+**Phase 2 – Clinic Sessions:**  
 
 1. Shortlisted teams will attend a half-day virtual clinic session to aid deeper understanding of Singapore’s Energy Transition.
 
 2. Acquire additional Minecraft: Education Edition (M:EE) skills which will come in handy for your preparation and submission of a 5-min video to qualify for the final shortlisting round.
 
-**Phase 3 – Final Judging and Award Ceremony:**  
+**Phase 3 – Final Judging and Award Ceremony [Ongoing]:**  
 
 1. Final submissions will be judged according to the criteria of relevance, creativity, and presentation. 
 
@@ -105,7 +105,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Registrations are closed. Shortlisted teams will be contacted by mid-June 2022 for the virtual clinic sessions.
+            Submissions are closed. Shortlisted teams will be contacted by August 2022.
         </strong>
         <br>
     </div>
