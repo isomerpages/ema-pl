@@ -40,13 +40,13 @@ b. Schneider Electric: “With increasing electric vehicle (EV) adoption, Schnei
 
 c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of solar deployed by 2030. With more solar in our energy mix, Sembcorp is seeking ways to manage intermittency. The proposed solution may include new technologies to manage the amount of energy flowing into the grid or by creating a suitable environment to maximise the deployment of solar panels. It should be cost-effective, minimise its impact on the grid, be easy to deploy and maintain.”
 
-**Phase 2 – Submission [Ongoing]:**  
+**Phase 2 – Submission:**  
 
 1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
 
 2. Submission period opens from 4 June to 7 July 2022, 5:00pm (extended).
 
-**Phase 3 – Semi-Finals and Grand Final:**  
+**Phase 3 – Semi-Finals and Grand Final [Ongoing]:**  
 
 1. Semi-Finalists will present their proposals on 2 September 2022.
 
@@ -57,9 +57,7 @@ c. Sembcorp Industries: “Singapore aims to have at least 2 gigawatt-peak of so
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Submissions are now open till 7 July 2022, 5:00pm (extended). 
-        <br>
-            <a href="https://go.gov.sg/segc2022" target="_blank">Click here to submit your proposal for SEGC (Youth) - IHL. </a>
+            Submissions are closed. Shortlisted teams will be contacted by end August 2022.
         </strong>
         <br>
     </div>
