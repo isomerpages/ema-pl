@@ -91,17 +91,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile-photo-gl.jpg"  
-            style="width: 180px;"/><br/>
-        <strong>Gustavus Liew</strong><br/>
-        <span style="font-style: italic;">
-            Diploma in Electrical Engineering
-        </span><br/>
-        <span style="">
-            Ngee Ann Polytechnic
-        </span>
-    </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile-photo-ihbmz.jpg" 
             style="width: 180px;"/><br/>
         <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
