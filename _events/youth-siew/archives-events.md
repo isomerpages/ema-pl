@@ -15,7 +15,6 @@ third_nav_title: Youth@SIEW
 ## 2021
 ![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
-Organiser: Energy Market Authority  
 Date: 29 October 2021 <br/>
 Time: 9:00am - 11:15am (UTC +8:00) <br/>
 Venue: Virtual Event
@@ -38,9 +37,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 <a id="2020" href=""></a>
 ## 2020
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
-Organiser: Energy Market Authority  
 Date: 30 October 2020   
 Venue: Virtual Event
 
@@ -67,9 +64,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 
 <a id="2019" href=""></a>
 ## 2019
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
-Organiser: Energy Market Authority  
 Date: 1 November 2019  
 Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore
 
@@ -94,9 +89,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 
 <a id="2018" href=""></a>
 ## 2018
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
-
-Organiser: Energy Market Authority  
+ 
 Date: 2 November 2018  
 Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
@@ -120,7 +113,6 @@ We are grateful for your strong participation and look forward to yet another re
 ## 2017
 ![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
-Organiser: Energy Market Authority  
 Date: 25 October 2017  
 Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
@@ -142,9 +134,7 @@ We appreciate your strong support and are looking forward to your participation 
 
 <a id="2016" href=""></a>
 ## 2016
-![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
 
-Organiser: Energy Market Authority  
 Date: 26 October 2016  
 Venue: Orchid Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
