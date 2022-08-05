@@ -3,10 +3,100 @@ title: Archives (Youth Energy Showcase)
 permalink: /events/youth-at-siew/archives-youth-energy-showcase
 third_nav_title: Youth@SIEW
 ---
+* [2021](#2021)
 * [2020](#2020)
 * [2019](#2019)
 
+<a id="2021" href=""></a>
+## 2021
 
+### ITE College Central
+**1. Hydropower Farm**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/X0GfVL7CGQw" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to utilise a climate-friendly energy source (water) to generate power to secure a low-carbon future, aligning with government efforts to build Singapore's climate resilience and prepare for the long-term effects of climate change. This project explores the use of hydropower to generate electricity without generating carbon emissions.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] ITECC_hydropower.pdf" target="_blank">Click here to view the project poster</a>  
+
+**2. Water Saving Device for Washing Machines**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/qJGZ8rM-iYg" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to design and construct a simple device that can divert drainage water from the washing machine's drainage pipe at the right time so that the collection of the last rinse water is effortless. The device should be cheap and simple, can be retrofitted to the washing machine and should not require any electricity to function.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] ITECC_washingmachine.pdf" target="_blank">Click here to view the project poster</a> 
+
+
+### Republic Polytechnic
+**3. Development of Liquid Cooling Technology for Solar Modules**  
+
+**Summary of project**  
+This project aims to study and develop various cooling systems that can be deployed to reduce the temperature of solar panels to improve their output efficiency. The ability to reduce the operating temperature of solar panels will enable Singapore to utilise less space in solar panel installation and increase solar generated electricity.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] RP_solar.pdf" target="_blank">Click here to view the project poster</a> 
+
+**4. Development of Multi-Functional Passive Cooling Self-Cleaning-Self-Disinfection Film in Greenhouses**  
+
+**Summary of project**  
+This project aims to study the performance of various multi-layered films used in the windows of greenhouses by using magnetron sputtering film deposition technique. The ideal films to be used for greenhouses should have high UV filtration, low near-infrared radiation (NIR) transmittivity, good light diffusion and self-cleaning-self-disinfection properties.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] RP_greenhouse.pdf" target="_blank">Click here to view the project poster</a> 
+
+### Singapore Polytechnic
+**5. Net Zero, Renewable Energy Vertical Farming**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/qDZ8g2PIQTg" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to design, develop and demonstrate renewable energy-based, net-zero energy solutions for urban hydroponic vertical farming systems.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] SP_verticalfarming.pdf" target="_blank">Click here to view the project poster</a>
+
+**6. Real-time Monitoring System of DC Micro-Grid with Health Prognosis of Renewable Energy**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/7V6IcGGkJ4A" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to develop a real-time condition monitoring system that can track the health of a DC micro-grid in real-time. With the data collected, the team is also able to conduct degradation studies to predict and prevent problems from occurring.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] SP_dcmicrogrid.pdf" target="_blank">Click here to view the project poster</a>
+
+### Temasek Polytechnic
+**7. Shell Eco-Marathon Urban Concept Car**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/MiPN5r932uE" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to build a functional, high-efficiency car powered by hydrogen fuel cell technology with the use of high-efficiency motors in a two-wheel-drive system. This prototype aims to provide an alternative to petrol-based vehicles to help Singapore cut down on pollution.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] TP_shellcar.pdf" target="_blank">Click here to view the project poster</a>
+
+**8. Urban Farming with a Twist**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/-ImRgkeh0Kc" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to improve the energy efficiency of solar panels, by reducing the temperature around the solar panel with vapotranspiration from the plants, copper cooling running below the solar panels and evaporative cooling. Reduction in temperature of the solar panels is also expected to increase the lifespan of the panels.
+
+The project also efficiently utilises space and energy resources by having the hydroponics system powered by the solar panel. By combining solar panels and hydroponic crops, this solution can be replicated to tackle land scarcity by maximising Singapore’s existing space. 
+
+<a href="/files/events/youth-siew/2021/[E-Poster] TP_urbanfarming.pdf" target="_blank">Click here to view the project poster</a>
+
+### Nanyang Technological University
+**9. AI-Assisted Smart Air-Conditioning Control**  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/A5WOdHTpMkk" frameborder="0" allowfullscreen=""></iframe> 
+
+**Summary of project**  
+This project aims to improve energy efficiency and indoor human comfort through the development of an AI-based smart building systems control solution in buildings employing building management systems (BMS). The AI-based solution is innovative as it departs from the conventional reactive control, and employs a predictive control strategy by synergising online machine learning and model predictive control for smart building energy management applications.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] NTU_AI.pdf" target="_blank">Click here to view the project poster</a>
+
+### Singapore Institute of Technology
+**10. Design and Operation Optimisation of a Multi-Energy Micro-Grid**  
+
+**Summary of project**  
+The project aims to (i) determine the optimal sizes of components in the Multi-Energy Micro-grid (MEMG) which is also called design optimisation; (ii) decide on the optimal schedule for a MEMG given a fixed optimal sizing; and (iii) implement both optimisation problems in Python using an Optimiser software. The Gurobi Optimiser captures the key features of the optimisation problem in a mathematical optimisation model, and generates an optimal solution based on the defined decision variables. In order to solve the optimisation problem, the user needs to define the problem including objective functions, decision variables and constraints in Python based on the format required by Gurobi. Gurobi, as a solver, will then retrieve the defined optimisation problem and solve it.
+
+<a href="/files/events/youth-siew/2021/[E-Poster] SIT_memg.pdf" target="_blank">Click here to view the project poster</a>
+
+---
 <a id="2020" href=""></a>
 ## 2020
 
