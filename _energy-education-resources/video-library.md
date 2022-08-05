@@ -2,8 +2,12 @@
 title: Video Library
 permalink: /energy-education-resources/video-library
 ---
-![Info Pack Resources](/images/educational-resources/Resources.jpg)
+### EMA Explains
 
+Watch the episodes of our energy guru EMA Watt-son!
+<A href="https://www.youtube.com/playlist?list=PLA11-KVxu2UN3RRAsLU0gDz0C9kHMjBb5" target="_blank">Full Playlist on YouTube</a>  
+
+### MOE-EMA Videos
 <A href="https://www.youtube.com/watch?v=LqnCHniADJo&list=PLA11-KVxu2UOE5x9LwORdaoifuUQ2ffCO" target="_blank">Full Playlist on YouTube</a>  
 
 * [Humanities](#humanities)
