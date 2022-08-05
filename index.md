@@ -19,7 +19,7 @@ sections:
               url: /careers/clean-energy-sector
             - title: "Youth@SIEW 2022"
               description: "Join us at the upcoming Youth@SIEW on 28 October, to be held during the annual Singapore International Energy Week! Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and job opportunities." 
-              url: /events/youth-at-siew-2022
+              url: /events/youth-at-siew/2022
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
               url: /energy-education-resources/video-library
