@@ -27,7 +27,7 @@ Polytechnic|Yes|Yes|
 
 *Open to current students with at least one academic year remaining at the point of application.
 
-Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank" >Singapore-Industry Scholarship (SgIS).</a> 
+Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank" >Singapore-Industry Scholarship (SgIS)</a> or <a href="/scholarships-awards/students/ema-scholarship" target="_blank" >EMA Scholarship.</a>
 
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
