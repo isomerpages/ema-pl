@@ -16,7 +16,7 @@ Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), an
 * Existing and emerging skills; and
 * Training programmes for skills upgrading and mastery.
 
-Find out more <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">here</a> 
+<a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">Find out more about SFwEP here.</a> 
 
 ![Value Chain](/images/careers/SFwEP-value-chain.png)
 
