@@ -10,10 +10,10 @@ third_nav_title: Youth@SIEW
 * [2017](#2017)
 * [2016](#2016)
 
+![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 <a id="2021" href=""></a>
 ## 2021
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
 
 Date: 29 October 2021 <br/>
 Time: 9:00am - 11:15am (UTC +8:00) <br/>
@@ -41,7 +41,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 Date: 30 October 2020   
 Venue: Virtual Event
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BcH40y53tAo" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/BcH40y53tAo" frameborder="0" allowfullscreen=""></iframe> 
  
 <a href="https://www.youtube.com/watch?v=xeVPRlBHyP8&ab_channel=SingaporeInternationalEnergyWeek" target="_blank">Click here to watch the recording of the event.</a> 
 
@@ -68,7 +68,7 @@ Youth@SIEW also featured exhibitions that showcased energy-related innovations b
 Date: 1 November 2019  
 Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlKB24ryx1g" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/xlKB24ryx1g" frameborder="0" allowfullscreen=""></iframe> 
 
 ---
 
@@ -93,7 +93,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 Date: 2 November 2018  
 Venue: Melati, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umY6frPVE1Y" frameborder="0" allowfullscreen=""></iframe> 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/umY6frPVE1Y" frameborder="0" allowfullscreen=""></iframe> 
 ---
 
 **Youth@SIEW 2018** concluded with strong participation from more than 400 students, educators and industry partners.
@@ -116,7 +116,7 @@ We are grateful for your strong participation and look forward to yet another re
 Date: 25 October 2017  
 Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EI1G4KRi_Ig" frameborder="0" allowfullscreen=""></iframe>  
+<iframe width="400" height="225" src="https://www.youtube.com/embed/EI1G4KRi_Ig" frameborder="0" allowfullscreen=""></iframe>  
 
 <a href="https://www.youtube.com/watch?v=v7KvmF0OQxA" target="_blank">Click here to watch the recording of the event.</a>
 
