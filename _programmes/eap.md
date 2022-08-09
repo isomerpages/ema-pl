@@ -13,7 +13,7 @@ permalink: /programmes/eap/
 The Energy Ambassadors Programme (EAP) was launched by the Energy Market Authority (EMA) in 2018 and aims to identify students with a keen interest in energy-related issues, as well as sustain their enthusiasm by involving them in sector-wide outreach events. This is part of EMA’s effort to create and nurture a group of like-minded individuals who are enthusiastic and are interested in contributing to the energy sector.
  
 
-Click <a href="/files/programmes/energy-ambassadors-programme/EAP FAQs 2021.pdf" target="_blank">here</a> to see a list of frequently asked questions.
+<a href="/files/programmes/energy-ambassadors-programme/EAP FAQs 2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
