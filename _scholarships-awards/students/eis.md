@@ -137,7 +137,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 |Year 3 (Mid-term award)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
-<a href="/files/scholarships-awards/students/eis/EIS_FAQs_2022.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
+<a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
 
 <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_Jan2022.pdf" target="_blank">Click here to download a step-by-step guide</a> to apply for the EIS.
 
