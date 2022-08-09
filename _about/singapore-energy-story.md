@@ -38,6 +38,6 @@ Our Energy Story is a long-term effort. The Energy Market Authority is working w
 *Source: Ministry of Trade and Industry, Singapore*
 
 Watch this short video on our Energy Story
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 Find out more <a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">here</a>
