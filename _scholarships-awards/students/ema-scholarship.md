@@ -4,6 +4,14 @@ permalink: /scholarships-awards/students/ema-scholarship
 third_nav_title: Students
 
 ---
+### Test
+
+### Bond Period
+|Type of Scholarship|Years|
+-------------------|-----|
+Local Undergraduate Studies|4 years|
+Overseas Undergraduate Studies| 6 years|
+
 ### Introduction to EMA Scholarship
 
 Energy powers our economy, lights up our city and connects us all. Join us at EMA in keeping Singapore's future alight and help us power tomorrow.
@@ -11,12 +19,6 @@ Energy powers our economy, lights up our city and connects us all. Join us at EM
 The Power Sector is a vibrant and growing sector with exciting new opportunities, such as LNG operations and bunkering, smart grids, power systems control, energy storage, energy economics and trading - which is why we are offering scholarships to competent and dedicated youths like you to grow together with us.
 
 As an EMA scholar, you will play a key role in shaping and changing the energy landscape in Singapore. You will also be part of the Public Service to improve the lives of Singaporeans and contribute towards the growth of our economy.
-
-### Bond Period
-|Type of Scholarship|Years|
--------------------|-----|
-Local Undergraduate Studies|4 years|
-Overseas Undergraduate Studies| 6 years|
 
 ### Scholarships
 At EMA, we believe that a future of innovative and efficient energy that lasts for Singapore begins with a single spark, yours. This is why we want to offer a scholarship that will enable you to pursue the education necessary to achieve your dreams with us. Upon graduation, an exciting and rewarding career at EMA awaits, where you will help shape and change the energy landscape in Singapore with your learnt skills and knowledge. It is your opportunity to envision a bright and vibrant future with us.
