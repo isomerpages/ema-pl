@@ -4,12 +4,6 @@ permalink: /scholarships-awards/students/ema-scholarship
 third_nav_title: Students
 
 ---
-
-|Type of Scholarship|University|
-|-------------------|----------|
-|Local Undergraduate Studies|4 years|
-|Overseas Undergraduate Studies|6 years|
-
 ### Introduction to EMA Scholarship
 
 Energy powers our economy, lights up our city and connects us all. Join us at EMA in keeping Singapore's future alight and help us power tomorrow.
@@ -43,11 +37,10 @@ Being an EMA Scholar, you stand to benefit from the following:
 * Summer/ Exchange Programmes, where relevant
 
 ### Bond Period
-</div> </span>
-|Type of Scholarship|University|
-|-------------------|----------|
+|Type of Scholarship|Years|
+|-------------------|-----|
 |Local Undergraduate Studies|4 years|
-|Overseas Undergraduate Studies|6 years|
+|Overseas Undergraduate Studies| 6 years|
 
 ### Past Scholars
 **Amy Goh, Principal Analyst, Energy Planning and Development Division** <br/>
