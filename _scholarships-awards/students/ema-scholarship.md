@@ -38,9 +38,9 @@ Being an EMA Scholar, you stand to benefit from the following:
 
 ### Bond Period
 |Type of Scholarship|Years|
-|-------------------|-----|
-|Local Undergraduate Studies|4 years|
-|Overseas Undergraduate Studies| 6 years|
+-------------------|-----|
+Local Undergraduate Studies|4 years|
+Overseas Undergraduate Studies| 6 years|
 
 ### Past Scholars
 **Amy Goh, Principal Analyst, Energy Planning and Development Division** <br/>
