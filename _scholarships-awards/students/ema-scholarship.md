@@ -38,7 +38,7 @@ Being an EMA Scholar, you stand to benefit from the following:
 
 ### Bond Period
 |Type of Scholarship|University|
-|-------------------|-------------------------|
+|-------------------|----------|
 |Local Undergraduate Studies|4 years|
 |Overseas Undergraduate Studies|6 years|
 
