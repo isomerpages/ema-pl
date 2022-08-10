@@ -42,13 +42,6 @@ Being an EMA Scholar, you stand to benefit from the following:
 Local Undergraduate Studies|4 years|
 Overseas Undergraduate Studies| 6 years|
 
-### Past Scholars
-**Amy Goh, Principal Analyst, Energy Planning and Development Division** <br/>
-_Under EMA’s local scholarship programme, I was provided the opportunity to read Electrical Engineering at NUS as well as gain early experience and valuable insights to EMA’s work. I am involved in the industry promotion for the power sector and administering research and development grant call and test-beds. It is exciting to be at the forefront, facilitating emerging technologies like solar and energy storage into Singapore and to build up a competent workforce to meet the needs of the industry’s evolving ecosystem. Outside work, volunteerism has always been my passion and the corporate social responsibility arm of EMA provides me a platform to make a difference in the lives of the caregivers and elderly at our adopted charity – Caregiving Welfare Association._
-
-**Nathaniel Tang, Principal Analyst, Economic Regulation Division** <br/>
-_As an individual who is always interested in the economic mechanisms of industrial markets, and curious about policy formation, being a scholar with EMA provided the perfect fit. I have had the chance to work alongside teammates from differing disciplines, providing novel perspectives and allowing me to enlarge my understanding of a broader range of concepts. At EMA, my role involves advancing enhancements to the dynamic energy market and its underlying market structures – that has piqued my intellectual curiosity in finding new ways to tap on new and existing energy sources in a more sustainable and efficient manner. EMA support these interests by providing regular engagements with industry players, overseas study trips as well as developmental courses._
-
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
