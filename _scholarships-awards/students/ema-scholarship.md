@@ -12,6 +12,12 @@ The Power Sector is a vibrant and growing sector with exciting new opportunities
 
 As an EMA scholar, you will play a key role in shaping and changing the energy landscape in Singapore. You will also be part of the Public Service to improve the lives of Singaporeans and contribute towards the growth of our economy.
 
+### Bond Period
+|Type of Scholarship|Years|
+-------------------|-----|
+Local Undergraduate Studies|4 years|
+Overseas Undergraduate Studies| 6 years|
+
 ### Scholarships
 At EMA, we believe that a future of innovative and efficient energy that lasts for Singapore begins with a single spark, yours. This is why we want to offer a scholarship that will enable you to pursue the education necessary to achieve your dreams with us. Upon graduation, an exciting and rewarding career at EMA awaits, where you will help shape and change the energy landscape in Singapore with your learnt skills and knowledge. It is your opportunity to envision a bright and vibrant future with us.
 
@@ -22,7 +28,7 @@ Local or Overseas Scholarships:
 ### Eligibility
 Singapore Citizens or Singapore Permanent Residents with excellent GCE 'A' Level or Diploma (or equivalent), and who possess outstanding records in CCA and other non-academic activities.
 
-Examples of Relevant Disciplines
+**Examples of Relevant Disciplines**
 * Engineering (Electrical, Mechanical)
 * Economics
 * Materials Science
