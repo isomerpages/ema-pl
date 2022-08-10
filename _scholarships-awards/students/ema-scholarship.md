@@ -22,16 +22,10 @@ Local or Overseas Scholarships:
 ### Eligibility
 Singapore Citizens or Singapore Permanent Residents with excellent GCE 'A' Level or Diploma (or equivalent), and who possess outstanding records in CCA and other non-academic activities.
 
-**Examples of Relevant Disciplines**
+Examples of Relevant Disciplines
 * Engineering (Electrical, Mechanical)
 * Economics
 * Materials Science
-
-### Bond Period
-|Type of Scholarship|Years|
--------------------|-----|
-Local Undergraduate Studies|4 years|
-Overseas Undergraduate Studies| 6 years|
 
 ### Scholarship Benefits
 Being an EMA Scholar, you stand to benefit from the following:
