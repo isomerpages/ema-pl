@@ -35,7 +35,7 @@ Being an EMA Scholar, you stand to benefit from the following:
 * Return airfare (overseas scholarship)
 * Internship opportunities
 * Summer/ Exchange Programmes, where relevant
-<br/>
+
 ### Bond Period
 |Type of Scholarship|University|
 |-------------------|-------------------------|
