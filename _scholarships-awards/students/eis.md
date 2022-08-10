@@ -132,9 +132,9 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 
 |Type of Scholarship|Institute of Technical Education|Polytechnic|
 |-------------------|--------------------------------|-----------|
-|Year 1 (Full-Term award)|2 years|3 years|
-|Year 2 (Mid-term award)|2 years|2 years|
-|Year 3 (Mid-term award)|2 years (if applicable)|2 years|
+|Year 1 (Full-Term)|2 years|3 years|
+|Year 2 (Mid-Term)|2 years|2 years|
+|Year 3 (Mid-Term)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
 <a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
