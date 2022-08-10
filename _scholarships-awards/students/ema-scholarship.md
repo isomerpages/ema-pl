@@ -4,9 +4,7 @@ permalink: /scholarships-awards/students/ema-scholarship
 third_nav_title: Students
 
 ---
-### Test
 
-### Bond Period
 |Type of Scholarship|Years|
 -------------------|-----|
 Local Undergraduate Studies|4 years|
@@ -28,7 +26,7 @@ Local or Overseas Scholarships:
 * Mid-Term
 
 ### Eligibility
-Singapore Citizens or Singapore Permanent Residents with excellent GCE 'A' Level or Diploma (or equivalent), and who possess outstanding records in CCA and other non-academic activities.
+Singapore Citizens or Permanent Residents with excellent GCE 'A' Level or Diploma (or equivalent), and who possess outstanding records in CCA and other non-academic activities.
 
 **Examples of Relevant Disciplines**
 * Engineering (Electrical, Mechanical)
