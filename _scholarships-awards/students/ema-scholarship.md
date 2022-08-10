@@ -27,6 +27,12 @@ Singapore Citizens or Singapore Permanent Residents with excellent GCE 'A' Level
 * Economics
 * Materials Science
 
+### Bond Period
+|Type of Scholarship|Years|
+-------------------|-----|
+Local Undergraduate Studies|4 years|
+Overseas Undergraduate Studies| 6 years|
+
 ### Scholarship Benefits
 Being an EMA Scholar, you stand to benefit from the following:
 * Full tuition fees and other related fees
