@@ -7,14 +7,14 @@ third_nav_title: Students
 
 ### Introduction to Singapore-Industry Scholarship 
 
-Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the Energy sector.
+Partnering with the Singapore Government, industry players offer the Singapore-Industry Scholarship (SgIS) to prospective or current undergraduates studying in a local or overseas university who are driven and passionate to join the energy sector.
 
 ### SgIS Scholarships
 * [SgIS Full-Term](#full-term) - For 'A' Level, Diploma Holders and equivalent
 * [SgIS Mid-Term (Local)](#mid-term-local) - For Local Undergraduates
 * [SgIS Mid-Term (Overseas)](#mid-term-overseas) - For Overseas Undergraduates
 
-### Sponsoring Organisations in the Power sector
+### Sponsoring Organisations in the Energy Sector
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.pacificlight.com.sg/" target="_blank">
