@@ -5,11 +5,6 @@ third_nav_title: Students
 
 ---
 
-|Type of Scholarship|Years|
--------------------|-----|
-Local Undergraduate Studies|4 years|
-Overseas Undergraduate Studies| 6 years|
-
 ### Introduction to EMA Scholarship
 
 Energy powers our economy, lights up our city and connects us all. Join us at EMA in keeping Singapore's future alight and help us power tomorrow.
