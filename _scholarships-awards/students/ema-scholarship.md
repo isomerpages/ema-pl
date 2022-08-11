@@ -43,8 +43,6 @@ Being an EMA Scholar, you stand to benefit from the following:
 * Summer/ Exchange Programmes, where relevant
 
 ### Bond Period
-test test test
-
 |Type of Scholarship|Years|
 --------------------|-----|
 Local Undergraduate Studies|4 years|
