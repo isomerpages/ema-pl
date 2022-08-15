@@ -4,6 +4,7 @@ permalink: /scholarships-awards/students/ema-scholarship
 third_nav_title: Students
 
 ---
+![EMA Scholarship](/images/scholarships/youth/EMA_FB_Banner_update.png)
 
 ### Introduction to EMA Scholarship
 
@@ -37,12 +38,16 @@ Being an EMA Scholar, you stand to benefit from the following:
 * Internship opportunities
 * Summer/ Exchange Programmes, where relevant
 
+_Benefits are pro-rated for the mid-term scholarship._
+
 ### Bond Period
 
 |Type of Scholarship|Years|
 --------------------|-----|
 Local Undergraduate Studies|4 years|
 Overseas Undergraduate Studies|6 years|
+
+_Bond period is pro-rated for the mid-term scholarship._
 
 
 ### Past Scholars
