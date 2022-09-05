@@ -27,7 +27,7 @@ Polytechnic|Yes|Yes|
 
 *Open to current students with at least one academic year remaining at the point of application.
 
-Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank" >Singapore-Industry Scholarship (SgIS).</a> 
+Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank" >Singapore-Industry Scholarship (SgIS)</a> or <a href="/scholarships-awards/students/ema-scholarship" target="_blank" >EMA Scholarship.</a>
 
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
@@ -91,17 +91,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Gustavus Liew" src="/images/scholarships/youth/profile-photo-gl.jpg"  
-            style="width: 180px;"/><br/>
-        <strong>Gustavus Liew</strong><br/>
-        <span style="font-style: italic;">
-            Diploma in Electrical Engineering
-        </span><br/>
-        <span style="">
-            Ngee Ann Polytechnic
-        </span>
-    </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
         <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile-photo-ihbmz.jpg" 
             style="width: 180px;"/><br/>
         <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
@@ -143,14 +132,14 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 
 |Type of Scholarship|Institute of Technical Education|Polytechnic|
 |-------------------|--------------------------------|-----------|
-|Year 1 (Full-Term award)|2 years|3 years|
-|Year 2 (Mid-term award)|2 years|2 years|
-|Year 3 (Mid-term award)|2 years (if applicable)|2 years|
+|Year 1 (Full-Term)|2 years|3 years|
+|Year 2 (Mid-Term)|2 years|2 years|
+|Year 3 (Mid-Term)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
-Click <a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">here</a> to see a list of frequently asked questions.
+<a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
 
-Click <a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_Jan2022.pdf" target="_blank">here</a> to download a step-by-step guide to apply for the EIS.
+<a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_Jan2022.pdf" target="_blank">Click here to download a step-by-step guide</a> to apply for the EIS.
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">

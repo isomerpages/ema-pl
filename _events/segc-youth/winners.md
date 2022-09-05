@@ -276,12 +276,12 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Congratulations to all the winners!
     </strong>
     <br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-HAATLOo2iU" frameborder="0" allowfullscreen=""></iframe> 
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/-HAATLOo2iU" frameborder="0" allowfullscreen=""></iframe> 
     <br/>
-    <a href="https://go.gov.sg/segc-youth-2021-winners" target="_blank">Check out the 2021 winning entries here</a>
+    <a href="https://go.gov.sg/segc-youth-2021-winners" target="_blank">Check out the 2021 winning entries here.</a>
     <br/>
     <br/>
-    <a href="https://go.gov.sg/eef-2021-live" target="_blank">Watch the virtual award ceremony here</a>
+    <a href="https://go.gov.sg/eef-2021-live" target="_blank">Watch the virtual award ceremony here.</a>
     <br/>
 </p>
 
@@ -426,11 +426,11 @@ SEGC (Youth) 2020 was launched in March 2020 for all secondary school students t
         Congratulations to all the winners!
     </strong>
     <br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wn-2EUK6bHI" frameborder="0" allowfullscreen=""></iframe> 
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/wn-2EUK6bHI" frameborder="0" allowfullscreen=""></iframe> 
     <br/>
-    <a href="https://go.gov.sg/segc-youth-winners" target="_blank">Check out the 2020 winning entries here</a>
+    <a href="https://go.gov.sg/segc-youth-winners" target="_blank">Check out the 2020 winning entries here.</a>
     <br/>
     <br/>
-    <a href="https://go.gov.sg/segc-youth-live" target="_blank">Watch the virtual award ceremony here</a>
+    <a href="https://go.gov.sg/segc-youth-live" target="_blank">Watch the virtual award ceremony here.</a>
     <br/>
 </p>
