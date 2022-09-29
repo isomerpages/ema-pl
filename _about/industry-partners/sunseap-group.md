@@ -3,7 +3,7 @@ title: EDPR Sunseap
 permalink: /about/industry-partners/edpr-sunseap
 third_nav_title: Industry Partners
 ---
-<img src="/images/careers/industry-partners/edpr_sunseap.png" alt="Sunseap Group - Floating PV" style="width: 450px; height: 312px;" /><br/>
+<img src="/images/common/partner-logos/edpr_sunseap.PNG" alt="Sunseap Group - Floating PV" style="width: 450px; height: 312px;" /><br/>
 
 <div style="text-align: center;">
     <a href="https://www.sunseap.com/SG/" target="_blank"><img alt="Sunseap Group" src="/images/common/partner-logos/sunseap.png" style="width: 250px; height: 120px;"></a>
