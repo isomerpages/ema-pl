@@ -11,7 +11,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 </p>
 
  
-The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and coming up  with innovate solutions to achieve a more sustainable Singapore in 2050 and beyond!
+The **Singapore Energy Grand Challenge (Youth)** invites all students to put your imagination and creativity to the test through designing and coming up  with innovative solutions to achieve a more sustainable Singapore in 2050 and beyond!
 
 Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
