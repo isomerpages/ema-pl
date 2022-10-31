@@ -20,7 +20,7 @@ For more career opportunities, you may visit:
 * <a href="http://narada-ap.com/contact/join-narada/" target="_blank">Narada Asia Pacific</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/quantified-energy-labs-201902334N" target="_blank">Quantified Energy Labs</a>
 * <a href="https://www.recgroup.com/en/green-your-career" target="_blank">REC Solar</a>
-* <a href="https://www.rda.ai/careers/" target="_blank">Red Dot Analytics</a>
+* <a href="https://www.rda.ai/jobs" target="_blank">Red Dot Analytics</a>
 * <a href="https://www.sembcorp.com/en/careers" target="_blank">Sembcorp Industries</a>
 * <a href="https://www.spgroup.com.sg/about-us/our-people" target="_blank">SP Group</a>
 * <a href="https://sg.linkedin.com/company/sunseap" target="_blank">Sunseap Group</a>
