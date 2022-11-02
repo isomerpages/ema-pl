@@ -23,7 +23,7 @@ For more career opportunities, you may visit:
 * <a href="https://www.rda.ai/jobs" target="_blank">Red Dot Analytics</a>
 * <a href="https://www.sembcorp.com/en/careers" target="_blank">Sembcorp Industries</a>
 * <a href="https://www.spgroup.com.sg/about-us/our-people" target="_blank">SP Group</a>
-* <a href="https://sg.linkedin.com/company/sunseap" target="_blank">Sunseap Group</a>
+* <a href="https://sg.linkedin.com/company/sunseap" target="_blank">EDPR Sunseap</a>
 * <a href="http://solargy.com.sg/new/index.php?route=news/ncategory&ncat=59_65" target="_blank">SolarGy</a>
 * <a href="https://www.mycareersfuture.gov.sg/search?search=Clean%20Energy&sortBy=relevancy&page=0" target="_blank">... and more</a>
 
