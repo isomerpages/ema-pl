@@ -243,9 +243,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
-    <br/>
-</div>
-
+ 
 <div style="text-align: left;">
     <strong>
         Champion (Sembcorp Industries) - Team Kit
