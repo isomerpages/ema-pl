@@ -14,7 +14,7 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 
 Find out more about the new job roles and skills required to support the Energy Transition.
 
-<a href="/files/careers/skillsmap/Skills Map.zip" target="_blank">Click here to see the infographics.</a>
+<a href="/files/careers/EMA-Infographic-FA.pdf" target="_blank">Click here to see the infographics.</a>
 
 <a id="Career Opportunities" href=""></a>
 ### Career Opportunities
