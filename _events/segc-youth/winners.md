@@ -38,7 +38,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         First Runner-up - Team Soyingleryl
@@ -61,7 +61,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         Second Runner-up - Team Fantastic 4
@@ -108,7 +108,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         First Runner-up - Team H2
@@ -131,7 +131,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         Second Runner-up - Team SusTech
@@ -178,7 +178,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         First Runner-up (Keppel Infrastructure) - Team Blues
@@ -200,7 +200,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team Blues showcased their creative ideas that use integrated system comprising cameras, sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
 
-
+<br/>
 <div style="text-align: left;">
     <strong>
         Champion (Schneider Electric) - The Renaissance Men
@@ -222,8 +222,8 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     The Renaissance Men impressed the judges with their presentation by encouraging green energy usage while EV adoption is in its infancy in the coming years through surge based pricing.
 </div>
     
-    
- <div style="text-align: left;">
+<br/>  
+<div style="text-align: left;">
     <strong>
         First Runner-up (Schneider Electric) - Team Blues
     </strong>
@@ -244,7 +244,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
  
- 
+<br/> 
 <div style="text-align: left;">
     <strong>
         Champion (Sembcorp Industries) - Team Kit
@@ -265,10 +265,9 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Kit showcased a strong presentation which include using alternative renewable storage energy (i.e. potential energy from HDB rainwater gutter system) to manage solar intermittency in the event of unforeseen weather condition.
 </div>
-<br/>
-   
-   
- <div style="text-align: left;">
+
+<br/>  
+<div style="text-align: left;">
     <strong>
         First Runner-up (Sembcorp Industries) - Team Solar
     </strong>
@@ -288,8 +287,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Solar demonstrated their creative ideas expanding solar capacity by making use of more spaces in Singapore and implementing solar tracking to ensure that solar panels are always facing direct sunlight.
 </div>
-    <br/>
-</div>
+
 
 <p style="text-align: center">
     <strong>
