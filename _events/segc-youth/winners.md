@@ -294,8 +294,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
         Congratulations to all the winners!
     </strong>
     <br/>
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/videoseries?list=PLA11-KVxu2UMsIpPZT3Yh2q1vVoRGxEj6" frameborder="0" allowfullscreen=""></iframe> 
-    <br/>
     <a href="https://www.youtube.com/playlist?list=PLA11-KVxu2UMsIpPZT3Yh2q1vVoRGxEj6" target="_blank">Check out the 2022 Junior and Senior categories winning entries here.</a>
     <br/>
 </p>
