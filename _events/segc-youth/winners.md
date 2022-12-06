@@ -38,6 +38,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
+
 <div style="text-align: left;">
     <strong>
         First Runner-up - Team Soyingleryl
@@ -59,6 +60,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team Soyinglerly showcased their innovative world where energy efficient cooling equipments and advanced motion sensors are used to manage energy demand.
     <br/>
 </div>
+
 
 <div style="text-align: left;">
     <strong>
@@ -106,6 +108,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
+
 <div style="text-align: left;">
     <strong>
         First Runner-up - Team H2
@@ -127,6 +130,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team H2 was recognised for their well-built Minecraft world and creative ideas such as solar satellites that have the advantage of uninterrupted access to Sun's rays.
     <br/>
 </div>
+
 
 <div style="text-align: left;">
     <strong>
@@ -174,6 +178,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
+
 <div style="text-align: left;">
     <strong>
         First Runner-up (Keppel Infrastructure) - Team Blues
@@ -194,6 +199,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Blues showcased their creative ideas that use integrated system comprising cameras, sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
+
 
 <div style="text-align: left;">
     <strong>
@@ -216,6 +222,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     The Renaissance Men impressed the judges with their presentation by encouraging green energy usage while EV adoption is in its infancy in the coming years through surge based pricing.
 </div>
     
+    
  <div style="text-align: left;">
     <strong>
         First Runner-up (Schneider Electric) - Team Blues
@@ -236,6 +243,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
+ 
  
 <div style="text-align: left;">
     <strong>
@@ -258,7 +266,8 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team Kit showcased a strong presentation which include using alternative renewable storage energy (i.e. potential energy from HDB rainwater gutter system) to manage solar intermittency in the event of unforeseen weather condition.
 </div>
 <br/>
-    
+   
+   
  <div style="text-align: left;">
     <strong>
         First Runner-up (Sembcorp Industries) - Team Solar
@@ -287,7 +296,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
         Congratulations to all the winners!
     </strong>
     <br/>
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/-HAATLOo2iU" frameborder="0" allowfullscreen=""></iframe> 
+    <iframe width="400" height="225" src="https://www.youtube.com/embed/videoseries?list=PLA11-KVxu2UMsIpPZT3Yh2q1vVoRGxEj6" frameborder="0" allowfullscreen=""></iframe> 
     <br/>
     <a href="https://www.youtube.com/playlist?list=PLA11-KVxu2UMsIpPZT3Yh2q1vVoRGxEj6" target="_blank">Check out the 2022 Junior and Senior categories winning entries here.</a>
     <br/>
