@@ -37,7 +37,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team SUStain was crowned the champion for their innovative ideas such as the use of hydrogen, a low-carbon energy source, and electrified transportation to further lower Singapore’s carbon emissions. 
     <br/>
 </div>
-<br/>
 
 <div style="text-align: left;">
     <strong>
@@ -60,7 +59,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team Soyinglerly showcased their innovative world where energy efficient cooling equipments and advanced motion sensors are used to manage energy demand.
     <br/>
 </div>
-<br/>
 
 <div style="text-align: left;">
     <strong>
@@ -108,7 +106,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-<br/>
 <div style="text-align: left;">
     <strong>
         First Runner-up - Team H2
@@ -130,7 +127,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     Team H2 was recognised for their well-built Minecraft world and creative ideas such as solar satellites that have the advantage of uninterrupted access to Sun's rays.
     <br/>
 </div>
-<br/>
 
 <div style="text-align: left;">
     <strong>
@@ -178,7 +174,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     <br/>
 </div>
 
-<br/>
 <div style="text-align: left;">
     <strong>
         First Runner-up (Keppel Infrastructure) - Team Blues
@@ -197,9 +192,8 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
+    Team Blues showcased their creative ideas that use integrated system comprising cameras, sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
-<br/>
 
 <div style="text-align: left;">
     <strong>
@@ -221,7 +215,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     The Renaissance Men impressed the judges with their presentation by encouraging green energy usage while EV adoption is in its infancy in the coming years through surge based pricing.
 </div>
-<br/>
     
  <div style="text-align: left;">
     <strong>
