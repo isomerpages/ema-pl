@@ -203,7 +203,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <br/>
 <div style="text-align: left;">
     <strong>
-        Champion (Schneider Electric) - The Renaissance Men
+        First Runner-up (Schneider Electric) - The Renaissance Men
     </strong>
     <br/>
     <span style="font-style: italic;">
@@ -225,7 +225,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <br/>  
 <div style="text-align: left;">
     <strong>
-        First Runner-up (Schneider Electric) - Team Blues
+        Champion (Schneider Electric) - Team Young Inventors
     </strong>
     <br/>
     <span style="font-style: italic;">
@@ -233,15 +233,15 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Blues members" src="/images/events/segc/SEGC2022_Team%20Blues_Keppel.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Taam Young Inveers" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
-        Members: (L to R) Isaiah Ives Goh Jun Yang, Nur Nabilah Binte Muhamad Solihin, RenuDeve Veer D/O Sunthara Velu Chelliah
+        Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
     </span>
 </div>
 
 <div style="text-align: center;">
-    Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
+    Team Young Inventors showcased their creativity by using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid, reducing grid constraint in a sustainable way.
 </div>
 
 <br/>  
