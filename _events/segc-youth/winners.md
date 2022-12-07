@@ -207,11 +207,11 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </strong>
     <br/>
     <span style="font-style: italic;">
-        ITE College West
+        Singapore Institute of Technology (SIT)
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Taam Young Inveers" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Taam Young Inventors" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
