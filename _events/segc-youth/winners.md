@@ -174,7 +174,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
  
 <div style="text-align: center;">
-    Team Rocket was crowned the champion for their innovative ideas such as semi-transparent photovoltaic glass to reduce Envelope Thermal Transfer Value (i.e. heat gain through the external walls and windows of a building).
+    Team Rocket was crowned the champion for their innovative ideas such as semi-transparent photovoltaic glass to reduce Envelope Thermal Transfer Value (i.e. heat gain through the external walls and windows of a building) and thermal storage systems to optimise cooling efficiency.
     <br/>
 </div>
 
@@ -197,7 +197,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team Blues showcased their creative ideas that use integrated system comprising cameras, sensors and Artificial Intelligence to control the room temperature and save energy.
+    Team Blues showcased their creative ideas that utilised District Cooling System with Thermal Energy Storage (TES) and Smart Meters to increase energy efficiency and lower energy consumption by changing consumer behavior.
 </div>
 
 <br/>
@@ -219,7 +219,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    The Renaissance Men impressed the judges with their presentation by encouraging green energy usage while EV adoption is in its infancy in the coming years through surge based pricing.
+    The Renaissance Men impressed the judges with their presentation by encouraging green energy usage through surge based pricing and a flexible EV charging scheme.
 </div>
     
 <br/>  
@@ -241,7 +241,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team Young Inventors showcased their creativity by using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid, reducing grid constraint in a sustainable way.
+    Team Young Inventors showcased their creativity using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid through a solar cover device, reducing grid constraint in a sustainable and cost-effective way.
 </div>
 
 <br/>  
@@ -263,7 +263,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team Solar demonstrated their creative ideas expanding solar capacity by making use of more spaces in Singapore and implementing solar tracking to ensure that solar panels are always facing direct sunlight.
+    Team Solar demonstrated their creative ideas and proposed expanding solar capacity by making use of open seas through innovative automated devices like SolarSea (a solar boat installed with solar panels) and SolarSky (a self-powered UAV to guide SolarSea to open seas). These devices increase the capture of solar energy and allow for higher energy efficiency.
 </div>
  
 <br/> 
@@ -285,7 +285,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team Kit showcased a strong presentation which include using alternative renewable storage energy (i.e. potential energy from HDB rainwater gutter system) to manage solar intermittency in the event of unforeseen weather condition.
+    Team Kit showcased a strong presentation which included a Misticool device that are fitted with mist nozzles between each row of solar panels to help cool down solar panels.
 </div>
 
 
