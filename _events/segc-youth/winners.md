@@ -243,33 +243,11 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Blues showcased their creative ideas that use integrated system comprising cameras,sensors and Artificial Intelligence to control the room temperature and save energy.
 </div>
- 
-<br/> 
-<div style="text-align: left;">
-    <strong>
-        Champion (Sembcorp Industries) - Team Kit
-    </strong>
-    <br/>
-    <span style="font-style: italic;">
-        Singapore Polytechnic
-    </span>
-</div>
-<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Kit members" src="/images/events/segc/SEGC2022_Team%20Kit2_Sembcorp.JPG" style="width: 416px;"/>
-    <br/>
-    <span style="font-style: italic;">
-        Members: (L to R) Steward Soh Jun Kai, Tanapattanalux Kittitat, Yu Nander Aung, Lau Jun Foong Wayne
-    </span>
-</div>
-
-<div style="text-align: center;">
-    Team Kit showcased a strong presentation which include using alternative renewable storage energy (i.e. potential energy from HDB rainwater gutter system) to manage solar intermittency in the event of unforeseen weather condition.
-</div>
 
 <br/>  
 <div style="text-align: left;">
     <strong>
-        First Runner-up (Sembcorp Industries) - Team Solar
+        Champion (Sembcorp Industries) - Team Solar
     </strong>
     <br/>
     <span style="font-style: italic;">
@@ -286,6 +264,28 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 
 <div style="text-align: center;">
     Team Solar demonstrated their creative ideas expanding solar capacity by making use of more spaces in Singapore and implementing solar tracking to ensure that solar panels are always facing direct sunlight.
+</div>
+ 
+<br/> 
+<div style="text-align: left;">
+    <strong>
+         First Runner-up (Sembcorp Industries) - Team Kit
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Singapore Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Kit members" src="/images/events/segc/SEGC2022_Team%20Kit2_Sembcorp.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Steward Soh Jun Kai, Tanapattanalux Kittitat, Yu Nander Aung, Lau Jun Foong Wayne
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Kit showcased a strong presentation which include using alternative renewable storage energy (i.e. potential energy from HDB rainwater gutter system) to manage solar intermittency in the event of unforeseen weather condition.
 </div>
 
 
