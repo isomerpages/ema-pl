@@ -199,6 +199,28 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 <div style="text-align: center;">
     Team Blues showcased their creative ideas that utilised District Cooling System with Thermal Energy Storage (TES) and Smart Meters to increase energy efficiency and lower energy consumption by changing consumer behavior.
 </div>
+   
+<br/>  
+<div style="text-align: left;">
+    <strong>
+        Champion (Schneider Electric) - Team Young Inventors
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        ITE College West
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Taam Young Inveers" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Young Inventors showcased their creativity using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid through a solar cover device, reducing grid constraint in a sustainable and cost-effective way.
+</div>
 
 <br/>
 <div style="text-align: left;">
@@ -220,28 +242,6 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 
 <div style="text-align: center;">
     The Renaissance Men impressed the judges with their presentation by encouraging green energy usage through surge based pricing and a flexible EV charging scheme.
-</div>
-    
-<br/>  
-<div style="text-align: left;">
-    <strong>
-        Champion (Schneider Electric) - Team Young Inventors
-    </strong>
-    <br/>
-    <span style="font-style: italic;">
-        ITE College West
-    </span>
-</div>
-<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Taam Young Inveers" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
-    <br/>
-    <span style="font-style: italic;">
-        Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
-    </span>
-</div>
-
-<div style="text-align: center;">
-    Team Young Inventors showcased their creativity using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid through a solar cover device, reducing grid constraint in a sustainable and cost-effective way.
 </div>
 
 <br/>  
