@@ -150,7 +150,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 </div>
 
 <div style="text-align: center;">
-    Team SusTech was recognised for their creation of an energy efficient district in Singapore, that uses various technologies to reduce energy usage and manage energy demand. 
+    Team SusTech was recognised for their creation of an energy efficient district in Singapore with various technologies incorporated to reduce energy usage and manage energy demand. 
     <br/>
 </div>
 
