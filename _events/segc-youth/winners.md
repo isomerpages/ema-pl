@@ -4,9 +4,301 @@ permalink: /events/segc-youth/winners
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 
+* [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
 
+<a id="2022" href=""></a>
+## 2022
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022v2.png)
+The third edition of SEGC (Youth) aims to engage youth on sustainability issues and co-create innovative energy ideas based on the theme “As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?”. EMA partnered with Keppel Infrastructure, Schneider Electric and Sembcorp industries and presented a new category for Institute of Higher Learning (IHL). Students were challenged to come up with sustainable solutions that addressed real-world challenges faced by energy companies today.
+
+Over 114 teams across 36 schools took part across the three categories of Junior, Senior and IHL.
+
+### Junior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Team SUStain
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Nanyang Girls’ High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team SUStain members" src="/images/events/segc/SEGC2022_Team%20SUStain%20-%20Nanyang%20Girls’%20High%20School.jpeg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Tan Hong Yu, Sophie Tung Xuan Ying
+    </span>
+</div>
+ 
+<div style="text-align: center;">
+    Team SUStain was crowned the champion for their innovative ideas such as the use of hydrogen, a low-carbon energy source, and electrified transportation to further lower Singapore’s carbon emissions. 
+    <br/>
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up - Team Soyingleryl
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Raffles Girls' School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Soyingleryl members" src="/images/events/segc/SEGC2022_Team%20Soyingleryl%20-%20Raffles%20Girls'%20School%20(Secondary).jpg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Chai Chang Xuan Cheryl, Quek Zhi Ying, Sophie Sim, Eou Yong Le Jia
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Soyinglerly showcased their innovative world where energy efficient cooling equipments and advanced motion sensors are used to manage energy demand.
+    <br/>
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        Second Runner-up - Team Fantastic 4
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Holy Innocents' High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Fantastic 4 members" src="/images/events/segc/SEGC2022_Team%20Fantastic%204%20-%20Holy%20Innocents'%20High%20School.jpg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Brandon Chan Kai Feng, Brandon Geofrey Lee Weng Zun, Lee Yu Wen Reanne, Hoi Hui Wen Faith
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Fantastic 4 showcased use of various renewable energy sources such as geothermal and solar energy to achieve a more sustainable Singapore. 
+    <br/>
+</div>
+ 
+
+### Senior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Team WACUUMERS
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Hwa Chong Institution
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team WACUUMERS members" src="/images/events/segc/SEGC2022_Team%20WACUUMERS%20-%20Hwa%20Chong%20Institution.jpg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Koh Rui Quan Reyes, Kavan Tay Yiquan, Zachary Phua Yu Tze
+    </span>
+</div>
+ 
+<div style="text-align: center;">
+    Team WACUUMERS clinched the championship with their engaging presentation which demonstrated a comprehensive approach towards managing energy demand and supply. Their ideas included the use of Internet-of-Things (IoT) technology to analyse energy usage trends and help to manage energy demand.
+    <br/>
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up - Team H2
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Raffles Girls' School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team H2 members" src="/images/events/segc/SEGC2022_Team%20H2%20-%20Raffles%20Girls'%20School%20(Secondary).JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Lu Xingyu, Vera Ang Rui Wen
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team H2 was recognised for their well-built Minecraft world and creative ideas such as solar satellites that have the advantage of uninterrupted access to Sun's rays.
+    <br/>
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        Second Runner-up - Team SusTech
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Dunman High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team SusTech members" src="/images/events/segc/SEGC2022_Team%20Sustech%20-%20Dunman%20High%20School.jpg" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Pan Xinyi, Pan Leyi, Jin Chenxuan, Shen Hanzhang
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team SusTech was recognised for their creation of an energy efficient district in Singapore with various technologies incorporated to reduce energy usage and manage energy demand. 
+    <br/>
+</div>
+
+
+### IHL Category
+<div style="text-align: left;">
+    <strong>
+        Champion (Keppel Infrastructure) - Team Rocket
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        National University of Singapore (NUS)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Rocket members" src="/images/events/segc/SEGC2022_Team%20Rocket_Keppel.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Chen Zhen Yuan, Low Guan Lin
+    </span>
+</div>
+ 
+<div style="text-align: center;">
+    Team Rocket was crowned the champion for their innovative ideas such as semi-transparent photovoltaic glass to reduce Envelope Thermal Transfer Value (i.e. heat gain through the external walls and windows of a building) and thermal storage systems to optimise cooling efficiency.
+    <br/>
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up (Keppel Infrastructure) - Team Blues
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        ITE College West
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Blues members" src="/images/events/segc/SEGC2022_Team%20Blues_Keppel.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Isaiah Ives Goh Jun Yang, Nur Nabilah Binte Muhamad Solihin, RenuDeve Veer D/O Sunthara Velu Chelliah
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Blues showcased their creative ideas that utilised District Cooling System with Thermal Energy Storage (TES) and Smart Meters to increase energy efficiency and lower energy consumption by changing consumer behavior.
+</div>
+   
+<br/>  
+<div style="text-align: left;">
+    <strong>
+        Champion (Schneider Electric) - Team Young Inventors
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Singapore Institute of Technology (SIT)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Taam Young Inventors" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Young Inventors showcased their creativity using Vehicle to Grid Technology to enable fully charged EVs to feed energy back to the grid through a solar cover device, reducing grid constraint in a sustainable and cost-effective way.
+</div>
+
+<br/>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up (Schneider Electric) - The Renaissance Men
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Nanyang Technological University (NTU)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of The Renaissance Men members" src="/images/events/segc/SEGC2022_The%20Renaissance%20Men_Schneider.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Summit Bajaj, Julian Chung Zhong Wei, Sng Li Wen Aaron (not in photo: Nick Erwin Chia Zhiyang)
+    </span>
+</div>
+
+<div style="text-align: center;">
+    The Renaissance Men impressed the judges with their presentation by encouraging green energy usage through surge based pricing and a flexible EV charging scheme.
+</div>
+
+<br/>  
+<div style="text-align: left;">
+    <strong>
+        Champion (Sembcorp Industries) - Team Solar
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        ITE College East
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Blues members" src="/images/events/segc/SEGC2022_Team%20Solar2_Sembcorp.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Xavien Teo Yi Xiang, Ng Mian Hao, Eugene Tan Ye Hong, Wang Zixuan
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Solar demonstrated their creative ideas and proposed expanding solar capacity by making use of open seas through innovative automated devices like SolarSea (a solar boat installed with solar panels) and SolarSky (a self-powered UAV to guide SolarSea to open seas). These devices increase the capture of solar energy and allow for higher energy efficiency.
+</div>
+ 
+<br/> 
+<div style="text-align: left;">
+    <strong>
+         First Runner-up (Sembcorp Industries) - Team Kit
+    </strong>
+    <br/>
+    <span style="font-style: italic;">
+        Singapore Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img alt="Photograph of Team Kit members" src="/images/events/segc/SEGC2022_Team%20Kit2_Sembcorp.JPG" style="width: 416px;"/>
+    <br/>
+    <span style="font-style: italic;">
+        Members: (L to R) Steward Soh Jun Kai, Tanapattanalux Kittitat, Yu Nander Aung, Lau Jun Foong Wayne
+    </span>
+</div>
+
+<div style="text-align: center;">
+    Team Kit showcased a strong presentation which included a Misticool device that are fitted with mist nozzles between each row of solar panels to help cool down solar panels.
+</div>
+
+
+<p style="text-align: center">
+    <strong>
+        Congratulations to all the winners!
+    </strong>
+    <br/>
+    <a href="https://www.youtube.com/playlist?list=PLA11-KVxu2UMsIpPZT3Yh2q1vVoRGxEj6" target="_blank">Check out the 2022 Junior and Senior categories winning entries here.</a>
+    <br/>
+</p>
+
+---
 <a id="2021" href=""></a>
 ## 2021
 ![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)

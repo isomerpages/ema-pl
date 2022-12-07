@@ -145,10 +145,19 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-            Applications for the Energy-Industry Scholarship are closed. 
-        <br>
-        </strong>
+           The Energy-Industry Scholarship is now open for applications until 31 Mar 2023. <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
+        </strong>
         <br>
+        <br>
+    </div>
+    <div style="text-align:center; font-size: 15px;" >
+        <span>
+            To apply, please login to Powering Lives application portal with your Singpass
+        </span>
+        <br/>
+        <a id="HyperLinkLoginSingPass" href="https://saml.singpass.gov.sg/FIM/sps/SingpassIDPFed/saml20/logininitial?RequestBinding=HTTPArtifact&amp;ResponseBinding=HTTPArtifact&amp;PartnerId=https://apply.poweringlives.gov.sg/SPLogin&amp;Target=https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=lcp&amp;NameIdFormat=Email&amp;esrvcID=EMA-MP-SP">
+            <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
+        </a>
     </div>
 </div>
