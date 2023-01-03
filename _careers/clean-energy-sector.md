@@ -26,7 +26,7 @@ Find out more about the new job roles and skills required to support the Energy 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/A7YVR0cqxpU" frameborder="0" allowfullscreen=""></iframe>
 
 **Powering On: Career Opportunities in Solar and Energy Storage Systems**
-<iframe width="400" height="225" src="https://www.youtube.com/embed/A7YVR0cqxpU" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/snXa5De8w3Y" frameborder="0" allowfullscreen=""></iframe>
 
 <a id="Career Opportunities" href=""></a>
 ### Career Opportunities
