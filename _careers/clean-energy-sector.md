@@ -6,16 +6,14 @@ permalink: /careers/clean-energy-sector
 
 Against the backdrop of rising climate change concerns, Singapore is committed to playing our part to combat climate change and achieve a sustainable energy future. As the energy sector decarbonises, this presents fresh and exciting career opportunities in areas such as solar, energy storage systems, smart grids and regional trading. These include jobs in the management and deployment of renewables, design of renewables systems as well as the development of smart technologies for energy infrastructure.
 
-* [Infographics](#Infographics)
+* [Job Skills Insights](#Job Skills Insights)
 * [Video Library](#Video Library)
 * [Career Opportunities](#Career Opportunities)
 
-<a id="Infographics" href=""></a>
-### Infographics
+<a id="Job Skills Insights" href=""></a>
+### Job Skills Insights
 
-Find out more about the new job roles and skills required to support the Energy Transition.
-
-<a href="/files/careers/EMA-Infographic-FA.pdf" target="_blank">Click here to see the infographics.</a>
+<a href="/files/careers/EMA-Infographic-FA.pdf" target="_blank">Find out more about the new job roles and skills required to support the Energy Transition here.</a>
 
 <a id="Video Library" href=""></a>
 ### Video Library
