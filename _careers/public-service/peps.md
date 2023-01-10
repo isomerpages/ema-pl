@@ -8,4 +8,7 @@ Leveraging EMA’s experience within the energy sector, our mandate was expanded
 **Power Engineering Careers in the Public Service**  
 <iframe width="400" height="225" src="https://www.youtube.com/embed/3lDq6XZgkP0" frameborder="0" allowfullscreen=""></iframe>
 
+**Powering On: Maximising Solar Deployment with HDB Singapore (SolarNova programme)**
+<iframe width="400" height="225" src="https://www.youtube.com/embed/ZrHrz8pEwgo" frameborder="0" allowfullscreen=""></iframe>
+
 For more career opportunities, you may visit the <a href="https://www.poweringlives.gov.sg/careers/public-service/pecf/" target="_blank">Power Engineering Competency Framework (PECF).</a>
