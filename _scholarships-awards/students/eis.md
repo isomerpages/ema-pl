@@ -154,8 +154,6 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
     <div style="text-align:center; font-size: 15px;" >
         <span>
              To apply, please login to Powering Lives application portal with your Singpass.
-        <br/>    
-        <br/> Singpass and Corppass will be undergoing maintenance from 8 Feb 2023 (18:00) to 8 Feb 2023 (20:00), and will not be available during this period. We apologise for any inconvenience.
         <br/>
         </span>
         <a id="HyperLinkLoginSingPass" href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
