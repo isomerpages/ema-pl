@@ -155,6 +155,5 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
         <span>
         <br/> Singpass and Corppass will be undergoing maintenance from 8 Feb 2023 (18:00) to 8 Feb 2023 (20:00), and will not be available during this period. We apologise for any inconvenience.    
         </span>
-        </a>
     </div>
 </div>
