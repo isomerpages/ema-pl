@@ -72,7 +72,7 @@ Deposit your resume, indicate your period of availability and get ready to go fu
     <div style="text-align:center; font-size: 15px;" >
         <span>
         <br/> Singpass and Corppass will be undergoing maintenance from 17 Feb 2023 (22:00) to 18 Feb 2023 (02:00), and will not be available during this period. We apologise for any inconvenience.
-            To apply, please login to Powering Lives application portal with your Singpass.
+        <br/> To apply, please login to Powering Lives application portal with your Singpass.
         </span>
         <br/>
         <br/>
