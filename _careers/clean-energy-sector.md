@@ -41,7 +41,7 @@ For more career opportunities, you may visit:
 * <a href="https://www.evercomm.com/people.html" target="_blank">Evercomm Singapore</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/genplus-201302636Whttps://www.mycareersfuture.gov.sg/companies/genplus-201302636W" target="_blank">GenPlus</a>
 * <a href="https://www.kepinfra.com/en/careers/" target="_blank">Keppel Infrastructure</a>
-* <a href="http://narada-ap.com/contact/join-narada/" target="_blank">Narada Asia Pacific</a>
+* <a href="https://www.linkedin.com/company/narada-asia-pacific-pte-ltd/jobs/" target="_blank">Narada Asia Pacific</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/quantified-energy-labs-201902334N" target="_blank">Quantified Energy Labs</a>
 * <a href="https://www.recgroup.com/en/green-your-career" target="_blank">REC Solar</a>
 * <a href="https://www.rda.ai/jobs" target="_blank">Red Dot Analytics</a>
