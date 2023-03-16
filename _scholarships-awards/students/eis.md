@@ -145,7 +145,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-           The Energy-Industry Scholarship is now open for applications until 31 Mar 2023. <br>
+           The Energy-Industry Scholarship is now open for applications until 14 Apr 2023 (extended). <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         </strong>
         <br>
