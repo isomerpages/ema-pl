@@ -18,7 +18,7 @@ sections:
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
             - title: "Energy-Industry Scholarships (EIS)"
-              description: "The Energy-Industry Scholarship is now open for applications until 31 Mar 2023." 
+              description: "The Energy-Industry Scholarship is now open for applications until 14 Apr 2023 (extended)." 
               url: /scholarships-awards/students/eis
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
