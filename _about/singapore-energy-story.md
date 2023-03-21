@@ -40,4 +40,4 @@ Our Energy Story is a long-term effort. The Energy Market Authority is working w
 Watch this short video on our Energy Story
 <iframe width="400" height="225" src="https://www.youtube.com/embed/WVzvLXUwcUs" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-<a href="https://www.beyondthecurrent.gov.sg/energy-story" target="_blank">Find out more on Beyond The Current.</a>
+<a href="https://www.ema.gov.sg/our-energy-story.aspx" target="_blank">Find out more on EMA website.</a>
