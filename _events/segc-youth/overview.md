@@ -134,7 +134,7 @@ _*To include at least 3 ideas related to managing energy demand_
 <img alt="Sembcorp Industries" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/sembcorp_logo.png" />
     <br/>
     <br/>
-    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo.jpg" />
+    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
     <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
 
 
