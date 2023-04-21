@@ -145,8 +145,19 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align: center;">
         <strong>
-           Applications for the Energy-Industry Scholarship are closed.
+           Applications for the Energy-Industry Scholarship is open for the 2022/2023 cycle.
             <br>
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
+            <br>
+        <br>
+    <div style="text-align:center; font-size: 15px;" >
+        <span>
+        <br/> To apply, please login to Powering Lives application portal with your Singpass.
+        <br/>
+        </span>
+        <a id="HyperLinkLoginSingPass" href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
+                    <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
+        </a>
+    </div>
         </strong>
 </div>
