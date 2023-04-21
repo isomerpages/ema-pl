@@ -150,7 +150,6 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
             Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
             <br>
         <br>
-    </div>
     <div style="text-align:center; font-size: 15px;" >
         <span>
         <br/> To apply, please login to Powering Lives application portal with your Singpass.
