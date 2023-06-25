@@ -126,7 +126,7 @@ _*To include at least 3 ideas related to managing energy demand_
     <br/>
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
-<img alt="EDP Renewables" style="padding-bottom: 12px; width: 200px; height: 33px; max-width: 200px; display: inline-block;" src="/images/common/partner-logos/EDP%20Renewables%20Logo.PNG" />
+<img alt="EDP Renewables" style="padding-bottom: 12px; width: 132px; height: 40px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/EDP%20Renewables%20Logo.PNG" />
 <img alt="Envision Digital" style="margin: 12px; width: 132px;height: 40px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/schneider_logo.jpg" />
 <img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas_power.jpg" />
     <br/>
