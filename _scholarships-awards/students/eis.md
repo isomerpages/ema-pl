@@ -70,7 +70,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.sunseap.com/SG/" target="_blank">
-            <img alt="Sunseap Group" src="/images/common/partner-logos/edpr_sunseap.PNG" style="width: 250px; height: 120px;">
+            <img alt="Sunseap Group" src="/images/common/partner-logos/EDP%20Renewables%20Logo.PNG" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
