@@ -17,8 +17,8 @@ sections:
             - title: "Clean Energy Sector"
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
-            - title: "Energy-Industry Scholarships (EIS)"
-              description: "The Energy-Industry Scholarship is now open for applications." 
+            - title: "Singapore Energy Grand Challenge (Youth) 2023"
+              description: "Registration for SEGC (Youth) - IHL is now open till 28 July 2023. Join us for the virtual mass briefing held on 5 July 2023." 
               url: /scholarships-awards/students/eis
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
