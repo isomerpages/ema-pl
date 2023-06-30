@@ -15,7 +15,14 @@ Form a team of two to four with your schoolmates to participate in any of the 3 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior) _[Stay tuned for more details!]_
 * [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
-Winning teams will win a total of $30,000 in cash prizes across the 3 categories.
+Top teams will win a total of $36,200 in cash prizes across the 3 categories!
+**Junior and Senior Category** - The top three teams for each category will be awarded up to $3,000 in cash prizes (i.e. $1,500, $1,000 and $500 for Champion, First Runner-up and Second runner-up respectively).​
+
+In addition, there will be an “Audience Favourite” where the Instagram Video Post with the most likes from each category will be awarded $100 cash prize.
+ 
+**IHL Category** - The Champion and 1st Runner-up for all three company-specific problem statements will be awarded up to $30,000 in cash prizes (i.e. $6,000 and $4,000 respectively for each company-specific problem statement)
+
+
 
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
