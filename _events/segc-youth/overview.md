@@ -40,21 +40,25 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 2. The company-specific problem statements tied to the challenge are:
 
-a. EDP Renewables: Wxxx.”
+a. EDP Renewables: "EDP Renewables is seeking an innovative solution to maximise the solar energy output in a compact city such as Singapore, with the goal of further promoting sustainability and decarbonisation. 
+ 
+The proposed solution should consider various factors such as time for implementation, economic viability, geographical constraints, environmental conditions, and technological advancements, in order to maximise the overall share of renewables in Singapore’s electricity generation mix.”
 
 b. Envision Digital: “xxx”
 
-c. Tuas Power: “xxx.”
+c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. 
+
+Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
 
 **Phase 2 – Submission:**  
 
 1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
 
-2. Submission period opens from 28 June to 28 July 2023, 5:00pm.
+2. Submission period opens from 5 July to 28 July 2023, 5:00pm.
 
 **Phase 3 – Semi-Finals and Grand Final [Ongoing]:**  
 
-1. Semi-Finalists will present their proposals on xx September 2023.
+1. Semi-Finalists will present their proposals on 18 September 2023.
 
 2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
 
@@ -63,7 +67,9 @@ c. Tuas Power: “xxx.”
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Submissions are closed. Shortlisted teams will be contacted by end August 2022.
+           Registration for the virtual mass briefing is now open till 4 July 2023.
+         <br>
+         <a href="https://go.gov.sg/segc2023-ihl" target="_blank">Click here to register for SEGC (Youth) - IHL. </a>
         </strong>
         <br>
     </div>
