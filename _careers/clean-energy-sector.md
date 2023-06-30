@@ -38,7 +38,7 @@ For more career opportunities, you may visit:
 * <a href="https://www.energetix.sg/careers.html" target="_blank">Energetix</a>
 * <a href="https://www.engie-sea.com/careers" target="_blank">ENGIE South East Asia</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/envision-digital-international-201734401W" target="_blank">Envision Digital</a>
-* <a href="https://www.evercomm.com/people.html" target="_blank">Evercomm Singapore</a>
+* <a href="https://www.linkedin.com/company/evercomm-singapore/jobs/" target="_blank">Evercomm Singapore</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/genplus-201302636Whttps://www.mycareersfuture.gov.sg/companies/genplus-201302636W" target="_blank">GenPlus</a>
 * <a href="https://www.kepinfra.com/en/careers/" target="_blank">Keppel Infrastructure</a>
 * <a href="https://www.linkedin.com/company/narada-asia-pacific-pte-ltd/jobs/" target="_blank">Narada Asia Pacific</a>
