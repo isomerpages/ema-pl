@@ -38,7 +38,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 **Timeline and Guidelines**  
 
-1. Registration period opens on 3 July and closed on 31 August 2023, 5pm.
+1. Registration period opens on 3 July and closed on 25 August 2023, 5pm.
 
 2. You are required to submit a **3-min Instagram video** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video.
 
@@ -56,7 +56,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-             Registration is now open till 31 August 2023.
+             Registration is now open till 255 August 2023.
          <br>
          <a href="https://go.gov.sg/segc2023" target="_blank">Click here to register for SEGC (Youth) – Junior/Senior.</a> 
         </strong>
