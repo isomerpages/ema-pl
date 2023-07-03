@@ -40,7 +40,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 1. Registration period opens on 3 July and closed on 31 August 2023, 5pm.
 
-2. You are required to submit a **__3-min Instagram video__** based on the challenge statement and an **__accompanying write-up of 200 words__** to elaborate on your video.
+2. You are required to submit a **3-min Instagram video** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video.
 
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
 
