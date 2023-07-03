@@ -32,7 +32,7 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 For more career opportunities, you may visit:
 
 * <a href="https://cleantechsolar.com/contact/careers/" target="_blank">Cleantech Solar</a>
-* <a href="https://durapowergroup.com/careers/" target="_blank">Durapower Group</a>
+* <a href="https://www.linkedin.com/company/durapower-holdings/jobs/" target="_blank">Durapower Group</a>
 * <a href="https://sg.linkedin.com/company/sunseap" target="_blank">EDPR Sunseap</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/eigen-energy-201528331C" target="_blank">Eigen Energy</a>
 * <a href="https://www.energetix.sg/careers.html" target="_blank">Energetix</a>
