@@ -32,13 +32,13 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 For more career opportunities, you may visit:
 
 * <a href="https://cleantechsolar.com/contact/careers/" target="_blank">Cleantech Solar</a>
-* <a href="https://durapowergroup.com/careers/" target="_blank">Durapower Group</a>
+* <a href="https://www.linkedin.com/company/durapower-holdings/jobs/" target="_blank">Durapower Group</a>
 * <a href="https://sg.linkedin.com/company/sunseap" target="_blank">EDPR Sunseap</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/eigen-energy-201528331C" target="_blank">Eigen Energy</a>
 * <a href="https://www.energetix.sg/careers.html" target="_blank">Energetix</a>
 * <a href="https://www.engie-sea.com/careers" target="_blank">ENGIE South East Asia</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/envision-digital-international-201734401W" target="_blank">Envision Digital</a>
-* <a href="https://www.evercomm.com/people.html" target="_blank">Evercomm Singapore</a>
+* <a href="https://www.linkedin.com/company/evercomm-singapore/jobs/" target="_blank">Evercomm Singapore</a>
 * <a href="https://www.mycareersfuture.gov.sg/companies/genplus-201302636Whttps://www.mycareersfuture.gov.sg/companies/genplus-201302636W" target="_blank">GenPlus</a>
 * <a href="https://www.kepinfra.com/en/careers/" target="_blank">Keppel Infrastructure</a>
 * <a href="https://www.linkedin.com/company/narada-asia-pacific-pte-ltd/jobs/" target="_blank">Narada Asia Pacific</a>
