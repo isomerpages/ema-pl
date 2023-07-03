@@ -40,7 +40,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 1. Registration period opens on 3 July and closed on 31 August 2023, 5pm.
 
-2. You are required to submit a __**3-min Instagram video**__ based on the challenge statement and an __**accompanying write-up of 200 words**__ to elaborate on your video.
+2. You are required to submit a **__3-min Instagram video__** based on the challenge statement and an **__accompanying write-up of 200 words__** to elaborate on your video.
 
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
 
@@ -50,13 +50,15 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 
 <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<br>
 <a href="/files/events/segc-youth/overview/SEGC%202023%20-%20JS%20Audience%20Favourite%20TCs_vf.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-             Registration is now open till 31 August 2023. 
-         <a href="https://go.gov.sg/segc2023" target="_blank"Click here to register for SEGC (Youth) – Junior/Senior.</a> 
+             Registration is now open till 31 August 2023.
+         <br>
+         <a href="https://go.gov.sg/segc2023" target="_blank">Click here to register for SEGC (Youth) – Junior/Senior.</a> 
         </strong>
         <br>
     </div>
