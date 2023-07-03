@@ -29,7 +29,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2023 - Junior/Senior
 
-<img alt="Overview, 8 April Registration Opens, by 20 May Submission, Mid June Virtual Clinic Sessions, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202022%20JR_SR%20Overview_v4.PNG" />  
+<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview.JPG" />  
   
 
 **Challenge Statement:**  
@@ -49,8 +49,8 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 5. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) award ceremony on 27 October 2023.
 
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv4.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Junior%20and%20Senior)%202022%20FAQsv4.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/SEGC%202023%20-%20JS%20Audience%20Favourite%20TCs_vf.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
