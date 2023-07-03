@@ -1,4 +1,4 @@
----
+oior---
 layout: homepage
 title: Powering Lives
 description: Brief site description here
@@ -18,8 +18,8 @@ sections:
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
             - title: "Singapore Energy Grand Challenge (Youth) 2023"
-              description: "Registration for SEGC (Youth) - IHL is now open till 28 July 2023. Join us for the virtual mass briefing held on 5 July 2023." 
-              url: /scholarships-awards/students/eis
+              description: "Calling all secondary and junior college students to design and co-create a more sustainable Singapore by 2050. Registration for the Junior/Senior categories is now open till 20 May 2023." 
+              url: /events/segc-youth/overview
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
               url: /energy-education-resources/video-library
