@@ -56,7 +56,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-             Registration is now open till 255 August 2023.
+             Registration is now open till 25 August 2023.
          <br>
          <a href="https://go.gov.sg/segc2023" target="_blank">Click here to register for SEGC (Youth) – Junior/Senior.</a> 
         </strong>
