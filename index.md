@@ -1,4 +1,4 @@
-oior---
+---
 layout: homepage
 title: Powering Lives
 description: Brief site description here
