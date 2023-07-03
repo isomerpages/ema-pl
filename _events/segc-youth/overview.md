@@ -29,7 +29,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2023 - Junior/Senior
 
-<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview.JPG" />  
+<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview%20(1).JPG" />  
   
 
 **Challenge Statement:**  
