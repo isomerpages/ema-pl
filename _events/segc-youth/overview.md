@@ -42,14 +42,13 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
    
 2. You are required to submit a **3-min Instagram video*** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video. 
 
-_Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
-
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
   
 4. Members of the public can participate by voting for the entry which best expresses their ideas for a low-carbon Singapore. Entry with the most likes will be selected as the “Audience Favourite".
   
 5. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) award ceremony on 27 October 2023.
 
+_*Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please also ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
 <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 <br>
@@ -122,8 +121,8 @@ Tuas Power is seeking proposals on the potential applications for its business. 
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
 <img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
-<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 60px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/Envision%20Digital%20Logo.png" />
-<img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Tuas%20Power_Logo_no%20border.jpg" />
+<img alt="Envision Digital" style="margin: 12px; width: 150px;height: 65px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Envision%20Digital%20Logo.png" />
+<img alt="Tuas Power" style="width: 132px;height: 70px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/Tuas%20Power_Logo_no%20border.jpg" />
     <br/>
     <br/>
     <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
