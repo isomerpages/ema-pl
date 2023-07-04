@@ -1,4 +1,4 @@
----
+![image](https://github.com/isomerpages/ema-pl/assets/91048626/323b27a2-e295-4017-9809-8a1c01041823)![image](https://github.com/isomerpages/ema-pl/assets/91048626/e368369b-a16c-44e6-8a97-3aed8ca58fed)![image](https://github.com/isomerpages/ema-pl/assets/91048626/9ff4e5b0-3e46-4173-8c37-fe958a50493c)---
 title: Overview
 permalink: /events/segc-youth/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
@@ -40,7 +40,9 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 1. Registration period opens on 3 July and closed on 25 August 2023, 5pm.
 
-2. You are required to submit a **3-min Instagram video** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video.
+2. You are required to submit a **3-min Instagram video*** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video. 
+
+_Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
 
