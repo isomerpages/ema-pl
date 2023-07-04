@@ -69,4 +69,51 @@ _Please note that your team's IG video can be hosted on the school's Instagram a
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
 
-Registration for the IHL category will open in mid July 2023,  interested participants may watch this space for more updates!
+<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview%20(1).JPG" />
+
+**There are 3 phases that you need to take note of:**  
+
+**Phase 1 – Virtual Mass Briefing:**  
+
+1. Register your interest for the virtual mass briefing to interact with EMA and industry representatives by 14 July 2023, 12:00pm.
+
+2. The company-specific problem statements tied to the challenge are:
+
+a. EDP Renewables: "EDP Renewables is seeking an innovative solution to maximise the solar energy output in a compact city such as Singapore, with the goal of further promoting sustainability and decarbonisation. 
+ 
+The proposed solution should consider various factors such as time for implementation, economic viability, geographical constraints, environmental conditions, and technological advancements, in order to maximise the overall share of renewables in Singapore’s electricity generation mix.”
+
+b. Envision Digital: “xxx”
+
+c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. 
+
+Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
+
+**Phase 2 – Submission:**  
+
+1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
+
+2. Submission period opens from 17 July to 15 Aug 2023, 5:00pm.
+
+**Phase 3 – Semi-Finals and Grand Final [Ongoing]:**  
+
+1. Semi-Finalists will present their proposals on 18 September 2023.
+
+2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
+
+<a href="/files/events/segc-youth/overview/Singapore Energy Grand Challenge (Youth) IHL 2022 FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
+<br/>
+<p style="text-align: center;">
+    <br/>
+    <span style="font-weight: bold;">SEGC (Youth) - IHL</span>
+    <br/>
+    <span style="font-style: italic; text-align: center;">In Partnership with:</span>
+    <br/>
+<img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
+<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 40px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/IMG_2281.png" />
+<img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas_power.jpg" />
+    <br/>
+    <br/>
+    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
+<img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.
