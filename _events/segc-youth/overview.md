@@ -111,7 +111,7 @@ Tuas Power is seeking proposals on the potential applications for its business. 
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
 <img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
-<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 70px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/IMG_2281.png" />
+<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 50px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/IMG_2281.png" />
 <img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas_power.jpg" />
     <br/>
     <br/>
