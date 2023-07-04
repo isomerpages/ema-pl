@@ -39,15 +39,15 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 **Timeline and Guidelines**  
 
 1. Registration period opens on 3 July and closed on 25 August 2023, 5pm.
-
+   
 2. You are required to submit a **3-min Instagram video*** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video. 
 
 _Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
-
+  
 4. Members of the public can participate by voting for the entry which best expresses their ideas for a low-carbon Singapore. Entry with the most likes will be selected as the “Audience Favourite".
-
+  
 5. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) award ceremony on 27 October 2023.
 
 
