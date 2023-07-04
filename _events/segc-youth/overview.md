@@ -1,4 +1,4 @@
-![image](https://github.com/isomerpages/ema-pl/assets/91048626/323b27a2-e295-4017-9809-8a1c01041823)![image](https://github.com/isomerpages/ema-pl/assets/91048626/e368369b-a16c-44e6-8a97-3aed8ca58fed)![image](https://github.com/isomerpages/ema-pl/assets/91048626/9ff4e5b0-3e46-4173-8c37-fe958a50493c)---
+---
 title: Overview
 permalink: /events/segc-youth/overview
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
