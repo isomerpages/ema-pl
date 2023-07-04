@@ -103,6 +103,17 @@ Tuas Power is seeking proposals on the potential applications for its business. 
 
 <a href="/files/events/segc-youth/overview/Singapore Energy Grand Challenge (Youth) IHL 2022 FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
+    <div style="text-align:center;">        
+        <strong>
+             Registration for the virtual mass briefing is now open till 14 July 2023.
+         <br>
+         <a href="https://go.gov.sg/segc2023-ihl" target="_blank">Click here to register for SEGC (Youth) - IHL. </a> 
+        </strong>
+        <br>
+    </div>
+</div>
+
 <br/>
 <p style="text-align: center;">
     <br/>
@@ -111,8 +122,8 @@ Tuas Power is seeking proposals on the potential applications for its business. 
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
 <img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
-<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 50px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/IMG_2281.png" />
-<img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas_power.jpg" />
+<img alt="Envision Digital" style="margin: 12px; width: 132px;height: 60px; max-width: 132px; display: inline-block;" src="/images/common/partner-logos/Envision%20Digital%20Logo.png" />
+<img alt="Tuas Power" style="width: 150px;height: 60px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Tuas%20Power_Logo_no%20border.jpg" />
     <br/>
     <br/>
     <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
