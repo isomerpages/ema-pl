@@ -68,7 +68,7 @@ _*Please note that your team's IG video can be hosted on the school's Instagram 
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
 
-<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview%20(1).JPG" />
+<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 18 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20IHL%20Overview.JPG" />
 
 **There are 3 phases that you need to take note of:**  
 
@@ -82,11 +82,9 @@ a. EDP Renewables: "EDP Renewables is seeking an innovative solution to maximise
  
 The proposed solution should consider various factors such as time for implementation, economic viability, geographical constraints, environmental conditions, and technological advancements, in order to maximise the overall share of renewables in Singapore’s electricity generation mix.”
 
-b. Envision Digital: “xxx”
+b. Envision Digital: “Envision Digital, a global leader in AIoT and net zero technologies, is committed to accelerating the digital transformation and decarbonisation for industries and cities. We are seeking to develop a comprehensive smart grid solution that will address the challenges of being 100% powered by renewable energy sources and optimising load management while ensuring grid stability. The solution should take into consideration the economic viability, cost-effectiveness, suitability for deployment, regulatory constraints, and technical maturity.”
 
-c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. 
-
-Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
+c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
 
 **Phase 2 – Submission:**  
 
@@ -100,7 +98,7 @@ Tuas Power is seeking proposals on the potential applications for its business. 
 
 2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
 
-<a href="/files/events/segc-youth/overview/Singapore Energy Grand Challenge (Youth) IHL 2022 FAQs.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20IHL%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
