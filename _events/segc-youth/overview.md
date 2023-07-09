@@ -92,7 +92,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 
 2. Submission period opens from 17 July to 15 Aug 2023, 5:00pm.
 
-**Phase 3 – Semi-Finals and Grand Final [Ongoing]:**  
+**Phase 3 – Semi-Finals and Grand Final:**  
 
 1. Semi-Finalists will present their proposals on 18 September 2023.
 
