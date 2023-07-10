@@ -13,7 +13,7 @@ The **Singapore Energy Grand Challenge (Youth)** invites all students to put you
 Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
-* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL) _[Stay tuned for more details!]_
+* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
 Top teams will win a total of $36,200 in cash prizes across the 3 categories!
 
