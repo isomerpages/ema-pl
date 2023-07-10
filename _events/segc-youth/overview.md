@@ -90,7 +90,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 
 1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
 
-2. Submission period opens from 17 July to 15 Aug 2023, 5:00pm.
+2. Submission period opens from 17 July to 15 August 2023, 5:00pm.
 
 **Phase 3 – Semi-Finals and Grand Final:**  
 
