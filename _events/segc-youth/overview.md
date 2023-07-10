@@ -13,7 +13,7 @@ The **Singapore Energy Grand Challenge (Youth)** invites all students to put you
 Form a team of two to four with your schoolmates to participate in any of the 3 categories and submit a proposal:
 
 * [Junior (lower secondary students) and Senior (upper secondary and junior college students)](#SEGC (Youth) - Junior/Senior)
-* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL) _[Stay tuned for more details!]_
+* [Institutes of Higher Learning (ITE, polytechnic and university students)](#SEGC (Youth) - IHL)
 
 Top teams will win a total of $36,200 in cash prizes across the 3 categories!
 
@@ -39,15 +39,16 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 **Timeline and Guidelines**  
 
 1. Registration period opens on 3 July and closed on 25 August 2023, 5pm.
-
-2. You are required to submit a **3-min Instagram video** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video.
+   
+2. You are required to submit a **3-min Instagram video*** based on the challenge statement and an **accompanying write-up of 200 words** to elaborate on your video. 
 
 3. Submissions will be judged according to the criteria of relevance, creativity, and presentation.
-
+  
 4. Members of the public can participate by voting for the entry which best expresses their ideas for a low-carbon Singapore. Entry with the most likes will be selected as the “Audience Favourite".
-
+  
 5. The top 3 teams of both Junior and Senior Categories will be recognised at the SEGC (Youth) award ceremony on 27 October 2023.
 
+_*Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please also ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
 <a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 <br>
@@ -67,4 +68,60 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
 
-Registration for the IHL category will open in mid July 2023,  interested participants may watch this space for more updates!
+<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 18 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20IHL%20Overview.JPG" />
+
+**There are 3 phases that you need to take note of:**  
+
+**Phase 1 – Virtual Mass Briefing:**  
+
+1. Register your interest for the virtual mass briefing to interact with EMA and industry representatives by 14 July 2023, 12:00pm.
+
+2. The company-specific problem statements tied to the challenge are:
+
+a. EDP Renewables: "EDP Renewables is seeking an innovative solution to maximise the solar energy output in a compact city such as Singapore, with the goal of further promoting sustainability and decarbonisation. 
+ 
+The proposed solution should consider various factors such as time for implementation, economic viability, geographical constraints, environmental conditions, and technological advancements, in order to maximise the overall share of renewables in Singapore’s electricity generation mix.”
+
+b. Envision Digital: “Envision Digital, a global leader in AIoT and net zero technologies, is committed to accelerating the digital transformation and decarbonisation for industries and cities. We are seeking to develop a comprehensive smart grid solution that will address the challenges of being 100% powered by renewable energy sources and optimising load management while ensuring grid stability. The solution should take into consideration the economic viability, cost-effectiveness, suitability for deployment, regulatory constraints, and technical maturity.”
+
+c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
+
+**Phase 2 – Submission:**  
+
+1. Submit a PowerPoint deck (maximum of 7 slides in .pdf) to showcase the proposed solution(s) to address the selected company-specific problem statement. 
+
+2. Submission period opens from 17 July to 15 August 2023, 5:00pm.
+
+**Phase 3 – Semi-Finals and Grand Final:**  
+
+1. Semi-Finalists will present their proposals on 18 September 2023.
+
+2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
+
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20IHL%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
+    <div style="text-align:center;">        
+        <strong>
+             Registration for the virtual mass briefing is now open till 14 July 2023.
+         <br>
+         <a href="https://go.gov.sg/segc2023-ihl" target="_blank">Click here to register for SEGC (Youth) - IHL. </a> 
+        </strong>
+        <br>
+    </div>
+</div>
+
+<br/>
+<p style="text-align: center;">
+    <br/>
+    <span style="font-weight: bold;">SEGC (Youth) - IHL</span>
+    <br/>
+    <span style="font-style: italic; text-align: center;">In Partnership with:</span>
+    <br/>
+<img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
+<img alt="Envision Digital" style="margin: 12px; width: 150px;height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Envision%20Digital%20Logo.png" />
+<img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Tuas%20Power_Logo_no%20border.jpg" />
+    <br/>
+    <br/>
+    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
+<img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
