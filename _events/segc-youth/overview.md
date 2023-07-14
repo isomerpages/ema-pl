@@ -103,7 +103,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-             Registration for the virtual mass briefing is now open till 14 July 2023.
+             Register and join us for the virtual mass briefing on 17 July 2023, 3pm.
          <br>
          <a href="https://go.gov.sg/segc2023-ihl" target="_blank">Click here to register for SEGC (Youth) - IHL. </a> 
         </strong>
