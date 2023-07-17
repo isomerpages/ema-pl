@@ -301,7 +301,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 ---
 <a id="2021" href=""></a>
 ## 2021
-![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2).png)
+![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
 The second edition of SEGC (Youth) was launched in March 2021 to engage youth on sustainability issues and garner innovative ideas based on the theme “How would your carbon-free school or neighbourhood in Singapore look like in 2050?”. A total of 87 teams across 29 secondary schools and junior colleges took part in the challenge. Participants had to use Microsoft’s Minecraft: Education Edition to create their ideal carbon-free world and showcase their aspirations for Singapore.
 
 ### Junior Category
