@@ -10,7 +10,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 <a id="2022" href=""></a>
 ## 2022
-![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022v2.png)
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022.png)
 The third edition of SEGC (Youth) aims to engage youth on sustainability issues and co-create innovative energy ideas based on the theme “As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?”. EMA partnered with Keppel Infrastructure, Schneider Electric and Sembcorp industries and presented a new category for Institute of Higher Learning (IHL). Students were challenged to come up with sustainable solutions that addressed real-world challenges faced by energy companies today.
 
 Over 114 teams across 36 schools took part across the three categories of Junior, Senior and IHL.
