@@ -72,7 +72,7 @@ Deposit your resume, indicate your period of availability and get ready to go fu
     <div style="text-align:center; font-size: 15px;" >
         Please note that the internship programme of our website is undergoing revamp and will be temporarily unavailable. We apologise for any inconvenience caused.
 
-        In the meantime, you may wish to explore exciting <a href="https://www.poweringlives.gov.sg/careers/clean-energy-sector/" target="_blank">career opportunities in the clean energy sector.
+        In the meantime, you may wish to explore exciting <a href="https://www.poweringlives.gov.sg/careers/clean-energy-sector/" target="_blank">career opportunities in the clean energy sector. </a>
       <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
         </span>
