@@ -7,7 +7,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 ### SEGC (Youth) 2023 - IHL Virtual Briefing
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/il8fn80BCR8" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/vViol-pbeNo" frameborder="0" allowfullscreen=""></iframe>
 
 For more resources, please visit:
   <br/>
