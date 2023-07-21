@@ -70,13 +70,11 @@ Deposit your resume, indicate your period of availability and get ready to go fu
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center; font-size: 15px;" >
-        <span>
-        <br/> To apply, please login to Powering Lives application portal with your Singpass.
+        Please note that the internship programme of our website is undergoing revamp and will be temporarily unavailable. We apologise for any inconvenience caused.
+        <br>
+        In the meantime, you may wish to explore exciting <a href="https://www.poweringlives.gov.sg/careers/clean-energy-sector/" target="_blank">career opportunities in the clean energy sector.</a>
+      <div style="text-align:center;" >
+        <span style="text-align:center; font-size: 15px;">
         </span>
-        <br/>
-        <br/>
-         <a id="HyperLinkLoginSingPass" href="https://apply.poweringlives.gov.sg/SPLogin/default.aspx?o=login">
-                    <img alt="Log in with Singpass" id="ImageSingPass" src="/images/common/log_in_with_singpass.svg" style="width: 200px; margin-top: 10px; margin-bottom: 10px;">
-        </a>
     </div>
 </div>
