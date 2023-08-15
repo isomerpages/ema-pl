@@ -68,7 +68,7 @@ _*Please note that your team's IG video can be hosted on the school's Instagram 
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
 
-<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 18 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20IHL%20Overview.JPG" />
+<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 25 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20IHL%20Overview_v2.JPG" />
 
 **There are 3 phases that you need to take note of:**  
 
@@ -94,18 +94,16 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 
 **Phase 3 – Semi-Finals and Grand Final:**  
 
-1. Semi-Finalists will present their proposals on 18 September 2023.
+1. Semi-Finalists will present their proposals on 25 September 2023.
 
 2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20IHL%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20IHL%202023%20FAQs_vf2.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-             Register and join us for the virtual mass briefing on 17 July 2023, 3pm.
-         <br>
-         <a href="https://go.gov.sg/segc2023-ihl" target="_blank">Click here to register for SEGC (Youth) - IHL. </a> 
+             Submissions are closed. Shortlisted teams will be contacted by end August 2023.
         </strong>
         <br>
     </div>
