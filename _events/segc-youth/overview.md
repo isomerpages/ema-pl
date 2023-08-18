@@ -29,7 +29,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2023 - Junior/Senior
 
-<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview%20(1).JPG" />  
+<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview_v2.JPG" />  
   
 
 **Challenge Statement:**  
@@ -50,7 +50,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 _*Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please also ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf%20(1).pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 <br>
 <a href="/files/events/segc-youth/overview/SEGC%202023%20-%20JS%20Audience%20Favourite%20TCs_vf.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
 
