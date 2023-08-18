@@ -50,9 +50,9 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 _*Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please also ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf%20(1).pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 <br>
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf%20(1).pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
+<a href="/files/events/segc-youth/overview/SEGC%202023%20-%20JS%20Audience%20Favourite%20TCs_vf.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
