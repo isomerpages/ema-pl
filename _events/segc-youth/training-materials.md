@@ -13,5 +13,5 @@ For more resources, please visit:
   <br/>
   - <a href="https://www.ema.gov.sg/our-energy-story.aspx" target="_blank">Singapore Energy Story</a>
   <br/>
-  - <a href="https://www.ema.gov.sg/energy-2050-committee-report.aspx" target="_blank">Energy 2050 Committee Report</a>
+  - <a href="https://www.ema.gov.sg/resources/industry-reports/energy-2050-committee-report" target="_blank">Energy 2050 Committee Report</a>
   <br/>
