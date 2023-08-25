@@ -5,7 +5,6 @@ description: Brief site description here
 image: /images/home/hero-banner.png 
 permalink: /
 #notification:  Singpass and Corppass will be undergoing maintenance from 8 Mar 2022 (09:00) to 8 Mar 2022 (17:00), and will not be available during this period. We apologise for any inconvenience.
-
 sections:
     - hero:
         title: Powering Lives
@@ -18,7 +17,7 @@ sections:
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
             - title: "Singapore Energy Grand Challenge (Youth) 2023"
-              description: "Calling all secondary and junior college students to design and co-create a more sustainable Singapore by 2050. Registration for the "Audience Favourite" in the Junior/Senior categories is now open till 31 August 2023." 
+              description: "Calling all secondary and junior college students to design and co-create a more sustainable Singapore by 2050. Participate in the "Audience Favourite" for the Junior/Senior categories now (open till 31 August 2023)." 
               url: /events/segc-youth/overview
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
@@ -34,4 +33,3 @@ sections:
 #        title: Media
 #        subtitle: Learn more
 #        button: View More
----
