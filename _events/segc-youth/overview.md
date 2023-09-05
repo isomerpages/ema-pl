@@ -57,7 +57,7 @@ _*Please note that your team's IG video can be hosted on the school's Instagram 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
         <strong>
-            Submissions are closed. Winners will be contacted by September 2023.
+            Submissions are closed. Winners will be contacted by end September 2023.
         </strong>
         <br>
     </div>
