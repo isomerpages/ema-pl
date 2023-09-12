@@ -1,6 +1,6 @@
 ---
 title: EMA Scholarship
-permalink: /scholarships-awards/students/ema-scholarship
+permalink: /scholarships-awards/students/ema-scholarship/
 third_nav_title: Students
 
 ---

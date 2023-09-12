@@ -1,6 +1,6 @@
 ---
 title: EDP Renewables 
-permalink: /about/industry-partners/edp-renewables
+permalink: /about/industry-partners/edp-renewables/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/sunseap_large.png" alt="Sunseap Group - Floating PV" style="width: 450px; height: 312px;" /><br/>

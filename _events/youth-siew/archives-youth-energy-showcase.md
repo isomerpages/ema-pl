@@ -1,6 +1,6 @@
 ---
 title: Archives (Youth Energy Showcase)
-permalink: /events/youth-at-siew/archives-youth-energy-showcase
+permalink: /events/youth-at-siew/archives-youth-energy-showcase/
 third_nav_title: Youth@SIEW
 ---
 * [2021](#2021)

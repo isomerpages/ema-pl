@@ -1,6 +1,6 @@
 ---
 title: YTL PowerSeraya
-permalink: /about/industry-partners/ytl-powerseraya
+permalink: /about/industry-partners/ytl-powerseraya/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/ytl_power_seraya_large.jpg" alt="YTL PowerSeraya" style="width: 450px; height: 312px;" /><br/>

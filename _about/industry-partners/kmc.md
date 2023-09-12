@@ -1,6 +1,6 @@
 ---
 title: Keppel Merlimau Cogen
-permalink: /about/industry-partners/kmc
+permalink: /about/industry-partners/kmc/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/kmc_large.jpg" alt="KMC" style="width: 450px; height: 312px;" /><br/>

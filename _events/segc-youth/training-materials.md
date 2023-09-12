@@ -1,6 +1,6 @@
 ---
 title: Training Materials
-permalink: /events/segc-youth/training-materials
+permalink: /events/segc-youth/training-materials/
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Singapore-Industry Scholarship (SgIS)
-permalink: /scholarships-awards/students/sgis
+permalink: /scholarships-awards/students/sgis/
 third_nav_title: Students
 ---
 ![Singapore Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)

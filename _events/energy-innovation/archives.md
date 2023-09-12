@@ -1,6 +1,6 @@
 ---
 title: Archives
-permalink: /events/energy-innovation/archives
+permalink: /events/energy-innovation/archives/
 published: false
 third_nav_title: Energy Innovation
 ---

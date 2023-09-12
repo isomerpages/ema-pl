@@ -1,6 +1,6 @@
 ---
 title: Archives (Events)
-permalink: /events/youth-at-siew/archives-events
+permalink: /events/youth-at-siew/archives-events/
 third_nav_title: Youth@SIEW
 ---
 * [2021](#2021)

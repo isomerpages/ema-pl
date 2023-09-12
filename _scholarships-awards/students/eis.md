@@ -1,6 +1,6 @@
 ---
 title: Energy-Industry Scholarship (EIS)
-permalink: /scholarships-awards/students/eis
+permalink: /scholarships-awards/students/eis/
 third_nav_title: Students
 
 

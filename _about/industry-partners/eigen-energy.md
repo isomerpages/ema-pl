@@ -1,6 +1,6 @@
 ---
 title: Eigen Energy
-permalink: /about/industry-partners/eigen-energy
+permalink: /about/industry-partners/eigen-energy/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/eigen_energy_large.png" alt="Eigen Energy" style="width: 450px; height: 312px;" /><br/>

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /events/segc-youth/overview
+permalink: /events/segc-youth/overview/
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 ![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/SEGC%20Banner%20V3.png)

@@ -1,6 +1,6 @@
 ---
 title: Clean Energy Sector
-permalink: /careers/clean-energy-sector
+permalink: /careers/clean-energy-sector/
 ---
 ![Clean Energy Cover](/images/careers/clean_energy_cover.jpg)
 

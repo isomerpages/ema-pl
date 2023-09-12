@@ -1,6 +1,6 @@
 ---
 title: Winners
-permalink: /events/segc-youth/winners
+permalink: /events/segc-youth/winners/
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
 
