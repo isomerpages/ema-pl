@@ -119,5 +119,5 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 <img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas%20power_logo_no%20border.jpg" />
     <br/>
     <br/>
-    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo-2023.jpg" />
-<img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />
+    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="/images/common/ema-logo-2023.jpg" />
+<img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="/images/common/ema-pl-logo.png" />
