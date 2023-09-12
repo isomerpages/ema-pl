@@ -43,8 +43,8 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-staging: https://ema-pl-staging.netlify.app
-prod: https://ema-pl-prod.netlify.app
+staging: https://staging.do2ei08om9kef.amplifyapp.com/
+prod: https://master.do2ei08om9kef.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
