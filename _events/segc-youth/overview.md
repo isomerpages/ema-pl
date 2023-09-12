@@ -3,7 +3,7 @@ title: Overview
 permalink: /events/segc-youth/overview/
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 ---
-![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/SEGC%20Banner%20V3.png)
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/segc%20banner%20v3.png)
 <p style="text-align: center; font-weight: bold;">
 </p>
 
@@ -29,7 +29,7 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 <a id="SEGC (Youth) - Junior/Senior" href=""></a>
 ### Overview of SEGC (Youth) 2023 - Junior/Senior
 
-<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20JS%20Overview_v2.JPG" />  
+<img alt="Overview, 3 Jul Registration Opens, by 25 Aug Submission, by 31 Aug Screenshot Verification, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/segc%202023%20-%20js%20overview_v2.jpg" />  
   
 
 **Challenge Statement:**  
@@ -50,9 +50,9 @@ In addition, there will be an “Audience Favourite” where the Instagram Video
 
 _*Please note that your team's IG video can be hosted on the school's Instagram account or team member’s personal account. Please also ensure the IG account is set as "Public" during the competition period and include the hashtags #SEGCYouth2023 and #Poweringlives in your caption._
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20Junior-Senior%202023%20FAQs_vf%20(1).pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/singapore%20energy%20grand%20challenge%20(youth)%20junior-senior%202023%20faqs_vf%20(1).pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 <br>
-<a href="/files/events/segc-youth/overview/SEGC%202023%20-%20JS%20Audience%20Favourite_vf2.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
+<a href="/files/events/segc-youth/overview/segc%202023%20-%20js%20audience%20favourite_vf2.pdf" target="_blank">Click here to see the Terms and Conditions for the Audience Favourite.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
@@ -66,7 +66,7 @@ _*Please note that your team's IG video can be hosted on the school's Instagram 
 <a id="SEGC (Youth) - IHL" href=""></a>
 ### Overview of SEGC (Youth) 2023 - IHL
 
-<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 25 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/SEGC%202023%20-%20IHL%20Overview_v2.JPG" />
+<img alt="Overview, 10 Jul Registration Opens, by 15 Aug Submission, 25 Aug Semi-finals, End Oct Award Ceremony" style="width: 505px; height: 260px; max-width: 505px;" src="/images/events/segc/segc%202023%20-%20ihl%20overview_v2.jpg" />
 
 **There are 3 phases that you need to take note of:**  
 
@@ -96,7 +96,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
 
 2. Finalists will be mentored by the industry representatives to refine their ideas, and pitch to the judging panel and live audience at Youth@SIEW on 27 October 2023.
 
-<a href="/files/events/segc-youth/overview/Singapore%20Energy%20Grand%20Challenge%20(Youth)%20IHL%202023%20FAQs_vf2.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
+<a href="/files/events/segc-youth/overview/singapore%20energy%20grand%20challenge%20(youth)%20ihl%202023%20faqs_vf2.pdf" target="_blank">Click here to see a list of frequently asked questions.</a>
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">    
     <div style="text-align:center;">        
@@ -114,10 +114,10 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
     <br/>
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
-<img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/EDPR_Logo_no%20border.jpg" />
-<img alt="Envision Digital" style="margin: 12px; width: 150px;height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Envision%20Digital%20Logo.png" />
-<img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Tuas%20Power_Logo_no%20border.jpg" />
+<img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/edpr_logo_no%20border.jpg" />
+<img alt="Envision Digital" style="margin: 12px; width: 150px;height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/envision%20digital%20logo.png" />
+<img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas%20power_logo_no%20border.jpg" />
     <br/>
     <br/>
-    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/EMA-Logo-2023.jpg" />
+    <img alt="Energy Market Authority" style="width: 150px; height: 88px; max-width: 150px; display: inline-block;" src="images/common/ema-logo-2023.jpg" />
 <img alt="Powering Lives" style="width: 150px; height: 92px; max-width: 150px; display: inline-block;" src="images/common/ema-pl-logo.png" />

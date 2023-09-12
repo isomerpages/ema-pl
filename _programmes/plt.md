@@ -2,7 +2,7 @@
 title: Powering Lives Trails (Experiential Learning Journeys)
 permalink: /programmes/plt/
 ---
-![Experiential Learning Journey (Photograph)](/images/programmes/experiential-learning-journeys/Events_sub.jpg)
+![Experiential Learning Journey (Photograph)](/images/programmes/experiential-learning-journeys/events_sub.jpg)
 
 Get real-world insights into the workings of the Power sector with our experiential learning journeys, and experience first-hand how we secure a reliable energy supply to power our little red dot.
 
@@ -31,17 +31,17 @@ _The PLT is currently on hold. Please check back soon!_
 
 &nbsp;
 
-![University students and staff after a visit to the Singapore LNG Terminal on Jurong Island](/images/programmes/experiential-learning-journeys/SLNG%20(replace).jpg)
+![University students and staff after a visit to the Singapore LNG Terminal on Jurong Island](/images/programmes/experiential-learning-journeys/slng%20(replace).jpg)
 _University students and staff after a visit to the Singapore LNG Terminal on Jurong Island._  
 
-![Sembcorp Industries Senior Engineer Ang Kang Jie sharing with students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/programmes/experiential-learning-journeys/Sembcorp-PLT.jpg)
+![Sembcorp Industries Senior Engineer Ang Kang Jie sharing with students on operations at the Sembcorp Cogen @ Banyan Plant.](/images/programmes/experiential-learning-journeys/sembcorp-plt.jpg)
 _Sembcorp Industries Senior Engineer Ang Kang Jie sharing with students on operations at the Sembcorp Cogen @ Banyan Plant._  
 
-![Participants learning about operations at the Power System Control Centre.](/images/programmes/experiential-learning-journeys/PSCC%20photo.jpg)
+![Participants learning about operations at the Power System Control Centre.](/images/programmes/experiential-learning-journeys/pscc%20photo.jpg)
 _Participants learning about operations at the Power System Control Centre._  
 
-![ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.](/images/programmes/experiential-learning-journeys/Ubin%20(replace).jpg)
+![ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape.](/images/programmes/experiential-learning-journeys/ubin%20(replace).jpg)
 _ITE students visiting the Pulau Ubin Micro-grid Test-bed taking part in a game to learn more about Singapore’s renewable energy landscape._  
 
-![Satisfied faces after a fruitful visit to the Singapore District Cooling Plant.](/images/programmes/experiential-learning-journeys/SDC.JPG)
+![Satisfied faces after a fruitful visit to the Singapore District Cooling Plant.](/images/programmes/experiential-learning-journeys/sdc.jpg)
 _Satisfied faces after a fruitful visit to the Singapore District Cooling Plant._  

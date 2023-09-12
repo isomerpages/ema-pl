@@ -18,7 +18,7 @@ Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), an
 
 <a href="https://www.skillsfuture.gov.sg/skills-framework/energyandpower" target="_blank">Find out more about SFwEP here.</a> 
 
-![Value Chain](/images/careers/SFwEP-value-chain.png)
+![Value Chain](/images/careers/sfwep-value-chain.png)
 
 ### The Electricity Sector  
 Singapore’s electricity grid is one of the most reliable in the world, logging an interruption time of less than one minute on average per customer annually. Singapore’s infrastructure is heavily dependent on electricity, so maintaining a secure and affordable energy supply is essential.

@@ -4,7 +4,7 @@ permalink: /scholarships-awards/students/ema-scholarship/
 third_nav_title: Students
 
 ---
-![EMA Scholarship](/images/scholarships/youth/EMA_FB_Banner_update.png)
+![EMA Scholarship](/images/scholarships/youth/ema_fb_banner_update.png)
 
 ### Introduction to EMA Scholarship
 

@@ -13,7 +13,7 @@ Against the backdrop of rising climate change concerns, Singapore is committed t
 <a id="Job Skills Insights" href=""></a>
 ### Job Skills Insights
 
-<a href="/files/careers/EMA-Infographic-FA.pdf" target="_blank">Find out more about the new job roles and skills required to support the Energy Transition here.</a>
+<a href="/files/careers/ema-infographic-fa.pdf" target="_blank">Find out more about the new job roles and skills required to support the Energy Transition here.</a>
 
 <a id="Video Library" href=""></a>
 ### Video Library

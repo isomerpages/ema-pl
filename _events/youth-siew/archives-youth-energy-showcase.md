@@ -17,7 +17,7 @@ third_nav_title: Youth@SIEW
 **Summary of project**  
 This project aims to utilise a climate-friendly energy source (water) to generate power to secure a low-carbon future, aligning with government efforts to build Singapore's climate resilience and prepare for the long-term effects of climate change. This project explores the use of hydropower to generate electricity without generating carbon emissions.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] ITECC_hydropower.pdf" target="_blank">Click here to view the project poster.</a>  
+<a href="/files/events/youth-siew/2021/[e-poster] itecc_hydropower.pdf" target="_blank">Click here to view the project poster.</a>  
 
 **2. Water Saving Device for Washing Machines**  
 <iframe width="400" height="225" src="https://www.youtube.com/embed/qJGZ8rM-iYg" frameborder="0" allowfullscreen=""></iframe> 
@@ -25,7 +25,7 @@ This project aims to utilise a climate-friendly energy source (water) to generat
 **Summary of project**  
 This project aims to design and construct a simple device that can divert drainage water from the washing machine's drainage pipe at the right time so that the collection of the last rinse water is effortless. The device should be cheap and simple, can be retrofitted to the washing machine and should not require any electricity to function.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] ITECC_washingmachine.pdf" target="_blank">Click here to view the project poster.</a> 
+<a href="/files/events/youth-siew/2021/[e-poster] itecc_washingmachine.pdf" target="_blank">Click here to view the project poster.</a> 
 
 
 ### Republic Polytechnic
@@ -34,14 +34,14 @@ This project aims to design and construct a simple device that can divert draina
 **Summary of project**  
 This project aims to study and develop various cooling systems that can be deployed to reduce the temperature of solar panels to improve their output efficiency. The ability to reduce the operating temperature of solar panels will enable Singapore to utilise less space in solar panel installation and increase solar generated electricity.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] RP_solar.pdf" target="_blank">Click here to view the project poster.</a> 
+<a href="/files/events/youth-siew/2021/[e-poster] rp_solar.pdf" target="_blank">Click here to view the project poster.</a> 
 
 **4. Development of Multi-Functional Passive Cooling Self-Cleaning-Self-Disinfection Film in Greenhouses**  
 
 **Summary of project**  
 This project aims to study the performance of various multi-layered films used in the windows of greenhouses by using magnetron sputtering film deposition technique. The ideal films to be used for greenhouses should have high UV filtration, low near-infrared radiation (NIR) transmittivity, good light diffusion and self-cleaning-self-disinfection properties.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] RP_greenhouse.pdf" target="_blank">Click here to view the project poster.</a> 
+<a href="/files/events/youth-siew/2021/[e-poster] rp_greenhouse.pdf" target="_blank">Click here to view the project poster.</a> 
 
 ### Singapore Polytechnic
 **5. Net Zero, Renewable Energy Vertical Farming**  
@@ -50,7 +50,7 @@ This project aims to study the performance of various multi-layered films used i
 **Summary of project**  
 This project aims to design, develop and demonstrate renewable energy-based, net-zero energy solutions for urban hydroponic vertical farming systems.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] SP_verticalfarming.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] sp_verticalfarming.pdf" target="_blank">Click here to view the project poster.</a>
 
 **6. Real-time Monitoring System of DC Micro-Grid with Health Prognosis of Renewable Energy**  
 <iframe width="400" height="225" src="https://www.youtube.com/embed/7V6IcGGkJ4A" frameborder="0" allowfullscreen=""></iframe> 
@@ -58,7 +58,7 @@ This project aims to design, develop and demonstrate renewable energy-based, net
 **Summary of project**  
 This project aims to develop a real-time condition monitoring system that can track the health of a DC micro-grid in real-time. With the data collected, the team is also able to conduct degradation studies to predict and prevent problems from occurring.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] SP_dcmicrogrid.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] sp_dcmicrogrid.pdf" target="_blank">Click here to view the project poster.</a>
 
 ### Temasek Polytechnic
 **7. Shell Eco-Marathon Urban Concept Car**  
@@ -67,7 +67,7 @@ This project aims to develop a real-time condition monitoring system that can tr
 **Summary of project**  
 This project aims to build a functional, high-efficiency car powered by hydrogen fuel cell technology with the use of high-efficiency motors in a two-wheel-drive system. This prototype aims to provide an alternative to petrol-based vehicles to help Singapore cut down on pollution.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] TP_shellcar.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] tp_shellcar.pdf" target="_blank">Click here to view the project poster.</a>
 
 **8. Urban Farming with a Twist**  
 <iframe width="400" height="225" src="https://www.youtube.com/embed/-ImRgkeh0Kc" frameborder="0" allowfullscreen=""></iframe> 
@@ -77,7 +77,7 @@ This project aims to improve the energy efficiency of solar panels, by reducing 
 
 The project also efficiently utilises space and energy resources by having the hydroponics system powered by the solar panel. By combining solar panels and hydroponic crops, this solution can be replicated to tackle land scarcity by maximising Singapore’s existing space. 
 
-<a href="/files/events/youth-siew/2021/[E-Poster] TP_urbanfarming.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] tp_urbanfarming.pdf" target="_blank">Click here to view the project poster.</a>
 
 ### Nanyang Technological University
 **9. AI-Assisted Smart Air-Conditioning Control**  
@@ -86,7 +86,7 @@ The project also efficiently utilises space and energy resources by having the h
 **Summary of project**  
 This project aims to improve energy efficiency and indoor human comfort through the development of an AI-based smart building systems control solution in buildings employing building management systems (BMS). The AI-based solution is innovative as it departs from the conventional reactive control, and employs a predictive control strategy by synergising online machine learning and model predictive control for smart building energy management applications.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] NTU_AI.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] ntu_ai.pdf" target="_blank">Click here to view the project poster.</a>
 
 ### Singapore Institute of Technology
 **10. Design and Operation Optimisation of a Multi-Energy Micro-Grid**  
@@ -94,7 +94,7 @@ This project aims to improve energy efficiency and indoor human comfort through 
 **Summary of project**  
 The project aims to (i) determine the optimal sizes of components in the Multi-Energy Micro-grid (MEMG) which is also called design optimisation; (ii) decide on the optimal schedule for a MEMG given a fixed optimal sizing; and (iii) implement both optimisation problems in Python using an Optimiser software. The Gurobi Optimiser captures the key features of the optimisation problem in a mathematical optimisation model, and generates an optimal solution based on the defined decision variables. In order to solve the optimisation problem, the user needs to define the problem including objective functions, decision variables and constraints in Python based on the format required by Gurobi. Gurobi, as a solver, will then retrieve the defined optimisation problem and solve it.
 
-<a href="/files/events/youth-siew/2021/[E-Poster] SIT_memg.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2021/[e-poster] sit_memg.pdf" target="_blank">Click here to view the project poster.</a>
 
 ---
 <a id="2020" href=""></a>
@@ -106,7 +106,7 @@ The project aims to (i) determine the optimal sizes of components in the Multi-E
 **Summary of project**  
 This project aims to leverage the difference in electricity prices at night and harness this energy to be used in the daytime. EnergICE is a new concept of energy storage, in which thermal energy is “stored” in cool/ frozen fluids that can then be channelled back into the air-conditioning system during the day, when electricity rates are higher
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20ITE%20College%20East_EnergICE.pdf" target="_blank">Click here to view the project poster.</a>  
+<a href="/files/events/youth-siew/2020/[e-poster]%20ite%20college%20east_energice.pdf" target="_blank">Click here to view the project poster.</a>  
 
 ### ITE College Central
 **A Pop-up Visual and Interactive Data Acquisition System**  
@@ -115,7 +115,7 @@ This project aims to leverage the difference in electricity prices at night and 
 **Summary of project**  
 This project aims to design and develop a data acquisition system, equipped with visual and interactive aids, to facilitate learners in acquiring the fundamentals of data acquisition. 
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20ITE%20College%20Central_A%20Pop-up%20Visual%20and%20Interactive%20Data%20Acquisition%20System.pdf" target="_blank">Click here to view the project poster.</a>  
+<a href="/files/events/youth-siew/2020/[e-poster]%20ite%20college%20central_a%20pop-up%20visual%20and%20interactive%20data%20acquisition%20system.pdf" target="_blank">Click here to view the project poster.</a>  
 
 ### Ngee Ann Polytechnic
 **Ecotile**  
@@ -124,7 +124,7 @@ This project aims to design and develop a data acquisition system, equipped with
 **Summary of project**  
 This project aims to design a modular solution to harness energy from the Sun that can be fully integrated into today's modern landscape, while complementing existing sustainable systems and infrastructure. The goal is to increase the types of green energy devices available for the world to use, as some green energy devices like wind turbines are not feasible for use in Singapore.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20NgeeAnn%20Polytechnic_EcoTile.pdf" target="_blank">Click here to view the project poster.</a>  
+<a href="/files/events/youth-siew/2020/[e-poster]%20ngeeann%20polytechnic_ecotile.pdf" target="_blank">Click here to view the project poster.</a>  
 
 ### Republic Polytechnic
 **Harnessing Energy from Human Motion using Mechanical Energy Harvester**  
@@ -134,9 +134,9 @@ This project aims to design a modular solution to harness energy from the Sun th
 **Summary of project**  
 This project aims to develop a vibrational energy harvester capable of harnessing energy from motion. The energy generated will be transferred to and stored in an energy storage device (e.g. Li-Ion battery) via a power management circuit. Eventually, the goal is to develop a wearable energy harvester prototype that can charge up portable electronic devices (e.g. mobile phones) through human motion.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20Republic%20Polytechnic_Harnessing%20Energy%20from%20Human%20Motion%20using%20Mechanical%20Energy%20Harvester.pdf" target="_blank">Click here to view the project poster.</a>  
+<a href="/files/events/youth-siew/2020/[e-poster]%20republic%20polytechnic_harnessing%20energy%20from%20human%20motion%20using%20mechanical%20energy%20harvester.pdf" target="_blank">Click here to view the project poster.</a>  
 
-<a href="/files/events/youth-siew/2020/RP_FINALCOUNTDOWN.pdf" target="_blank">Click here to view the project presentation.</a>
+<a href="/files/events/youth-siew/2020/rp_finalcountdown.pdf" target="_blank">Click here to view the project presentation.</a>
 
 ### Singapore Polytechnic
 **Solar Garden Pavilion**  
@@ -146,7 +146,7 @@ This project aims to develop a vibrational energy harvester capable of harnessin
 **Summary of project**  
 This project aims to design and build a smart, green energy, sustainable, small full-scale prototype solar pavilion space for study or leisure, that can be placed in public parks or gardens. The team has designed a solar powered pavilion prototype which can provide a sheltered sitting space with air cooling, lighting and charging for mobile devices.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20Singapore%20Polytechnic_Solar%20Garden%20Pavilion.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2020/[e-poster]%20singapore%20polytechnic_solar%20garden%20pavilion.pdf" target="_blank">Click here to view the project poster.</a>
 
 ### Temasek Polytechnic
 **Ecoshower**  
@@ -156,9 +156,9 @@ This project aims to design and build a smart, green energy, sustainable, small 
 **Summary of project**  
 This project aims to develop an intelligent system to help consumers save water and energy.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20Temasek%20Polytechnic_ECO%20Shower.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2020/[e-poster]%20temasek%20polytechnic_eco%20shower.pdf" target="_blank">Click here to view the project poster.</a>
 
-<a href="/files/events/youth-siew/2020/TP%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
+<a href="/files/events/youth-siew/2020/tp%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
 
 ### Nanyang Technological University
 **Nanyang Venture 11**  
@@ -168,9 +168,9 @@ This project aims to develop an intelligent system to help consumers save water 
 **Summary of project**  
 The project team aims to design, build and operate energy efficient vehicles that are sustainable. 
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20Nanyang%20Technological%20University_Nanyang%20Venture%2011.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2020/[e-poster]%20nanyang%20technological%20university_nanyang%20venture%2011.pdf" target="_blank">Click here to view the project poster.</a>
 
-<a href="/files/events/youth-siew/2020/NTU%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
+<a href="/files/events/youth-siew/2020/ntu%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
 
 ### National University of Singapore
 **The Next Generation of Electric Power Transfer**  
@@ -180,9 +180,9 @@ The project team aims to design, build and operate energy efficient vehicles tha
 **Summary of project**  
 This project aims to improve electric vehicle (EV) battery safety, elevate consumer willingness to adopt EVs to reduce vehicular pollution, and increase renewable power energy storage for city grid.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20National%20University%20of%20Singapore_The%20Next%20Generation%20of%20Electric%20Power%20Transfer.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2020/[e-poster]%20national%20university%20of%20singapore_the%20next%20generation%20of%20electric%20power%20transfer.pdf" target="_blank">Click here to view the project poster.</a>
 
-<a href="/files/events/youth-siew/2020/NUS%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
+<a href="/files/events/youth-siew/2020/nus%20slides.pdf" target="_blank">Click here to view the project presentation.</a>
 
 ### Singapore Institute of Technology
 **Analysis on Machine Learning Techniques for Time Series Load Forecasting**
@@ -192,9 +192,9 @@ This project aims to improve electric vehicle (EV) battery safety, elevate consu
 **Summary of project**  
 The project aims to design a simple Graphical User Interface (GUI) to help engineers understand and utilise common machine learning (ML) models to forecast electrical load demand, and hopes to showcase the use of various machine learning models for load forecasting and, in the process, inspire engineers to develop different problem-solving perspectives to augment the electrical engineering industry.
 
-<a href="/files/events/youth-siew/2020/[E-Poster]%20Singapore%20Institute%20of%20Techonology_Analysis%20on%20Machine%20Learning%20Techniques%20for%20Time%20Series%20Load%20Forecasting.pdf" target="_blank">Click here to view the project poster.</a>
+<a href="/files/events/youth-siew/2020/[e-poster]%20singapore%20institute%20of%20techonology_analysis%20on%20machine%20learning%20techniques%20for%20time%20series%20load%20forecasting.pdf" target="_blank">Click here to view the project poster.</a>
 
-<a href="/files/events/youth-siew/2020/SIT%20slides.pdf" target="_blank">Click here to view the project presentation.</a> 
+<a href="/files/events/youth-siew/2020/sit%20slides.pdf" target="_blank">Click here to view the project presentation.</a> 
 
 ---
 <a id="2019" href=""></a>

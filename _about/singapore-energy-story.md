@@ -34,7 +34,7 @@ On the demand side, we will continue our efforts to improve our energy efficienc
 
 Our Energy Story is a long-term effort. The Energy Market Authority is working with various stakeholders, from businesses to research communities, youths, unions and the general public to achieve this vision of a cleaner and more efficient energy future.
 
-![Future Singapore Energy Story Infographic](/images/about/Future-SG-Energy-Story-Infographic_20191029.jpg)
+![Future Singapore Energy Story Infographic](/images/about/future-sg-energy-story-infographic_20191029.jpg)
 *Source: Ministry of Trade and Industry, Singapore*
 
 Watch this short video on our Energy Story

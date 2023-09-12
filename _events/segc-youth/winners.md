@@ -10,7 +10,7 @@ third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 
 <a id="2022" href=""></a>
 ## 2022
-![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2022v1.png)
+![Singapore Energy Grand Challenge (Youth) 2022](/images/events/segc/ema-singaporeenergygrandchallenge-banner2022v1.png)
 The third edition of SEGC (Youth) aims to engage youth on sustainability issues and co-create innovative energy ideas based on the theme “As Singapore transitions towards a carbon-free energy future, how can we reduce our carbon footprint by leveraging the four switches and managing energy demand to achieve a more sustainable Singapore by 2050?”. EMA partnered with Keppel Infrastructure, Schneider Electric and Sembcorp industries and presented a new category for Institute of Higher Learning (IHL). Students were challenged to come up with sustainable solutions that addressed real-world challenges faced by energy companies today.
 
 Over 114 teams across 36 schools took part across the three categories of Junior, Senior and IHL..
@@ -49,7 +49,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Soyingleryl members" src="/images/events/segc/SEGC2022_Team%20Soyingleryl%20-%20Raffles%20Girls'%20School%20(Secondary).jpg" style="width: 416px;"/>
+    <img alt="Photograph of Team Soyingleryl members" src="/images/events/segc/segc2022_team%20soyingleryl%20-%20raffles%20girls'%20school%20(secondary).jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Chai Chang Xuan Cheryl, Quek Zhi Ying, Sophie Sim, Eou Yong Le Jia
@@ -72,7 +72,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Fantastic 4 members" src="/images/events/segc/SEGC2022_Team%20Fantastic%204%20-%20Holy%20Innocents'%20High%20School.jpg" style="width: 416px;"/>
+    <img alt="Photograph of Team Fantastic 4 members" src="/images/events/segc/segc2022_team%20fantastic%204%20-%20holy%20innocents'%20high%20school.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Brandon Chan Kai Feng, Brandon Geofrey Lee Weng Zun, Lee Yu Wen Reanne, Hoi Hui Wen Faith
@@ -96,7 +96,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team WACUUMERS members" src="/images/events/segc/SEGC2022_Team%20WACUUMERS%20-%20Hwa%20Chong%20Institution.jpg" style="width: 416px;"/>
+    <img alt="Photograph of Team WACUUMERS members" src="/images/events/segc/segc2022_team%20wacuumers%20-%20hwa%20chong%20institution.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Koh Rui Quan Reyes, Kavan Tay Yiquan, Zachary Phua Yu Tze
@@ -119,7 +119,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team H2 members" src="/images/events/segc/SEGC2022_Team%20H2%20-%20Raffles%20Girls'%20School%20(Secondary).JPG" style="width: 416px;"/>
+    <img alt="Photograph of Team H2 members" src="/images/events/segc/segc2022_team%20h2%20-%20raffles%20girls'%20school%20(secondary).jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Lu Xingyu, Vera Ang Rui Wen
@@ -142,7 +142,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team SusTech members" src="/images/events/segc/SEGC2022_Team%20Sustech%20-%20Dunman%20High%20School.jpg" style="width: 416px;"/>
+    <img alt="Photograph of Team SusTech members" src="/images/events/segc/segc2022_team%20sustech%20-%20dunman%20high%20school.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Pan Xinyi, Pan Leyi, Jin Chenxuan, Shen Hanzhang
@@ -166,7 +166,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Rocket members" src="/images/events/segc/SEGC2022_Team%20Rocket_Keppel.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Team Rocket members" src="/images/events/segc/segc2022_team%20rocket_keppel.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Chen Zhen Yuan, Low Guan Lin
@@ -189,7 +189,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Blues members" src="/images/events/segc/SEGC2022_Team%20Blues_Keppel.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Team Blues members" src="/images/events/segc/segc2022_team%20blues_keppel.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Isaiah Ives Goh Jun Yang, Nur Nabilah Binte Muhamad Solihin, RenuDeve Veer D/O Sunthara Velu Chelliah
@@ -211,7 +211,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Taam Young Inventors" src="/images/events/segc/SEGC2022_Team%20Young%20Inventors_Schneider.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Taam Young Inventors" src="/images/events/segc/segc2022_team%20young%20inventors_schneider.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Tan Hao Jun Bryan, Teo Rui Jie Marcus, Tan Kee Yee, Chiam Sheng Jye
@@ -233,7 +233,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of The Renaissance Men members" src="/images/events/segc/SEGC2022_The%20Renaissance%20Men_Schneider.JPG" style="width: 416px;"/>
+    <img alt="Photograph of The Renaissance Men members" src="/images/events/segc/segc2022_the%20renaissance%20men_schneider.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Summit Bajaj, Julian Chung Zhong Wei, Sng Li Wen Aaron (not in photo: Nick Erwin Chia Zhiyang)
@@ -255,7 +255,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Blues members" src="/images/events/segc/SEGC2022_Team%20Solar2_Sembcorp.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Team Blues members" src="/images/events/segc/segc2022_team%20solar2_sembcorp.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Xavien Teo Yi Xiang, Ng Mian Hao, Eugene Tan Ye Hong, Wang Zixuan
@@ -277,7 +277,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Kit members" src="/images/events/segc/SEGC2022_Team%20Kit2_Sembcorp.JPG" style="width: 416px;"/>
+    <img alt="Photograph of Team Kit members" src="/images/events/segc/segc2022_team%20kit2_sembcorp.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Steward Soh Jun Kai, Tanapattanalux Kittitat, Yu Nander Aung, Lau Jun Foong Wayne
@@ -301,7 +301,7 @@ Over 114 teams across 36 schools took part across the three categories of Junior
 ---
 <a id="2021" href=""></a>
 ## 2021
-![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/EMA-SingaporeEnergyGrandChallenge-Banner2021v2.png)
+![Singapore Energy Grand Challenge (Youth) 2021](/images/events/segc/ema-singaporeenergygrandchallenge-banner2021v2.png)
 The second edition of SEGC (Youth) was launched in March 2021 to engage youth on sustainability issues and garner innovative ideas based on the theme “How would your carbon-free school or neighbourhood in Singapore look like in 2050?”. A total of 87 teams across 29 secondary schools and junior colleges took part in the challenge. Participants had to use Microsoft’s Minecraft: Education Edition to create their ideal carbon-free world and showcase their aspirations for Singapore.
 
 ### Junior Category
@@ -315,7 +315,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of 3R Girls Team members" src="/images/events/segc/SEGC2021_3RGirls.jpg" style="width: 416px;"/>
+    <img alt="Photograph of 3R Girls Team members" src="/images/events/segc/segc2021_3rgirls.jpg" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Kong Zi Yau Bernadette (Jiang Zirou), Victoria Teo Yue Tong, Tan Xuan Ying
@@ -326,7 +326,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     3R Girls clinched the Junior Category championship for their creative ideas such as the use of hydrogen-powered vehicles to reduce overall carbon emissions as well as intelligent solar-powered street lighting equipped with motion sensors. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Wind Turbines in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld1.png" style="width: 240px; height: 160px;"/>
+        <img alt="Wind Turbines in Minecraft" src="/images/events/segc/segc2021_3rgirlsworld1.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Wind Turbines on Buildings
@@ -335,7 +335,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         To maximise space and increase captured wind speeds
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Low-carbon Vehicles in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Low-carbon Vehicles in Minecraft" src="/images/events/segc/segc2021_3rgirlsworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Low-carbon Vehicles 
@@ -344,7 +344,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Fuelled by hydrogen gas generated from electrolysis
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Intelligent lighting in Minecraft" src="/images/events/segc/SEGC2021_3RGirlsworld3.png" style="width: 240px; height: 160px;"/>
+        <img alt="Intelligent lighting in Minecraft" src="/images/events/segc/segc2021_3rgirlsworld3.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Intelligent Lighting
@@ -367,14 +367,14 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     Team Mighty Chondria was recognised for recreating a realistic Minecraft version of their NGHS campus which incorporated various technologies to achieve a carbon-free school. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="NGHS campus in Minecraft" src="/images/events/segc/SEGC2021_Chondriaworld1.png" style="width: 240px; height: 160px;"/>
+        <img alt="NGHS campus in Minecraft" src="/images/events/segc/segc2021_chondriaworld1.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             NGHS campus in Minecraft
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Team Mighty Chondria Members" src="/images/events/segc/SEGC2021_Chondria.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Team Mighty Chondria Members" src="/images/events/segc/segc2021_chondria.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Members: (L to R)
@@ -383,7 +383,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Xu Shaozhe, Chen Yifei Allegra, Tan Wen Li Glenda
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Genetically Modified Algae in Minecraft" src="/images/events/segc/SEGC2021_Chondriaworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Genetically Modified Algae in Minecraft" src="/images/events/segc/segc2021_chondriaworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Genetically Modified Algae
@@ -415,7 +415,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Highly-efficient solar thermal electric generator to convert solar energy into electricity
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Team Proficient members" src="/images/events/segc/SEGC2021_Proficient.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Team Proficient members" src="/images/events/segc/segc2021_proficient.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Members: (L to R)
@@ -424,7 +424,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Zacq Leong Guang Yao, Sim Kai Feng, Tan Guan Xu
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Indoor Farm in Minecraft" src="/images/events/segc/SEGC2021_Proficientworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Indoor Farm in Minecraft" src="/images/events/segc/segc2021_proficientworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Indoor Farm
@@ -446,7 +446,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     </span>
 </div>
 <div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
-    <img alt="Photograph of Team Electrae members" src="/images/events/segc/SEGC2021_Electrae.png" style="width: 416px;"/>
+    <img alt="Photograph of Team Electrae members" src="/images/events/segc/segc2021_electrae.png" style="width: 416px;"/>
     <br/>
     <span style="font-style: italic;">
         Members: (L to R) Ng Jin Seang Jordan, Kwok Zheng Feng, Jake Kee Chong Han
@@ -457,14 +457,14 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     Team Electrae was crowned the champion for their innovative ideas such as the use of bioluminescent algae for lighting and artificial intelligence. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld1.png" style="width: 240px; height: 160px;"/>
+        <img alt="Overview in Minecraft" src="/images/events/segc/segc2021_electraeworld1.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Overview of Electrae's World
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Innovative Lighting in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Innovative Lighting in Minecraft" src="/images/events/segc/segc2021_electraeworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Innovative Lighting
@@ -473,7 +473,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Bioluminescent algae for lighting
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Artificial Intelligence in Minecraft" src="/images/events/segc/SEGC2021_Electraeworld3.png" style="width: 240px; height: 160px;"/>
+        <img alt="Artificial Intelligence in Minecraft" src="/images/events/segc/segc2021_electraeworld3.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Artificial Intelligence
@@ -496,7 +496,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     Team Energae was recognised for their impressive creation of a carbon-free neighbourhood, that uses multiple surfaces and technologies to generate electricity. 
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Smark Park in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld1.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Smark Park in Minecraft" src="/images/events/segc/segc2021_energaeworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Smart Park 
@@ -505,7 +505,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Lined with smart flooring system to convert movement to electricity
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Team Energae Members" src="/images/events/segc/SEGC2021_Energae.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Team Energae Members" src="/images/events/segc/segc2021_energae.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Members: (L to R)
@@ -514,7 +514,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Ang Guan Yu Jasper, Tan York Yang, Chng Yongzhi Kevan, Aaron Ang Chen Yee
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Carbon Capture in Minecraft" src="/images/events/segc/SEGC2021_Energaeworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Carbon Capture in Minecraft" src="/images/events/segc/segc2021_energaeworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Air Capture System
@@ -537,14 +537,14 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
     Team Goaty demonstrated their creative ideas on using smart flooring and central cooling to create a carbon-free living hub.
     <br/>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Overview in Minecraft" src="/images/events/segc/SEGC2021_Goatyworld1.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Overview in Minecraft" src="/images/events/segc/segc2021_goatyworld1.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Merlion Hawker Centre and Basketball Court
         </strong>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Team Goaty members" src="/images/events/segc/SEGC2021_Goaty.jpg" style="width: 240px; height: 160px;"/>
+        <img alt="Team Goaty members" src="/images/events/segc/segc2021_goaty.jpg" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Members: (L to R)
@@ -553,7 +553,7 @@ The second edition of SEGC (Youth) was launched in March 2021 to engage youth on
         Koh Li Tian, Germaine Yeo, Janel Lee Mei Er, Ernest Tan Jian Yu
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 240px; margin: auto; margin-bottom: 20px;">
-        <img alt="Smart Flooring in Minecraft" src="/images/events/segc/SEGC2021_Goatyworld2.png" style="width: 240px; height: 160px;"/>
+        <img alt="Smart Flooring in Minecraft" src="/images/events/segc/segc2021_goatyworld2.png" style="width: 240px; height: 160px;"/>
         <br/>
         <strong>
             Smart Flooring

@@ -3,7 +3,7 @@ title: Singapore-Industry Scholarship (SgIS)
 permalink: /scholarships-awards/students/sgis/
 third_nav_title: Students
 ---
-![Singapore Industry Scholarship](/images/scholarships/youth/SGIS_sub.jpg)
+![Singapore Industry Scholarship](/images/scholarships/youth/sgis_sub.jpg)
 
 ### Introduction to Singapore-Industry Scholarship 
 

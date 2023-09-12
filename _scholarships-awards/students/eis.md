@@ -5,7 +5,7 @@ third_nav_title: Students
 
 
 ---
-![Energy Industry Scholarship](/images/scholarships/youth/EIS_sub.jpg)
+![Energy Industry Scholarship](/images/scholarships/youth/eis_sub.jpg)
 
 ### Introduction to Energy-Industry Scholarship
 
@@ -70,7 +70,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.sunseap.com/SG/" target="_blank">
-            <img alt="Sunseap Group" src="/images/common/partner-logos/EDP%20Renewables%20Logo.PNG" style="width: 250px; height: 120px;">
+            <img alt="Sunseap Group" src="/images/common/partner-logos/edp%20renewables%20logo.png" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
@@ -137,9 +137,9 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 |Year 3 (Mid-Term)|2 years (if applicable)|2 years|
 
 ### Frequently Asked Questions
-<a href="/files/scholarships-awards/students/eis/EIS_FAQs_Dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
+<a href="/files/scholarships-awards/students/eis/eis_faqs_dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
 
-<a href="/files/scholarships-awards/students/eis/EIS_ScholarshipApplicationGuide_Jan2022.pdf" target="_blank">Click here to download a step-by-step guide</a> to apply for the EIS.
+<a href="/files/scholarships-awards/students/eis/eis_scholarshipapplicationguide_jan2022.pdf" target="_blank">Click here to download a step-by-step guide</a> to apply for the EIS.
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
