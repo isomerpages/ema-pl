@@ -1,6 +1,6 @@
 ---
 title: City Energy
-permalink: /about/industry-partners/city-energy
+permalink: /about/industry-partners/city-energy/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/city_gas_large.jpg" alt="City Energy" style="width: 450px; height: 312px;" /><br/>

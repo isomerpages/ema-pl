@@ -1,11 +1,11 @@
 ---
 title: SkillsFuture Study Award for Power Sector (SFSA)
 breadcrumb: SkillsFuture Study Award
-permalink: /scholarships-awards/employees/sfsa
+permalink: /scholarships-awards/employees/sfsa/
 third_nav_title: Employees
 ---
 
-![SkillsFuture Study Award for Power Sector](/images/scholarships/adults/Skillsfuture%20Banner%20-%20low%20res.png)
+![SkillsFuture Study Award for Power Sector](/images/scholarships/adults/skillsfuture%20banner%20-%20low%20res.png)
 
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
     <div style="text-align:center;">
@@ -58,8 +58,8 @@ Note:  Only shortlisted applicants will be notified.  EMA reserves the right not
 ### Award Ceremony 2017
 As part of the national movement to provide Singaporeans with opportunities to develop to their fullest potential, the Energy Market Authority conferred 10 Singaporeans with the inaugural SkillsFuture Study Award for Power Sector in October 2017. This Award aims to support early to mid-career Singaporeans in the industry who aspire to deepen their power engineering skills. Each recipient will receive a bond-free award of $5,000 to defray out-of-pocket training expenses for engineering courses related to the Power Sector.  
 
-![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/SkillsFuture%20Study%20Award%202017%20update%20pic.jpg)  
+![SkillsFuture Study Awards 2017 Award Ceremony](/images/scholarships/adults/skillsfuture%20study%20award%202017%20update%20pic.jpg)  
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/TI84KMsg8YY" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-![Organised by Energy Market Authority, Part of Powering Lives, Skills Future Study Awards](/images/scholarships/adults/logobanner%20for%20SF%20study%20award.png)
+![Organised by Energy Market Authority, Part of Powering Lives, Skills Future Study Awards](/images/scholarships/adults/logobanner%20for%20sf%20study%20award.png)

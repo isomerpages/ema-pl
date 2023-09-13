@@ -1,6 +1,6 @@
 ---
 title: Video Library
-permalink: /energy-education-resources/video-library
+permalink: /energy-education-resources/video-library/
 ---
 ### EMA Explains
 

@@ -1,6 +1,6 @@
 ---
 title: SP Group
-permalink: /about/industry-partners/sp-group
+permalink: /about/industry-partners/sp-group/
 third_nav_title: Industry Partners
 ---
 <img src="/images/careers/industry-partners/sp_group_large.jpg" alt="Singapore Power Group (SP)" style="width: 450px; height: 312px;" /><br/>

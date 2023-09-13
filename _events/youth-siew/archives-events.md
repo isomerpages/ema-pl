@@ -1,6 +1,6 @@
 ---
 title: Archives (Events)
-permalink: /events/youth-at-siew/archives-events
+permalink: /events/youth-at-siew/archives-events/
 third_nav_title: Youth@SIEW
 ---
 * [2021](#2021)
@@ -10,7 +10,7 @@ third_nav_title: Youth@SIEW
 * [2017](#2017)
 * [2016](#2016)
 
-![Youth@SIEW](/images/events/youth-at-siew/YOUTH-LOGO(2018)_V11(FINAL).png)
+![Youth@SIEW](/images/events/youth-at-siew/youth-logo(2018)_v11(final).png)
 
 <a id="2021" href=""></a>
 ## 2021
@@ -31,7 +31,7 @@ The virtual event provided insights on energy developments and challenges, and p
 Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning.
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2021 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2021_collage.jpg" 
+   <img alt="Youth@SIEW 2021 Photographs" src="/images/events/youth-at-siew/youthatsiew_2021_collage.jpg" 
     style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
 </div>
 
@@ -53,12 +53,12 @@ The event allowed participants to engage in meaningful discussions with industry
 
 Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning. For 2020, the projects were along the themes of Decarbonisation and Digitalisation. 
 
-<a href="/files/events/youth-siew/2020/RIED%20Panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a> 
+<a href="/files/events/youth-siew/2020/ried%20panel.pdf" target="_blank">Click here to find out more about our initiatives to support the 4 Switches in our energy story.</a> 
 
-<a href="/files/events/youth-siew/2020/Manpower%20Panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a> 
+<a href="/files/events/youth-siew/2020/manpower%20panel.pdf" target="_blank">Click here to find out more about our manpower initiatives for the energy sector.</a> 
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2020 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2020_collage.jpg" 
+   <img alt="Youth@SIEW 2020 Photographs" src="/images/events/youth-at-siew/youthatsiew_2020_collage.jpg" 
     style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
 </div>
 
@@ -82,7 +82,7 @@ Youth@SIEW is Singapore’s milestone energy platform for students to exchange i
 * **Sembcorp-EMA Energy Challenge (SEEC)**: _Learnt how to balance Singapore’s Energy trilemma as school teams competed with one another in an intense online energy competition._
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2019 Photographs" src="/images/events/youth-at-siew/YouthatSIEW_2019_collage.jpg" 
+   <img alt="Youth@SIEW 2019 Photographs" src="/images/events/youth-at-siew/youthatsiew_2019_collage.jpg" 
     style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
 </div>
 
@@ -105,13 +105,13 @@ Students were also engaged in an interactive dialogue session helmed by SPS Dr T
 We are grateful for your strong participation and look forward to yet another rewarding session at the next Youth@SIEW 2019.
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2018 Photographs" src="/images/events/youth-at-siew/YouthatSIEW%202018%20collage.png" 
+   <img alt="Youth@SIEW 2018 Photographs" src="/images/events/youth-at-siew/youthatsiew%202018%20collage.png" 
     style="min-width: 700px;">
 </div>
 
 <a id="2017" href=""></a>
 ## 2017
-![Youth@SIEW](/images/events/youth-at-siew/YouthatSIEW%20(NEW%20LOGO).png)
+![Youth@SIEW](/images/events/youth-at-siew/youthatsiew%20(new%20logo).png)
 
 Date: 25 October 2017  
 Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore  
@@ -127,7 +127,7 @@ Venue: Peony Junior, Level 4, Sands Expo and Convention Centre, MBS Singapore
 We appreciate your strong support and are looking forward to your participation in 2018!
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2017 Photographs" src="/images/events/youth-at-siew/Post%20SIEW%202017%20update%20pic.jpg" 
+   <img alt="Youth@SIEW 2017 Photographs" src="/images/events/youth-at-siew/post%20siew%202017%20update%20pic.jpg" 
     style="min-width: 700px;">
 </div>
 
@@ -147,6 +147,6 @@ Attended by 360 participants, **Youth@SIEW**, saw active participation from the 
 We appreciate your support and are looking forward to your participation in future events!
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2016 Photographs" src="/images/events/youth-at-siew/thank%20you%20pic%20(OVERALL)%20r3.jpg" 
+   <img alt="Youth@SIEW 2016 Photographs" src="/images/events/youth-at-siew/thank%20you%20pic%20(overall)%20r3.jpg" 
     style="min-width: 700px;">
 </div>
