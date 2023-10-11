@@ -3,6 +3,7 @@ title: Archives (Events)
 permalink: /events/youth-at-siew/archives-events/
 third_nav_title: Youth@SIEW
 ---
+* [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
 * [2019](#2019)
@@ -11,6 +12,26 @@ third_nav_title: Youth@SIEW
 * [2016](#2016)
 
 ![Youth@SIEW](/images/events/youth-at-siew/youth-logo(2018)_v11(final).png)
+
+<a id="2022" href=""></a>
+## 2022
+
+Date: 28 October 2022 <br/>
+Time: 9:00am - 12:00pm (UTC +8:00) <br/>
+Venue: Sands Expo and Convention Centre, MBS Singapore (Hybrid Event)
+
+---
+
+Held during the annual Singapore International Energy Week, Youth@SIEW is a key outreach platform to engage tertiary students and educators on the latest energy trends and career opportunities in the energy sector. The theme for Youth@SIEW 2021 was “Seizing Opportunities in Singapore’s Energy Transition”. Ms Low Yen Ling, Minister of State, Ministry of Trade and Industry & Ministry of Culture, Community and Youth encouraged our youth to be part of this exciting journey and be the vital force in shaping Singapore’s sustainable energy future.
+
+The virtual event provided insights on energy developments and challenges, and participants engaged in discussions with industry and government on their hopes for a low-carbon future and how we can get there with our energy transition efforts.
+
+Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning.
+
+<div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
+   <img alt="Youth@SIEW 2021 Photographs" src="/images/events/youth-at-siew/youthatsiew_2021_collage.jpg" 
+    style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
+</div>
 
 <a id="2021" href=""></a>
 ## 2021
