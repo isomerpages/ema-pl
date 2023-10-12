@@ -115,7 +115,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
 <img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/edpr_logo_no%20border.jpg" />
-<img alt="Univers" style="margin: 12px; width: 150px;height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Univers_Logo.png" />
+<img alt="Univers" style="margin: 12px; width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/Univers_Logo.png" />
 <img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas%20power_logo_no%20border.jpg" />
     <br/>
     <br/>
