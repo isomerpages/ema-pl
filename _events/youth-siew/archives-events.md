@@ -29,7 +29,7 @@ The virtual event provided insights on energy developments and challenges, and p
 Youth@SIEW also featured exhibitions that showcased energy-related innovations by students from various institutes of higher learning.
 
 <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-   <img alt="Youth@SIEW 2021 Photographs" src="/images/events/youth-at-siew/Y%40S_2022_collage.jpg**" 
+   <img alt="Youth@SIEW 2022 Photographs" src="/images/events/youth-at-siew/Y%40S_2022_collage.jpg" 
     style="min-width: 700px; min-height: 700px; width: 700px; height: 700px;">
 </div>
 
