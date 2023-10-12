@@ -22,7 +22,6 @@ This project aims to reduce our carbon footprint and improve environmental susta
 
 ### ITE College West
 **2. Streetlamp Electric Vehicle Charger**  
-<iframe width="400" height="225" src="https://www.youtube.com/embed/UXBWUTr8m3k" frameborder="0" allowfullscreen=""></iframe> 
 
 **Summary of project**  
 Presently, the deployment of electric vehicle (EV) chargers in Singapore is constrained by factors such as high costs and land scarcity, which in turn affects the take-up rate of EVs. Our proposed solution reduces the costs and complexity of EV charger installation by tapping on existing streetlamp infrastructure. If replicated on a large scale, this project has the potential to contribute to the Singapore Green Plan 2030.
@@ -65,7 +64,6 @@ This project aims to create an innovative and sustainable zero-waste carbon capt
 <a href="/files/events/youth-siew/2022/[tp] be.pdf" target="_blank">Click here to view the project poster.</a>  
 
 **7. Symbiotic Food and Energy Production in an Energy Resilient Future**  
-<iframe width="400" height="225" src="https://www.youtube.com/embed/pn2VWK3gnqM" frameborder="0" allowfullscreen=""></iframe> 
 
 **Summary of project**  
 This project aims to study the effects of how effective evapotranspiration from plants helps in lowering solar photovoltaic module temperature. It is an enhanced version of a previous prototype that was showcased at the Youth Energy Showcase in 2021.
