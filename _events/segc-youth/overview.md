@@ -80,7 +80,7 @@ a. EDP Renewables: "EDP Renewables is seeking an innovative solution to maximise
  
 The proposed solution should consider various factors such as time for implementation, economic viability, geographical constraints, environmental conditions, and technological advancements, in order to maximise the overall share of renewables in Singapore’s electricity generation mix.”
 
-b. Envision Digital: “Envision Digital is seeking to develop a comprehensive smart grid solution that will address the challenges of being 100% powered by renewable energy sources and optimising load management while ensuring grid stability. The solution should take into consideration the economic viability, cost-effectiveness, suitability for deployment, regulatory constraints, and technical maturity.”
+b. Univers: “Univers is seeking to develop a comprehensive smart grid solution that will address the challenges of being 100% powered by renewable energy sources and optimising load management while ensuring grid stability. The solution should take into consideration the economic viability, cost-effectiveness, suitability for deployment, regulatory constraints, and technical maturity.”
 
 c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digitalisation to capture new opportunities in the green economy. Tuas Power is seeking proposals on the potential applications for its business. The proposed solution should consider the environmental impact, land constraints and cost effectiveness. Digitalisation may include data transmission, collation and analysis, forecasting capabilities based on the data collected and conducting cost-benefit analysis based on market signals.”
 
@@ -115,7 +115,7 @@ c. Tuas Power: “Tuas Power is interested in Energy Storage Systems and digital
     <span style="font-style: italic; text-align: center;">In Partnership with:</span>
     <br/>
 <img alt="EDP Renewables" style="padding-bottom: 12px; width: 150px; height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/edpr_logo_no%20border.jpg" />
-<img alt="Envision Digital" style="margin: 12px; width: 150px;height: 70px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/envision%20digital%20logo.png" />
+<img alt="Univers" style="margin: 12px; width: 165px;height: 60px; max-width: 165px; display: inline-block;" src="/images/common/partner-logos/Univers_Logo.png" />
 <img alt="Tuas Power" style="width: 150px;height: 80px; max-width: 150px; display: inline-block;" src="/images/common/partner-logos/tuas%20power_logo_no%20border.jpg" />
     <br/>
     <br/>
