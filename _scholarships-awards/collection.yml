@@ -1,0 +1,13 @@
+collections:
+  scholarships-awards:
+    output: true
+    order:
+      - students/.keep
+      - students/eis.md
+      - students/sgis.md
+      - students/ema-scholarship.md
+      - employees/.keep
+      - employees/sfsa.md
+      - employees/wsp.md
+      - employees/sea-wip.md
+      - employees/sf-fellowships-and-employer-award-wip.md

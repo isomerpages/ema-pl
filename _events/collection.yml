@@ -1,0 +1,17 @@
+collections:
+  events:
+    output: true
+    order:
+      - segc-youth/.keep
+      - segc-youth/overview.md
+      - segc-youth/training-materials.md
+      - segc-youth/winners.md
+      - eef/.keep
+      - eef/2021.md
+      - eef/2017.md
+      - seec.md
+      - youth-siew/.keep
+      - youth-siew/2022.md
+      - youth-siew/archives(events).md
+      - youth-siew/archives(youth-energy-showcase).md
+

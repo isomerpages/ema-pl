@@ -1,0 +1,30 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: "/images/common/poweringlives logo.jpg"
+
+# TODO
+# Set the url for Energy Innovation submenu to the 2021 page after content is added
+# Set the url for Energy Educators Forum submenu to the 2021 page after content is added
+# Set the url for Youth@SIEW submenu to the 2021 page after content is added
+
+links:
+  - title: About
+    collection: about
+  - title: Careers
+    collection: careers
+  - title: Scholarships & Awards 
+    collection: scholarships-awards
+  - title: Programmes
+    collection: programmes
+  - title: Events
+    collection: events
+  - title: Energy Education Resources
+    collection: energy-education-resources
+    
+#    title: Contact Us
+#    url: /contact-us/
+  

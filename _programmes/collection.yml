@@ -1,0 +1,7 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - eap.md
+      - plt.md
+      - internships.md

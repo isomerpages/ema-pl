@@ -1,0 +1,9 @@
+collections:
+  careers:
+    output: true
+    order:
+      - clean-energy-sector.md
+      - power-sector/sfwep.md
+      - public-service/.keep
+      - public-service/peps.md
+      - public-service/pecf.md
