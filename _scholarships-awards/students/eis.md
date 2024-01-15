@@ -2,8 +2,7 @@
 title: Energy-Industry Scholarship (EIS)
 permalink: /scholarships-awards/students/eis/
 third_nav_title: Students
-
-
+variant: markdown
 ---
 ![Energy Industry Scholarship](/images/scholarships/youth/eis_sub.jpg)
 
@@ -11,7 +10,7 @@ third_nav_title: Students
 
 <div style="float: right;">
     <a href="#NearHyperLinkLoginSingPass">
-        <img alt="Start Powering" src="/images/common/start_powering.png" style="width: 150px; height: 200px;"/>
+        <img alt="Start Powering" src="/images/common/start_powering.png" style="width: 150px; height: 200px;">
     </a>
 </div>
 
@@ -27,20 +26,18 @@ Polytechnic|Yes|Yes|
 
 *Open to current students with at least one academic year remaining at the point of application.
 
-Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank" >Singapore-Industry Scholarship (SgIS)</a> or <a href="/scholarships-awards/students/ema-scholarship" target="_blank" >EMA Scholarship.</a>
+Students who will be / currently pursuing relevant engineering courses at a university are encouraged to apply for the <a href="/scholarships-awards/students/sgis" target="_blank">Singapore-Industry Scholarship (SgIS)</a> or <a href="/scholarships-awards/students/ema-scholarship" target="_blank">EMA Scholarship.</a>
 
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.eigen.energy/" target="_blank">
-            <img alt="Eigen Energy" src="/images/common/partner-logos/eigen_energy.jpg" 
-                style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
+            <img alt="Eigen Energy" src="/images/common/partner-logos/eigen_energy.jpg" style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.kepinfra.com/en/" target="_blank">
-            <img alt="KMC" src="/images/common/partner-logos/kmc.png" 
-                style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
+            <img alt="KMC" src="/images/common/partner-logos/kmc.png" style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
@@ -60,7 +57,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.slng.com.sg/" target="_blank">
-            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px; ">
+            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
@@ -91,23 +88,21 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile-photo-ihbmz.jpg" 
-            style="width: 180px;"/><br/>
-        <strong>Indra Haqim Bin Mohd Zulkifi</strong><br/>
+        <img alt="Photograph of Indra Haqim Bin Mohd Zulkifi" src="/images/scholarships/youth/profile-photo-ihbmz.jpg" style="width: 180px;"><br>
+        <strong>Indra Haqim Bin Mohd Zulkifi</strong><br>
         <span style="font-style: italic;">
             Diploma in Mechanical Engineering
-        </span><br/>
+        </span><br>
         <span style="">
             Singapore Polytechnic
         </span>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 180px; margin: auto; margin-bottom: 20px;">
-        <img alt="Photograph of Teo Mei Fang" src="/images/scholarships/youth/profile-photo-tmf.jpg" 
-            style="width: 180px;"/><br/>
-        <strong>Teo Mei Fang</strong><br/>
+        <img alt="Photograph of Teo Mei Fang" src="/images/scholarships/youth/profile-photo-tmf.jpg" style="width: 180px;"><br>
+        <strong>Teo Mei Fang</strong><br>
         <span style="font-style: italic;">
             Diploma in Electrical and Electronic Engineering
-        </span><br/>
+        </span><br>
         <span style="">
             Singapore Polytechnic
         </span>
@@ -142,12 +137,13 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
 <a href="/files/scholarships-awards/students/eis/eis_scholarshipapplicationguide_jan2022.pdf" target="_blank">Click here to download a step-by-step guide</a> to apply for the EIS.
 
 <a id="NearHyperLinkLoginSingPass"></a>
-<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD ">
+<div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD">
     <div style="text-align: center;">
         <strong>
-           Applications for the Energy-Industry Scholarship are closed.
+           Applications for the Energy-Industry Scholarship is open from 16 January 2024 to 30 April 2024.
             <br>
-            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
+            <a href="[EMA | Energy-Industry Scholarship (EIS) Portal (poweringlives.gov.sg)](https://apply.poweringlives.gov.sg/)" target="_blank">Please submit your application in the EIS Portal</a>.
             <br>
         </strong>
+</div>
 </div>
