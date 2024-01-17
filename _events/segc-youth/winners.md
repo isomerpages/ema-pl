@@ -4,9 +4,240 @@ permalink: /events/segc-youth/winners/
 third_nav_title: Singapore Energy Grand Challenge (SEGC Youth)
 variant: markdown
 ---
+* [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
+
+<a id="2023" href=""></a>
+## 2023
+![Singapore Energy Grand Challenge (Youth) 2023](/images/events/segc/segc%20banner%20v3.png)
+SEGC (Youth) 2023 featured an innovative twist to the Junior and Senior Categories where participants are encouraged to create a three-minute Instagram video that embodies the competition's challenge statement: "Envision a typical day in the year 2050, in a net zero world where sustainable practices are ingrained into daily routines. Showcase how individuals and communities use technology to minimise energy consumption and maximise clean energy utilisation in Singapore."
+
+In its second edition, the SEGC (Youth) – IHL category partnered with EDP Renewables, Tuas Power and Univers. Students were challenged to develop innovative solutions for real-life challenges faced by companies.
+
+A total of 84 submissions were received in the Junior and Senior Categories and 24 submissions received in the IHL category. 
+
+### Junior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Team Potato
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Raffles Girls’ School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Junior_Team_Potato.JPG" alt="Photograph of Team Potato members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Zhang Zinuo, Quek Zhi Ying, Megan Lee and Cheryl Chai
+    </span>
+</div>
+<br>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up - RGHIKers
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Raffles Girls' School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Junior_RGHIkers.JPG" alt="Photograph of RGHIKers members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Lim Jia En, Isabel, Liang Huaiyu and Keira Marie MacKendrick
+    </span>
+</div>
+<br>
+<div style="text-align: left;">
+    <strong>
+        Second Runner-up - Team SusTainability
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        School of Science and Technology, Singapore
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Junior_Team_SusTainability.JPG" alt="Photograph of Team SusTainability members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Shai Ming Kong Benjamin, Maramag Luis Santino Ugay, Faith Naomi Lim Jun En and Anders Charles Lee Ekberg
+    </span>
+</div>
+
+### Senior Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Carbon Knights
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Holy Innocents’ High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Senior_Carbon_Knights.JPG" alt="Photograph of Carbon Knights members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Toh Shuan Jomin, Hoi Hui Wen Faith, Elijah Ng Junle and Brandon Geofrey Lee Weng Zun
+    </span>
+</div>
+<br>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up - Barbie’s Eco Chic Collective
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Nanyang Girls’ High School
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Senior_Team_Barbie_s_Eco_Chic_Collective.jpg" alt="Photograph of Team Barbie members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Sydney Siow, Wong Pei Xuan, Tan Jia Hui, Joy and Lee Ruoxi
+    </span>
+</div>
+<br>
+<div style="text-align: left;">
+    <strong>
+        Second Runner-up - Team TBC
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Raffles Girls’ School (Secondary)
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Senior_Team_TBC.JPG" alt="Photograph of Team TBC members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) De Ting Trina Tan, Looi Ee Xin (Zheng Yuxi), Ho Ying En Luanne and Lisha Annika Jaya Shankar
+    </span>
+</div>
+
+### IHL Category
+<div style="text-align: left;">
+    <strong>
+        Champion - Team Powerpuff
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Singapore Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/EDP_Renewables_Team_Powerpuff.JPG" alt="Photograph of Team Powerpuff members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Yao En Ting, Ruba Zaki A Sulaiman, Jasmine Chan Sze Yi, Hannah To Qi Wen
+    </span>
+</div>
+
+<br>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up (EDP Renewables) - Team Grumpy Goat
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Nanyang Technological University
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/EDP_Renewables_Team_Grumpy_Goat.JPG" alt="Photograph of Team Grumpy Goat members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Tang Hao Wei, Brandon, Cheong Min Hui and Bryce Chua Lee Nan
+    </span>
+</div>
+   
+<br>  
+<div style="text-align: left;">
+    <strong>
+        Champion (Tuas Power) - Team Panda
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Nanyang Technological University
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Tuas_Group_Team_Panda.JPG" alt="Photograph of Taam Panda members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) See Ye Ni, Ong Mui Jin and Han Kai'En
+    </span>
+</div>
+<br>
+<div style="text-align: left;">
+    <strong>
+        First Runner-up (Tuas Power) - The Cooler Team
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Singapore Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Tuas_Power_The_Cooler_Team.JPG" alt="Photograph of The Cooler Team members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Sistla Satya Satvik and Bryan Chan Wei Jie
+    </span>
+</div>
+
+<br>  
+<div style="text-align: left;">
+    <strong>
+        Champion (Univers) - Bing Chilling
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Temasek Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Univers_Bing_Chilling.JPG" alt="Photograph of Bing Chilling members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Yoong Wai Kit, Rajaram Sushmiithaa and Leck Jing Ping Jesmond
+    </span>
+</div>
+
+<br> 
+<div style="text-align: left;">
+    <strong>
+         First Runner-up (Univers) - Gravity Team
+    </strong>
+    <br>
+    <span style="font-style: italic;">
+        Temasek Polytechnic
+    </span>
+</div>
+<div style="vertical-align: top; text-align: left; width: 416px; margin: auto; margin-bottom: 20px;">
+    <img style="width: 416px;" src="/images/events/segc/Univers_Gravity_Team.JPG" alt="Photograph of Gravity Team members">
+    <br>
+    <span style="font-style: italic;">
+        Members: (L to R) Lim Qi Zhen, Gue Yi Peng and Ayhan Escandar Bin Mohammad Talib
+    </span>
+</div>
+
+<p style="text-align: center">
+    <strong>
+        Congratulations to all the winners!
+    </strong>
+    <br>
+    <a target="_blank" href="https://youtube.com/playlist?list=PLA11-KVxu2UMEqZr-oTCmFKBc0daOOA3q&si=D2wYcD8-rSOxoJeC">Check out the 2023 Junior and Senior categories winning entries here.</a>
+    <br>
+</p>
+
 
 <a id="2022" href=""></a>
 ## 2022
