@@ -168,7 +168,6 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
            The Singapore-Industry Scholarship is now open for applications until 21 Mar 2024. <br>
         </strong>
         <br>
-        <br>
     </div>
     <div style="text-align:center;" >
         <span style="text-align:center; font-size: 15px;">
