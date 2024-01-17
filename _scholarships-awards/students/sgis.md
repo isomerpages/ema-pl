@@ -167,7 +167,6 @@ Young Singapore citizens who are currently pursuing their full-time undergraduat
         <strong>
            The Singapore-Industry Scholarship is now open for applications until 21 Mar 2024. <br>
         </strong>
-            Please contact us at EMA_HumanCapital@ema.gov.sg for more information.
         <br>
         <br>
     </div>
