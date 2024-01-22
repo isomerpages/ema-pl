@@ -14,14 +14,15 @@ variant: markdown
     </a>
 </div>
 
-The Energy-Industry Scholarship (EIS) is the first dedicated scholarship to develop and nurture talent for the energy sector. Embark on a rewarding, meaningful and stable career in the energy sector. Apply for the Energy-Industry Scholarship today!
+The Energy sector forms the backbone of Singapore’s economy and the daily lives of people living and working in Singapore, supplying electricity that is critical for powering an entire spectrum of activity in homes, schools, businesses, and essential services. With the effects of climate change already at our shores, the Energy sector - which accounts for around 40% of Singapore’s total emissions - will press forward with our transition towards a more sustainable energy future.
+
+If you are looking for something more exciting than a day job in the office, and somewhere where you can put your engineering skills to make a real impact, then the Energy sector is the place to be in. Apply for the Energy-Industry Scholarship (EIS) today, and discover for yourself how meaningful, stable and rewarding a career in the Energy sector can be.
 
 ### Eligibility
-Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local Institute of Technical Education (ITE), or polytechnic are eligible.
+Singapore Citizens and Permanent Residents who will be/ are currently pursuing relevant engineering courses (e.g. mechanical, electrical, power engineering related courses) at a local polytechnic are eligible.
 
-|Institution/ Category|Full-Term Scholarship|Mid-Term Scholarship*|
+|IHL|Full-Term Scholarship|Mid-Term Scholarship*|
 ----------------------|---------------------|---------------------|
-Institute of Technical Education|Yes|Yes|
 Polytechnic|Yes|Yes|  
 
 *Open to current students with at least one academic year remaining at the point of application.
@@ -57,7 +58,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.slng.com.sg/" target="_blank">
-            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/singapore_lng_corporation.jpg" style="width: 250px; height: 120px;">
+            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/SLNG_logo_v2.png" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
@@ -112,10 +113,10 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 ### Scholarship Benefits
 
 **Scholarship Value**  
-The EIS will cover the following, where applicable:
-* Tuition fees
-* One-time allowance (to purchase items related to the course of study, such as computers and books)
-* Monthly living allowance
+The EIS  is valued at up to $46,500 for full-term scholarships and $31,400 for mid-term scholarships. It comprises the following benefits:
+* Tuition fees (as published by the Polytechnic for the relevant academic year)
+* One-time allowance of $1,200 (to purchase items related to the course of study, such as computers and books)
+* Monthly living allowance of $1,000
 
 **Sponsoring Opportunities**  
 * Industrial Attachments
@@ -125,14 +126,14 @@ The EIS will cover the following, where applicable:
 ### Bond Period
 Scholars will be bonded to their respective sponsoring organisations upon completion of their studies. The bond period will commensurate with the total scholarship value. Please refer to the table below for more information.
 
-|Type of Scholarship|Institute of Technical Education|Polytechnic|
-|-------------------|--------------------------------|-----------|
-|Year 1 (Full-Term)|2 years|3 years|
-|Year 2 (Mid-Term)|2 years|2 years|
-|Year 3 (Mid-Term)|2 years (if applicable)|2 years|
+|Type of Scholarship|Polytechnic|
+|-------------------|-----------|
+|Year 1 (Full-Term)|3 years|
+|Year 2 (Mid-Term)|2 years|
+|Year 3 (Mid-Term)|2 years|
 
 ### Frequently Asked Questions
-<a href="/files/scholarships-awards/students/eis/eis_faqs_dec_2021.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
+<a href="/files/scholarships-awards/students/eis/EIS_FAQs_2024_Finalv01.pdf" target="_blank">Click here to see a list of frequently asked questions.</a> 
 
 <a id="NearHyperLinkLoginSingPass"></a>
 <div style="margin:auto; border: 4px solid; border-radius: 25px; padding: 20px 20px; border-color:#4EC4DD">
