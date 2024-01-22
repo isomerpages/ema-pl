@@ -16,9 +16,9 @@ sections:
             - title: "Clean Energy Sector"
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
-            - title: "Singapore Energy Grand Challenge (Youth) 2023"
-              description: "Registration for the Junior/Senior are closed. Winners will be contacted by end September 2023." 
-              url: /events/segc-youth/overview
+            - title: "Energy-Industry Scholarship"
+              description: " Applications for the Energy-Industry Scholarship is open from 16 January 2024 to 30 April 2024." 
+              url: /scholarships-awards/students/eis/
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
               url: /energy-education-resources/video-library
