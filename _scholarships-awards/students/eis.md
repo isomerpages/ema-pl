@@ -58,7 +58,7 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.slng.com.sg/" target="_blank">
-            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/SLNG_logo_v2.png" style="width: 250px; height: 120px;">
+            <img alt="Singapore LNG Corporation" src="/images/common/partner-logos/SLNG_logo_v2.JPG" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
