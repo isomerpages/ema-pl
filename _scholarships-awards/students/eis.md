@@ -131,7 +131,7 @@ Scholars will be bonded to their respective sponsoring organisations upon comple
         <strong>
            Applications for the Energy-Industry Scholarship is open from 16 January 2024 to 30 April 2024.
             <br>
-            <a href="[EMA | Energy-Industry Scholarship (EIS) Portal (poweringlives.gov.sg)](https://apply.poweringlives.gov.sg/)" target="_blank">Please submit your application in the EIS Portal</a>.
+            <a href="https://apply.poweringlives.gov.sg/" target="_blank">Please submit your application in the EIS Portal</a>.
             <br>
         </strong>
 </div>
