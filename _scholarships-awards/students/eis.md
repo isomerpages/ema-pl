@@ -32,11 +32,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
 ### Sponsoring Organisations
 <div style="width: 100%; overflow: hidden; text-align: center;">
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="https://www.eigen.energy/" target="_blank">
-            <img alt="Eigen Energy" src="/images/common/partner-logos/eigen_energy.jpg" style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
-        </a>
-    </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.kepinfra.com/en/" target="_blank">
             <img alt="KMC" src="/images/common/partner-logos/kmc.png" style="min-width: 250px; min-height: 120px; width: 250px; height: 120px;">
         </a>
@@ -64,11 +59,6 @@ Students who will be / currently pursuing relevant engineering courses at a univ
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
         <a href="https://www.spgroup.com.sg/" target="_blank">
             <img alt="Singapore Power" src="/images/common/partner-logos/sp_group.png" style="width: 250px; height: 120px;">
-        </a>
-    </div>
-    <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
-        <a href="https://www.sunseap.com/SG/" target="_blank">
-            <img alt="Sunseap Group" src="/images/common/partner-logos/edp%20renewables%20logo.png" style="width: 250px; height: 120px;">
         </a>
     </div>
     <div style="display: inline-block; vertical-align: top; text-align: center; width: 270px; margin: auto; margin-bottom: 20px;">
