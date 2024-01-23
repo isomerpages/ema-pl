@@ -1,6 +1,7 @@
 ---
 title: Powering Lives Trails (Experiential Learning Journeys)
 permalink: /programmes/plt/
+published: false
 ---
 ![Experiential Learning Journey (Photograph)](/images/programmes/experiential-learning-journeys/events_sub.jpg)
 
