@@ -17,7 +17,7 @@ sections:
               description: "Find out more about the new and exciting career opportunities in the clean energy sector!" 
               url: /careers/clean-energy-sector
             - title: "Energy-Industry Scholarship"
-              description: " Applications for the Energy-Industry Scholarship is open from 16 January 2024 to 14 May 2024." 
+              description: " Applications for the Energy-Industry Scholarship are closed." 
               url: /scholarships-awards/students/eis/
             - title: "Energy Education Resources"
               description: "Looking for energy related resources for the classroom? Check out our resources page!"
