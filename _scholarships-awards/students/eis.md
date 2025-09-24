@@ -1,6 +1,7 @@
 ---
 title: Energy-Industry Scholarship (EIS)
 permalink: /scholarships-awards/students/eis/
+published: false
 third_nav_title: Students
 variant: markdown
 ---
