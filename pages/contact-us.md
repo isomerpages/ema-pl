@@ -6,8 +6,8 @@ agency_name: Powering Lives
 locations:
   - title: Mailing Address
     address:
-        - "991G Alexandra Road #01-29"
-        - "Singapore 119975"
+        - "1 Pasir Panjang Road, #23-01, Labrador Tower"
+        - "Singapore 118479"
     operating_hours:
       - days: Mon - Thu
         time: 8.30am - 6.00pm
